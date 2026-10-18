@@ -1284,7 +1284,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduofns.jpg?v=1792329453265",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvduoldb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "rooftop, school rooftop, alleyway, back alley, street, twilight, sunset, orange sky, graffiti, urban, gritty, cinematic lighting, dramatic shadows\nadhesive bandage on cheek, bandage on face, high school uniform, japanese school uniform, modified uniform, gakuran, loose clothing, messy uniform, unbuttoned shirt, loose necktie, black necktie, undershirt visible, rolled sleeves, slouching, school bag over one shoulder,"
+    }
+   ],
+   "img": "img/comp/mvduoldb.jpg?v=1792329460613",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792329453726
+ "updatedAt": 1792329461070
 };

@@ -6510,7 +6510,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz41ew.jpg?v=1792336899583",
    "pos": "50.0% 40.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz483i",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "crop off-shoulder blouse, light pink micro short sleeves, ruffled top, light blue and white ruffled mini skirt, layered skirt, multiple belts, bow on skirt, white frill hem, white arm warmers, fur trim on wrist, pom pom on wrist, frilled leg strap, white loose socks, sneakers, light grey newsboy cap with pink belt, {small pink star-shaped hip sack},"
+    }
+   ],
+   "img": "img/look/mvdz483i.jpg?v=1792336908096",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336900041
+ "updatedAt": 1792336908545
 };

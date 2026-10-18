@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prompt Archive</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root{--ink:#2a2a2a;--line:#d9d9d9}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Pretendard Variable',system-ui,sans-serif;color:var(--ink);background:linear-gradient(180deg,#f4f4f4 0%,#fff 60%);min-height:100vh;display:flex;justify-content:center;padding:70px 0}
+button,input,textarea{font:inherit;color:inherit}button{background:none;border:0;cursor:pointer}
+main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1040px,calc(100vw - 148px))}
+.pg-title{font-size:38px;font-weight:800;letter-spacing:-.02em;line-height:1.1}
+.pg-sub{font-size:8px;letter-spacing:.3em;color:#888;margin-top:10px}
+.av{width:112px;height:112px;margin-top:30px;border-radius:50%;border:4px solid #fff;box-shadow:0 0 0 1px #ddd,0 8px 20px -8px rgba(0,0,0,.28);background:#e4e4e4;overflow:hidden}
+.av img{width:100%;height:100%;object-fit:cover}
+.nm{font-size:22px;font-weight:800;letter-spacing:-.02em;margin-top:16px}
+.hd{font-size:8px;letter-spacing:.3em;color:#888;margin-top:6px}
+.bar{display:flex;align-items:flex-end;justify-content:space-between;height:62px}
+.tabs{display:flex;align-items:flex-end}
+.tab{position:relative;height:36px;padding:0 18px 3px;font-size:11px;font-weight:700;color:#777;display:flex;align-items:center}
+.tab:hover{color:#222}
+.tab.on{height:40px;margin-bottom:-1px;background:#fff;color:#111;border-radius:16px 16px 0 0;padding-bottom:6px}
+.tab.on::after{content:"";position:absolute;left:50%;bottom:5px;width:3px;height:3px;margin-left:-1.5px;border-radius:50%;background:#222}
+.tab.on i{position:absolute;bottom:0;width:16px;height:16px}
+.tab.on i.l{left:-16px;background:radial-gradient(circle at 0 0,transparent 16px,#fff 16.5px)}
+.tab.on i.r{right:-16px;background:radial-gradient(circle at 100% 0,transparent 16px,#fff 16.5px)}
+.tab.on:first-child i.l{display:none}
+.cnt{margin-bottom:6px;display:flex;align-items:baseline;gap:5px}
+.cnt b{font-size:40px;font-weight:800;letter-spacing:-.03em;line-height:1}
+.cnt small{font-size:9px;font-weight:700;letter-spacing:.15em;color:#777}
+.card{display:flex;flex-direction:column;background:#fff;border-radius:24px;overflow:hidden;height:clamp(380px,calc(100vh - 300px),700px);box-shadow:0 26px 40px -20px rgba(0,0,0,.22),0 2px 10px rgba(0,0,0,.04)}
+.card.f1{border-top-left-radius:0}
+.body{flex:1;min-height:0;overflow-y:auto;padding:22px 26px 26px 24px;scrollbar-width:thin;scrollbar-color:#cfcfcf transparent}
+.sh{display:flex;align-items:center;gap:10px}
+.sh em{font-style:normal;background:#2a2a2a;color:#fff;font-size:8.5px;font-weight:700;border-radius:10px;height:19px;padding:0 8px;display:grid;place-items:center}
+.sh h3{font-size:16px;font-weight:800;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.sh i{flex:1;border-top:1px solid #ddd}
+.sh span{font-size:8px;font-weight:600;letter-spacing:.3em;color:#777;white-space:nowrap}
+.it{margin-bottom:26px}
+.it img{display:block;width:100%;max-height:220px;object-fit:cover;border-radius:14px;margin:14px 0 0 33px;width:calc(100% - 33px)}
+.tx{margin:14px 0 0 33px;padding:14px 16px;background:#2a2a2a;color:#eee;border-radius:16px;font-size:11.5px;line-height:1.65;white-space:pre-wrap;word-break:break-word}
+.ft{display:flex;align-items:center;gap:6px;margin:10px 0 0 33px;flex-wrap:wrap}
+.tg{font-size:8.5px;font-weight:700;letter-spacing:.08em;padding:3px 8px;border-radius:10px;border:1px solid #ccc;color:#888}
+.cp{margin-left:auto;height:24px;padding:0 12px;border:1px solid #ddd;border-radius:12px;font-size:9px;font-weight:700;color:#555}
+.cp:hover{border-color:#2a2a2a;color:#111}
+.empty{font-size:11px;color:#aaa;padding:30px 0;text-align:center}
+@media (max-width:1000px){
+  body{padding:30px 0}main{grid-template-columns:1fr;gap:26px;width:calc(100vw - 32px)}
+  .card{height:auto}.body{overflow:visible}.sh i{display:none}
+  .tx,.ft,.it img{margin-left:0;width:100%}.pg-title{font-size:32px}
+}
+.sr{display:flex;align-items:center;gap:10px;padding:16px 24px 0}
+.sr input{flex:1;min-width:0;height:30px;border:1px solid #ddd;border-radius:15px;padding:0 14px;font-size:11px;background:#fafafa;outline:0}
+.sr input:focus{border-color:#2a2a2a}
+.sr small{font-size:8px;font-weight:700;letter-spacing:.2em;color:#888;white-space:nowrap}
+.gd{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:12px}
+.tl{position:relative;aspect-ratio:3/4;border-radius:14px;overflow:hidden;background:#ececec;cursor:pointer;border:1px solid #e6e6e6;transition:transform .15s,border-color .15s}
+.tl:hover{transform:translateY(-2px);border-color:#2a2a2a}
+.tl img{width:100%;height:100%;object-fit:cover;display:block}
+.tl .no{position:absolute;inset:0;display:grid;place-items:center;font-size:8px;letter-spacing:.2em;color:#bbb}
+.tl .lb{position:absolute;left:0;right:0;bottom:0;padding:18px 8px 7px;background:linear-gradient(transparent,rgba(0,0,0,.6));color:#fff;font-size:9.5px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tl .ok{position:absolute;inset:0;display:none;place-items:center;background:rgba(42,42,42,.78);color:#fff;font-size:11px;font-weight:700}
+.tl.done .ok{display:grid}
+.heart{position:fixed;top:22px;right:38px;font-size:15px;color:#b9b9b9;text-decoration:none;display:none}.heart.on{display:block}.heart:hover{color:#666}
+.pgn{display:flex;justify-content:center;align-items:center;gap:4px;margin:22px 0 4px}
+.pgn button{min-width:26px;height:26px;padding:0 6px;border-radius:13px;font-size:10px;font-weight:700;color:#777}
+.pgn button:hover:not(:disabled){background:#f0f0f0;color:#111}.pgn button.on{background:#2a2a2a;color:#fff}.pgn button:disabled{opacity:.25;cursor:default}
+.ab{margin:14px 0 0 33px;font-size:12px;line-height:1.85;color:#444;white-space:pre-wrap;word-break:break-word}
+.st{display:flex;margin:22px 0 0 33px}.st div{padding:0 26px;border-left:1px solid #ddd}.st div:first-child{padding-left:0;border:0}
+.st small{display:block;font-size:8px;font-weight:700;letter-spacing:.2em;color:#777}.st b{display:block;font-size:20px;font-weight:800;margin-top:3px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:16px 0 0 33px}
+@media (max-width:1000px){.ab,.st,.chips{margin-left:0}.heart{right:20px}}
+</style>
+</head>
+<body>
+<a class="heart" id="heart" href="admin.html" aria-label="admin">♡</a>
+<main>
+  <aside>
+    <h1 class="pg-title" id="title"></h1>
+    <p class="pg-sub" id="sub"></p>
+    <div class="av" id="av"></div>
+    <div class="nm" id="nm"></div>
+    <div class="hd" id="hd"></div>
+  </aside>
+  <section>
+    <div class="bar"><div class="tabs" id="tabs"></div><div class="cnt"><b id="cur">01</b><small id="tot"></small></div></div>
+    <div class="card" id="card"><div class="sr"><input id="q" placeholder="이름·코드 검색"><small id="rc"></small></div><div class="body" id="body"></div></div>
+  </section>
+</main>
+
+<script src="prompts-data.js"></script>
+<script>
+const $ = s => document.querySelector(s), pad = n => String(n).padStart(2,'0');
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const D = window.PROMPT_DATA || {}, ITEMS = D.items || [];
+const P = Object.assign({title:'Prompt\nArchive',sub:'AI IMAGE PROMPTS',name:'',handle:'',avatar:'',text:'',tags:[]}, D.profile || {});
+const TABS = [{k:'intro',label:'소개'},{k:'comp',label:'구도',grid:1},{k:'look',label:'룩',grid:1},{k:'base',label:'기본 프롬프트'}];
+let T = 0, Q = '', PG = 1;
+$('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
+$('#sub').textContent = P.sub; $('#nm').textContent = P.name; $('#hd').textContent = P.handle;
+if (P.avatar) $('#av').innerHTML = `<img src="${esc(P.avatar)}" alt="">`;
+document.title = P.title.replace('\n',' ');
+if (localStorage.getItem('pa_owner')) $('#heart').classList.add('on');
+
+function pager(pg, pages){
+  if (pages < 2) return '';
+  const s = Math.max(1, Math.min(pg-2, pages-4)), e = Math.min(pages, s+4), n = [];
+  for (let i=s;i<=e;i++) n.push(`<button data-p="${i}" class="${i===pg?'on':''}">${i}</button>`);
+  return `<div class="pgn"><button data-p="1" ${pg<2?'disabled':''}>«</button><button data-p="${pg-1}" ${pg<2?'disabled':''}>‹</button>${n.join('')}<button data-p="${pg+1}" ${pg>=pages?'disabled':''}>›</button><button data-p="${pages}" ${pg>=pages?'disabled':''}>»</button></div>`;
+}
+function render(){
+  $('#tabs').innerHTML = TABS.map((t,i)=>`<button class="tab${i===T?' on':''}" data-t="${i}">${esc(t.label)}${i===T?'<i class="l"></i><i class="r"></i>':''}</button>`).join('');
+  $('#cur').textContent = pad(T+1); $('#tot').textContent = '/ ' + pad(TABS.length);
+  $('#card').classList.toggle('f1', T===0);
+  const t = TABS[T], intro = t.k === 'intro';
+  $('.sr').style.display = intro ? 'none' : 'flex';
+  if (intro){
+    const c = k => ITEMS.filter(i=>i.tab===k).length;
+    $('#body').innerHTML = `<div class="sh"><em>01</em><h3>ABOUT</h3><i></i><span>INTRO</span></div>
+      <div class="ab">${esc(P.text || '소개글을 관리자 페이지에서 적어 주세요.')}</div>
+      <div class="st"><div><small>구도</small><b>${c('comp')}</b></div><div><small>룩</small><b>${c('look')}</b></div><div><small>기본</small><b>${c('base')}</b></div></div>
+      ${(P.tags||[]).length ? `<div class="chips">${P.tags.map(g=>`<span class="tg">${esc(g)}</span>`).join('')}</div>` : ''}`;
+    return;
+  }
+  const q = Q.toLowerCase(), all = ITEMS.filter(i=>i.tab===t.k);
+  const list = all.filter(p => !q || (p.name+' '+p.code).toLowerCase().includes(q));
+  const size = t.grid ? 24 : 8, pages = Math.max(1, Math.ceil(list.length/size));
+  PG = Math.min(PG, pages);
+  const cur = list.slice((PG-1)*size, PG*size);
+  $('#rc').textContent = list.length + ' / ' + all.length;
+  $('#body').innerHTML = !list.length ? '<div class="empty">'+(all.length?'검색 결과가 없어요':'아직 올린 프롬프트가 없어요')+'</div>'
+  : (t.grid
+    ? `<div class="gd">${cur.map(p=>`<div class="tl" data-id="${esc(p.id)}" title="${esc(p.name)}">${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="lb">${esc(p.name)}</div><div class="ok">복사됨 ✓</div></div>`).join('')}</div>`
+    : cur.map((p,n)=>`<div class="it"><div class="sh"><em>${pad((PG-1)*size+n+1)}</em><h3>${esc(p.name)}</h3><i></i><span>${esc(t.label)}</span></div>
+        ${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy">`:''}<div class="tx">${esc(p.code)}</div>
+        <div class="ft"><button class="cp" data-id="${esc(p.id)}">복사</button></div></div>`).join('')) + pager(PG, pages);
+}
+async function copy(txt){
+  try{ await navigator.clipboard.writeText(txt); }catch(x){ const a=document.createElement('textarea'); a.value=txt; document.body.appendChild(a); a.select(); try{document.execCommand('copy')}catch(y){} a.remove(); }
+}
+$('#tabs').onclick = e => { const b = e.target.closest('[data-t]'); if(!b) return; T = +b.dataset.t; Q = ''; PG = 1; $('#q').value = ''; render(); $('#body').scrollTop = 0; };
+$('#q').oninput = e => { Q = e.target.value.trim(); PG = 1; render(); };
+$('#body').onclick = async e => {
+  const p = e.target.closest('[data-p]');
+  if (p && !p.disabled){ PG = +p.dataset.p; render(); $('#body').scrollTop = 0; window.scrollTo(0,0); return; }
+  const el = e.target.closest('.tl,.cp'); if(!el) return;
+  const it = ITEMS.find(x => x.id === el.dataset.id); if(!it) return;
+  await copy(it.code);
+  if (el.classList.contains('tl')){ el.classList.add('done'); setTimeout(()=>el.classList.remove('done'), 900); }
+  else { const o = el.textContent; el.textContent = '복사됨 ✓'; setTimeout(()=>el.textContent = o, 1200); }
+};
+render();
+</script>
+</body>
+</html>

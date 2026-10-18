@@ -4821,7 +4821,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxe3uo.jpg?v=1792334010313",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdxek80",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "elaborate black ceremonial robe, high collar, layered black silk, tarnished-gold embroidery, deep red piping, wide sleeves, (black ribbon tied around the neck), asymmetrical antique-gold hair ornaments behind one ear, aged-gold filigree, deep-red silk cords woven through the hair, weathered gold talisman strips, small metal charms and pale jade pendants, waist-up, extreme three-quarter side profile, head tilted slightly upward, one hand holding a closed black folding fan with antique-gold details, the tip of the fan resting lightly just below the corner of the lips, half-lidded gaze, strong crimson background, pale warm light, deep shadows, black, crimson and tarnished-gold color palette, \nlarge abstract [fox] linework behind the character, elegant flowing tarnished-gold brush lines, traditional East Asian ink illustration, partially hidden by the figure, flat decorative motif on the crimson background"
+    }
+   ],
+   "img": "img/comp/mvdxek80.jpg?v=1792334031216",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792334010769
+ "updatedAt": 1792334031851
 };

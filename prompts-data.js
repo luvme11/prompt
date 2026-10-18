@@ -8064,7 +8064,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve30cn2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::film photography::, 1.2::grainy texture::, 1.2::flash photography::, 1.3::night::, 1.2::dark background::, 1.2::city lights::, 1.2::tokyo tower::, bokeh, 1.3::crouching::, 1.2::squatting::, 1.2::finger on lips::, hand near face, 1.2::looking away::, 1.2::head tilt::, 1.3::navy sweatshirt::, 1.2::oversized sweatshirt::, 1.2::baggy jeans::, 1.2::bucket hat::, 1.1::navy hat::, 1.2::casual streetwear::, outdoors, park, 1.2::low angle::, 1.2::candid::, amateur photography, 1.2::underexposed::, moody,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792343427948
+ "updatedAt": 1792343444684
 };

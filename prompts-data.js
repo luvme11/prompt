@@ -6748,7 +6748,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz7wi5.jpg?v=1792337079663",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz84ka",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "bunny girl, 1.5::tuxedo,  sheer skirt, shiny fabric,::, halterneck, white shirt bib, pleated bodice, black bowtie, 1.2::detached cuffs, coat tails, ::, black dress, flared skirt, mini skirt, bunny ears, fake tail, bow, high heels,"
+    }
+   ],
+   "img": "img/look/mvdz84ka.jpg?v=1792337090192",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337080447
+ "updatedAt": 1792337090660
 };

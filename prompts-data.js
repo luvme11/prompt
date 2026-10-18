@@ -3229,7 +3229,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw6u9r.jpg?v=1792331991640",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdw70ne",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "first-person POV from the driver's seat, POV from inside the driver's seat of a car, looking toward the passenger seat, the passenger sitting beside the driver, the driver's hand reaching into the frame and gently touching the passenger's cheek, driver's hand clearly visible in the foreground, fingers softly resting against the passenger's cheek, intimate close interaction between two people, passenger looking directly toward the camera, natural surprised and slightly shy expression, close-up to medium shot, passenger's upper body and thighs partially visible, slightly angled composition, realistic perspective from the driver's eye level,\n\npassenger seat clearly visible, dark car interior, car door and side window beside the passenger, nighttime city scenery outside the window, blurred street lights and illuminated signs, subtle reflections on the window, realistic low-light atmosphere, intimate nighttime car scene, candid photography, natural perspective, shallow depth of field,\n\ngirly fashion, feminine fashion, randomly styled girly outfit, outfit naturally adapted to the character's appearance and personality, character-dependent fashion styling, character-dependent color palette, varied feminine silhouettes, playful girly styling, cute romantic aesthetic, randomly selected clothing combinations, varied fashion details, delicate feminine accessories, coordinated girly styling,"
+    }
+   ],
+   "img": "img/comp/mvdw70ne.jpg?v=1792331999734",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792331992082
+ "updatedAt": 1792332000509
 };

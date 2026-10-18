@@ -4955,7 +4955,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxie7p.jpg?v=1792334210516",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdxikit",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, mature female, office lady, long hair, half-updo, white collared shirt, open shirt, 1.3::unbuttoned to chest::, \n1.2::black lace bra::, cleavage, black necktie loosened, black pencil skirt, miniskirt, 1.2::crossed legs::,  black pantyhose, black high heels, stiletto heels, sitting, office chair, leaning back, 1.3::holding telephone::, telephone receiver, phone cord, landline phone, looking at view, office desk, window blinds, dim lighting, evening, indoors, \ncowboy shot, from side, dutch angle, low angle\ndepth of field, cinematic lighting,"
+    }
+   ],
+   "img": "img/comp/mvdxikit.jpg?v=1792334218188",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792334210989
+ "updatedAt": 1792334218639
 };

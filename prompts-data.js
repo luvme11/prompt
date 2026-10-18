@@ -5286,7 +5286,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxqpdd.jpg?v=1792334597982",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdxqvzb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "5::strict side profile, full body::,\n\n5::kneeling on a soft bed, hips raised high::,\n5::chest lowered close to the mattress::,\n4::both arms stretched far forward::,\npalms resting on the bed,\n\n5::head lifted, chin slightly raised::,\nlooking forward with half-lidded eyes,\narched back, relaxed stretching pose,\n\nlanguid expression, faint seductive smile,\noversized white off-shoulder shirt,\nloose neckline, exposed collarbones,\nsoft black satin shorts,\ndelicate lace trim, slightly tousled hair,\n\nluxurious dim bedroom,\nrumpled white silk bedding,\nwarm bedside lamp, sheer curtains,\nsoft golden evening light,\n\nintimate, languid, subtly sensual,\ncinematic lighting, soft shadows,\n\n-5::head lowered, face buried in bed, forehead touching mattress, front view, standing, sitting upright::"
+    }
+   ],
+   "img": "img/comp/mvdxqvzb.jpg?v=1792334606696",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792334598891
+ "updatedAt": 1792334607148
 };

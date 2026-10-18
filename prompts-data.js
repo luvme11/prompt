@@ -3559,7 +3559,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwh1sx.jpg?v=1792332468577",
    "pos": "50.0% 60.0%"
+  },
+  {
+   "id": "mvdwhf7f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "sunny beach, shallow water, seashells, starfish, pastel sky, sea foam, sparkles, soft lighting, standing, cowboy shot, hand on hip, other hand behind head, head tilt, looking at viewer, smile, wind lift,"
+    },
+    {
+     "label": "의상",
+     "text": "pink and white mesh crop top, tied hem, sheer pink shawl, ribbon shoulder tie, starfish and shell ornaments, layered pink bikini top, pearl necklace, denim micro shorts, pink lace frill trim, ribbon belt, yellow bow,"
+    }
+   ],
+   "img": "img/comp/mvdwhf7f.jpg?v=1792332485360",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792332469519
+ "updatedAt": 1792332485947
 };

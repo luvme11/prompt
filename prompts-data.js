@@ -8106,7 +8106,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve31xyt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo,\npouting lips, cheeky expression, looking at viewer,\nstanding, cowboy shot, thigh-up, slight body turn,\nlayered outfit, blokecore inspired street fashion,\noversized football jersey layered over a fitted long-sleeve inner top,\nsporty number print jersey, navy and white color scheme,\nwhite ruffled mini skirt peeking underneath,\nash grey wide-leg sweatpants layered under skirt, loose athletic pants,\nsport socks visible, sporty casual styling, tomboyish but cute silhouette,outdoors, city sidewalk, urban street, natural daylight, cloudy sky,\ncasual snapshot, street fashion photography, sporty cool mood"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792343481003
+ "updatedAt": 1792343519012
 };

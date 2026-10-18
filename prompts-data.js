@@ -6048,7 +6048,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyri3l.jpg?v=1792336314644",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyro2s",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "steampunk, dark green coat, long coat, double-breasted, high collar, military uniform,\nworn clothes, dirty clothes,\nbrown gloves, leather gloves,\nbrown pants, jodhpurs, cargo pants, belt pouch,\nknee boots, black boots, \na weathered olive-green double-breasted field coat with a standing collar,\nbrown breeches with bellows pockets tapering into tall worn leather boots"
+    }
+   ],
+   "img": "img/look/mvdyro2s.jpg?v=1792336322325",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336315114
+ "updatedAt": 1792336322955
 };

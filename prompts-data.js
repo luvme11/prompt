@@ -1739,7 +1739,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv4tv0.jpg?v=1792330218198",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdv507u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, sitting on vehicle, leaning forward, arched back, open mouth, blush, hair ornament, headset, jacket, red jacket, crop top, long sleeves, cleavage, bare midriff, navel, patch, german flag, gloves, red gloves, panties, black panties, exposed panties, thigh boots, red footwear, zipper, high heels, motorcycle, vehicle, motor vehicle, decals, text, english text, typography, checkered background, abstract background, yellow background, poster (object),"
+    }
+   ],
+   "img": "img/comp/mvdv507u.jpg?v=1792330226261",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792330218667
+ "updatedAt": 1792330226698
 };

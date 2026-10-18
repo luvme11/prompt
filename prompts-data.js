@@ -2844,7 +2844,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvvvlq.jpg?v=1792331480044",
    "pos": "33.1% 50.0%"
+  },
+  {
+   "id": "mvdvzpb6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, lying, on stomach, arm support, head rest, hand on own chin, legs up, bent knees, feet up, looking at viewer, open mouth, smile, fang, blush, halo, mummy costume, bandages, head bandage, bandaged arms, bandaged hands, bandaged legs, bare shoulders, cleavage, underboob, midriff, navel, barefoot, soles, toes, halloween, jack-o'-lantern, pumpkins, candles, star (symbol), purple background,"
+    }
+   ],
+   "img": "img/comp/mvdvzpb6.jpg?v=1792331658386",
+   "pos": "19.5% 50.0%"
   }
  ],
- "updatedAt": 1792331480806
+ "updatedAt": 1792331658864
 };

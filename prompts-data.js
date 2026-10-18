@@ -6006,7 +6006,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdynruk.jpg?v=1792336140591",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyr65n",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red beret, red hat, red dress, pinafore dress, layered skirt, tiered skirt, puffy skirt, frilled skirt, pink frills, pink trim, white lace, puffy sleeves, short sleeves, white elbow gloves, very large red bow on back, back bow, white feathered wings, angel wings, white socks, frilled socks, red mary janes, frills, ruffles,"
+    }
+   ],
+   "img": "img/look/mvdyr65n.jpg?v=1792336299293",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336141211
+ "updatedAt": 1792336299798
 };

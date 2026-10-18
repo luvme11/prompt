@@ -8061,7 +8061,7 @@ window.PROMPT_DATA = {
      "text": "strappy black harness lingerie with almost no coverage, thin glossy straps framing the body, shiny wet-look stockings with garter clips, high-gloss patent material, extremely provocative kneeling pose on a velvet bed, back arched, hands on thighs, looking over the shoulder, dark luxury bedroom, low key lighting, fabric and leather shine, fetish-fashion editorial, detailed texture"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve2zzm7.jpg?v=1792343573879",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8122,5 +8122,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792343557116
+ "updatedAt": 1792343574344
 };

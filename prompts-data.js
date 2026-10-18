@@ -415,7 +415,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtqvuy.jpg?v=1792327887968",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdtrary",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "christmas theme, warm festive atmosphere, cozy indoor scene, decorated christmas tree with red ribbons and ornaments, surrounded by gift boxes and teddy bears, red and gold color palette, soft warm lighting, cinematic composition, sitting pose on the floor in front of the christmas tree, one hand gently touching lips, legs crossed elegantly, head slightly tilted, intimate and dreamy christmas mood, warm wooden floor, soft bokeh background"
+    },
+    {
+     "label": "의상",
+     "text": "red santa dress with white fur trim, strapless design, lace-up corset front, fluffy white wrist cuffs, red ribbon headband, black mary jane shoes, white ankle socks"
+    }
+   ],
+   "img": "img/comp/mvdtrary.jpg?v=1792327907252",
+   "pos": "50.0% 6.0%"
   }
  ],
- "updatedAt": 1792327888409
+ "updatedAt": 1792327907691
 };

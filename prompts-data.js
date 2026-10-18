@@ -5403,7 +5403,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxu8qo.jpg?v=1792334763168",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdxufmz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1 adult, formal Korean police dress uniform, 2::peaked police cap::, polished silver insignia, white gloves, standing upright at a police appointment ceremony, 3::right hand raised in a precise military salute::, solemn confident expression, low-angle, flag waving behind, grand ceremonial courtyard, clear blue sky, bright natural daylight, cinematic composition, slightly side angle, windy day, beautiful lighting,"
+    }
+   ],
+   "img": "img/comp/mvdxufmz.jpg?v=1792334771926",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792334763645
+ "updatedAt": 1792334772391
 };

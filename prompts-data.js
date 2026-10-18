@@ -2220,7 +2220,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvii0o.jpg?v=1792330855898",
    "pos": "70.7% 50.0%"
+  },
+  {
+   "id": "mvdvj1af",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, three-quarter view, standing, looking at viewer, light smile, head tilt, shoulder bag, holding strap, pink cardigan, open cardigan, white dress shirt, polka dot bowtie, grey pleated skirt, white thighhighs, loafers, cat hair ornament, classroom, indoors, window, sunlight, cherry blossoms, falling petals, wooden floor, pastel colors, soft lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvj1af.jpg?v=1792330880814",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792330856326
+ "updatedAt": 1792330881255
 };

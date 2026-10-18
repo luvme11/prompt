@@ -6916,7 +6916,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzup9u.jpg?v=1792338143623",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzuvjg",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "off shoulder dress, long sleeves, flared sleeves, black dress, white trim, cross necklace, long necklace, leg strap, garter, chunky boots,"
+    }
+   ],
+   "img": "img/look/mvdzuvjg.jpg?v=1792338151699",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338144386
+ "updatedAt": 1792338152310
 };

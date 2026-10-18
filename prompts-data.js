@@ -4756,7 +4756,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxcm4e.jpg?v=1792333940451",
    "pos": "50.0% 6.0%"
+  },
+  {
+   "id": "mvdxd0nb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, anime style, early 2000s y2k aesthetic, cohesive composition, lying on her stomach, propped on elbows, close-up shot, face near camera, low angle perspective, intimate framing, looking directly at viewer, wearing baby tee and low-rise jeans, colorful pixel sunglasses resting on head, holding a compact digital camera near the lens, camera partially visible in foreground, overexposed flash lighting, strong direct flash, soft blown-out highlights on skin, pixel hearts, sparkles, retro UI overlays, y2k interface frame, camcorder screen elements, cute icons, pastel color palette, soft pink and blue tones, nostalgic, dreamy, slightly glossy rendering, high detail, consistent style,"
+    }
+   ],
+   "img": "img/comp/mvdxd0nb.jpg?v=1792333959279",
+   "pos": "34.2% 50.0%"
   }
  ],
- "updatedAt": 1792333940931
+ "updatedAt": 1792333959890
 };

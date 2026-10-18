@@ -7924,7 +7924,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0ko6t.jpg?v=1792339355539",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0kug7",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink short-sleeved zip-up hoodie, white lace-up side detail, light blue tiered ruffled mini skirt, white lace trim, white detached long sleeves, light blue ribbon ties, striped leg warmer on right leg, white slouchy leg warmer with blue ribbon on left leg, white sheep-shaped plush slippers, white head scarf with blue polka dot, blue ribbons, heart-shaped choker, heart-shaped handbag"
+    }
+   ],
+   "img": "img/look/mve0kug7.jpg?v=1792339363237",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339356022
+ "updatedAt": 1792339363696
 };

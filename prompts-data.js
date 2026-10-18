@@ -6524,7 +6524,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz483i.jpg?v=1792336908096",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz4eip",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{pale_pink_leopard_print_hoodie}, white_fur_trim, fluffy, open_jacket, black_lace_choker, ribbon_choker, cross_necklace, pearl_necklace, {black laced top}, {vivid_pink_floral_corset}, strapless_top, sweetheart_neckline, {multiple_belts}, uneven belsts, studded_belt, rhinestone_buckle, pink_leather_belt, white_mini_skirt, frilled_tiered_skirt, black floral laced thighhighs, garter straps, platform boots,"
+    }
+   ],
+   "img": "img/look/mvdz4eip.jpg?v=1792336916444",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336908545
+ "updatedAt": 1792336916895
 };

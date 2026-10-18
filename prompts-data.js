@@ -2337,7 +2337,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvn513.jpg?v=1792331072311",
    "pos": "52.7% 50.0%"
+  },
+  {
+   "id": "mvdvnb2t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pov, from above, lying on stomach, propped up on elbows, hand on own cheek, on bed, looking up, looking at viewer, smile, blush, cleavage, duvet, messy bed, bedroom, cozy, cluttered room,"
+    }
+   ],
+   "img": "img/comp/mvdvnb2t.jpg?v=1792331080214",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792331072754
+ "updatedAt": 1792331080651
 };

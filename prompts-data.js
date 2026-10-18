@@ -7728,7 +7728,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0eqc4.jpg?v=1792339078344",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0ewyx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "brown beret, peony print, ivory yukata, brown obi, obidome, -1::hakama::, 2::black lace, lace-trimmed kimono::, dark red gloves, white high heel boots, ankle boots,"
+    }
+   ],
+   "img": "img/look/mve0ewyx.jpg?v=1792339086515",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339078948
+ "updatedAt": 1792339087149
 };

@@ -4132,7 +4132,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwx7u1.jpg?v=1792333222144",
    "pos": "72.9% 50.0%"
+  },
+  {
+   "id": "mvdwxff7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, extremely detailed, elaborate halloween character illustration, gothic bat fantasy, intricate visual storytelling, rich layered composition, foreground middle ground and background, dramatic moonlit atmosphere,\n\ndistinctive large bat ears on top of the head, pointed ears with delicate curved edges, large black bat wings extending from the back, clearly visible wing membranes with intricate branching finger bones, scalloped wing edges, elegant long thin bat tail with a small spade-shaped tip, tiny sharp fangs, delicate clawed fingertips, subtle dark bat markings, small bat-shaped hair ornaments, miniature bats fluttering around the character,\n\nluxurious black and deep burgundy gothic outfit, bat-wing-shaped collar, layered asymmetrical coat tails resembling folded bat wings, intricate lace shaped like bat wing membranes, velvet fabric, ornate silver clasps, garnet gemstones, delicate chains, embroidered bats, dramatic ribbon details, fitted waist, elegant flowing sleeves, elaborate accessories,\n\nperched sideways on the ornate ledge of a towering gothic castle window, one hand gripping the stone ledge, large wings partially spread behind the body, tail curling naturally around the ledge, small bats circling around the character, dynamic silhouette, clearly readable pose,\n\nenormous luminous full moon behind the character, towering gothic spires, intricate cathedral windows, black roses climbing ancient stone walls, distant flying bat silhouettes, drifting feathers, tiny sparkling particles, intricate wrought iron decorations, layered gothic architecture, dramatic moonlight outlining the wings, deep crimson ambient lighting, rich shadows, detailed foreground roses and stone carvings, atmospheric depth, densely detailed background, immersive halloween fantasy world"
+    }
+   ],
+   "img": "img/comp/mvdwxff7.jpg?v=1792333231988",
+   "pos": "50.0% 54.0%"
   }
  ],
- "updatedAt": 1792333222739
+ "updatedAt": 1792333232469
 };

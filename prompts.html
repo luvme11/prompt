@@ -107,7 +107,7 @@ const TABS = [{k:'intro',label:'소개'},{k:'comp',label:'구도',grid:1},{k:'lo
 const codesOf = it => it.codes && it.codes.length ? it.codes : (it.code ? [{label:'',text:it.code}] : []);
 const NUM = {}; ['comp','look','base'].forEach(k => ITEMS.filter(i=>i.tab===k).forEach((p,i) => NUM[p.id] = i+1));
 const nameOf = p => p.name ? hl(p.name) : '#' + NUM[p.id];
-const btnLabel = (c,k,n) => esc(c.label || (n>1 ? '코드 '+(k+1) : '복사'));
+const btnLabel = (c,k,n) => esc(c.label || '♡');
 let T = 0, Q = '', PG = 1;
 $('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
 $('#sub').textContent = P.sub; $('#nm').textContent = P.name; $('#hd').textContent = P.handle;
@@ -116,7 +116,7 @@ document.title = P.title.replace('\n',' ');
 
 function pager(pg, pages){
   if (pages < 2) return '';
-  const s = Math.max(1, Math.min(pg-4, pages-9)), e = Math.min(pages, s+9), n = [];
+  const s = Math.floor((pg-1)/10)*10 + 1, e = Math.min(pages, s+9), n = [];
   for (let i=s;i<=e;i++) n.push(`<button data-p="${i}" class="${i===pg?'on':''}">${i}</button>`);
   return `<div class="pgn"><button data-p="1" ${pg<2?'disabled':''}>«</button><button data-p="${pg-1}" ${pg<2?'disabled':''}>‹</button>${n.join('')}<button data-p="${pg+1}" ${pg>=pages?'disabled':''}>›</button><button data-p="${pages}" ${pg>=pages?'disabled':''}>»</button></div>`;
 }

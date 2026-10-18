@@ -3000,7 +3000,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw1v17.jpg?v=1792331759080",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvdw20ln",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying face down, sprawled on wooden floor, cheek resting on arm, arms stretched forward, relaxed legs, exhausted expression, flushed face, half-closed eyes, sweat, electric fan, blowing hair, heat haze, summer afternoon, engawa, traditional japanese house, tatami room, open veranda, soft sunlight, warm lighting, lazy atmosphere, slice of life"
+    }
+   ],
+   "img": "img/comp/mvdw20ln.jpg?v=1792331766294",
+   "pos": "48.9% 50.0%"
   }
  ],
- "updatedAt": 1792331759520
+ "updatedAt": 1792331767205
 };

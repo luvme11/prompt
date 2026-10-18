@@ -5364,7 +5364,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxruxk.jpg?v=1792334651788",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdxs14k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic waist-up composition, sharp three-quarter angle, head slightly tilted,\n\n3::playful finger-gun gesture lightly pressed against the temple::, index finger extended, thumb raised, other hand loosely gripping the jacket,\n\n3::half-lidded relaxed eyes::, cool mischievous gaze, 4::mouth slightly open in a small natural rounded O shape, caught mid-exclamation as if saying \"BOOM!\"::, relaxed lips, no pout, no puckered or protruding lips,\n\nblack leather jacket, rumpled white dress shirt, loosened thin black tie, black wide-leg trousers, silver rings and waist chain,\n\ndramatic dutch angle, slightly low camera, off-center framing, enormous circular white spotlight behind the head like an iris, deep black surroundings, harsh backlight, distorted shadows, subtle motion blur, surreal playful tension"
+    }
+   ],
+   "img": "img/comp/mvdxs14k.jpg?v=1792334659982",
+   "pos": "50.0% 8.0%"
   }
  ],
- "updatedAt": 1792334652393
+ "updatedAt": 1792334660426
 };

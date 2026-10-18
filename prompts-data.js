@@ -3915,7 +3915,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwpti4.jpg?v=1792332876772",
    "pos": "10.2% 50.0%"
+  },
+  {
+   "id": "mvdwq7op",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "night, city, street, crosswalk, neon lights, street sign, building, full body, dynamic pose, dancing, flowing movement, jumping, one leg up, arms spread wide, looking at viewer, high contrast, dynamic lighting, backlight,"
+    },
+    {
+     "label": "의상",
+     "text": "school uniform, sailor collar, shirt, miniskirt, pleated skirt, flared skirt, pantyhose, loafers,"
+    }
+   ],
+   "img": "img/comp/mvdwq7op.jpg?v=1792332895234",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792332877206
+ "updatedAt": 1792332895675
 };

@@ -5782,7 +5782,21 @@ window.PROMPT_DATA = {
    "img": "img/base/mvdyh9jv.jpg?v=1792335836945",
    "pos": "50% 50%",
    "soon": true
+  },
+  {
+   "id": "mvdykdaf",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cute idol off-duty outfit, Japanese street fashion, oversized black track jacket, bold colorful graphic prints, white fitted top, loose black cargo pants, chunky platform sneakers, oversized shoulder bag, silver chain accessories, playful streetwear, flashy, edgy, trendy, 2000s Japanese street style,"
+    }
+   ],
+   "img": "img/look/mvdykdaf.jpg?v=1792335982120",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792335838165
+ "updatedAt": 1792335982570
 };

@@ -5661,7 +5661,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxzdm4.jpg?v=1792335002515",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdxzkbv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, 3::wide-angle lens::,, 2::from above, high angle::, 2::close-up, upper body::, \n\n3::hand covering half of face::, 2::fingers spread across face, peeking through fingers::, 1.5::one eye hidden behind the hand::, head tilted, detailed hands,\n\n2.5::glaring at camera::, 2::intense stare, narrowed eyes::, looking up at viewer, lips slightly parted, defiant expression, cold attitude,\n\n3::flat solid [색] background::, simple background, plain background, \n\n2::harsh direct flash lighting::, high contrast, deep shadows, skin highlights, edgy fashion editorial mood, grunge, Y2K aesthetic,\n\nbest quality, masterpiece, detailed, dynamic composition, cinematic lighting"
+    }
+   ],
+   "img": "img/comp/mvdxzkbv.jpg?v=1792335011071",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792335003150
+ "updatedAt": 1792335011551
 };

@@ -270,7 +270,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "메인",
      "text": "1.3::red light district::, red Yoshiwara, yukaku, luxury Japanese brothel, ornate wooden interior, red shoji screens, sliding doors, gold leaf folding screens, paper lanterns, warm dim glow, hazy smoke, incense, 2people, couple, straddling, extreme close proximity, highly intimate, sensual, full shot, side-angle view, dramatic shadows, cinematic lighting, moody atmosphere,"
     },
     {
@@ -362,5 +362,5 @@ window.PROMPT_DATA = {
    "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792327779639
+ "updatedAt": 1792327783796
 };

@@ -3508,7 +3508,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwet85.jpg?v=1792332363371",
    "pos": "71.2% 50.0%"
+  },
+  {
+   "id": "mvdwgb6c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "clockwork, giant gears, chains, floating window frame, dark room, dim lighting, 2::floating, marionette strings, puppet pose::, head tilt, arms limp, lifeless, expressionless, blank stare,"
+    },
+    {
+     "label": "의상",
+     "text": "mini top hat, frilled dress, puff sleeves, wide cuffs, layered frill skirt, ribbon brooch,"
+    }
+   ],
+   "img": "img/comp/mvdwgb6c.jpg?v=1792332433327",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792332363967
+ "updatedAt": 1792332434110
 };

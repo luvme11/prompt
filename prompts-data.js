@@ -3839,7 +3839,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwnskj.jpg?v=1792332782314",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdwoduz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "rotary telephone, telephone cord, telephone receiver, flower vase, tulip, spotlight, indoors, upper body, holding telephone receiver, looking at viewer, leaning, head tilt,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "collared shirt, blazer, necktie, pants, belt,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "collared shirt, loose necktie, unbuttoned shirt, pleated skirt, thighhighs, hairpins,"
+    }
+   ],
+   "img": "img/comp/mvdwoduz.jpg?v=1792332810026",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792332783397
+ "updatedAt": 1792332811124
 };

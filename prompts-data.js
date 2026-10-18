@@ -3644,7 +3644,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwipy5.jpg?v=1792332547549",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdwjpp0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "tiled wall, bathroom, bubbles, cowboy shot, side profile, turned looking at viewer, brushing teeth, holding toothbrush,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "white tank top, shorts,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "long white camisole, frills, ruffles, panties,"
+    }
+   ],
+   "img": "img/comp/mvdwjpp0.jpg?v=1792332591915",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792332547996
+ "updatedAt": 1792332592368
 };

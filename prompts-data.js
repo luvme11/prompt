@@ -2298,7 +2298,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvjzoe.jpg?v=1792330925416",
    "pos": "50.0% 40.0%"
+  },
+  {
+   "id": "mvdvk5jy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "3::live streaming, live broadcast, ui::, close-up, three-quarter view, looking at viewer, peace sign, sitting on chair, at desk, computer, social media, heart (symbol), floating, chat, text, profile picture,"
+    }
+   ],
+   "img": "img/comp/mvdvk5jy.jpg?v=1792330932978",
+   "pos": "40.7% 50.0%"
   }
  ],
- "updatedAt": 1792330925847
+ "updatedAt": 1792330933414
 };

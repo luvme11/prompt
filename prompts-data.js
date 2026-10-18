@@ -190,7 +190,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtdeef.jpg?v=1792327258516",
    "pos": "71.3% 50.0%"
+  },
+  {
+   "id": "mvdtdklq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, sitting on crescent moon, crescent, holding staff, hand on own chest, tiara, hair flower, hair ornament, purple flower, wisteria, flower, off-shoulder dress, strapless dress, frilled dress, layered dress, pink bow, elbow gloves, white gloves, white thighhighs, thigh strap, flower on shoes, floating hair, crystal, hanging crystals, gem, beads, chain, ribbon, night, night sky, sparkle, glowing, pastel colors, purple and pink theme, from below, dynamic angle"
+    }
+   ],
+   "img": "img/comp/mvdtdklq.jpg?v=1792327266794",
+   "pos": "26.0% 50.0%"
   }
  ],
- "updatedAt": 1792327258972
+ "updatedAt": 1792327267227
 };

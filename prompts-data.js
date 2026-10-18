@@ -5325,7 +5325,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxr83l.jpg?v=1792334622824",
    "pos": "52.7% 50.0%"
+  },
+  {
+   "id": "mvdxrfut",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, 1.7::dynamic full body shot::, 1.5::dramatic low angle::, 1.5::foreshortening::, 1.8::suspended high in midair::, 1.7::balancing on thin floating threads::, one foot stepping on a taut thread, other leg extended backward, twisting torso, graceful acrobatic pose, wind-swept movement, 1.6::both hands manipulating threads::, fingers spread, thin dark strings wrapped around fingers, 1.8::countless taut threads crisscrossing through the air::, intricate spiderweb-like network, diagonal perspective, sweeping thread arcs, floating fabric, motion trails, 1.7::dark midnight sky::, 1.7::large luminous full moon::, moon behind character, deep navy clouds, silver moonlight, glowing thread highlights, dramatic backlighting, cinematic contrast, 1.6::blood splatters on face::, 1.5::blood streaks on cheeks::, 1.5::blood stains on arms and legs::, 1.6::blood splattered clothing::, crimson blood droplets, 1.7::no visible ground::, sleek black sleeveless combat outfit, deep-V halter tunic, plunging neckline, narrow straps, short fitted bottoms, high-cut hips, wide brown patterned obi sash, geometric embroidery, layered waist wrapping, long fluttering sash tails, black fingerless forearm guards, thin red ribbon headband, small top bow, short sheathed Japanese sword at waist, dark scabbard, red-wrapped handlewrapping, long fluttering sash tails, black fingerless forearm guards, thin red ribbon headband, small top bow, short sheathed Japanese sword at waist, dark scabbard, red-wrapped handle,"
+    }
+   ],
+   "img": "img/comp/mvdxrfut.jpg?v=1792334632173",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792334623727
+ "updatedAt": 1792334632641
 };

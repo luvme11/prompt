@@ -2168,7 +2168,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvht3h.jpg?v=1792330823737",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdvhzig",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cobalt and white theme, painter, cowboy shot, beret, oversized smock, paint stain, palette, brush in hair, pencil earring, canvas bag, suspenders, shorts, paint splattered boots, bracelet, holding paintbrush, painting, side view, art studio, indoor, paint tubes, easel, palette knife, wet canvas, paint trail,"
+    }
+   ],
+   "img": "img/comp/mvdvhzig.jpg?v=1792330831750",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792330824206
+ "updatedAt": 1792330832204
 };

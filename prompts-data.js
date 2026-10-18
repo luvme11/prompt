@@ -521,7 +521,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu0jdm.jpg?v=1792328338332",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdu0xon",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "high-key lighting, clean white background, soft shadow, vibrant red accent color, close-up portrait angle, dramatic fashion photography mood, slightly tilted composition, hands entangled with red string, forming geometric shapes with fingers, one end of the red string held gently by the lips, expressive and dreamy gaze looking off to the side, delicate and stylized posing, subtle tension in the hands,"
+    },
+    {
+     "label": "의상",
+     "text": "white nurse-inspired outfit, red cross emblem on the chest, frilled short sleeves with red trimming, heart-shaped red buttons, pleated apron skirt, matching white nurse cap with red accents, coordinated red ribbon accessories"
+    }
+   ],
+   "img": "img/comp/mvdu0xon.jpg?v=1792328356928",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792328338760
+ "updatedAt": 1792328357365
 };

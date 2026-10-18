@@ -2649,7 +2649,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvskl1.jpg?v=1792331325950",
    "pos": "41.3% 50.0%"
+  },
+  {
+   "id": "mvdvsr4o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying on back, head tilted back, parted lips, eyes closed, arms up, hand on own head, knees up, from above, on bed, bed, white sheets, pillow, indoors, frilled dress, white dress, layered dress, ribbon bow, large bow, ribbon trim, pink ribbon, ribbons, floating ribbons, pink butterflies, falling petals, light particles, sparkles, bokeh, depth of field, lens flare, dreamy, ethereal, soft lighting, pink theme, romantic atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvdvsr4o.jpg?v=1792331334124",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792331326396
+ "updatedAt": 1792331334721
 };

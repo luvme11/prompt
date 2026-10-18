@@ -6706,7 +6706,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz76mw.jpg?v=1792337046412",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz7eej",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "street style, 1.5::duffle coat::, toggle buttons, brown coat, fur hood, fur trim, red beret, plaid skirt, tartan, red skirt, pleated skirt, black thighhighs, fur-trimmed boots, lace-up boots, brown footwear, pom-pom, warm clothes,"
+    }
+   ],
+   "img": "img/look/mvdz7eej.jpg?v=1792337056380",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337046864
+ "updatedAt": 1792337057160
 };

@@ -3423,7 +3423,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwcyfs.jpg?v=1792332276722",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdwdeu1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "3::collage layout::, 2::sticker sheet style::, polaroid frames, torn paper edges, washi tape, doodle borders, speech bubbles, starburst, bold neon text overlay, bubble lettering, japanese text, english headline, y2k magazine cover, scattered stickers, checkered pattern border, holographic elements, city park, cherry blossom trees, vending machines, warm daytime lighting, blue sky, full body, dynamic pose, slight low angle, looking to side, holding flip phone, one hand on hip,"
+    },
+    {
+     "label": "의상",
+     "text": "white crop top, striped long sleeve underneath, denim mini skirt, lace-up front, frilled hem, crossbody bag, heart buckle belt, fishnet socks, leg warmers, platform sandals, pom pom shoes, layered necklaces, heart hair ornament, key charm accessories,"
+    }
+   ],
+   "img": "img/comp/mvdwdeu1.jpg?v=1792332297961",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792332277163
+ "updatedAt": 1792332298423
 };

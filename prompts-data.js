@@ -572,7 +572,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu1l0r.jpg?v=1792328387220",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdu1w8j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "warm lighting, retro indoor setting, vintage posters background, waist-up angle, dynamic pose, looking over shoulder, relaxed arm position, holding a bottle casually, playful expression, soft shadows, cinematic color tones, arched back pose, one hand on hip, head turned to the side, torso slightly twisted, slightly open lips, wide-eyed expression, soft playful mood,"
+    },
+    {
+     "label": "의상",
+     "text": "brown cowboy hat, paisley patterned bandana top, blue high-waisted jeans, western-inspired accessories"
+    }
+   ],
+   "img": "img/comp/mvdu1w8j.jpg?v=1792328401781",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792328387663
+ "updatedAt": 1792328402209
 };

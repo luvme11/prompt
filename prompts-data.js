@@ -7784,7 +7784,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0ffv1.jpg?v=1792339111280",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0iq5s",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "green vacuum cleaner backpack, 2::cream icing hair ornament::, cherry hair ornament, head on green goggles, cream sleeveless crop top, red china knot, cream arm warmers, cross-laced arm warmers, red trimmed 2::see-through skirt::, cream short shorts, cream leg warmers, red striped leg warmers, green chunky sneakers,"
+    }
+   ],
+   "img": "img/look/mve0iq5s.jpg?v=1792339264523",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339143820
+ "updatedAt": 1792339265152
 };

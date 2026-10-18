@@ -965,7 +965,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduiiic.jpg?v=1792329176740",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvduiq73",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, magical girl, forced detransformation, mana exhaustion, magical outfit flickering and peeling away, costume shattering into glowing glass fragments, glowing cracks on skin and clothes, shattered magic circle on ground, magical staff fading into smoke and embers, panting, tired expression, kneeling on the ground, dynamic angle, dramatic rim lighting, fading glow, ruined city battlefield, cinematic composition, masterpiece, best quality"
+    }
+   ],
+   "img": "img/comp/mvduiq73.jpg?v=1792329186852",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792329177181
+ "updatedAt": 1792329187273
 };

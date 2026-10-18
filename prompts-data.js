@@ -870,7 +870,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduddr6.jpg?v=1792328937393",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdudm2c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying, on back, legs up, wide legs, spread legs, 3::m-legs::, feet at viewer, feet up, foreshortening, from above, high angle, looking at viewer, oversized shirt, t-shirt only, pulling clothes down, covering, hand on clothes, Close-up, on bed, nipple outline, shy,"
+    }
+   ],
+   "img": "img/comp/mvdudm2c.jpg?v=1792328948053",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792328937850
+ "updatedAt": 1792328948662
 };

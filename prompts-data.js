@@ -8176,7 +8176,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve3at5u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, 1.3::sitting at a small table in an old-fashioned retro cafe booth, one hand resting on an old rotary telephone, chin propped on the other hand, playful slightly dazed expression, subtle smile::, 1.3::soft white off-shoulder wedding dress with big puffed sleeves, tiered ruffle skirt, satin ribbon sash, short fluffy veil pinned with a bow::, 1.3::small table with a glass soda bottle, scattered candy wrappers, ribbons and tiny flowers::, colorful vintage wallpaper, old jukebox and neon diner sign glowing, checkered floor, 1.3::warm golden glow reflecting on the dress and veil, soft warm light across the table, gentle flare::, 1.3::vivid saturated colors, high saturation, glossy, warm glowing tones::, cozy nostalgic atmosphere, high quality"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792343912053
+ "updatedAt": 1792343932804
 };

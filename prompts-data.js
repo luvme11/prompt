@@ -657,7 +657,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu8n8h.jpg?v=1792328716491",
    "pos": "50.0% 6.0%"
+  },
+  {
+   "id": "mvdu8znn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "dark vintage fantasy atmosphere, warm golden light with deep shadows, gothic victorian interior, dramatic red drapery backdrop, enchanted occult room mood, soft spotlight on the subject, straight-on angle, sitting upright at a table, holding a black crow near the face with one hand, gently gripping a wand with the other hand, calm and mysterious expression, surrounded by old books, glowing orb light, pearls, vintage props"
+    },
+    {
+     "label": "의상",
+     "text": "gothic victorian outfit, black cape-style top with lace trimming, ruffled sleeves, pastel pink bow accent, ornate vintage bonnet with layered frills and black ribbons"
+    }
+   ],
+   "img": "img/comp/mvdu8znn.jpg?v=1792328732593",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792328716949
+ "updatedAt": 1792328733052
 };

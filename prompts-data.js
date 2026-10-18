@@ -7840,7 +7840,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0j7c6.jpg?v=1792339286896",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0jejs",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "0.6::sugar sugar rune, chocolat meilleure::, magical girl, pink cape, pink dress, pink gloves, pink hat, pink belt, striped thighhighs, loafers,"
+    }
+   ],
+   "img": "img/look/mve0jejs.jpg?v=1792339295954",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339287701
+ "updatedAt": 1792339296444
 };

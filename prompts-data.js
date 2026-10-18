@@ -125,7 +125,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtc9k0.jpg?v=1792327206109",
    "pos": "24.9% 50.0%"
+  },
+  {
+   "id": "mvdtcjlg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, reclining, from above, foreshortening, looking at viewer, parted lips, hair bun, side locks, peacock feather, feather hair ornament, hair ornament, tassel earrings, earrings, china dress, short sleeves, mandarin collar, cleavage cutout, side slit, elbow gloves, teal gloves, goldfish, fish, feathers, disembodied hands, skeleton hands, holding brush, calligraphy brush, ink, smoke, swirling clouds, red background, iridescent, teal and red theme"
+    }
+   ],
+   "img": "img/comp/mvdtcjlg.jpg?v=1792327218867",
+   "pos": "69.6% 50.0%"
   }
  ],
- "updatedAt": 1792327206535
+ "updatedAt": 1792327219298
 };

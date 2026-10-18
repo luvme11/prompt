@@ -6734,7 +6734,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz7pa3.jpg?v=1792337070311",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz7wi5",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gothic lolita,  1.5:: headdress, white blouse, short sleeves, collared shirt, lace-up corset, mini skirt,:: white bodice, black bow on chest, black skirt, pleated skirt, chains, black arm warmers, thigh strap, garter, platform boots, knee boots, bat wing footwear, criss-cross lacing, -2::puff sleeves::"
+    }
+   ],
+   "img": "img/look/mvdz7wi5.jpg?v=1792337079663",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337070924
+ "updatedAt": 1792337080447
 };

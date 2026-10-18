@@ -4495,7 +4495,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx3djy.jpg?v=1792333509563",
    "pos": "50.0% 62.0%"
+  },
+  {
+   "id": "mvdx3jnl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, full body, surreal urban decay, 1.5::one figure in sitting position on car::, blowing gum bubble, on top of a weathered blue sedan with graffiti, a boombox radio, spray paint cans, a large overgrown tree branch with vines draping over the scene, strong direct sunlight, hard shadows, against solid blue sky, melancholic yet whimsical atmosphere,\n\ndark hooded jacket, denim skirt, chunky sneakers,"
+    }
+   ],
+   "img": "img/comp/mvdx3jnl.jpg?v=1792333517209",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792333510174
+ "updatedAt": 1792333517661
 };

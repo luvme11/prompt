@@ -4925,7 +4925,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxgcbk.jpg?v=1792334114320",
    "pos": "50.0% 78.0%"
+  },
+  {
+   "id": "mvdxhzuu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, beautiful, [character appearance], standing beside an oversized [phone color] retro flip phone, giant open clamshell phone nearly as tall as her, glossy plastic body, chunky rounded design, early 2000s Japanese keitai aesthetic, large black reflective screen displaying a clear reflection of the girl, metallic accents matching the phone color, detailed keypad, circular navigation pad, many oval buttons, tiny speaker holes, cute stickers and small character charms decorating the phone, cute shy expression, full body, knee-high leg warmers, chunky platform shoes, playful pose, both girl and phone fully visible, clean white background, kawaii Y2K aesthetic, clean thin line art"
+    }
+   ],
+   "img": "img/comp/mvdxhzuu.jpg?v=1792334191707",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792334115242
+ "updatedAt": 1792334192340
 };

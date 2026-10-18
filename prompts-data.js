@@ -5838,7 +5838,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdykxjh.jpg?v=1792336008096",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyl4t0",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white ribbed camisole, thin shoulder straps, fitted cropped top, dark brown oversized leather bomber jacket, front zipper, ribbed cuffs and hem, gray distressed denim micro skirt, layered double waistband, metal eyelets, studded belt, pleated hem, black chunky knee-high biker boots, multiple buckle straps, thick platform soles, brown leather slouchy shoulder bag, gold-tone hardware"
+    }
+   ],
+   "img": "img/look/mvdyl4t0.jpg?v=1792336017346",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336008695
+ "updatedAt": 1792336018404
 };

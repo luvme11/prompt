@@ -2870,7 +2870,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvzvov.jpg?v=1792331666779",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdw01s6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from above, indoors, wariza, on floor, head down, looking down, half-closed eyes, closed mouth, expressionless, bound wrists, dragon wings, white wings, torn wings, dragon horns, white dress, frilled dress, layered dress, off shoulder, bare shoulders, frilled sleeves, torn dress, white footwear, high heel boots, shackles, chain, 1.2::prison cell::, stone floor, reflective floor, puddle, 1.2::darkness::, vignetting, muted color, white theme,"
+    }
+   ],
+   "img": "img/comp/mvdw01s6.jpg?v=1792331674798",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792331667226
+ "updatedAt": 1792331675234
 };

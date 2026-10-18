@@ -6188,7 +6188,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdytp1h.jpg?v=1792336417154",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvdytvuk",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink frilled blouse, off shoulder, sleeveless, ruffles, button front, vertical stripes, pink tiered skirt, ruffled skirt, blue ribbon on waist, knee highs, pink sneakers, red shoulder bag, satchel, rabbit keychain,"
+    }
+   ],
+   "img": "img/look/mvdytvuk.jpg?v=1792336425894",
+   "pos": "50.0% 12.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336418080
+ "updatedAt": 1792336426823
 };

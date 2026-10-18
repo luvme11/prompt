@@ -1030,7 +1030,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdujtvc.jpg?v=1792329238363",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvduk5o1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "walking, looking back, wet, rain, puddle, water drop, bridge, railroad tracks, iron, rust, fog, night, lamppost, outdoors, dim lighting, from side,  walking the length of a rain-slick iron bridge, 2::upper body::,"
+    },
+    {
+     "label": "의상",
+     "text": "steampunk, dark green coat, long coat, double-breasted, high collar, military uniform,\nworn clothes, dirty clothes,\nbrown gloves, leather gloves,\nbrown pants, jodhpurs, cargo pants, belt pouch,\nknee boots, black boots, \na weathered olive-green double-breasted field coat with a standing collar,\nbrown breeches with bellows pockets tapering into tall worn leather boots"
+    }
+   ],
+   "img": "img/comp/mvduk5o1.jpg?v=1792329253558",
+   "pos": "55.5% 50.0%"
   }
  ],
- "updatedAt": 1792329238958
+ "updatedAt": 1792329254178
 };

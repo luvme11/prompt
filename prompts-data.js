@@ -8022,7 +8022,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mve2uw5y.jpg?v=1792343191715",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve2vh1u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, 1.9::from above, flat lay, knolling, overhead view::, full body, lying on back, lying on pillow, 2::objects arranged around character, scattered items::, light pink pillow, one arm raised above head, hand on pillow, other arm raised, bent knee, leg up, barefoot, feet,\n\n2.2::oversized [color] hoodie, loose hoodie, long sleeves, shirt lift, cropped, midriff, navel, abs, toned body::, 2.2::[color] plaid pajama pants, [color] checkered pattern, loose pants, translucent fabric, drawstring, rolled up pant legs::, burgundy waistband, boxer briefs waistband,\n\n1.7::light blue denim jacket, cream knit sweater, red plaid scarf, black cargo pants, brown leather belt, white sneakers, striped socks::, discarded clothes, clothes laid out, 1.5::vintage film camera, silver body, leather strap::, 1.4::white wireless headphones::, 1.6::skateboard, pastel deck, yellow wheels::, cassette tapes, takeout coffee cup, sunglasses, smartphone, 1.2::an orange dog, cut, solo, fluffy fur, green eyes, lying on clothes::,\n\n1.8::paint splatter, pastel pink and yellow paint drops, colorful paint stains on clothes and objects::, confetti, scattered flower petals,\n\n1.8::clear white background, simple background::, 1.4::pastel colors, cream, mustard yellow, sage green, soft pink::, cozy"
+    }
+   ],
+   "img": "img/comp/mve2vh1u.jpg?v=1792343218380",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792343192187
+ "updatedAt": 1792343219297
 };

@@ -3039,7 +3039,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw2em8.jpg?v=1792331784479",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdw2scz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "girl, solo, adult woman,\n\n1.35::mirror selfie::,\n1.3::looking at herself through a mirror::,\n1.3::smartphone held beside the face::,\n1.35::face clearly visible::,\n1.3::eyes clearly visible::,\n1.25::phone not covering the face::,\n1.25::indoor selfie shot::,\n\n1.35::kneeling pose::,\n1.3::sitting back on heels::,\n1.25::side-facing body::,\n1.25::slightly arched back::,\n1.3::slim waist::,\n1.25::curvy hips::,\n1.25::long legs folded beneath the body::,\n1.3::small face::,"
+    },
+    {
+     "label": "의상",
+     "text": "1.3::clean cheeks::, 1.2::natural skin tone::, 1.2::even skin tone::, no blush,\n\nblack off-shoulder long-sleeve crop top,\nbare shoulders,\nfitted top,\n1.35::black thong panties::,\n1.3::high-cut thong::,\n1.3::thin side straps visible above the hips::,\n1.4::thin thong straps pulled high over the hips::,\n\none arm raised above the head,\nother hand holding a smartphone beside the face,\nelegant sensual pose,\n\nplain white background,\nminimal white room,\nclean mirror reflection,\nsoft indoor lighting,\nfull body,\nclean composition,\nstylish fashion illustration"
+    }
+   ],
+   "img": "img/comp/mvdw2scz.jpg?v=1792331802516",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792331785396
+ "updatedAt": 1792331803274
 };

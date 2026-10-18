@@ -4300,7 +4300,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx04jp.jpg?v=1792333357993",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvdx0irg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking away, side view, spring, outdoors, cherry blossom viewing, standing, surrounded by flowers, reaching up, 2::touching cherry blossoms::, 1.5::hand reaching for flowers::, hair blowing, wind, peaceful expression, flower in hair, cherry blossom in hair, 2::cherry blossoms::, 1.5::flying petals::, 1.3::falling petals::, excessive cherry blossoms, cherry blossom tree, blue sky, clear sky, 1.2::dappled sunlight::, soft lighting, shadow, sunbeam,\n\nwhite sundress, spaghetti straps, frills, ruffles,"
+    }
+   ],
+   "img": "img/comp/mvdx0irg.jpg?v=1792333376463",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792333358440
+ "updatedAt": 1792333377228
 };

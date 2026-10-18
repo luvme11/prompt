@@ -5687,7 +5687,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxzqdp.jpg?v=1792335019226",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdxzwwo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, from behind, back view, upper body, wearing an open-back blouse, black see-through blouse, sheer fabric, backless, high-neck, choker collar, ribbon tied at waist, black pants, holding a leather black whip in back hands, gripping whip, looking over shoulder, seductive glance, parted lips, dramatic shadow, minimalist background, stark contrast, chiaroscuro, best quality, amazing quality, very aesthetic, highres, incredibly absurdres"
+    }
+   ],
+   "img": "img/comp/mvdxzwwo.jpg?v=1792335027387",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792335019861
+ "updatedAt": 1792335027999
 };

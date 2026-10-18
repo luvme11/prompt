@@ -2480,7 +2480,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvpfuq.jpg?v=1792331179536",
    "pos": "29.3% 50.0%"
+  },
+  {
+   "id": "mvdvplm2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from below, jumping, 1.3::yellow star, large star::, on top of star, arms up, holding microphone, microphone near mouth, floating hair, :d, looking at viewer, idol, frilled dress, mini dress, tiara, heart, earrings, glowstick, hair clip, musical note, ribbon choker, belt, thighhighs, platform boots, wrist cuffs, flower, sparkle, stage, spotlight, lens flare, confetti, ribbon, light particles, pink theme, gold theme,"
+    }
+   ],
+   "img": "img/comp/mvdvplm2.jpg?v=1792331187333",
+   "pos": "64.7% 50.0%"
   }
  ],
- "updatedAt": 1792331179983
+ "updatedAt": 1792331187775
 };

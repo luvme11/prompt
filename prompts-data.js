@@ -1047,7 +1047,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduk5o1.jpg?v=1792329253558",
    "pos": "55.5% 50.0%"
+  },
+  {
+   "id": "mvdukje2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "sitting, sitting on object, crate, barrel, resting, half-closed eyes, campfire, fire, tent, sandbag, backpack, canteen, outdoors, night, dim lighting, warm colored, from side,  full body, slumped on a supply crate beside a low fire, camp tents strung out behind,"
+    },
+    {
+     "label": "의상",
+     "text": "steampunk, military uniform, khaki, brown shirt, sleeveless, vest, worn clothes,\nscarf, mouth mask, neck scarf, shoulder strap,\nmultiple belts, bandolier, ammunition belt, pouch, canteen, backpack,\nhelmet, hanging helmet, brown gloves, fingerless gloves,\nbrown pants, jodhpurs, leg wrap, knee boots, brown boots,\nhand on own hip, striped shirt under a khaki tunic,"
+    }
+   ],
+   "img": "img/comp/mvdukje2.jpg?v=1792329271547",
+   "pos": "78.4% 50.0%"
   }
  ],
- "updatedAt": 1792329254178
+ "updatedAt": 1792329272005
 };

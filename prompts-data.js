@@ -4482,7 +4482,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx35xn.jpg?v=1792333500582",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdx3djy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "squatting, crouching, holding umbrella, clear umbrella, looking at cat, cat, outdoors, plants, bushes, wet, rain, \n\nschool uniform, shoulder bag,"
+    }
+   ],
+   "img": "img/comp/mvdx3djy.jpg?v=1792333509563",
+   "pos": "50.0% 62.0%"
   }
  ],
- "updatedAt": 1792333501034
+ "updatedAt": 1792333510174
 };

@@ -5894,7 +5894,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyltqt.jpg?v=1792336049901",
    "pos": "50.0% 6.0%",
    "soon": false
+  },
+  {
+   "id": "mvdymgl7",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black and white striped short-sleeve button-up shirt, open collar, tight shirt, pleated grey mini skirt, chunky grey knit leg warmers, black leather beret, silver chain necklace, star-shaped drop earrings, black shoulder bag with silver buckle and hardware, -1.4::shirt tucked in::"
+    }
+   ],
+   "img": "img/look/mvdymgl7.jpg?v=1792336079603",
+   "pos": "50.0% 44.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336050526
+ "updatedAt": 1792336080214
 };

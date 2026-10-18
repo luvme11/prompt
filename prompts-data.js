@@ -242,7 +242,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtir3e.jpg?v=1792327508546",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdtjpiq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2people lying together on a cozy bed, one person leaning on the other's back, soft morning sunlight through the window, warm bedroom atmosphere, pillows and blankets, relaxed intimate composition, cozy anime illustration,"
+    },
+    {
+     "label": "밑에 있는 사람+의상",
+     "text": "lying on stomach on the bed, relaxed posture, looking toward the viewer, oversized knit (의상색깔) pajama"
+    },
+    {
+     "label": "올라타 있는 사람+의상",
+     "text": "leaning against the other person from behind, resting on their back, oversized loose (의상색깔) pajama cardigan, relaxed cozy pose"
+    }
+   ],
+   "img": "img/comp/mvdtjpiq.jpg?v=1792327553112",
+   "pos": "67.0% 50.0%"
   }
  ],
- "updatedAt": 1792327508993
+ "updatedAt": 1792327553732
 };

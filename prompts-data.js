@@ -6944,7 +6944,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzv1qw.jpg?v=1792338159736",
    "pos": "50.0% 52.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzv8vz",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::harajuku fashion::, white jacket, open jacket, long sleeves, white turtleneck, long sleeves, black miniskirt, pleated skirt, striped legwarmers, leg straps, studded belt, chain, platform boots, choker,"
+    }
+   ],
+   "img": "img/look/mvdzv8vz.jpg?v=1792338169060",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338160351
+ "updatedAt": 1792338170144
 };

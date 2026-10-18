@@ -6860,7 +6860,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz9iw1.jpg?v=1792337155480",
    "pos": "50.0% 38.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz9ors",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gothic dress, camisole dress, black dress, bow, neck ribbon, 1.2::asymmetrical legwear::, garter thigh strap, stockings, pattern tights, sheer legwear, studded belt, chain, spiked choker, platform boots,"
+    }
+   ],
+   "img": "img/look/mvdz9ors.jpg?v=1792337163158",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337156403
+ "updatedAt": 1792337164407
 };

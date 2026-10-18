@@ -1908,7 +1908,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv9bur.jpg?v=1792330427957",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdvbzif",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "sunflower field, countryside, blue sky, cumulus clouds, cicadas, dirt road, wooden fence, breeze, tall grass, countryside house, warm sunlight, peaceful atmosphere, nostalgic, summer vacation,"
+    }
+   ],
+   "img": "img/comp/mvdvbzif.jpg?v=1792330552237",
+   "pos": "36.4% 50.0%"
   }
  ],
- "updatedAt": 1792330428870
+ "updatedAt": 1792330552675
 };

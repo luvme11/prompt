@@ -7672,7 +7672,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0dib1.jpg?v=1792339020799",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0e7us",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "japanese clothes, strawberry hair ornament, lace hairband, red ribbon, white apron, lace sheer capelet, pink furisode, ribbon-trimmed sleeves, cherry blossom print, flower print furisode, black corset, black mini skirt, ribbon-trimmed skirt, petticoat, white frill socks, strawberry ornament black platform heels,"
+    }
+   ],
+   "img": "img/look/mve0e7us.jpg?v=1792339054116",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339021555
+ "updatedAt": 1792339054892
 };

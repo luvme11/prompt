@@ -2883,7 +2883,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw01s6.jpg?v=1792331674798",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdw07dv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, dutch angle, looking at viewer, head tilt, arms up, hands up, arms at sides raised, elbows bent, forearms up, holding gun in one hand, holding revolver, gun near head, muzzle up, leaning back, dark background, spotlight, backlighting, circle, light circle, red graffiti, blood writing, stamp, english text, \"STOP\","
+    }
+   ],
+   "img": "img/comp/mvdw07dv.jpg?v=1792331681856",
+   "pos": "75.1% 50.0%"
   }
  ],
- "updatedAt": 1792331675234
+ "updatedAt": 1792331682305
 };

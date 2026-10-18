@@ -1450,7 +1450,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "의상 X",
      "text": "pastel pink background, pink lighting, glow, pink theme, 2::stickers::, 3::posters, caution tape, \"PINK HEART\" (text), magazine covers::, high saturation, 1::cinematic lighting::, rim lighting, soft shading, volumetric lighting,\nwinking, tongue out, smile, 1::hand heart::, making heart, 1::school uniform (styled)::, black blazer, open jacket, white shirt, black necktie, 1::pink skirt::, mini skirt, pink belt, heart buckle, pockets, 1::midriff::, navel, stomach,"
     }
    ],
@@ -1522,5 +1522,5 @@ window.PROMPT_DATA = {
    "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792329740991
+ "updatedAt": 1792329749194
 };

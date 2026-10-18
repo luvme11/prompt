@@ -7616,7 +7616,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0cuoo.jpg?v=1792338990481",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0d03h",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kawaii, balletcore, 2::gray jersey::, zipper, three black stripes on sleeves, muted pink denim skirt, mini skirt, bare legs, white fur ugg boots, lace up ugg boots, white headphones, black bag, loose bag, holding coffee,"
+    }
+   ],
+   "img": "img/look/mve0d03h.jpg?v=1792338997383",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338990933
+ "updatedAt": 1792338997850
 };

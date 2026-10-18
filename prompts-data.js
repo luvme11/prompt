@@ -8201,7 +8201,7 @@ window.PROMPT_DATA = {
      "text": "1.4::cowboy shot::, 1.35::thighs in frame::, 1.45::navy oversized track jacket::, 1.4::cream collar and cuffs::, 1.4::three cream stripes on the sleeves::, 1.35::worn fully zipped::, 1.4::grey wide track pants::, 1.3::white sneakers::,2.4:: Adidas logo on the chest::, 1.4::earphone cord hanging from one ear::,1.35::leaning against a pillar::, 1.35::one foot propped up behind::, 1.3::hands in the jacket pockets::,1.4::bored distant look::, 1.3::eyes drifting to the side::, 1.4::subway platform::, 1.35::yellow safety line on the floor::, 1.35::tiled walls and station signs::, 1.3::fluorescent overhead lighting::, 1.3::train blurred at the edge::,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve3ds0r.jpg?v=1792344176831",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8220,5 +8220,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792344091805
+ "updatedAt": 1792344177294
 };

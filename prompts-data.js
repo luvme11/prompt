@@ -216,7 +216,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtdqmx.jpg?v=1792327274548",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdtik4b",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::from below, full body, strong foreshortening::, sitting on the edge of a tall urban utility structure, legs dangling, 1.4::chunky boots prominent in the foreground::, one hand resting on the thigh, the other hand braced on the ledge, looking into the distance,\n\noversized hooded jacket covered with colorful patches, pins, and dangling accessories, shorts, socks, futuristic lace-up boots with thick soles, goggles resting on the head, backpack,\n\n1.5::dense futuristic city filled with colorful billboards and geometric signs::, exposed pipes, cables stretching overhead, screens built into the structure beneath the character, bright cyan sky, scattered clouds, a distant bird,\n\nvivid pink, cyan, yellow, and blue accents, bright daylight, crisp shadows, upward perspective, vertical composition"
+    }
+   ],
+   "img": "img/comp/mvdtik4b.jpg?v=1792327499505",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792327274993
+ "updatedAt": 1792327499932
 };

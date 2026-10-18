@@ -7126,7 +7126,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve01tch.jpg?v=1792338475496",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve01z5z",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white lace headband with a deep red ribbon, deep red ribbon choker with white lace, white sleeveless dress with chest frills, deep red ribbon the waist, white lace overskirt with front open, full of small deep red rose embroidery overskirt, white long underdress, brown lace-up boots"
+    }
+   ],
+   "img": "img/look/mve01z5z.jpg?v=1792338483315",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338475978
+ "updatedAt": 1792338484256
 };

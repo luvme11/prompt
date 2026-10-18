@@ -1237,7 +1237,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdunnmu.jpg?v=1792329416888",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdunt6u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "beach, ocean, waves, splashing water, palm trees, clear sky, harsh sunlight, lens flare, swimwear, board shorts, shirtless, bare chest, sunglasses, surfboard,  tan skin, wet hair, carrying surfboard on beach, splashing waves, bright sunlight, lens flare, high contrast,"
+    }
+   ],
+   "img": "img/comp/mvdunt6u.jpg?v=1792329424200",
+   "pos": "50.0% 8.0%"
   }
  ],
- "updatedAt": 1792329417498
+ "updatedAt": 1792329424638
 };

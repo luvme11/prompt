@@ -3242,7 +3242,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw70ne.jpg?v=1792331999734",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdw772b",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cute celestial y2k outfit, oversized black track jacket, black and white sporty outfit, silver zipper, white sporty inner top, cropped track jacket, black pleated mini skirt, white and black star-patterned socks, subtle silver star embroidery on the jacket, sporty cute style,\n\nstar-shaped hairpins, multiple tiny silver star hair clips, crescent moon hair clip, layered silver star necklaces, star-shaped earrings, tiny star choker, silver star bracelet, multiple delicate rings, star charm bracelet, celestial waist chain, star-shaped belt buckle, tiny star charms hanging from the jacket zipper, crystal star accessories, silver crystal decorations,\n\nmany tiny star charms, constellation embroidery, star-shaped buttons, star zipper pull, dangling star earrings, layered celestial necklaces, tiny crystal stars, sparkling details, glittering stars, stardust accents, dreamy celestial aesthetic, black night sky theme, elegant, cute, fashionable, intricate accessories, highly detailed,"
+    }
+   ],
+   "img": "img/comp/mvdw772b.jpg?v=1792332008042",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792332000509
+ "updatedAt": 1792332009114
 };

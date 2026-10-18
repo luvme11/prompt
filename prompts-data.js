@@ -6972,7 +6972,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzvfgo.jpg?v=1792338177441",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzvlrl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink beret, light pink fur short jacket, center white button, white layered frill skirt, white small bag, white pleated knee socks, pink sneakers"
+    }
+   ],
+   "img": "img/look/mvdzvlrl.jpg?v=1792338185720",
+   "pos": "50.0% 36.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338178353
+ "updatedAt": 1792338186642
 };

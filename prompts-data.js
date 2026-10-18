@@ -60,7 +60,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdsq1et.jpg?v=1792326168845",
    "pos": "22.7% 50.0%"
+  },
+  {
+   "id": "mvdt7psm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, looking at viewer, light smile, closed mouth, sitting, knees together, feet apart, head rest, hand on own cheek, elbow on knee, from above, high angle, witch hat, large hat, hat flower, sunflower, hat ribbon, black ribbon, neck ribbon, earrings, puffy short sleeves, black dress, white skirt, layered skirt, black gloves, brown gloves, bare legs, ankle boots, bow, black cat, cat, ruffled collar, boat, rowboat, sitting in boat, bouquet, sunflower bouquet, wrapped bouquet, book, stack of books, pond, lily pad, water, lake, forest, tree, grass, plant, yellow flower, outdoors, overcast, muted colors, desaturated, dark green, green and white, limited palette, painterly, soft focus, melancholy"
+    }
+   ],
+   "img": "img/comp/mvdt7psm.jpg?v=1792326993704",
+   "pos": "68.0% 50.0%"
   }
  ],
- "updatedAt": 1792326961958
+ "updatedAt": 1792326994129
 };

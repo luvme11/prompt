@@ -3203,7 +3203,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw6hyx.jpg?v=1792331975456",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdw6nyy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "(black dress shirt:2), collared shirt, top button fastened, no open collar, closed collar, (rolled-up sleeves:1.3), neatly tied black necktie, black formal waistcoat, fitted waistcoat, tailored suit vest, black vest, black suit pants, black slacks, formal uniform,\n\n(standing:1.5), relaxed posture, (wiping the blood from cheek with the heel of palm, the other hand holding a gun:1.5), smoking, cigarette hanging loosely from the lips, exhaling smoke, blood on face, blood smearing across cheek, small blood splatters, blood stains, half body, portrait, centered composition, focus on character, face focus, (high angle, high angle shot, from above:0.7), front view, head facing forward, head tilted slightly, eyes looking to the side, sideways glance, calm confident expression, cool expression, expressionless,\n\nluxury modern apartment living room, high-end contemporary interior design, black leather sofa, floor-to-ceiling windows, elegant dark wood furniture, marble accents, night, city, the night city skyline, sophisticated hotel-suite atmosphere, luxury lifestyle atmosphere, cinematic lighting, soft white rim lighting, realistic lighting, high contrast, dramatic contrast, strong shadows, deep shadows, depth of field, shallow depth of field, cinematic depth of field, premium fashion editorial photography, chic editorial attitude,"
+    }
+   ],
+   "img": "img/comp/mvdw6nyy.jpg?v=1792331983364",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792331976529
+ "updatedAt": 1792331983968
 };

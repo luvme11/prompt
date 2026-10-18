@@ -2038,7 +2038,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvea59.jpg?v=1792330658944",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdvere7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from above, lying on back, looking at viewer, hand on own face, holding syringe, menhera, cluttered, scattered pills, bandaid on face, medicine bottle, prescription paper, pill blister pack, IV bag, pastel lavender and mint cream theme, soft glow,"
+    }
+   ],
+   "img": "img/comp/mvdvere7.jpg?v=1792330681505",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792330659381
+ "updatedAt": 1792330682098
 };

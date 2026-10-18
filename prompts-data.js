@@ -4443,7 +4443,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx2mtx.jpg?v=1792333474658",
    "pos": "50.0% 6.0%"
+  },
+  {
+   "id": "mvdx2t6y",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, inside a white bathtub filled with water, submerged in clear water, high angle view from above, soft cool-toned lighting, muted green shadows, surrounded by drifting green vines and floating green apples, botanical bath, \n\nwhite ruffled dress,"
+    }
+   ],
+   "img": "img/comp/mvdx2t6y.jpg?v=1792333483093",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792333475261
+ "updatedAt": 1792333483537
 };

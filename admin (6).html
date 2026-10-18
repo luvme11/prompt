@@ -197,6 +197,7 @@ $('#list').onclick = async e => {
 };
 $('#bNew').onclick = () => writeModal(); $('#bPro').onclick = proModal; $('#bSet').onclick = setModal;
 (async () => {
+  try{ localStorage.setItem('pa_owner', '1'); }catch(e){}
   render();
   if (!ready()){ setModal(); return; }
   try{ await pull(); render(); }catch(e){ $('#list').innerHTML = `<div class="empty">${esc(e.message)}</div>`; }

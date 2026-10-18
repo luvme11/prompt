@@ -6762,7 +6762,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz84ka.jpg?v=1792337090192",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz8bbx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "classic lolita, 1.5::beige dress, black bow, side lacing, heavy ruffles, square neckline, mini skirt:: frilled neckline, ribbon trim, corset lacing, micro short sleeves, puffy sleeves, tiered skirt, voluminous skirt, cotton fabric, bare legs, loafers,"
+    }
+   ],
+   "img": "img/look/mvdz8bbx.jpg?v=1792337099303",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337090660
+ "updatedAt": 1792337099914
 };

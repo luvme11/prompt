@@ -1142,7 +1142,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdulvdr.jpg?v=1792329333564",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdum5ou",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo, 1.3::convex mirror, traffic mirror, reflection::, reflected in mirror, selfie, holding phone, taking picture, looking at viewer, upper body, 0.8::fisheye lens::, street, autumn leaves, railing, tree, day, 1.2::leaves, branch, foreground::,"
+    },
+    {
+     "label": "의상",
+     "text": "dark green cardigan, cardigan, knit cardigan, embroidery, brown trim, puffy sleeves, white shirt, brown pleated skirt, autumn leaves, ginkgo leaves"
+    }
+   ],
+   "img": "img/comp/mvdum5ou.jpg?v=1792329346930",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792329334034
+ "updatedAt": 1792329347365
 };

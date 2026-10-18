@@ -402,7 +402,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtqn01.jpg?v=1792327876254",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdtqvuy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "3::close-up::, bed, night, dark room, unbuckling belt, loosening pants, hands on belt, from below, low angle shot, upward view, character looking down, top-down gaze, pov perspective, slightly tilted composition, seated posture, torso leaned back, both hands near waist adjusting belt, shirt opened exposing torso, fingers gripping belt buckle"
+    }
+   ],
+   "img": "img/comp/mvdtqvuy.jpg?v=1792327887968",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792327876687
+ "updatedAt": 1792327888409
 };

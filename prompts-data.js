@@ -6538,7 +6538,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz4eip.jpg?v=1792336916444",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz4ke1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black laced bra top, navel, {pink_and_black_sukajan}, satin_jacket, {cherry_blossom_embroidery}, floral_embroidery, white_long_sleeves, black_sleeve_stripes, ribbed_cuffs, {denim_hot_pants}, bare legs, black highheels,"
+    }
+   ],
+   "img": "img/look/mvdz4ke1.jpg?v=1792336924263",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336916895
+ "updatedAt": 1792336924721
 };

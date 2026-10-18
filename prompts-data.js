@@ -1934,7 +1934,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvc6r0.jpg?v=1792330561354",
    "pos": "10.2% 50.0%"
+  },
+  {
+   "id": "mvdvcf6u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sticker sheet, chibi inset, ivory and rose theme, rose pattern background, dollette, 1.2::thick outline, sticker, outlined::, camisole dress, satin ribbon, lace gloves, ballet flats, cameo pendant, sitting on garden swing, one hand holding swing chain, other hand holding teacup, ankles crossed, leaning back, looking up at sky, peaceful expression, from below, teapot, macaron, butterfly, birdcage, rose, ribbon, sparkle, border,"
+    }
+   ],
+   "img": "img/comp/mvdvcf6u.jpg?v=1792330572285",
+   "pos": "17.8% 50.0%"
   }
  ],
- "updatedAt": 1792330562130
+ "updatedAt": 1792330572896
 };

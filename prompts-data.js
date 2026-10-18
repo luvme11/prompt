@@ -1323,7 +1323,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduoymd.jpg?v=1792329477806",
    "pos": "68.0% 50.0%"
+  },
+  {
+   "id": "mvdup485",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1::electric fan::, blowing air, 1::indoors::, room, apartment, cluttered room, cans, slippers, sunlight, window light, shadow, 1::green tint::, moody lighting, cinematic lighting, \nopen mouth, camisole, white camisole, spaghetti straps, shorts, black shorts, underwear, sweat, dripping sweat, wet skin, exhausted, crouching, on all fours, leaning forward,"
+    }
+   ],
+   "img": "img/comp/mvdup485.jpg?v=1792329484973",
+   "pos": "50.0% 50.0%"
   }
  ],
- "updatedAt": 1792329478256
+ "updatedAt": 1792329485707
 };

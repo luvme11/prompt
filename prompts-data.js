@@ -5866,7 +5866,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdylbt6.jpg?v=1792336026796",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyljjf",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized black knit sweater vest, white polo shirt, layered sleeves, brown ruffle shorts, dark tights, white knit leg warmers, pom-pom leg warmers, chunky sneakers, black earmuffs, teddy bear backpack"
+    }
+   ],
+   "img": "img/look/mvdyljjf.jpg?v=1792336036521",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336028239
+ "updatedAt": 1792336036990
 };

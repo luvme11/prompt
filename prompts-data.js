@@ -4184,7 +4184,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwxyrq.jpg?v=1792333256930",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdwye0c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.4::black qipao dress, tight cheongsam::, 1.3::high side slit::, 1.4::thigh garter belt::, 1.3::black thighhighs::, 1.3::bare thigh, mandarin collar::, 1.2::chinese knot button, glossy black fabric::,\n\n1.3::arms crossed, leaning against wall::, 1.3::low angle, looking down at viewer::, 1.2::arrogant gaze::, cold atmosphere,\n\n1.2::ornate gothic interior background::, 1.2::silver tone lighting, dramatic shadow::, three-quarter shot"
+    }
+   ],
+   "img": "img/comp/mvdwye0c.jpg?v=1792333276673",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792333257380
+ "updatedAt": 1792333277275
 };

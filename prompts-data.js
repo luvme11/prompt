@@ -883,7 +883,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdudm2c.jpg?v=1792328948053",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdudxbd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "upper body, Close-up, red solid background, spotlight shadow, dramatic lighting, high contrast, glossy texture, slight forward lean pose, one hand near mouth, the other arm lowered, body slightly angled, dynamic pose, studio shot,"
+    },
+    {
+     "label": "의상",
+     "text": "black latex mini dress, 2.5::front zipper partially open::, red zipper detail, lace-up sides, garter straps, sheer thigh stockings, long gloves, devil wings, small horn headpiece, chain accessory"
+    }
+   ],
+   "img": "img/comp/mvdudxbd.jpg?v=1792328963023",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792328948662
+ "updatedAt": 1792328963480
 };

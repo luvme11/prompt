@@ -4227,7 +4227,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwywi7.jpg?v=1792333300976",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdwz4nz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, 1person, full body,\n\n1.65::spectacular cyber idol performance composition::,\n1.55::dynamic on-stage pose::,\n1.5::character performing at the peak of a futuristic live concert::,\n1.5::one arm reaching outward toward the audience::,\n1.45::the other hand holding a high-tech microphone or sound projection device::,\n1.45::mid-performance movement::,\n1.4::body twisted in a lively dramatic pose::,\n1.4::hair, ribbons, and costume flaring outward with motion::,\n1.4::energetic stage presence::,\n1.35::confident charismatic expression::,\n1.35::eyes shining under the stage lights::,\n\n1.55::futuristic idol outfit::,\n1.45::sleek performance costume with cyberpunk details::,\n1.4::layered frilled jacket or short stage cape::,\n1.4::glowing seams and luminous trim::,\n1.35::mechanical accessories and holographic ornaments::,\n1.35::asymmetrical sleeves or detached sleeves::,\n1.35::short layered skirt, fitted shorts, or performance-style lower outfit::,\n1.3::thigh straps, metallic belts, and decorative hardware::,\n1.3::neon hair accessories::,\n1.3::audio-wave inspired motifs integrated into the costume::,\n\n1.6::massive holographic concert stage::,\n1.5::huge glowing speakers and floating soundwave displays::,\n1.5::laser lights shooting across the stage::,\n1.45::giant hologram screens behind the character::,\n1.45::glitch effects around the body::,\n1.4::sparkling particles, digital confetti, and luminous shards::,\n1.4::music-reactive light trails spiraling around the character::,\n1.4::vivid light bursts synchronized with the performance::,\n1.35::crowd glowsticks and blurred audience lights below::,\n1.35::explosive concert atmosphere::,\n\n1.45::nighttime futuristic arena::,\n1.4::neon pink, cyan, violet, and electric blue palette::,\n1.4::strong spotlight from above::,\n1.35::dramatic rim light and backlight::,\n1.35::intense glow and layered lighting::,\n1.3::immersive stage depth::,\n1.3::high energy, glamorous, slightly artificial atmosphere::,\n1.3::subtle screen glitch and digital distortion details::,\n\nbeautiful detailed face, detailed eyes, detailed costume, flashy, glamorous, highly detailed, vivid, visually overwhelming"
+    }
+   ],
+   "img": "img/comp/mvdwz4nz.jpg?v=1792333311427",
+   "pos": "50.0% 100.0%"
   }
  ],
- "updatedAt": 1792333301446
+ "updatedAt": 1792333312028
 };

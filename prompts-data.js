@@ -4261,7 +4261,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwzlyz.jpg?v=1792333333746",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdwzrik",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::shirt bursting apart::, 2::shirt violently ripping into shreds::, 2::fabric exploding outward::, shirt tearing apart at the seams, buttons popping off, shredded fabric flying in all directions, torn fabric fragments, exposed upper body, explosive force, frozen mid-explosion, dynamic motion, motion lines,\n\n2::shocked expression::, 2::flustered::, wide eyes, raised eyebrows, mouth slightly open in surprise, blushing cheeks, panicked reaction, caught off guard, 2::instinctively covering chest with both hands::, arms hurriedly crossing over chest, desperately trying to cover exposed body, defensive posture, shoulders hunched forward, startled body movement,"
+    }
+   ],
+   "img": "img/comp/mvdwzrik.jpg?v=1792333340968",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792333334365
+ "updatedAt": 1792333341731
 };

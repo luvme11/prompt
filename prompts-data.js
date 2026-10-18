@@ -3164,7 +3164,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw4vq0.jpg?v=1792331900282",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvdw649v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.2::cowboy shot::, standing, straight-on, facing viewer, looking at viewer, 1.4::holding lollipop::, candy near mouth, 1.3::school uniform::, summer uniform, white shirt, short sleeves, 1.2::red necktie::, choker, wristwatch, 1.5::graffiti::, 1.3::graffiti wall::, concrete wall, spray paint, red graffiti, blue graffiti, 1.2::wind::, floating clothes, falling leaves, tree branches, 1.2::blue sky::, clouds, daylight, sunlight, outdoors, urban, street art, vivid colors, cool, nonchalant, youthful"
+    }
+   ],
+   "img": "img/comp/mvdw649v.jpg?v=1792331957714",
+   "pos": "29.3% 50.0%"
   }
  ],
- "updatedAt": 1792331900863
+ "updatedAt": 1792331958174
 };

@@ -5824,7 +5824,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdykoyd.jpg?v=1792335997003",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvdykxjh",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dark brown oversized faux leather bomber jacket, thick cream fur collar, black inner lining, snap buttons, zip closure, flap pockets, black graphic print on sleeves, white fitted tank top, scoop neckline, front button details, dark brown low-rise shorts, cream fur trim, double belt straps, gold buckles, black rectangular glasses, black cord necklace with silver spiral pendant, gold charm bracelet, brown suede cargo boots, chunky black platform soles, brown canvas shoulder bag, multiple front pockets, leather straps, buckles"
+    }
+   ],
+   "img": "img/look/mvdykxjh.jpg?v=1792336008096",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792335997463
+ "updatedAt": 1792336008695
 };

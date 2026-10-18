@@ -2402,7 +2402,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvo05j.jpg?v=1792331112612",
    "pos": "63.1% 50.0%"
+  },
+  {
+   "id": "mvdvo6ho",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, three-quarter view, sitting on floor, back against wall, hugging own knees, chin on knees, looking at viewer, convenience store, shelf, fluorescent light, tile floor, late night, alone, energy drink, candy wrapper, smartphone, earphones, shopping bag, jirai kei, frilled dress, corset, heart, lace trim, ribbon, pearl necklace, choker, cross necklace, platform shoes, pink theme, cold lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvo6ho.jpg?v=1792331120958",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792331113054
+ "updatedAt": 1792331121389
 };

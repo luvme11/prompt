@@ -1559,7 +1559,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduv9yj.jpg?v=1792329772855",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvduvj4j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "beach, sandy beach, sitting on sand, looking back, over shoulder, ocean, shoreline, waves, seaside, outdoors, horizon, summer, sunlight, breeze, relaxed atmosphere, rear view,"
+    }
+   ],
+   "img": "img/comp/mvduvj4j.jpg?v=1792329784060",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792329773771
+ "updatedAt": 1792329784517
 };

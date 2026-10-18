@@ -6412,7 +6412,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz239b.jpg?v=1792336808811",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz29a2",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "maid outfit, lolita fashion, burgundy dress, white apron, pinafore, lace trim, ruffled sleeves, short sleeves, black lace, layered skirt, big hair bow, cat ears, cat tail, paw gloves, cat paw gloves, key necklace, black mary janes,"
+    }
+   ],
+   "img": "img/look/mvdz29a2.jpg?v=1792336816389",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336809283
+ "updatedAt": 1792336817190
 };

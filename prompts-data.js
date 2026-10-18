@@ -5936,7 +5936,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdymtfp.jpg?v=1792336096096",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdymzkf",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "blue baseball cap with large yellow logo, backwards cap, gold hoop earrings,\n\noversized blue hoodie with logo on the chest pocket, 1.5::huge logo graphic on the chest::, large english text on the chest, bold graphic print,1.5::hood down::, hood, hooded jacket, drawstring, long sleeves,\n\noversized clothes, baggy hoodie, cropped hoodie, zip-up hoodie, open hoodie, off shoulder,\n\n1.5::yellow tank top with pop color text print::, layered clothes, midriff,\n\nbaggy light blue denim pants, wide leg pants, low-rise, 1.5::lowleg pants::, frayed hem,\n\n2::thick chains hanging from the belt loops::, 2::very chunky chain::, multiple chains, silver chain, midriff,\n\nblack studded belt,\n\nlayered silver necklaces, name plate necklace, stacked bracelets on both wrists, multiple rings,\n\nwhite chunky sneakers with blue accents, thick sole, platform sneakers,\n\nred shoulder bag, 1.5:: bag with white logo and black strap::, multiple keychains, phone charm,\n\npink nails, long nails, rhinestone nails"
+    }
+   ],
+   "img": "img/look/mvdymzkf.jpg?v=1792336103983",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336096552
+ "updatedAt": 1792336104763
 };

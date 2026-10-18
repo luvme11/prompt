@@ -2090,7 +2090,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvfa82.jpg?v=1792330705737",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvffrz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "refrigerator door, open door, cowboy shot, from inside, looking at viewer, leaning forward, reaching in, one hand on door, magnetic letters, children drawing, crayon drawing, polaroid photo, takeout menu, grocery list, fridge magnet, souvenir magnet, postcard, sticky note, push pin, yellowed paper, fingerprint smudge, kitchen white, crayon rainbow, dense decoration, warm lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvffrz.jpg?v=1792330712902",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330706170
+ "updatedAt": 1792330713336
 };

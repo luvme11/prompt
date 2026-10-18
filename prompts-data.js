@@ -8246,7 +8246,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mve437jb.jpg?v=1792345259058",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve4aw50",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "A dynamic action pose of a character swinging an enormous oversized pink and white toy hammer downward with great force. The character raises the giant hammer high above their head with both hands, then swings it down in a powerful diagonal motion. The upper body twists dramatically, the arms are fully engaged, and the legs are spread in a dynamic stance to maintain balance. The character leans forward with the motion, creating a strong sense of momentum and impact. The massive square hammerhead leads the movement, prominently displayed and dominating the composition. Dramatic foreshortening, exaggerated perspective, dynamic camera angle, flowing clothing and hair, strong sense of motion, energetic action illustration. The hammer must remain enormous and visually dominant, much larger than the character’s upper body. Captured at the peak of the downward swing, with powerful motion lines and a dramatic sense of speed,\n\nA gigantic oversized toy hammer in pink and white, featuring an enormous square hammerhead with rounded corners, thick and chunky proportions, a sturdy handle, glossy plastic material, adorable candy-like colors, cute decorative details, shiny highlights, and a playful fantasy design. The hammerhead is extremely massive, disproportionately large compared to the character’s body, wider than the character’s torso. The hammer is the main focal point of the image, more visually prominent than the character. Emphasize its enormous scale, exaggerated proportions, and solid three-dimensional volume. Clearly show the entire hammerhead and handle. Do not make the hammer small or thin,\n\nHeart-shaped pupils, clearly visible heart shapes floating within the irises, distinct pink heart symbols in both eyes, cute heart eyes, highly detailed sparkling eyes,"
+    },
+    {
+     "label": "의상",
+     "text": "A classic Japanese jirai kei outfit in pink and black, cute and slightly dark aesthetic. A black blouse with a large pink ribbon bow at the chest, delicate lace trim, puff sleeves, and layered ruffles. A short black pleated skirt with pink frills, decorative heart-shaped buckles, and multiple small ribbons. Pink and black color scheme, lace details, satin ribbons, heart motifs, silver heart accessories, black thigh-high socks with pink ribbon accents, and chunky black platform shoes. Extremely cute, frilly, feminine, doll-like, detailed Japanese alternative fashion, iconic jirai kei style."
+    }
+   ],
+   "img": "img/comp/mve4aw50.jpg?v=1792345617361",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792345259536
+ "updatedAt": 1792345617877
 };

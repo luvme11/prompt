@@ -2935,7 +2935,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw0pck.jpg?v=1792331705344",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdw0uob",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, jumping, mid-air, dynamic pose, foreshortening, from side, looking up, arm up, hand up, one knee up, bent legs, holding electric guitar, gibson les paul, instrument, guitar strap, cable, open mouth, smile, blush, blazer, long sleeves, neck ribbon, dress shirt, pleated skirt, pantyhose, loafers, red background, simple background, star (symbol), drop shadow, white outline,"
+    }
+   ],
+   "img": "img/comp/mvdw0uob.jpg?v=1792331711879",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792331705787
+ "updatedAt": 1792331712324
 };

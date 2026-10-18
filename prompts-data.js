@@ -4534,7 +4534,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx47n2.jpg?v=1792333548706",
    "pos": "50.0% 2.0%"
+  },
+  {
+   "id": "mvdx4fof",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, three-quarter view, looking at viewer, Japanese school uniform, white sleeved school shirt, dark uniform bottoms, standing beside aquarium glass, one hand raised near glass, index finger pointing upward, reflection of hand on glass, large aquarium tank, sharks swimming behind, underwater scenery, deep blue water, blue aquarium lighting, cool blue color cast, dreamy aquatic atmosphere, soft diffused light"
+    }
+   ],
+   "img": "img/comp/mvdx4fof.jpg?v=1792333559056",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792333549771
+ "updatedAt": 1792333559675
 };

@@ -5810,7 +5810,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdykitt.jpg?v=1792335989202",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvdykoyd",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "burgundy off-shoulder cable-knit sweater, wide folded ribbed neckline, oversized ribbon bow on chest, fitted waist, long voluminous bell sleeves, ribbed cuffs and hem, black pleated mini skirt, ivory ribbed thigh-high socks, black platform Mary Jane shoes, black shoulder bag, black choker with pendant"
+    }
+   ],
+   "img": "img/look/mvdykoyd.jpg?v=1792335997003",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792335990144
+ "updatedAt": 1792335997463
 };

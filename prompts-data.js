@@ -4981,7 +4981,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxitq2.jpg?v=1792334230352",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdxj0qj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "tailored office blouse unbuttoned down to the navel, black bra visible underneath, pencil skirt hiked up the thighs, glossy pantyhose with a small run, seductive pose sitting on the edge of a glass desk, legs crossed then slightly parted, one heel dangling, after-hours office background, only monitor glow and a single desk lamp, blinds half closed, quiet explicit tension, fashion editorial"
+    }
+   ],
+   "img": "img/comp/mvdxj0qj.jpg?v=1792334239554",
+   "pos": "50.0% 2.0%"
   }
  ],
- "updatedAt": 1792334230974
+ "updatedAt": 1792334239995
 };

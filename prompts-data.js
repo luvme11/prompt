@@ -1679,7 +1679,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv3cv7.jpg?v=1792330149178",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdv3i87",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, dark background, black background, neon lines, neon drawing, glowing lines, doodle style, hand-drawn effects, devil horns, devil tail, devil wings, glowing effect, contrast lighting, playful atmosphere, floating symbols, graphic overlay, black suit,"
+    }
+   ],
+   "img": "img/comp/mvdv3i87.jpg?v=1792330156190",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792330149651
+ "updatedAt": 1792330156647
 };

@@ -5992,7 +5992,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdynmdq.jpg?v=1792336133579",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdynruk",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "long coat, brown coat, open coat, double-breasted, muted camel wool long coat reaching below the knees, -1::trench coat, belt::,\n\ncollared shirt, light blue shirt, \n\n1.5::waistcoat::, brown vest, dark brown tailored waistcoat buttoned up, \n\nnecktie, houndstooth, brown and cream houndstooth necktie,\n\npants, charcoal grey matte wool wide-leg trousers covering the ankles,\n\nloafers, dark brown matte leather loafers,\n\nfedora, charcoal grey fedora, with muted dark brown line,\n\nbrown gloves, dark brown suede gloves,\n\nholding briefcase, briefcase, slim soft dark brown leather briefcase,\n\n-1::sweater vest, oversized clothes, shiny clothes, suitcase::"
+    }
+   ],
+   "img": "img/look/mvdynruk.jpg?v=1792336140591",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336134041
+ "updatedAt": 1792336141211
 };

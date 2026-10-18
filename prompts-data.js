@@ -4994,7 +4994,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxj0qj.jpg?v=1792334239554",
    "pos": "50.0% 2.0%"
+  },
+  {
+   "id": "mvdxj7ol",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Seductive expression, biting one finger, looking at the viewer. Explicit erotic pose sitting on the edge of a hotel bed, leaning back on the other hand, legs loosely open, fluffy costume falling off.\n\nClose-to-mid composition from the doorway, slightly low angle, city neon spilling in from the side.\n\nCute but filthy fluffy bunny outfit: fluffy bunny-ear headband, oversized puffy tail, short fuzzy crop top that barely stays on, tiny fur bikini bottom, open fluffy bolero that hides almost nothing, white and baby-pink fur, zipper pulled down, fabric slipping off the shoulders.\n\nBackground: late-night high-rise hotel room, floor-to-ceiling window, wet city lights and neon signs outside, rumpled white sheets, dim lamp, a half-empty glass on the nightstand."
+    }
+   ],
+   "img": "img/comp/mvdxj7ol.jpg?v=1792334248440",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792334239995
+ "updatedAt": 1792334248879
 };

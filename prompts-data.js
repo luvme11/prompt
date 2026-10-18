@@ -2610,7 +2610,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvrnn6.jpg?v=1792331283091",
    "pos": "71.8% 50.0%"
+  },
+  {
+   "id": "mvdvrtnw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, looking at viewer, lying on back, in box, cardboard box, too big toy, legs over edge, feet hanging out of box, dangling feet, arms spread, outstretched arms, palms up, relaxed arms, broom, dustpan, mop, bucket, feather duster, scattered around, tile floor, maid uniform, maid headdress, white apron, frills, cat ears, cat tail, animal ears, bell collar, thighhighs, leg warmers, garter straps,"
+    }
+   ],
+   "img": "img/comp/mvdvrtnw.jpg?v=1792331290945",
+   "pos": "71.8% 50.0%"
   }
  ],
- "updatedAt": 1792331283532
+ "updatedAt": 1792331291379
 };

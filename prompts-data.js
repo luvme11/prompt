@@ -6356,7 +6356,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz1baw.jpg?v=1792336772931",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz1ilh",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dungarees, 1.2::cherry print, light yellow overalls::, pockets, cargo pockets, buttons, shoulder straps, striped shirt, pink and white stripes, sleeveless shirt, hair clips, multicolored hair clips, scrunchie on wrist, white chunky shoes,"
+    }
+   ],
+   "img": "img/look/mvdz1ilh.jpg?v=1792336781759",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336773540
+ "updatedAt": 1792336782386
 };

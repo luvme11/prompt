@@ -4042,7 +4042,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwt3oo.jpg?v=1792333030160",
    "pos": "50.0% 4.0%"
+  },
+  {
+   "id": "mvdwtn3m",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "blue background, transparent checkered background, retro computer ui, search bar, pixel cursor, window frame, polaroid photo, eye close-up inset, collage layout, torn paper edges, halftone dots, star sparkles, snowflake marks, blue and black color scheme, limited palette, sticker style, white outline, upper body, 3::holding electric guitar::, hood up, head tilt, looking at viewer,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "black hoodie, zipper, striped sleeves, black turtleneck underneath, layered chain necklaces, multiple rings, earrings, black nails,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "black oversized hoodie, zipper, striped sleeves, black crop top underneath, layered chain necklaces, choker, multiple rings, earrings, black nails, pleated skirt,"
+    }
+   ],
+   "img": "img/comp/mvdwtn3m.jpg?v=1792333055268",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792333030597
+ "updatedAt": 1792333055708
 };

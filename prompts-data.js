@@ -6454,7 +6454,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz3c44.jpg?v=1792336866812",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz3idg",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sweet_lolita, {pink_ruffled_overdress}, open_front, {white_pleated_bodice}, short_sleeves, puff_sleeves, {white_fluffy_cuffs}, wrist_cuffs, {layered_white_frilled_skirt}, mini_skirt, back_lacing, corset_back, {pink_leg_ribbons}, wrapped_legs, criss-cross_lacing, bare_legs, pink_platform_heels, chunky_heels, fluffy_headband, side_bows,"
+    }
+   ],
+   "img": "img/look/mvdz3idg.jpg?v=1792336874914",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336867441
+ "updatedAt": 1792336875562
 };

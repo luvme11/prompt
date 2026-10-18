@@ -5583,7 +5583,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxxqwu.jpg?v=1792334926481",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdxxxg6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, sitting, leaning against seat, \n1.5::sleeping pose, eyes closed::, peaceful expression, head tilted, resting, dozing off,\n\nblack school uniform, black blazer, school uniform,\n\nabandoned subway train interior, post-apocalyptic, overgrown with plants, \n1.5::dense vegetation, ferns and leaves covering floor::, vines climbing walls, nature reclaiming, ivy on windows, moss, wild growth,\nbroken windows, rusted metal, decayed interior, subway poles, handrails,\n\n1.5::sunbeams filtering through windows::, god rays, volumetric light, dust particles in light,\n2::sunlight illuminating character::, warm sunlight on skin, dappled light and shadow, golden hour lighting, soft glow,\nbutterflies flying, floating leaves, hazy atmosphere,\n\nbest quality, masterpiece, detailed background, cinematic lighting, atmospheric"
+    }
+   ],
+   "img": "img/comp/mvdxxxg6.jpg?v=1792334934998",
+   "pos": "50.0% 82.0%"
   }
  ],
- "updatedAt": 1792334927086
+ "updatedAt": 1792334935623
 };

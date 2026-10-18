@@ -3350,7 +3350,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw901r.jpg?v=1792332092361",
    "pos": "32.0% 50.0%"
+  },
+  {
+   "id": "mvdw96ay",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized black cropped hoodie, silver zipper details, lavender graphic accents, fitted black crop top, high-waisted black cargo pants, silver chain belt, lavender fingerless gloves, chunky black sneakers, silver hoop earrings, small futuristic shoulder bag, sitting casually on a rooftop railing, one knee raised and the other leg dangling down, one hand resting behind her for support, the other hand touching her hair, confident and relaxed expression, full body, three-quarter view, slightly low camera angle, dynamic urban composition, rooftop overlooking a futuristic city, neon signs, lavender and icy blue lighting, night sky, distant skyscrapers, soft urban haze, hair blowing in the wind, subtle neon reflections, cool and sophisticated atmosphere, Korean fashion editorial aesthetic"
+    }
+   ],
+   "img": "img/comp/mvdw96ay.jpg?v=1792332100404",
+   "pos": "32.0% 50.0%"
   }
  ],
- "updatedAt": 1792332092979
+ "updatedAt": 1792332100841
 };

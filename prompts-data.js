@@ -5712,8 +5712,9 @@ window.PROMPT_DATA = {
     }
    ],
    "img": "img/base/mvdy9on5.jpg?v=1792335483327",
-   "pos": "50% 50%"
+   "pos": "50% 50%",
+   "soon": true
   }
  ],
- "updatedAt": 1792335484087
+ "updatedAt": 1792335701216
 };

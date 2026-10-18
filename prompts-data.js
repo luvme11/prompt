@@ -7056,7 +7056,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzyhz2.jpg?v=1792338320948",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvdzyons",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::white cropped lace cardigan with black ribbon and short sleeves::, black sleeveless long dress with white layered frill, white high heels"
+    }
+   ],
+   "img": "img/look/mvdzyons.jpg?v=1792338329464",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338321747
+ "updatedAt": 1792338330057
 };

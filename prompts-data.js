@@ -1999,7 +1999,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvd7ir.jpg?v=1792330609056",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvdvde33",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, from above, 1.5::lying, on back, on floor::, school uniform, blazer, necktie, blood, nosebleed, bruise, sweat, crying, tears, grimace, open mouth, arm up,"
+    }
+   ],
+   "img": "img/comp/mvdvde33.jpg?v=1792330617415",
+   "pos": "52.2% 50.0%"
   }
  ],
- "updatedAt": 1792330609509
+ "updatedAt": 1792330617846
 };

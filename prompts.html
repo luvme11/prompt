@@ -106,7 +106,7 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':
 const hl = s => esc(s).replace(/==(.+?)==/g, '<mark>$1</mark>');
 const D = window.PROMPT_DATA || {}, ITEMS = D.items || [];
 const P = Object.assign({title:'Prompt\nArchive',sub:'AI IMAGE PROMPTS',name:'',handle:'',avatar:'',text:'',tags:[]}, D.profile || {});
-const TABS = [{k:'intro',label:'소개'},{k:'comp',label:'구도',grid:1},{k:'look',label:'룩',grid:1},{k:'base',label:'기본 프롬프트'}];
+const TABS = [{k:'intro',label:'소개'},{k:'comp',label:'구도',grid:1},{k:'look',label:'룩',grid:1},{k:'base',label:'기본 프롬프트',grid:1}];
 const codesOf = it => it.codes && it.codes.length ? it.codes : (it.code ? [{label:'',text:it.code}] : []);
 const NUM = {}; ['comp','look','base'].forEach(k => ITEMS.filter(i=>i.tab===k).forEach((p,i) => NUM[p.id] = i+1));
 const nameOf = p => p.name ? hl(p.name) : '#' + NUM[p.id];

@@ -2415,7 +2415,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvo6ho.jpg?v=1792331120958",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdvocue",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gunmetal and red theme, mechanic, garage, lying on back, on floor, propped up on elbow, knees up, legs together, garage floor, holding wrench, thumbs up, grin, grease stain, bandana, tank top, coveralls, clothes around waist, steel toe boots, socket wrench earring, spark plug necklace, duct tape bracelet, tool belt, racing gloves, car, tire, exhaust pipe, oil puddle, piston, checkered flag, license plate,"
+    }
+   ],
+   "img": "img/comp/mvdvocue.jpg?v=1792331129010",
+   "pos": "81.6% 50.0%"
   }
  ],
- "updatedAt": 1792331121389
+ "updatedAt": 1792331129465
 };

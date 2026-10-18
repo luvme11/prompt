@@ -432,7 +432,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtrary.jpg?v=1792327907252",
    "pos": "50.0% 6.0%"
+  },
+  {
+   "id": "mvdtrukc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "full-body sitting pose, gentle doll-like posture, holding balloon ribbons with both hands, surrounded by floating red balloons and white heart-shaped balloons, soft draped satin background, high-key studio lighting, elegant and whimsical atmosphere, red-and-white color scheme, fantasy photoshoot style, centered composition, straight-on camera angle, dreamy aesthetic,"
+    },
+    {
+     "label": "의상",
+     "text": "red frilled dress, ribbon bow accents, large matching head bow, white knee socks with red ribbon details, glossy red mary jane shoes, layered ruffles, elegant lolita-inspired outfit"
+    }
+   ],
+   "img": "img/comp/mvdtrukc.jpg?v=1792327932958",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792327907691
+ "updatedAt": 1792327933400
 };

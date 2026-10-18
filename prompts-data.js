@@ -32,7 +32,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, sitting on ground, reclining, leaning against motorcycle, looking at viewer, winking, open mouth, one arm raised, cropped top, sleeveless top, cropped tank top, baggy pants, low-rise pants, belt, oversized boots, gloves, goggles, helmet, motorcycle, road, blue sky, clouds, mountains, summer, sunny day, outdoor, roadside, casual streetwear, biker fashion, dynamic composition"
     }
    ],
-   "img": "img/comp/mvdspckr.jpg?v=1792326136590"
+   "img": "img/comp/mvdspckr.jpg?v=1792326136590",
+   "pos": "90.9% 50.0%"
   },
   {
    "id": "mvdsptuk",
@@ -59,5 +60,5 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvdsq1et.jpg?v=1792326168845"
   }
  ],
- "updatedAt": 1792326950678
+ "updatedAt": 1792326954532
 };

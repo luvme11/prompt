@@ -19,7 +19,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, lying down, reclining, looking at viewer, winking, open mouth, hand near face, bent knees, legs raised, top-down view, overhead view, twin tails, hair ribbons, cat ear headband, frilled dress, pink dress, white dress, lolita fashion, layered skirt, puff sleeves, detached sleeves, thighhighs, bows, lace, ribbons, heart motifs, pastel colors, stuffed animal, plushie, medical equipment, electronic devices, cables, futuristic room, bedroom, messy room, pink room, soft lighting, cute atmosphere, detailed background, dynamic composition"
     }
    ],
-   "img": "img/comp/mvdsb7zx.jpg?v=1792325477669"
+   "img": "img/comp/mvdsb7zx.jpg?v=1792325477669",
+   "pos": "86.0% 50.0%"
   },
   {
    "id": "mvdspckr",
@@ -58,5 +59,5 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvdsq1et.jpg?v=1792326168845"
   }
  ],
- "updatedAt": 1792326169274
+ "updatedAt": 1792326950678
 };

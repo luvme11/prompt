@@ -3457,7 +3457,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwdq2o.jpg?v=1792332312670",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdwe2eb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "dark purple plaid background, gothic rounded frame, pink inner border, sticker style, white outline, ghost stickers, bat stickers, bear stickers, dripping paint border, spiderweb corner, crescent moon, cross marks, sparkles, flat illustration, upper body, standing, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "dark purple gothic lolita dress, trailing bell sleeves, lace cuffs, cloud collar, pink ribbon bows, corset panel, layered ruffles, frilled headband, bat hair clip, black wrist cuffs, cross pendant, pom pom accessories,"
+    }
+   ],
+   "img": "img/comp/mvdwe2eb.jpg?v=1792332328448",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792332313132
+ "updatedAt": 1792332329057
 };

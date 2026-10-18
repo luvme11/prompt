@@ -2857,7 +2857,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvzpb6.jpg?v=1792331658386",
    "pos": "19.5% 50.0%"
+  },
+  {
+   "id": "mvdvzvov",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, full body, lying, on back, on couch, arms up, arm behind head, hand up, claw pose, knee up, looking at viewer, parted lips, jirai kei, black crop top, harness, black elbow gloves, 1.2::torn gloves::, pink skirt, frilled skirt, garter straps, thigh ribbon, asymmetrical legwear, black thighhighs, thigh boots, spiked armlet, armband, wrist cuffs, black choker, studded belt, midriff, sharp fingernails, bat hair ornament, 1.3::eyeball hair ornament::, 1.2::spiked hairband::, bat wings, pointy ears, couch, chain, thorns, eyeball, heart, dark background, vignetting,"
+    }
+   ],
+   "img": "img/comp/mvdvzvov.jpg?v=1792331666779",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792331658864
+ "updatedAt": 1792331667226
 };

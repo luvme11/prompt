@@ -63,7 +63,7 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 .tl .lb{position:absolute;left:0;right:0;bottom:0;padding:18px 8px 7px;background:linear-gradient(transparent,rgba(0,0,0,.6));color:#fff;font-size:9.5px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .tl .ok{position:absolute;inset:0;display:none;place-items:center;background:rgba(42,42,42,.78);color:#fff;font-size:11px;font-weight:700}
 .tl.done .ok{display:grid}
-.heart{position:fixed;top:22px;right:38px;font-size:15px;color:#b9b9b9;text-decoration:none;display:none}.heart.on{display:block}.heart:hover{color:#666}
+.heart{position:fixed;top:22px;right:38px;font-size:15px;color:#b9b9b9;text-decoration:none}.heart.off{pointer-events:none;cursor:default;opacity:.5}.heart:hover{color:#666}
 .pgn{display:flex;justify-content:center;align-items:center;gap:4px;margin:22px 0 4px}
 .pgn button{min-width:26px;height:26px;padding:0 6px;border-radius:13px;font-size:10px;font-weight:700;color:#777}
 .pgn button:hover:not(:disabled){background:#f0f0f0;color:#111}.pgn button.on{background:#2a2a2a;color:#fff}.pgn button:disabled{opacity:.25;cursor:default}
@@ -102,7 +102,8 @@ $('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
 $('#sub').textContent = P.sub; $('#nm').textContent = P.name; $('#hd').textContent = P.handle;
 if (P.avatar) $('#av').innerHTML = `<img src="${esc(P.avatar)}" alt="">`;
 document.title = P.title.replace('\n',' ');
-if (localStorage.getItem('pa_owner')) $('#heart').classList.add('on');
+if (/[?&]admin\b/.test(location.search)) try{ localStorage.setItem('pa_owner','1'); }catch(e){}
+if (!localStorage.getItem('pa_owner')){ $('#heart').classList.add('off'); $('#heart').removeAttribute('href'); }
 
 function pager(pg, pages){
   if (pages < 2) return '';

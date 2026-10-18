@@ -2948,7 +2948,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw0uob.jpg?v=1792331711879",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdw1bo5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, dynamic pose, standing on one leg, knee up, outstretched leg, foreshortening, leaning back, arm up, holding pom poms, open mouth, looking at viewer, 1.4::heart background::, 1.3::heart::, large heart, heart print, black sparkles, diagonal pink tape, x mark, gradient background, polka dot background, plaid, chain, lipstick tube, heart-shaped bag, pink theme, pink and black, jirai kei, crop top, midriff, detached sleeves, neck ribbon, layered frilled skirt, thigh strap, striped thighhighs, single thighhigh, platform footwear, mini hat, white border"
+    }
+   ],
+   "img": "img/comp/mvdw1bo5.jpg?v=1792331734111",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792331712324
+ "updatedAt": 1792331734559
 };

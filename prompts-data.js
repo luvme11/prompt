@@ -1804,7 +1804,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv5tfy.jpg?v=1792330264190",
    "pos": "80.0% 50.0%"
+  },
+  {
+   "id": "mvdv81xq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "standing, holding phone, selfie, mirror selfie, biting, biting clothes, spider-man mask in mouth, upper body, bodysuit, spider-man suit, superhero uniform, red clothes, blue clothes, web pattern, spider print, gloves, red gloves, sweatpants, grey pants, loose pants, drawstring, smartphone, cellphone, phone case, indoor,"
+    }
+   ],
+   "img": "img/comp/mvdv81xq.jpg?v=1792330368587",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792330264627
+ "updatedAt": 1792330369030
 };

@@ -2727,7 +2727,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvtnqp.jpg?v=1792331376548",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdvtvwm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, knees up, leaning back, hand near face, looking at viewer, from below, dutch angle, foreshortening, oversized sweater, sleeves past wrists, loose socks, off shoulder, dangling earrings, glasses, bow, stuffed animal, chibi mascot, speech bubble, pixel heart, star (symbol), sparkle, polka dot, polka dot background, halftone, halftone background, hot pink theme, layered text, sticker (medium), bold outline, y2k aesthetic, yami kawaii, cyberpop, pop art,"
+    }
+   ],
+   "img": "img/comp/mvdvtvwm.jpg?v=1792331387058",
+   "pos": "50.0% 4.0%"
   }
  ],
- "updatedAt": 1792331376993
+ "updatedAt": 1792331387494
 };

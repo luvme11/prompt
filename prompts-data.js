@@ -4106,7 +4106,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwwtqp.jpg?v=1792333204044",
    "pos": "36.4% 50.0%"
+  },
+  {
+   "id": "mvdwx0m6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Futuristic black and hot pink nurse outfit, a cropped white medical jacket with black piping details, asymmetrical pink vinyl panels, a fitted black inner top, oversized transparent utility pockets, a glossy pink cross-shaped chest ornament, silver buckles, black detachable sleeves, semi-transparent medical-themed accessories, small capsule-shaped charms, a black choker with a silver clasp, neon pink trim, futuristic platform boots.\nSolo female character, dramatic low angle, extreme low-angle close-up, camera positioned below the character’s face and chest, viewed from underneath, strong upward perspective, dynamic foreshortening, leaning upper body, diagonal body composition, face placed at the upper center of the frame, chest and shoulders filling the lower half of the frame, face appearing closer to the camera, perspective emphasizing the face, upper body leaning toward the viewer, head slightly tilted to one side, both elbows bent and raised, both palms gently pressing her cheeks inward, fingers naturally spread beside her face, hands framing her cheeks, shoulders slightly raised, looking down at the viewer, large sparkling eyes, playful lips, slightly puffed cheeks, soft blush, a cute teasing expression, tight upper-body shot, the character filling about 85% of the canvas, framing that emphasizes the face and hands, soft pink and white lighting, a blurred futuristic medical laboratory background, small floating pink hearts, glossy neon reflections,"
+    }
+   ],
+   "img": "img/comp/mvdwx0m6.jpg?v=1792333212837",
+   "pos": "57.6% 50.0%"
   }
  ],
- "updatedAt": 1792333204481
+ "updatedAt": 1792333213289
 };

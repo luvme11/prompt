@@ -1843,7 +1843,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv8eze.jpg?v=1792330385523",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdv8l2p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "holding game controller, looking back, looking over shoulder, playing video games, pov, foreshortening, disembodied hand, expressionless, bandaid on face, jacket, hoodie, black jacket, red sleeves, white hood, text on clothes, number, game controller, retro console, television, crt tv, screen, messy room, desk, drawer, sticker, poster, key, rubik's cube, can, cola, basketball, pizza, indoors,"
+    }
+   ],
+   "img": "img/comp/mvdv8l2p.jpg?v=1792330393335",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792330385957
+ "updatedAt": 1792330393780
 };

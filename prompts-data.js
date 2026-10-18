@@ -2636,7 +2636,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvrz3o.jpg?v=1792331297807",
    "pos": "44.0% 50.0%"
+  },
+  {
+   "id": "mvdvskl1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, three-quarter view, looking at viewer, holding mask, fox mask, covering one eye, hand up, night, festival, paper lantern, red spider lily, hair ornament, fireworks, kimono, wide sleeves, japanese clothes, hair between eyes, parted lips, light particles, bokeh, blurry background, glowing, cinematic lighting, dark theme, red theme,"
+    }
+   ],
+   "img": "img/comp/mvdvskl1.jpg?v=1792331325950",
+   "pos": "41.3% 50.0%"
   }
  ],
- "updatedAt": 1792331298279
+ "updatedAt": 1792331326396
 };

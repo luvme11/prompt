@@ -7574,7 +7574,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0cc5j.jpg?v=1792338966253",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0chlw",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "office siren, tight knit, navy knit, v-neck knit, long sleeves, plunging neckline, collarbone, layered shirt, white collared shirt, white sleeve cuffs, silver belt, black pencil skirt, microskirt, pantyhose, knee boots, pearl earrings, black over-rim eyewear,"
+    }
+   ],
+   "img": "img/look/mve0chlw.jpg?v=1792338973269",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338966710
+ "updatedAt": 1792338974365
 };

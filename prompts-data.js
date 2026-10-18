@@ -1662,7 +1662,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv31xs.jpg?v=1792330135114",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdv3cv7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "gradient background, colorful background, abstract background, blurred background, bokeh, stage lighting, sparkles, light, cute, energetic, cheerful, dreamy, bright, idolesque, pop, sparkling, playful, adorable, bust up, v, peace sign, double v, wink, smile, from front, head tilt."
+    },
+    {
+     "label": "의상",
+     "text": "lopunny beanie, black beanie,  beanie with patch, patch, text on hat, beanie tail, hoodie, white hoodie, suspenders, overalls, overalls under hoodie, overalls straps, microphone, headset microphone, wristband, blue wristband, long sleeves, layered clothing"
+    }
+   ],
+   "img": "img/comp/mvdv3cv7.jpg?v=1792330149178",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330135564
+ "updatedAt": 1792330149651
 };

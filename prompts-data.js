@@ -1349,7 +1349,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdur2zh.jpg?v=1792329576548",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdur8sj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "smoking, holding cigarette, hand to face, looking at viewer, outdoors, blue sky, clear sky, sunny, natural lighting, close up, aesthetic, film grain, cinematic lighting, depth of field, solo focus, white lace gloves, lace headscarf, pink roses, flower on head, flower petals on face, white lace, white flowers, bare shoulders,"
+    }
+   ],
+   "img": "img/comp/mvdur8sj.jpg?v=1792329584067",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792329577018
+ "updatedAt": 1792329584537
 };

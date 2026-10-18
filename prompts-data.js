@@ -6384,7 +6384,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz1p7a.jpg?v=1792336790477",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz1w6k",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "mint striped headscarf, 1.2::white frilled apron, tan apron, ruffle trim::, ivory blouse, lace collar, light brown pants, frilled shorts, striped over knee socks, hair ribbon, mary janes,"
+    }
+   ],
+   "img": "img/look/mvdz1w6k.jpg?v=1792336799300",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336790927
+ "updatedAt": 1792336800239
 };

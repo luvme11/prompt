@@ -7770,7 +7770,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0f7em.jpg?v=1792339100295",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0ffv1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "narutomaki hair ornament, green hair ribbon, blue headscarf, white heart apron, pink frills, onigiri print apron, white polo shirt, blue collar, neck bell, green ribbon, blue dolphin shorts, white leg warmers, rainbow buttons on leg warmers, bandaid on arm, bandaid on leg, too many bandaid, green converse,"
+    }
+   ],
+   "img": "img/look/mve0ffv1.jpg?v=1792339111280",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339100761
+ "updatedAt": 1792339111890
 };

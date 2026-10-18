@@ -138,7 +138,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtcjlg.jpg?v=1792327218867",
    "pos": "69.6% 50.0%"
+  },
+  {
+   "id": "mvdtcqf6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, lying, on back, from above, looking at viewer, covering mouth, school uniform, holding envelope, envelope, love letter, heart, scattered envelopes, hairband, x hair ornament, hairclip, depth of field, blurry background, white background, pink theme"
+    }
+   ],
+   "img": "img/comp/mvdtcqf6.jpg?v=1792327227712",
+   "pos": "50.0% 50.0%"
   }
  ],
- "updatedAt": 1792327219298
+ "updatedAt": 1792327228145
 };

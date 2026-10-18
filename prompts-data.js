@@ -2311,7 +2311,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvk5jy.jpg?v=1792330932978",
    "pos": "40.7% 50.0%"
+  },
+  {
+   "id": "mvdvkaiu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, top-down view, close-up, holding soldering iron, working, workbench, metal, oil, stain, wrench, bolt, scattered, wire, spool, tape, burn, doodle, napkin, robot, mug, blueprint, worn, light bulb, handwriting, marker, circuit board, indoors, fluorescent lighting, dim lighting, grey theme, copper, yellow theme, warm lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvkaiu.jpg?v=1792330939362",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792330933414
+ "updatedAt": 1792330939808
 };

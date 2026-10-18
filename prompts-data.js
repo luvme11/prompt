@@ -3974,7 +3974,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwrlst.jpg?v=1792332960435",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdws3ji",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "arcade, retro gaming cabinets, neon lights, colorful lighting, blurry background, depth of field, cowboy shot, dynamic pose, hands holding hood, arms up, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "oversized dark hoodie, animal ear hood, light blue collared shirt, red necktie, safety pin, chain accessory, black shorts, thigh strap, black thighhighs, waist accessories, plushie, tamagotchi,"
+    }
+   ],
+   "img": "img/comp/mvdws3ji.jpg?v=1792332983287",
+   "pos": "17.3% 50.0%"
   }
  ],
- "updatedAt": 1792332961508
+ "updatedAt": 1792332984057
 };

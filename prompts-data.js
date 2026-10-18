@@ -8078,7 +8078,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve30r0p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::film photography::, 1.2::grainy texture::, 1.3::santorini::, 1.2::white cave house::, 1.2::balcony::, 1.2::sea view::, 1.2::sitting on chair::, 1.2::holding coffee cup::, 1.3::looking at viewer::, 1.2::eye contact::, 1.3::soft smile::, 1.2::gentle expression::, 1.1::relaxed::, 1.2::from side::, 1.2::head tilt::,1.2::messy hair::, 1.3::white bathrobe::, 1.1::open robe::, 1.1::wedding ring::, outdoors, 1.3::morning light::, 1.2::soft sunlight::, 1.2::calm sea::, bright, airy, 1.2::candid::, honeymoon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792343444684
+ "updatedAt": 1792343463325
 };

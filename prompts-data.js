@@ -7098,7 +7098,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzz0pb.jpg?v=1792338344905",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvdzz6z8",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black bonnet with white ribbons and black roses, 2::white sleeveless long dress, layered frill dress, black strap sleeves::, bare arms, black ribbon around the waist, black merijane hills with ankle strap"
+    }
+   ],
+   "img": "img/look/mvdzz6z8.jpg?v=1792338353043",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338345525
+ "updatedAt": 1792338353499
 };

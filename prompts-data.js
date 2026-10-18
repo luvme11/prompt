@@ -229,7 +229,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtik4b.jpg?v=1792327499505",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvdtir3e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::sitting on the edge of a high metal platform::, side profile, one knee raised, legs hanging over the edge, 1.4::one arm extended into the rain, open hand reaching outward::, looking at the outstretched hand, wind sweeping the clothing backward,\n\noversized dark hooded jacket with a fur-trimmed collar, long sleeves, short bottoms, lace-up combat boots, patch on the upper sleeve,\n\n1.5::industrial machinery beneath the platform::, exposed joints, hanging cables and chains, dense futuristic city in the background, tall buildings covered in glowing vertical signs, rainy night,\n\nvisible rain streaks, cyan neon signs, soft pink lights below, cool blue-gray palette, wet surfaces catching the city lights, atmospheric depth, full body, vertical composition"
+    }
+   ],
+   "img": "img/comp/mvdtir3e.jpg?v=1792327508546",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792327499932
+ "updatedAt": 1792327508993
 };

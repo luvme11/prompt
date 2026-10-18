@@ -691,7 +691,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu9bbv.jpg?v=1792328747686",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdu9o52",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "medium shot, dynamic angle, outdoor street background, bright daylight, high-contrast warm lighting, vivid yellow and earthy tones, energetic summer atmosphere, leaning forward pose, one hand resting near the thigh, other arm bent casually, playful and confident attitude, slight head tilt, engaged eye direction,\n\n1girl, anime style, pale skin, light beige blonde hair, bob cut, small right side ponytail, pink ribbon, see-through bangs, light pink eyes, long eyelashes, small nose, embarrassed, clean lineart, soft shading, pastel colors, \n\n yellow ruffled crop top, yellow lace arm warmers with brown fur cuffs, leopard print beret, layered gold necklaces, brown utility belt with pouches, camouflage mini skirt, lace thigh garter"
+    },
+    {
+     "label": "의상",
+     "text": "yellow ruffled crop top, yellow lace arm warmers with brown fur cuffs, leopard print beret, layered gold necklaces, brown utility belt with pouches, camouflage mini skirt, lace thigh garter"
+    }
+   ],
+   "img": "img/comp/mvdu9o52.jpg?v=1792328764364",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792328748118
+ "updatedAt": 1792328764797
 };

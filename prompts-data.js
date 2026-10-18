@@ -1589,7 +1589,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv1unr.jpg?v=1792330079257",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdv25ww",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "front view, dynamic pose, mid-air, action, looking down, 1::stage lighting::, spotlight, dramatic lighting, purple lighting, backlighting, shadow, glow, character focus, upper body, cinematic composition, aesthetic,"
+    },
+    {
+     "label": "의상",
+     "text": "serious, black electric guitar, playing guitar, guitar strap,  black t-shirt,  rolled up sleeves, sleeve rolled up,  short sleeves, silver bracelet,"
+    }
+   ],
+   "img": "img/comp/mvdv25ww.jpg?v=1792330093667",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792330079710
+ "updatedAt": 1792330094273
 };

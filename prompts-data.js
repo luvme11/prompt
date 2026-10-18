@@ -4743,7 +4743,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxcfoh.jpg?v=1792333932151",
    "pos": "50.0% 46.0%"
+  },
+  {
+   "id": "mvdxcm4e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, 1woman, sexy seductive aura, sultry half-lidded eyes, alluring pose, arched back, tilted hips, one hand on waist, torso slightly twisted.\n\nWhite off-shoulder cropped top covering only the breasts, bare shoulders, exposed midriff, long white cotton pants, low-rise waist, thin black underwear straps visible above the waistband.\n\nLarge intricate black floral tattoo covering one entire arm from shoulder to wrist, extending seamlessly across the ribs and side waist, black roses, blooming flowers, thorny vines, delicate leaves, intricate botanical patterns, body-hugging tattoo composition.\n\nSensual fashion editorial, elegant dark allure, detailed linework, refined shading."
+    }
+   ],
+   "img": "img/comp/mvdxcm4e.jpg?v=1792333940451",
+   "pos": "50.0% 6.0%"
   }
  ],
- "updatedAt": 1792333932907
+ "updatedAt": 1792333940931
 };

@@ -5476,7 +5476,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxvj1c.jpg?v=1792334823025",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdxvqq1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cropped baby blue adidas track jacket with puff sleeves, 1.3::white adidas trefoil logo and three stripes::, white frilly bandeau underneath, white tiered ruffle mini skirt with pearl trim, white knee-high boots with ribbon laces, sitting at cafe table, chin on hands, eating strawberry cake, looking at viewer, pastel dessert cafe, pink walls, cake display, soft light, cute, girly"
+    }
+   ],
+   "img": "img/comp/mvdxvqq1.jpg?v=1792334833094",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792334823479
+ "updatedAt": 1792334833560
 };

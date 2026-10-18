@@ -623,7 +623,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu2oco.jpg?v=1792328438040",
    "pos": "50.0% 8.0%"
+  },
+  {
+   "id": "mvdu2zf7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "bright indoor lifestyle scene, pastel-toned kitchen setting, warm and soft lighting, cheerful and cozy mood, colorful props filling the background, subject-centered composition, medium framing, playful cooking-themed setup, one hand holding a whisk, other hand resting on the waist, clean focus, lively and cute atmosphere,"
+    },
+    {
+     "label": "의상",
+     "text": "white chef hat with soft pastel decorations, pink and yellow striped apron dress with ruffled edges, heart-shaped chest detail, pastel pink shoulder straps, matching waist pocket, white choker-style accessory, bracelet accessories"
+    }
+   ],
+   "img": "img/comp/mvdu2zf7.jpg?v=1792328452373",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792328438497
+ "updatedAt": 1792328452814
 };

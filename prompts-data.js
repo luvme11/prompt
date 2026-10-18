@@ -3542,7 +3542,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwgpny.jpg?v=1792332452303",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdwh1sx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "maid cafe interior, pink themed room, otaku subculture decor, plushies on shelves, heart motifs, frilled tablecloth, cafe table and chairs, menu board, checkered floor, neon sign, fairy lights, lace curtains, soft lighting, from above, looking up at viewer, leaning forward, head tilt, hands making heart, wink, one leg raised,"
+    },
+    {
+     "label": "의상",
+     "text": "pink maid dress, white frilled apron, puff sleeves, ribbon collar, frilled maid headband, mary jane shoes, cat ears, cat tail,"
+    }
+   ],
+   "img": "img/comp/mvdwh1sx.jpg?v=1792332468577",
+   "pos": "50.0% 60.0%"
   }
  ],
- "updatedAt": 1792332453379
+ "updatedAt": 1792332469519
 };

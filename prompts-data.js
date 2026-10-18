@@ -4808,7 +4808,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxdybn.jpg?v=1792334003100",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdxe3uo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::lying upside down over the edge of a sofa::,upper body,lounging,one arm hanging down,holding a game controller,looking at the viewer,oversized white T-shirt,blue plaid pajama pants,holding a rabbit plush on the stomach,living room,brown fabric sofa,warm sunset lighting,soft indoor lighting,book on the sofa,black-rimmed glasses,cozy atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvdxe3uo.jpg?v=1792334010313",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792334003558
+ "updatedAt": 1792334010769
 };

@@ -8008,7 +8008,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0lom1.jpg?v=1792339402504",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve2uw5y",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2.5::Three-Quarter Back View, close-up of the face, long shot, focus on the subject, low angle, back view::, looking back over the shoulder, 2::floating luminous dust, scattered glowing particles::, blurred trees lined along the edge, shrouded in mist, a radiant horizon, subtle backlighting, 2::glass flowers, frozen flower field, delicate frost::, atmospheric perspective, lace white parasol, lace at the edge of the parasol, 1.5::entire parasol canopy visible, fully opened parasol, fully extended canopy, parasol tilted diagonally::, white headband cool gray-blue, soft ivory, soft diffused lighting, gentle ambient illumination, delicate shadows, smooth tonal transitions, Pearlescent highlights, Dreamy romantic atmosphere, elegant, classic, white balloon dress, soft fabric folds dress, gathered satin skirt, satin corset dress, 1.5::[색상] satin opera gloves, fur texture, a huge [색상] ribbon decoration at the waist::, bare legs, muted pastel palette, low-saturation colors, dusty pink, pale blush pink,"
+    }
+   ],
+   "img": "img/comp/mve2uw5y.jpg?v=1792343191715",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339402971
+ "updatedAt": 1792343192187
 };

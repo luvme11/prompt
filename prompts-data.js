@@ -2805,7 +2805,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvvcxa.jpg?v=1792331456165",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvvj5k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, sitting on stairs, knees up, hugging own legs, looking up, turning head, from above, school uniform, collared shirt, long sleeves, red bowtie, cherry blossoms, falling petals, outdoors, day, stone stairs, depth of field, blurry background, dappled sunlight,"
+    }
+   ],
+   "img": "img/comp/mvdvvj5k.jpg?v=1792331463940",
+   "pos": "39.1% 50.0%"
   }
  ],
- "updatedAt": 1792331456602
+ "updatedAt": 1792331464851
 };

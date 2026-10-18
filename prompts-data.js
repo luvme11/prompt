@@ -5115,7 +5115,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxl92u.jpg?v=1792334343535",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdxlm4x",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "vertical portrait, medium shot from head accessory to thighs, slightly high angle, subject seated and angled toward camera, both hands raised near the face, one hand touching glasses frame and the other cupped beside the cheek, elbows out forming a triangular silhouette, head tilted, direct gaze at camera, tightly framed and dense composition, bedroom wall fully collaged with fashion magazine tear sheets showing models and boots, leopard print bedding at lower left, fluffy brown faux fur blanket at right with a studded leopard bag, direct on-camera flash with soft shadows on the wall, warm saturated colors, slightly grainy late-2000s Japanese gyaru magazine editorial look,"
+    },
+    {
+     "label": "의상",
+     "text": "leopard print camisole bodysuit with sheer black mesh sleeve layer, vintage-wash denim hot shorts with yellow-faded patches, wide leopard faux fur belt with large black square studded buckle, black thigh-high stockings with leopard print top band, oversized tortoiseshell glasses with bow detail on the frame, sequin and pearl hair accessory, wide leopard cuff on one wrist, stacked leopard and gold bangles on the other arm, layered long chain necklaces with cross pendant and coin charm, chunky rings, Y2K gyaru style"
+    }
+   ],
+   "img": "img/comp/mvdxlm4x.jpg?v=1792334360346",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792334343979
+ "updatedAt": 1792334360794
 };

@@ -73,7 +73,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdt7psm.jpg?v=1792326993704",
    "pos": "68.0% 50.0%"
+  },
+  {
+   "id": "mvdt7x2n",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, upper body, looking at viewer, expressionless, closed mouth, blush, head tilt, arm up, hand on goggles, adjusting goggles, hand on own head, ski goggles, goggles on head, single hair bun, side bun, hair bow, white bow, hair ribbon, star hair ornament, hairclip, bandaid on face, bandaid on nose, bandages, angel wings, white wings, feathered wings, single wing, jacket, white jacket, oversized jacket, track jacket, zipper, o-ring, high collar, long sleeves, sleeves past wrists, patch, heart patch, wing patch, blue heart, sparkle, squiggle, simple background, white background, grid background, graph paper, flat color, sketch, lineart, limited palette, light blue, white and blue, pastel colors, high key, bright"
+    }
+   ],
+   "img": "img/comp/mvdt7x2n.jpg?v=1792327002947",
+   "pos": "42.9% 50.0%"
   }
  ],
- "updatedAt": 1792326994129
+ "updatedAt": 1792327003381
 };

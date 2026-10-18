@@ -8162,7 +8162,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve3ad5c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::romantic upper-body bridal shot from the waist up, standing softly among flowers, one hand delicately touching a white rose, body slightly angled::, 1.3::soft dreamy expression, tender gentle smile, warm serene gaze::, 1.3::minimalist strapless white satin ball gown, clean draped bodice, elegant fitted waist, full flowing skirt::, 1.3::simple pearl earrings, delicate thin bracelet::, 1.3::bright airy natural light with a soft warm glow::, white and cream roses with fresh greenery surrounding, clean bright backdrop, 1.3::vivid fresh colors, high saturation, glossy, luminous::, dreamy elegant bridal atmosphere, crisp detail, high quality"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792343881565
+ "updatedAt": 1792343912053
 };

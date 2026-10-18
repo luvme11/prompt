@@ -7532,7 +7532,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0bvbi.jpg?v=1792338944505",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0c0ue",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "office siren, grey dress, gray juliet sleeves, square neckline, collarbone, 2::id card::, gray taut skirt, microskirt, double-breasted, garter belt, lace-trimmed thighhighs, black over-rim eyewear, black high heels, black leather mini handbag got leopard fur charm,"
+    }
+   ],
+   "img": "img/look/mve0c0ue.jpg?v=1792338951726",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338945132
+ "updatedAt": 1792338952199
 };

@@ -6160,7 +6160,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdytc6e.jpg?v=1792336400704",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdytj9c",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red plaid pinafore ruffled dress, button front, white blouse, long sleeves, ruffled collar, frilled hem, lace trim, white socks, red plaid hair ribbons, red mary janes,"
+    }
+   ],
+   "img": "img/look/mvdytj9c.jpg?v=1792336409642",
+   "pos": "50.0% 12.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336401332
+ "updatedAt": 1792336410253
 };

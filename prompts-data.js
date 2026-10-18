@@ -5648,7 +5648,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxz6ed.jpg?v=1792334993351",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdxzdm4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, \n1.5::three-quarter view::, 1.5::head tilted slightly upward, chin raised::, face turned slightly to the side, eyes closed, serene expression, calm face,\n\n2::holding a birdcage in both hands::, vintage metal birdcage, ornate birdcage held at chest height,\n2::birdcage filled with butterflies::, butterflies inside the cage, butterflies pressed against cage bars, a few butterflies escaping through the bars,\n\nbride, wedding dress, vintage lace wedding dress, lace collar, puff sleeves,\n\n2.5::butterfly wing veil::, 2::veil shaped like butterfly wings::, 1.5::veil attached to head, spreading out from both sides of head::, wing-shaped veil draping down over shoulders,\n1.5::translucent wing membrane fabric::, sheer veil with butterfly wing vein pattern, wing eyespot patterns on veil, scalloped wing-shaped edges,\n1.5::iridescent colored veil::, stained glass-like wing colors, light shining through the veil,\n\n1.5::butterflies clinging to hands and fingers::, 1.5::small butterflies perched on body::, butterflies on shoulders, butterflies on neck and collarbone, butterflies on sleeves, butterflies in hair,\n1.2::big butterfly resting on cheek::,\n1.5::butterflies of different colors::, each butterfly a different color,\n\n2::facing toward the light::, 2::light coming from the direction she is looking::, 1.5::stained glass window light from the side in front of her::, diagonal light rays falling on her face,\n2::stained glass light falling on face::, 1.5::colored light patterns projected on skin::, patches of blue red and gold light on cheek and neck, prismatic light,\nface and front of body lit, back of head and hair in soft shadow, dust particles in light rays,\nmuted dark background, film photography tone, soft muted pastel colors, dreamy, delicate, vintage romantic mood, sacred atmosphere,\n\nbest quality, masterpiece, detailed, atmospheric"
+    }
+   ],
+   "img": "img/comp/mvdxzdm4.jpg?v=1792335002515",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792334993812
+ "updatedAt": 1792335003150
 };

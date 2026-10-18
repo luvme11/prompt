@@ -5416,7 +5416,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxufmz.jpg?v=1792334771926",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdxum6v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::white embroidered lace bralette and high-waist lace panties, satin ribbon details::, white lace garter, 1.2::standing by window, body angled three-quarters away, looking back over shoulder, one hand holding sheer curtain, other hand resting on hip, weight on one leg::, three-quarter back view, cowboy shot, slightly low angle, 1.2::soft innocent gaze, gentle closed-mouth smile, faint blush::, strong backlight through curtains, rim light on silhouette, hazy glow, airy, romantic, bridal boudoir"
+    }
+   ],
+   "img": "img/comp/mvdxum6v.jpg?v=1792334780212",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792334772391
+ "updatedAt": 1792334780676
 };

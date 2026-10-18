@@ -7896,7 +7896,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0jx4b.jpg?v=1792339320131",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0khrr",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink cable-knit sweater, white frilled collar, lace trim, 1.5::brown polka-dot pleated long skirt::, white lace hem, button detail, cream socks, brown loafers, platform shoes, pink polka-dot hair bow, lace-edged bow, brown leather handbag, pink bow on bag, white lace trim on bag, 2.0::pink-rimmed glasses::, smartphone"
+    }
+   ],
+   "img": "img/look/mve0khrr.jpg?v=1792339346958",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339320588
+ "updatedAt": 1792339347575
 };

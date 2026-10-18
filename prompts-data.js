@@ -6804,7 +6804,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz8r4d.jpg?v=1792337119440",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz8z2d",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sweet lolita, country lolita, apple print, 1.5:: gingham, lace-up bodice, red and white check, tiered skirt, mini dress,  short skirt:: lace-up bodice, corset lacing, square neckline, puffy short sleeves, ribbon trim, ruffled skirt, bow, summer dress, red ribbon,"
+    }
+   ],
+   "img": "img/look/mvdz8z2d.jpg?v=1792337129766",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337120543
+ "updatedAt": 1792337130763
 };

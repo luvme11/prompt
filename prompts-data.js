@@ -2506,7 +2506,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvptom.jpg?v=1792331197485",
    "pos": "33.6% 50.0%"
+  },
+  {
+   "id": "mvdvq0a1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "close-up, face focus, portrait, from side, profile, drawing bow, holding bow, bow (weapon), arrow, aiming, one eye closed, wind, hair blowing, moonlight, full moon, silver, light rays, sunbeam, divine, halo, aura, sacred, ethereal, white deer, mist, forest, crescent moon hair ornament, bracelet, light particles, sparkling,"
+    }
+   ],
+   "img": "img/comp/mvdvq0a1.jpg?v=1792331205944",
+   "pos": "42.9% 50.0%"
   }
  ],
- "updatedAt": 1792331198113
+ "updatedAt": 1792331206388
 };

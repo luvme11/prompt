@@ -6314,7 +6314,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyvt60.jpg?v=1792336515772",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvdyvzou",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "grey dress, pinafore dress, ruffle hem, lace trim, white long sleeve shirt, butterfly sleeves, grey beret, hair bow, black frame glasses, handbag, leg warmers, black mary janes,"
+    }
+   ],
+   "img": "img/look/mvdyvzou.jpg?v=1792336524108",
+   "pos": "50.0% 40.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336516258
+ "updatedAt": 1792336524744
 };

@@ -102,8 +102,6 @@ $('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
 $('#sub').textContent = P.sub; $('#nm').textContent = P.name; $('#hd').textContent = P.handle;
 if (P.avatar) $('#av').innerHTML = `<img src="${esc(P.avatar)}" alt="">`;
 document.title = P.title.replace('\n',' ');
-if (/[?&]admin\b/.test(location.search)) try{ localStorage.setItem('pa_owner','1'); }catch(e){}
-if (!localStorage.getItem('pa_owner')){ $('#heart').classList.add('off'); $('#heart').removeAttribute('href'); }
 
 function pager(pg, pages){
   if (pages < 2) return '';

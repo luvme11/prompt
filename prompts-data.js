@@ -1636,7 +1636,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv2q34.jpg?v=1792330119648",
    "pos": "50.0% 4.0%"
+  },
+  {
+   "id": "mvdv2w77",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, sitting, lounging, leaning on hand, relaxed posture, looking at viewer, sleeveless shirt, tank top, black tank top, open jacket, leather jacket, dark clothing, layered necklaces, chain necklace, earrings, accessories, casual fashion, streetwear, indoors, dim room, dramatic shadows, moody lighting, green lighting, ambient lighting, cinematic lighting, spotlight, dark atmosphere, painterly style, modern illustration, messy background, graffiti, nightlife atmosphere, seductive atmosphere, soft glow, contrast lighting,"
+    }
+   ],
+   "img": "img/comp/mvdv2w77.jpg?v=1792330127821",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792330120101
+ "updatedAt": 1792330128267
 };

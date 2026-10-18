@@ -5463,7 +5463,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxvd1f.jpg?v=1792334815178",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdxvj1c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy/girl, solo, full body on the left, 1.4::bust shot on the upper right::, 4::chibi::, only chibi on the lower  right, character sheet style"
+    }
+   ],
+   "img": "img/comp/mvdxvj1c.jpg?v=1792334823025",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792334815648
+ "updatedAt": 1792334823479
 };

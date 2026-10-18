@@ -3026,7 +3026,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw2871.jpg?v=1792331776406",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdw2em8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, close-up,\ncat pose, \"nya\" gesture, hands like paws near face,playful expression, slightly open mouth,\nwearing oversized loose shirt, off-shoulder,subtle cleavage,\n[색상] cat ears, soft and fluffy, [색상] Cat tail, white background,\nclean composition,hearts, sparkles, cute atmosphere,\nclean lineart, soft shading, high detail"
+    }
+   ],
+   "img": "img/comp/mvdw2em8.jpg?v=1792331784479",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792331777007
+ "updatedAt": 1792331785396
 };

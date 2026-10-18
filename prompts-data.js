@@ -1004,7 +1004,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduj23r.jpg?v=1792329202246",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdujnk1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black cat, 1.5::close-up::, upper body, selfie, slightly low angle, head slightly tilted, looking at viewer, half-lidded eyes, open mouth, tongue out, upper teeth visible, playful expression, black shirt, holding a black cat in front of chest, 1.5::holding the cat's front legs up with both hands, one hand supporting each foreleg::, cat's front legs raised on either side of the character's face, paw pads facing viewer, cat facing viewer, amber cat eyes, cat's face centered below the character's chin, hands in foreground, tight framing, indoors, beige wall, warm dim lighting, soft reddish light on face and neck, overhead light, subtle film grain, casual candid photo,"
+    }
+   ],
+   "img": "img/comp/mvdujnk1.jpg?v=1792329230417",
+   "pos": "50.0% 40.0%"
   }
  ],
- "updatedAt": 1792329202834
+ "updatedAt": 1792329231153
 };

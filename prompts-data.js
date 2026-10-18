@@ -2532,7 +2532,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvq5op.jpg?v=1792331212988",
    "pos": "40.7% 50.0%"
+  },
+  {
+   "id": "mvdvqrrl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from below, lying on couch, leaning back, head tilted, arm behind head, holding apple, apple, food to mouth, parted lips, looking to the side, jeans, unbuckled belt, unbuttoned pants, unzipped pants, topless, couch, black background"
+    }
+   ],
+   "img": "img/comp/mvdvqrrl.jpg?v=1792331241845",
+   "pos": "50.0% 8.0%"
   }
  ],
- "updatedAt": 1792331213420
+ "updatedAt": 1792331242280
 };

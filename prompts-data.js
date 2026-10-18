@@ -1606,7 +1606,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv25ww.jpg?v=1792330093667",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdv2i7k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1::from below::, dynamic pose, mid-air, action, looking down, 1::stage lighting::, spotlight, dramatic lighting, purple lighting, backlighting, shadow, glow, character focus, upper body, cinematic composition, aesthetic,"
+    },
+    {
+     "label": "의상",
+     "text": "multiple silver piercing, silver chain necklace, leather bracelet, silver bracelet, multiple bracelets, t-shirt, graphic tee, black t-shirt, loose fit, distressed, ripped, 1::drummer::, playing drums, drumstick, drum, hand focus, holding drumstick,"
+    }
+   ],
+   "img": "img/comp/mvdv2i7k.jpg?v=1792330109785",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792330094273
+ "updatedAt": 1792330110215
 };

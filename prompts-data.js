@@ -8103,7 +8103,7 @@ window.PROMPT_DATA = {
      "text": "two people, a person and another person seen from pov\n[외형넣기], sitting in a desk chair that has been turned around to face the viewer, indoor clothes on, the first two buttons undone and the third still holding so the opening points down and almost shows then closes when they breathe, glasses slipped down the nose, looking over them with a sharp then unsteady stare, a pen still between their fingers\npov person, adult, first person view, standing over the chair, one hand on the armrest, the other on the undone placket without opening the next button, looking down\nsmall study or room with a desk, papers behind them, quiet and precise teasing, almost-exposed at the collar"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve314b2.jpg?v=1792343632638",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8122,5 +8122,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792343616240
+ "updatedAt": 1792343633095
 };

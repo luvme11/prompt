@@ -4899,7 +4899,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxfq6e.jpg?v=1792334085644",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdxg01h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "overhead shot, lying on a bed, looking directly up at the camera, upper body and waist visible, relaxed reclining pose, one arm bent above the head with fingers loosely resting in the hair, the other arm bent beside the face with the hand near the temple, elbows spread apart, slightly tousled posture, wearing a loose white button-up dress shirt with the collar open, black necktie hanging loosely and draped diagonally across the chest, dark blue lanyard around the neck with an ID card dangling near the waist, black trousers worn low on the hips, a small portion of the lower abdomen visible, soft gray satin pillows and bedding, muted dusty-rose upholstered headboard, soft indoor lighting, gentle shadows, casual candid snapshot, slightly tilted composition, close overhead perspective, natural fabric folds, detailed bedding texture, vertical portrait"
+    }
+   ],
+   "img": "img/comp/mvdxg01h.jpg?v=1792334098481",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792334086708
+ "updatedAt": 1792334099564
 };

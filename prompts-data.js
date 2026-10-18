@@ -3177,7 +3177,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw649v.jpg?v=1792331957714",
    "pos": "29.3% 50.0%"
+  },
+  {
+   "id": "mvdw6brb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high-quality gothic nun-inspired dress, black and white Victorian gothic dress, fitted black velvet bodice, square neckline with a white lace bib, delicate black ribbon bow at the chest, small elegant silver cross pendant as a subtle accent, high black collar with a tiny cross ornament, long puffed sleeves, white lace cuffs, layered white lace skirt underneath a long black overskirt, asymmetrical black skirt panels with long pointed ends, intricate white lace trim, black crisscross ribbon details across the front of the skirt, a small understated cross motif incorporated into the skirt decoration, elegant gothic details, modest full-length dress, subtle antique texture, dark black and ivory color palette, refined religious-inspired gothic aesthetic,\n\nmidnight, dark and eerie atmosphere, abandoned old church in the distance, ruined gothic church with a tall pointed steeple, broken weathered architecture, faint crescent moon in a dark cloudy sky, withered leafless trees surrounding the church, mist drifting across the ground, countless pale white flowers spreading across the dark ground, overgrown wild vegetation, scattered broken stones and ruined debris, deep shadows, cold bluish-gray night tones, faint moonlight, mysterious haunting atmosphere, subtle fog, cinematic gothic scenery, dark fairytale atmosphere,\n\nsingle female nun standing at the center, character-focused composition, medium shot to three-quarter shot, character positioned closer to the viewer than the church, face clearly visible and sharply detailed, holding an antique metal lantern in one hand, lantern hanging slightly forward and glowing with an eerie soft blue flame,\n\nthe other arm bent upward with the index finger placed vertically in front of her lips in a clear shh gesture, palm facing inward, index finger touching the center of her lips, remaining fingers naturally curled toward the palm, mysterious gentle expression, slightly tilted head, looking directly toward the viewer as if silently inviting them to follow her, calm but unsettling presence, subtle body turn, natural posture, long flowing hair gently moving in the night breeze, lantern light illuminating her hands and lower face, foreground white flowers partially surrounding the character, abandoned church visible behind her, cinematic depth, atmospheric perspective, centered subject, face and upper body clearly emphasized, highly detailed facial features, detailed hands and fingers, dramatic lighting, gothic fantasy illustration, masterpiece, high quality, ultra detailed, sharp focus, intricate details, cinematic lighting,"
+    }
+   ],
+   "img": "img/comp/mvdw6brb.jpg?v=1792331967520",
+   "pos": "50.0% 6.0%"
   }
  ],
- "updatedAt": 1792331958174
+ "updatedAt": 1792331968117
 };

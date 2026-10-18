@@ -7868,7 +7868,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0jjvx.jpg?v=1792339302933",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0jqnl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white horns, green neck buckle, white t-shirt, dinosaur print shirt, no pants, white leg warmers, barefoot, green dinosaur paw gloves, bone tail,"
+    }
+   ],
+   "img": "img/look/mve0jqnl.jpg?v=1792339311644",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339303386
+ "updatedAt": 1792339312567
 };

@@ -3376,7 +3376,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw9e8r.jpg?v=1792332110767",
    "pos": "47.3% 50.0%"
+  },
+  {
+   "id": "mvdwc4lf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, looking at viewer, light smile, closed mouth, head tilt, sitting, knees up, hugging object, hugging stuffed star, glowing, side braid, hair bun, hair ribbon, hair ornament, crescent earrings, oversized sweater, off shoulder, bare shoulder, sleeves past wrists, blue ribbon, neck ribbon, white pantyhose, giant clam, sitting in shell, seashell, jellyfish, bubble, constellation, ocean, waves, night sky, light trails, water, pink and blue, gradient, fantasy, sparkle"
+    }
+   ],
+   "img": "img/comp/mvdwc4lf.jpg?v=1792332238391",
+   "pos": "35.3% 50.0%"
   }
  ],
- "updatedAt": 1792332111843
+ "updatedAt": 1792332238845
 };

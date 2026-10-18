@@ -1090,7 +1090,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdukvq3.jpg?v=1792329287248",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdul171",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from below, standing over viewer, hand reaching down, looking down at viewer, condescending smile, raised eyebrow, blush, curved horns, spade tail, black mesh long sleeve top, bandeau, low rise cargo skirt, belt chains, combat boots, zebra stripe pattern background, black and neon yellow background, warning tape graphics, arrow stickers, glitch effect graphic, sticker frame, y2k graphic design, flat background, bold contrast,"
+    }
+   ],
+   "img": "img/comp/mvdul171.jpg?v=1792329294289",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792329287675
+ "updatedAt": 1792329294748
 };

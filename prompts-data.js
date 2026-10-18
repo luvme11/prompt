@@ -7364,7 +7364,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve06sxx.jpg?v=1792338708526",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve06z9a",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "y2k fashion, blue t-shirt, fitted t-shirt, short sleeves, graphic t-shirt, scoop neck, wide neckline, layered clothes, black sport bra, bare arms, black chocker, distressed denim, beige denim mini skirt, low rise skirt, short skirt, belt, black belt, wide belts, buckle belt, gray ball cap, english print cap, bare legs, white and red sneakers"
+    }
+   ],
+   "img": "img/look/mve06z9a.jpg?v=1792338716388",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338709155
+ "updatedAt": 1792338716840
 };

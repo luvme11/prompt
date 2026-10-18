@@ -86,7 +86,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdt7x2n.jpg?v=1792327002947",
    "pos": "42.9% 50.0%"
+  },
+  {
+   "id": "mvdt85yx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, upper body, looking away, profile, parted lips, blush, head rest, chin rest, hand on own cheek, leaning on table, headphones, white headphones, hair ornament, hairclip, off shoulder, bare shoulder, camisole, oversized jacket, white jacket, sleeves past wrists, sitting, outdoors, cafe, terrace, table, umbrella, railing, plastic cup, iced drink, straw, smartphone, phone case, bag, chain strap, charm, keychain, flower, vase, signboard, chalkboard, sea, ocean, bridge, city, skyline, blue sky, cloud, sunlight, sunbeam, lens flare, bokeh, depth of field, summer, bright, pastel colors, light blue, white"
+    }
+   ],
+   "img": "img/comp/mvdt85yx.jpg?v=1792327014607",
+   "pos": "71.8% 50.0%"
   }
  ],
- "updatedAt": 1792327003381
+ "updatedAt": 1792327015049
 };

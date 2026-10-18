@@ -939,7 +939,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdui1p9.jpg?v=1792329155006",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdui9jp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "cowboy shot, sitting, holding cup, cafe, indoors, table, window, daytime, soft lighting,"
+    }
+   ],
+   "img": "img/comp/mvdui9jp.jpg?v=1792329165288",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792329155434
+ "updatedAt": 1792329165720
 };

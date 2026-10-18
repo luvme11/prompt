@@ -6930,7 +6930,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzuvjg.jpg?v=1792338151699",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzv1qw",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "short jacket, black vest, sleeveless jacket, frilled shirt, pleated miniskirt, garter belt, fishnet stockings, mismatched legwear, studded belt, chain, cross necklace, spiked choker, chunky boots,"
+    }
+   ],
+   "img": "img/look/mvdzv1qw.jpg?v=1792338159736",
+   "pos": "50.0% 52.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338152310
+ "updatedAt": 1792338160351
 };

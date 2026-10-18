@@ -5450,7 +5450,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxv6bv.jpg?v=1792334806884",
    "pos": "58.6% 50.0%"
+  },
+  {
+   "id": "mvdxvd1f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::ultra cute maximalist sticker collage illustration::,\n1.5::large beautiful upper body character portrait in center::,\n1.4::face clearly visible, gorgeous detailed eyes::,\nplayful leaning pose, cheerful expression, one hand making a heart gesture,\n\n1.4::two tiny highly detailed chibi versions of the same character::,\none chibi hugging an enormous strawberry, another sitting inside a strawberry milk carton,\nmatching hairstyle and recognizable facial features,\n\nextremely dense decorative composition,\nstrawberry milk cartons, glossy red strawberries, whipped cream, heart shaped cookies, pink bows, lace ribbons, tiny teddy bears, candy wrappers, pearl chains, heart shaped sunglasses, miniature cakes, sparkling charms, decorative keychains,\n\nlayered die-cut stickers, overlapping scrapbook paper, torn notebook edges, cute handwritten doodles, decorative postage stamps, tiny heart patterns, gingham fabric textures, glossy sticker outlines,\n\nhot pink, cherry red, creamy white, rich pastel pink,\nhigh saturation, crisp contrast, thick colorful outlines,\nintricate cute accessories, visually rich composition,\nbeautiful unobstructed face, professional anime illustration"
+    }
+   ],
+   "img": "img/comp/mvdxvd1f.jpg?v=1792334815178",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792334807341
+ "updatedAt": 1792334815648
 };

@@ -3151,7 +3151,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw4q2a.jpg?v=1792331892628",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdw4vq0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, upper body shot, front three-quarter view, sweet strawberry picnic outfit, soft pink pinafore dress over a white puff-sleeve blouse, rounded Peter Pan collar, scalloped lace trim, strawberry embroidery on the chest, tiny red ribbon details, pink hooded bonnet with long floppy bunny ears, white flower ornament with a yellow center attached near one ear, soft rounded silhouette, holding a fresh strawberry near the chest, small wicker picnic basket strap visible, baby pink white and strawberry red color palette, blooming garden background, soft spring daylight, gentle cute mood"
+    }
+   ],
+   "img": "img/comp/mvdw4vq0.jpg?v=1792331900282",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792331893059
+ "updatedAt": 1792331900863
 };

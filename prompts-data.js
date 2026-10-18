@@ -5007,7 +5007,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxj7ol.jpg?v=1792334248440",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdxjdso",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Only one person visible. Seductive, slightly shy expression, biting the lower lip, glancing up at the viewer as if caught by their partner. Erotic pose on the living-room sofa, leaning back, one hand gripping the cushion, the other holding the hem of the shirt, legs loosely open, clothes being pulled aside.\n\nFirst-person couple composition: shot from the partner's point of view, close-to-mid, slightly low angle, as if sitting across from them.\n\nModern everyday clothes half-off: oversized shirt slipping from a shoulder, unbuttoned jeans, underwear still on but tugged down, a thin camisole pulled up, socks still on, clothes messy like they did not bother going to the bedroom.\n\nBackground: small modern living room at night, sofa, rumpled throw blanket, TV playing on mute, phone face-down on the table, city light through thin curtains, empty takeout and two glasses."
+    }
+   ],
+   "img": "img/comp/mvdxjdso.jpg?v=1792334256312",
+   "pos": "50.0% 74.0%"
   }
  ],
- "updatedAt": 1792334248879
+ "updatedAt": 1792334256777
 };

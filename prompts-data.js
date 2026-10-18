@@ -6342,7 +6342,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz13w9.jpg?v=1792336762817",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz1baw",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::gothic lolita::, dark red dress, 1.2::capelet::, velvet, victorian, frills, ruffles, lace trim, black lace, frilled bonnet, headdress, black bow, neck bow, long sleeves, white petticoat, bloomers, black shoes, ankle strap,"
+    }
+   ],
+   "img": "img/look/mvdz1baw.jpg?v=1792336772931",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336763593
+ "updatedAt": 1792336773540
 };

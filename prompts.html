@@ -140,9 +140,9 @@ function render(){
   const cur = list.slice((PG-1)*size, PG*size);
   $('#rc').textContent = list.length + ' / ' + all.length;
   const tile = p => { const cs = codesOf(p);
-    return `<div class="tc"><div class="tl">${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}</div><div class="cb">${cs.map((c,k)=>`<button class="cp" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,cs.length)}</button>`).join('')}</div></div>`; };
+    return `<div class="tc"><div class="tl">${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}</div><div class="cb">${cs.map((c,k)=>`<button class="cp" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,cs.length)}</button>`).join('')}</div></div>`; };
   const row = p => { const cs = codesOf(p);
-    return `<div class="it"><div class="sh"><em>${pad(NUM[p.id])}</em><h3>${nameOf(p)}</h3><i></i><span>${esc(t.label)}</span></div>${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy">`:''}
+    return `<div class="it"><div class="sh"><em>${pad(NUM[p.id])}</em><h3>${nameOf(p)}</h3><i></i><span>${esc(t.label)}</span></div>${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy">`:''}
       ${cs.map((c,k)=>`${c.label?`<div class="cl">${esc(c.label)}</div>`:''}<div class="tx">${esc(c.text)}</div><div class="ft"><button class="cp" data-id="${esc(p.id)}" data-c="${k}">복사</button></div>`).join('')}</div>`; };
   $('#body').innerHTML = !list.length ? '<div class="empty">'+(all.length?'검색 결과가 없어요':'아직 올린 프롬프트가 없어요')+'</div>'
   : (t.grid ? `<div class="gd">${cur.map(tile).join('')}</div>` : cur.map(row).join('')) + pager(PG, pages);

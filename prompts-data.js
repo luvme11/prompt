@@ -7602,7 +7602,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0cnwl.jpg?v=1792338981499",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0cuoo",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kawaii, balletcore, black adidas jersey, fitted jersey, zipper, long sleeves, white long skirt, layered skirt, ruffled skirt, - 1::hoop skirt::, white socks, black mary jane shoes,\n\n2: black lace hair band::, black glasses, under-rim eyewear,"
+    }
+   ],
+   "img": "img/look/mve0cuoo.jpg?v=1792338990481",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338981978
+ "updatedAt": 1792338990933
 };

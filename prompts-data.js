@@ -1297,7 +1297,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduoldb.jpg?v=1792329460613",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvduos2h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "classroom, sunlight filtering through window, bright lighting, clean, orderly, tranquil, cinematic lighting, sharp focus, holding a book, school desk, sitting at desk, looking at viewer, side view\nhigh school uniform, japanese school uniform, buttoned up, necktie,"
+    }
+   ],
+   "img": "img/comp/mvduos2h.jpg?v=1792329469316",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792329461070
+ "updatedAt": 1792329469909
 };

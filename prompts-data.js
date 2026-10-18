@@ -7812,7 +7812,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0ivzs.jpg?v=1792339271977",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0j1n5",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "holding large silver fork, lolita, food hat, pancake hat, pancake hair ornament, white frilled shirt, black neck bow, frill-trimmed sleeves, short sleeves, juilet sleeves, brown frill apron, 2::honey skirt, yellow liquid skirt::, white leg warmers, brown platform heels,"
+    }
+   ],
+   "img": "img/look/mve0j1n5.jpg?v=1792339279418",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339272605
+ "updatedAt": 1792339279890
 };

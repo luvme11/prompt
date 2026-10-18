@@ -7014,7 +7014,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzxyik.jpg?v=1792338295535",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvdzy4r3",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "orange headband, orange sleeveless short dress, strap ribbons on the shoulder, pleated skirt, ribbon at the waist, 2::wide jeans::, light brown small bag with chain strap, brown loafers, beaded bracelets"
+    }
+   ],
+   "img": "img/look/mvdzy4r3.jpg?v=1792338303621",
+   "pos": "50.0% 40.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338296486
+ "updatedAt": 1792338304087
 };

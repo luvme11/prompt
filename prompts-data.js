@@ -6132,7 +6132,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdysymh.jpg?v=1792336382567",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyt4x5",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "maroon sailor dress, white pinafore, lace up front, corset lacing, sailor collar, long puff sleeves, checkered skirt trim, frilled skirt, maroon beret, hair ribbon, white thigh high socks, pink garter straps, red mary janes, socks with ribbons,"
+    }
+   ],
+   "img": "img/look/mvdyt4x5.jpg?v=1792336391563",
+   "pos": "50.0% 6.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336383493
+ "updatedAt": 1792336392169
 };

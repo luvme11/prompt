@@ -1507,7 +1507,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduuemu.jpg?v=1792329731725",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvduulgj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, portrait, looking at viewer, 4::front view, straight-on::, eye contact, centered, upper body, vintage blue background, watercolor painting, soft, pastel,  solid background, simple background, 2::white border, frame::, studio lighting, soft shadows,"
+    }
+   ],
+   "img": "img/comp/mvduulgj.jpg?v=1792329740560",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792329732170
+ "updatedAt": 1792329740991
 };

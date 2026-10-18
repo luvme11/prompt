@@ -1064,7 +1064,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdukje2.jpg?v=1792329271547",
    "pos": "78.4% 50.0%"
+  },
+  {
+   "id": "mvdukphc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "An upper-body shot of a figure making a cheeky peace sign near one cheek, tongue poking out with one eye winked and brows raised. Wearing a striped tee under an unzipped windbreaker. The flat sky-blue background is decorated with cut-out sticker doodles, a hand-scrawled speech bubble reading \"야~호!\", and doodled arrows pointing inward. Punchy even lighting flattens the image, finished in saturated candy tones with a glossy sticker-collage texture and subtle drop shadows."
+    }
+   ],
+   "img": "img/comp/mvdukphc.jpg?v=1792329279392",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792329272005
+ "updatedAt": 1792329280137
 };

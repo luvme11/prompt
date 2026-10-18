@@ -7966,7 +7966,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0l6qf.jpg?v=1792339379208",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0ld53",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::light pink oversized track jacket::, white stripes on sleeves, white bikini top, ruffled edges, white low-rise bikini briefs, black studded leather belt, 1.5::white long knit pom-pom hood, animal ears on hood::, ribbed white leg warmers with rabbit plushies, animal slippers, pink and white hair ribbons, star hair clip, digital pet accessory on belt"
+    }
+   ],
+   "img": "img/look/mve0ld53.jpg?v=1792339387416",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339379690
+ "updatedAt": 1792339387895
 };

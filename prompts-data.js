@@ -6664,7 +6664,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz60mm.jpg?v=1792336991855",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz6ta9",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white dress shirt, collared shirt, rolled-up_sleeves, loose black necktie, {dark_grey_pinstripe_vest}, {dark_grey_pinstripe_skirt}, black buttons, small chest pocket, pencil skirt, slightly side slit,"
+    }
+   ],
+   "img": "img/look/mvdz6ta9.jpg?v=1792337029072",
+   "pos": "50.0% 36.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336992314
+ "updatedAt": 1792337029540
 };

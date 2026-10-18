@@ -4717,7 +4717,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxbp54.jpg?v=1792333897690",
    "pos": "50.0% 50.0%"
+  },
+  {
+   "id": "mvdxca2c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::film photography::, 1.2::grainy texture::, 1.3::yacht::, 1.2::luxury yacht::, 1.2::yacht deck::, 1.2::boat railing::, 1.2::aegean sea::, 1.2::santorini cliffs in background::, 1.2::sitting on deck::, 1.2::leaning back::, 1.3::cowboy shot::, 1.3::head tilted back::, 1.2::serene expression::, 1.3::wind in hair::, 1.3::swimsuit::, 1.2::wet skin::, water droplets, 1.1::wedding ring::, outdoors, 1.3::afternoon sun::, 1.2::sparkling water::, bright, 1.2::candid::,"
+    }
+   ],
+   "img": "img/comp/mvdxca2c.jpg?v=1792333924732",
+   "pos": "50.0% 8.0%"
   }
  ],
- "updatedAt": 1792333898132
+ "updatedAt": 1792333925178
 };

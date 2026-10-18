@@ -2779,7 +2779,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvuol6.jpg?v=1792331424338",
    "pos": "36.4% 50.0%"
+  },
+  {
+   "id": "mvdvuvok",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, head tilt, playing guitar, holding electric guitar, electric guitar, microphone stand, microphone, singing, character on the right side, stage, concert, spotlight, stage lights, smoke, backlighting, spider web, amplifier, leather jacket, studded belt, chain necklace, fingerless gloves, fishnets, studded choker, spiked bracelet, punk, gothic, dark theme,"
+    }
+   ],
+   "img": "img/comp/mvdvuvok.jpg?v=1792331433411",
+   "pos": "35.3% 50.0%"
   }
  ],
- "updatedAt": 1792331424781
+ "updatedAt": 1792331434337
 };

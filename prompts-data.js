@@ -2051,7 +2051,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvere7.jpg?v=1792330681505",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdvexpf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, upper body, lying on back, looking at viewer, holding cup, three-quarter view, head tilt, souvenir magnet, planet magnet, earth globe, mars postcard, mission patch, space food packet, scattered photographs, pin badge, headphones, sticker, collage, steel grey and retro orange theme, space black, high contrast,"
+    }
+   ],
+   "img": "img/comp/mvdvexpf.jpg?v=1792330689453",
+   "pos": "50.0% 60.0%"
   }
  ],
- "updatedAt": 1792330682098
+ "updatedAt": 1792330690209
 };

@@ -5700,7 +5700,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxzwwo.jpg?v=1792335027387",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdy9on5",
+   "tab": "base",
+   "name": "",
+   "codes": [
+    {
+     "label": "전신",
+     "text": "1.9::full body::,\n1.8::head-to-toe shot::,\n1.8::entire body visible::,\n1.7::feet fully visible::,\n1.7::shoes fully visible::,\n1.6::standing full-body portrait::,\n1.6::camera pulled back::,\n1.5::medium-long distance::,\n1.5::full figure centered in frame::,\n1.4::space around the entire body::,\n1.4::uncropped full-body composition::,\nlooking at viewer,\nstraight posture,\nneutral pose,\nshoulders relaxed,"
+    }
+   ],
+   "img": "img/base/mvdy9on5.jpg?v=1792335483327",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792335027999
+ "updatedAt": 1792335484087
 };

@@ -3281,7 +3281,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw7v2s.jpg?v=1792332039025",
    "pos": "50.0% 8.0%"
+  },
+  {
+   "id": "mvdw8143",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, ultra detailed, absurdres, \n1person, sitting, praying pose, hands clasped, looking up, \nheart-shaped pupils, heart eyes, heavy blush, steam, sweat, dripping sweat, open mouth, drooling, nosebleed, \nblood, blood on face, blood on clothes, blood on body, bloody, \nsexy nun, erotic nun outfit, short nun habit, cleavage, thighhighs, garter belt, cross necklace, veil, \nindoors, church, soft lighting, dramatic lighting,"
+    }
+   ],
+   "img": "img/comp/mvdw8143.jpg?v=1792332047236",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792332039534
+ "updatedAt": 1792332047999
 };

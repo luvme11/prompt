@@ -1198,7 +1198,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdumptk.jpg?v=1792329372954",
    "pos": "82.2% 50.0%"
+  },
+  {
+   "id": "mvdumwzm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "broken mirror, mirror reflection, distorted reflection, strange reflection, old photograph, torn photograph, handwritten note, strange writing, bloodstain, bloody handprint, footprints, wet footprints, scattered papers, abandoned doll, broken doll, old television, television static, full body, doll clothes"
+    }
+   ],
+   "img": "img/comp/mvdumwzm.jpg?v=1792329382736",
+   "pos": "51.6% 50.0%"
   }
  ],
- "updatedAt": 1792329373380
+ "updatedAt": 1792329383164
 };

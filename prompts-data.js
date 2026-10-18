@@ -6216,7 +6216,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyu2lf.jpg?v=1792336434553",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyu9i2",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "grey polka dot tank top, sleeveless, layered ruffled skirt, white asymmetrical skirt, black choker, neck ribbon, white legwear, ruffled knee boots,"
+    }
+   ],
+   "img": "img/look/mvdyu9i2.jpg?v=1792336443493",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336435319
+ "updatedAt": 1792336444413
 };

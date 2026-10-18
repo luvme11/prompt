@@ -7238,7 +7238,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve03xax.jpg?v=1792338573671",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0438d",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::white lingerie, babydoll::, lace headdress, see-through clothes, lace trim, red ribbon trim, lace chocker, lace panties, thigh strap, lace ankle cuffs, -1::socks::, red mary janes,"
+    }
+   ],
+   "img": "img/look/mve0438d.jpg?v=1792338581385",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338574281
+ "updatedAt": 1792338581861
 };

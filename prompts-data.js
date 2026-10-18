@@ -6300,7 +6300,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyvnfb.jpg?v=1792336508246",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyvt60",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::red tracksuit, track jacket::, zipper, white stripes, long sleeves, navy skirt, pleated skirt, red hair tie, white socks, knee highs, white footwear,"
+    }
+   ],
+   "img": "img/look/mvdyvt60.jpg?v=1792336515772",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336508724
+ "updatedAt": 1792336516258
 };

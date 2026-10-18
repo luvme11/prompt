@@ -2246,7 +2246,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvj6wa.jpg?v=1792330887979",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdvje3u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, 2::from above::, three-quarter view, looking up at viewer, sitting on pillar, crossed legs, white dress, large angel wings, broken pillar, pillar, indoors, museum, palace interior, broken wall, open archway, sky, cloud, peeling paint, cracked fresco, exposed plaster, painted cloud, gilded molding, crumbling cherub, gold frame, candelabra, faded pigment, water damage stain, hanging paint flake, cobweb, dust, theatre chandelier chain, chain on floor, renaissance, faded vermillion, cracked gold, plaster white, aged sky blue, dramatic lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvje3u.jpg?v=1792330897415",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792330888411
+ "updatedAt": 1792330897879
 };

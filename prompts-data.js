@@ -1159,7 +1159,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdum5ou.jpg?v=1792329346930",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdumcdv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo, day, daylight, sunbeam, city, cityscape, street, sidewalk, storefront, crowd in background, blurry background, outdoors, 2::subject on left, off-center,::, sitting on bicycle, holding food, burger, eating, biting, from side, turning head, looking at viewer, depth of field,"
+    }
+   ],
+   "img": "img/comp/mvdumcdv.jpg?v=1792329355670",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792329347365
+ "updatedAt": 1792329356248
 };

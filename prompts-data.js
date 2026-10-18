@@ -6440,7 +6440,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz2fxb.jpg?v=1792336825168",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz3c44",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "hime gyaru, agejo, y2k, gal, hair ornament, big bow, fur coat, white crop coat, fur trim, leopard dress, mini dress, camisole dress, pink lace trim, frill dress, pearl necklace, cross necklace, boots, white boots, fur boots, fuzzy boots, knee boots, pom-pom (footwear)"
+    }
+   ],
+   "img": "img/look/mvdz3c44.jpg?v=1792336866812",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336825771
+ "updatedAt": 1792336867441
 };

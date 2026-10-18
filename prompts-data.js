@@ -5390,7 +5390,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxu0vx.jpg?v=1792334752799",
    "pos": "30.9% 50.0%"
+  },
+  {
+   "id": "mvdxu8qo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, poster, 2::official poster design, graphic poster layout, clean print aesthetic::, 2::front view, looking at the viewer::, upper body,\n\n2::wearing with headphones::, 2::both hands cupped together held out forward, a sparkling glowing crystal heart in the cupped hands, glittering light::,\n\n2::bright radiant smile, carefree joyful face::,\n\n2::clear blue summer sky background, fluffy white clouds, bright sunlight::, lens flare, sparkles, airy breezy mood, 1.5::nostalgic last days of summer feeling::,\n\n2::large bold white text \"彼此一般\" across the very top, big poster title, white lettering::, 1.5::small white subtitle text under the title::, 1.5::thin white poster border frame around the edges::, 1.5::small white accent text and date in a corner::, stylish minimal poster typography,\n\nbest quality, masterpiece, highly detailed, vibrant, cinematic lighting,"
+    }
+   ],
+   "img": "img/comp/mvdxu8qo.jpg?v=1792334763168",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792334753280
+ "updatedAt": 1792334763645
 };

@@ -4769,7 +4769,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxd0nb.jpg?v=1792333959279",
    "pos": "34.2% 50.0%"
+  },
+  {
+   "id": "mvdxddz2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, ultra high detail, Korean manhwa style, semi-realistic, clean detailed line art, cinematic lighting, dark academia aesthetic, gothic atmosphere, dramatic shadows, prestigious magical white dress shirt, [색상] striped tie, long black wizard robe with [색상] lining, [색상] subtle accents, elegant and refined uniform, student portrait, formal school profile portrait, bust portrait, upper body, shoulders-up, centered composition, facing forward, looking at viewer, composed expression, grand magical school hall softly blurred in the background, tall stone walls, arched windows, dim candlelight, [색상] subtle ambient lighting, shallow depth of field, soft background blur"
+    }
+   ],
+   "img": "img/comp/mvdxddz2.jpg?v=1792333976402",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792333959890
+ "updatedAt": 1792333976858
 };

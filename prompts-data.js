@@ -5622,7 +5622,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxyn42.jpg?v=1792334968242",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdxz014",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, cowboy shot, \n2::leaning on broom handle::, 2::chin resting on hands stacked on broom handle::, both hands folded on top of broom, \n1.5::leaning forward, slight bend at waist::, slouching, relaxed posture, head tilted,\n\n2::lazy expression, bored expression::, half-closed eyes, sleepy eyes, unmotivated, sigh, 1.1::squiggle::, looking at viewer,\n\n1.5::maid outfit::, maid dress, long sleeves, white cuffs, puffy shoulders, frilled collar,\n1.5::maid headdress::, frilled maid headband,\n2::white frilled apron::, 1.5::layered ruffle apron details::, lace trim apron, apron bow tied at back, apron pocket,\n2::voluminous skirt::, 1.5::petticoat underneath::, layered frills on skirt hem, fluffy flared skirt, ruffled petticoat peeking out,\n\nsimple background, white background, soft flat lighting,"
+    }
+   ],
+   "img": "img/comp/mvdxz014.jpg?v=1792334985012",
+   "pos": "50.0% 6.0%"
   }
  ],
- "updatedAt": 1792334975779
+ "updatedAt": 1792334985478
 };

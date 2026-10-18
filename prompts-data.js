@@ -7826,7 +7826,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0j1n5.jpg?v=1792339279418",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0j7c6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "apple hair ornament, red hair ribbon, white hairband, white apron, red juliet sleeves, frill-trimmed sleeves, white collar, red shirt, bubble skirt, miniskirt, 2::food skirt, The shape of the food skirt is apple pie::, pie-like skirt, pie look like skirt, petticoat, frill socks, black mary jane,"
+    }
+   ],
+   "img": "img/look/mve0j7c6.jpg?v=1792339286896",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339279890
+ "updatedAt": 1792339287701
 };

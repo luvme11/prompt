@@ -4912,7 +4912,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxg01h.jpg?v=1792334098481",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdxgcbk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "vertical 9:16 composition, full-screen smartphone camera app interface, camera viewfinder screenshot only, no visible phone device, no smartphone body, no phone bezels, no physical screen edges, no hands holding a phone, front-facing selfie camera mode, live camera preview filling the entire frame, black interface areas at the top and bottom, flash icon, HDR indicator, timer icon, filter icon along the top, 2::thin light gray 3x3 rule-of-thirds grid lines across the camera preview::, camera mode selector at the bottom with PHOTO highlighted, SLO-MO, VIDEO, PORTRAIT, SQUARE mode labels, large white circular shutter button at the bottom center, camera switch icon at the bottom right, character looking directly into the front camera lens, arm's-length selfie perspective, face close to the camera, face filling most of the preview, shoulders partially cropped, slightly tilted camera angle, casual candid selfie, natural perspective distortion, spontaneous unposed snapshot, realistic camera app screenshot"
+    }
+   ],
+   "img": "img/comp/mvdxgcbk.jpg?v=1792334114320",
+   "pos": "50.0% 78.0%"
   }
  ],
- "updatedAt": 1792334099564
+ "updatedAt": 1792334115242
 };

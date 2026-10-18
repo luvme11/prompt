@@ -1752,7 +1752,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv507u.jpg?v=1792330226261",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdv5897",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, smoking, holding cigarette, leaning forward, open mouth, fang, saliva, choker, cross choker, inverted cross, bare shoulders, cleavage, tube top, black top, side-by-side, dog, animal, collar, cross collar, shop, storefront, counter, sign, text, chinese text, cup, straw, paper bag, potted plant, leaves, monitor, blood bag, iv drip, syringe, pill, fire, flame, smoke, limited palette, pink theme, black theme, cyberpunk, dark persona,"
+    }
+   ],
+   "img": "img/comp/mvdv5897.jpg?v=1792330236966",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792330226698
+ "updatedAt": 1792330237579
 };

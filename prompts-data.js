@@ -2701,7 +2701,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvtb3g.jpg?v=1792331359977",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdvthlt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "multiple views, collage, dutch angle, adjusting eyewear, looking to the side, leaning forward, from above, open clothes, collared shirt, loose necktie, tank top, pleated skirt, fishnet pantyhose, uneven legwear, garter straps, layered necklaces, cross necklace, choker, earrings, shoulder bag, chain accessory, oversized glasses, glasses reflection, exposed midriff, chibi, scrapbook aesthetic, pastel colors, blue theme, halftone background, silhouette, character shadow, star (symbol), handwritten text, speech bubble, asymmetrical composition, negative space, y2k (fashion),"
+    }
+   ],
+   "img": "img/comp/mvdvthlt.jpg?v=1792331368546",
+   "pos": "18.9% 50.0%"
   }
  ],
- "updatedAt": 1792331360437
+ "updatedAt": 1792331368992
 };

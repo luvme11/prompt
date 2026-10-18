@@ -3720,7 +3720,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwktsa.jpg?v=1792332644264",
    "pos": "24.9% 50.0%"
+  },
+  {
+   "id": "mvdwl8ha",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "magical forest, sparkling lake, sunny day, floating light particles, full body, flying, mid-air, holding giant red flower, smiling, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "fairy dress, translucent fairy wings, floral hair ornament, barefoot,"
+    }
+   ],
+   "img": "img/comp/mvdwl8ha.jpg?v=1792332663068",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792332645173
+ "updatedAt": 1792332664166
 };

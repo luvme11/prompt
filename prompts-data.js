@@ -1817,7 +1817,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv81xq.jpg?v=1792330368587",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdv88gl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "0.6::nihonga::, upper body, looking at viewer, hand to face, hand to mouth, bare shoulder, bare arms,  blush, red clothes, floral print, flower print, kimono, off shoulder, slipped apparel, partially undressed, hair flower, hair ornament, red flower, dangling hair ornament, tattoo, arm tattoo, shoulder tattoo, flower tattoo, indoors, washitsu, shoji, sliding door, warm lighting, yellow background, painterly, traditional media,"
+    }
+   ],
+   "img": "img/comp/mvdv88gl.jpg?v=1792330376782",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330369030
+ "updatedAt": 1792330377240
 };

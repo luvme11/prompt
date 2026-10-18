@@ -4691,7 +4691,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxbd2j.jpg?v=1792333881992",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdxbixv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dark tactical aesthetic, gritty style, close-up portrait, front view, 1.4::solid [색] background::, 1.9::vibrant monochrome backdrop::, high contrast lighting, dramatic shadows,\n\n1.4::glowing [색] eyes::, 1.3::scar on cheek, facial wound::, 1.2::bandage on nose::, 1.4::open mouth showing teeth and tongue::, 1.4::biting glove::, 1.4::gloved hand near mouth::, 1.4::crazed intense expression::, 1.4::shadow over upper face::,\n\n1.4::wearing tactical baseball cap::, 1.4::wearing tactical headset over ears::, 1.4::wearing dark tactical vest::, 1.4::wearing black balaclava pulled down::, 1.4::armored tactical glove::, intense wild atmosphere, 1.4::many white hands touching one’s neck here and there::"
+    }
+   ],
+   "img": "img/comp/mvdxbixv.jpg?v=1792333889687",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792333882465
+ "updatedAt": 1792333890156
 };

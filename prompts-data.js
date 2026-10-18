@@ -7686,7 +7686,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0e7us.jpg?v=1792339054116",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0edwi",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kawaii, fur black cat hood, hood up, 2::pink leopard inside hood::, 2::pink leopard cuffs::, sleeves past wrists, fur short jumpsuit, partially unzipped, collarbone, navel, no bra, cat tail, barefoot,"
+    }
+   ],
+   "img": "img/look/mve0edwi.jpg?v=1792339061776",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339054892
+ "updatedAt": 1792339062251
 };

@@ -926,7 +926,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduhufj.jpg?v=1792329145735",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvdui1p9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "portrait, upper body, close-up, looking at viewer, simple background, white background,"
+    }
+   ],
+   "img": "img/comp/mvdui1p9.jpg?v=1792329155006",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792329146173
+ "updatedAt": 1792329155434
 };

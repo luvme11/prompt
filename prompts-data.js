@@ -7980,7 +7980,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0ld53.jpg?v=1792339387416",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0liyx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white frilled lace bra top, pink striped trim, ruffles, lace-up front, white frilled micro shorts, pink denim hot pants, belt with silver buckle, white and pink striped thighhighs, garter straps, white striped leg warmers, multiple belts with buckles on legs, platform white shoes, white lace-trimmed arm warmers, ribbon lace-up sleeves, pink bow on wrist, white frilled lace headbrand, multiple pink ribbons, spiked collar with leash, bone pendant necklace, small white wings on back,"
+    }
+   ],
+   "img": "img/look/mve0liyx.jpg?v=1792339395746",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339387895
+ "updatedAt": 1792339396384
 };

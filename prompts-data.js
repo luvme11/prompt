@@ -6370,7 +6370,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz1ilh.jpg?v=1792336781759",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz1p7a",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "duffle coat, toggle grey coat, hooded coat, ivory turtleneck sweater, knit sweater, pleated skirt, long skirt, grey leg warmers, slouch socks, brown loafers,"
+    }
+   ],
+   "img": "img/look/mvdz1p7a.jpg?v=1792336790477",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336782386
+ "updatedAt": 1792336790927
 };

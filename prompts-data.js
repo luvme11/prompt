@@ -1765,7 +1765,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv5897.jpg?v=1792330236966",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdv5ea8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, shopping cart, in shopping cart, sitting, knees up, holding cup,  bandage on face, layered clothes, pink shirt, long sleeves, turtleneck, white shirt, t-shirt, short sleeves, badges, black strap, chain, black shorts, fanny pack, waist bag, skull print, pink socks, ribbed socks, white footwear, sneakers, shoe soles, cup, plastic cup, straw, supermarket, store, aisle, shelves, indoors, pink theme,"
+    }
+   ],
+   "img": "img/comp/mvdv5ea8.jpg?v=1792330244544",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792330237579
+ "updatedAt": 1792330244998
 };

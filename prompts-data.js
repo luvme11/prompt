@@ -2714,7 +2714,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvthlt.jpg?v=1792331368546",
    "pos": "18.9% 50.0%"
+  },
+  {
+   "id": "mvdvtnqp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from side, looking back, leaning forward, adjusting eyewear, v sign, 1.4::shark hood::, button accessory, star sticker, semi-rimless glasses, tongue out, fang, monster print shirt, crop top, striped arm warmers, fingerless gloves, cargo pants, suspenders, sharp fingernails, multicolored nails, zoom layer, character behind character, rough sketch, lineart, 1.5::monochrome background, multiple views, panels, sketch, speech bubble::, magazine cover, y2k aesthetic, decora, harajuku fashion, pop art, halftone, thick outlines,"
+    }
+   ],
+   "img": "img/comp/mvdvtnqp.jpg?v=1792331376548",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792331368992
+ "updatedAt": 1792331376993
 };

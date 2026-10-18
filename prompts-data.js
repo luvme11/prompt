@@ -4287,7 +4287,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwzy3z.jpg?v=1792333349429",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdx04jp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kitsune mask on side of head, white fox mask with red markings, crystal tassel hair ornament, pearl drop earrings, white kimono lowered off shoulders, bare back partially visible, black obi, ink-wash floral print, kneeling in snow, back turned, looking back over shoulder, chin lowered, seductive glance, lips slightly parted, finger touching lower lip, other hand holding kimono at chest, wind-blown hair, snowy mountain pass, misty peaks, night, falling snow, red lantern glow from side, low-key lighting, strong contrast, glowing skin, dreamy haze, alluring, sensual mood, femme fatale, eerie elegance"
+    }
+   ],
+   "img": "img/comp/mvdx04jp.jpg?v=1792333357993",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792333350033
+ "updatedAt": 1792333358440
 };

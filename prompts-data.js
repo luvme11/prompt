@@ -1336,7 +1336,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdup485.jpg?v=1792329484973",
    "pos": "50.0% 50.0%"
+  },
+  {
+   "id": "mvdur2zh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "smoking, cigarette in mouth, cigarette between fingers, cigarette smoke, wispy smoke, holding cigarette, holding lighter, ash, messy ash, black tanktop, ragged, tattered, dirty clothing, loungewear, sleepwear, sweatpants, sitting on sofa, leaning back, slumped, slouching, from above, high angle, overhead shot, messy room, cluttered room, dirty room, garbage, empty bottles, dark room, dim light, night, shadow, cinematic lighting, gritty"
+    }
+   ],
+   "img": "img/comp/mvdur2zh.jpg?v=1792329576548",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792329485707
+ "updatedAt": 1792329577018
 };

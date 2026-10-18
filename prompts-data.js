@@ -7434,7 +7434,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve07mnj.jpg?v=1792338747149",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve07ssp",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "harajuku fashion, kawaii, y2k fashion, light brown cap, newsboy cap, beret cap, 1.3::pink leopard tank top::, pink and black striped arm warmers, waist wrap leopard print scarf, tied around waist, layered outfit, pleated skirt, short skirt, brown plaid skirt, leg strap, knee boots, brown boots, leather boots,"
+    }
+   ],
+   "img": "img/look/mve07ssp.jpg?v=1792338754565",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338747640
+ "updatedAt": 1792338755057
 };

@@ -2363,7 +2363,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvngth.jpg?v=1792331087645",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvnmfa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pov, upper body, cellphone picture, viewfinder, in screen, framed, smartphone, looking at viewer, 2::sticker, doodle, emoji, heart:: , sparkle, pastel color,"
+    }
+   ],
+   "img": "img/comp/mvdvnmfa.jpg?v=1792331094845",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792331088095
+ "updatedAt": 1792331095277
 };

@@ -8120,7 +8120,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mve31xyt.jpg?v=1792343654003",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve38tuk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "playful smile, teeth, wink, tongue out, cheerful expression, looking at viewer, \nhead tilt, peace sign, hand near face, playful pose, leaning forward, dynamic pose, \nfrom above, upper body, selfie angle,y2k fashion, plaid mini skirt, cropped cardigan, crop top, low-rise skirt, \nmidriff, hair clips, butterfly hair clips, hoop earrings, layered necklace, \ntinted sunglasses on head, shoulder bag, arm warmers,pink background, heart decorations, sticker decorations, \nflash photography, candid, y2k aesthetic, playful atmosphere"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792343755993
+ "updatedAt": 1792343840407
 };

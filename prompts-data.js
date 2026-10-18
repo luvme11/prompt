@@ -4873,7 +4873,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxfa8n.jpg?v=1792334065319",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdxfjad",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "intense glowing eyes, slightly dilated pupils, flushed cheeks, beads of sweat running down face and neck, beautifully unhinged lovesick expression, head slightly tilted forward, staring directly at viewer through the gaps between fingers, wide crooked mischievous grin showing slightly sharp teeth, 1.8::both hands dramatically framing face, one hand spread across forehead and tangled into messy hair, gently cover the area around the mouth with the other hand::, cheek and lips, tense graceful fingers, obsessive manic energy, black uniform jacket with loosened collar, silver chain details and metal wrist cuffs, close upper-body portrait, slightly tilted dynamic composition, dark room illuminated by intense neon magenta and violet lights, glowing pink rim light outlining hair and hands, deep purple shadows, neon heart doodles floating around head, hazy pink glow, glossy sweat highlights, dangerous lovestruck madness, decadent and chaotic atmosphere, dramatic high contrast lighting, vivid magenta and black palette, beautiful detailed hands,"
+    }
+   ],
+   "img": "img/comp/mvdxfjad.jpg?v=1792334076898",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792334065935
+ "updatedAt": 1792334077987
 };

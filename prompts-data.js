@@ -8232,7 +8232,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mve3su76.jpg?v=1792344775181",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve437jb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "[구도] 1.35::cowboy shot::, [외형넣기],\n[헤어소품] 1.35::white towel turban wrapped loosely on head::, 1.3::wet strands sticking to neck::, \n[의상] 1.35::oversized white towel-fabric shirt dress::, 1.3::rolled loose sleeves::, \n[소품] 1.4::yellow banana milk bottle with green straw held in right hand::, 1.35::sitting on wooden bathhouse bench::, 1.3::red plastic bath basket beside on left with shampoo bottles inside::, 1.3::small white towel folded on lap::, 1.3::milk fridge with glass door directly behind::, [포즈] 1.3::sipping banana milk through straw::, 1.3::legs crossed elegantly::, 1.3::languid half-lidded gaze at viewer::,\n[배경] 1.4::korean bathhouse lobby interior::, 1.35::mint green tile walls::, 1.3::wooden locker rows on right side::, 1.3::round wall clock above::, 1.3::warm humid steam glow::"
+    }
+   ],
+   "img": "img/comp/mve437jb.jpg?v=1792345259058",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792344776429
+ "updatedAt": 1792345259536
 };

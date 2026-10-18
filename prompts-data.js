@@ -4886,7 +4886,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxfjad.jpg?v=1792334076898",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdxfq6e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, cowboy shot, front view, 2::holding dagger across chest::, 2::short blade held horizontally::, blood on blade, 2::thigh holster::, 2::dagger strapped to thigh::, thigh strap, looking at viewer, cold stare, expressionless, pale skin, 2::black china dress::, 2::black cheongsam::, high slit, mandarin collar, white trim, fishnet stockings, garter straps, 2::red butterflies flying around::, 2::scattered red butterflies::, red butterfly petals, rain, rain streaks, dark forest background, misty, fog, desaturated, cold tone, high contrast, rim lighting, dark atmosphere, illustration, high detail"
+    }
+   ],
+   "img": "img/comp/mvdxfq6e.jpg?v=1792334085644",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792334077987
+ "updatedAt": 1792334086708
 };

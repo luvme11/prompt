@@ -7448,7 +7448,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve07ssp.jpg?v=1792338754565",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0avsm",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pastel goth, kawaii fashion, lolita fashion, white frilled dress, 2: sleeveless dress::, short dress, 1.5: pastel pink and white bib collar, ruffled collar, cross motif::, ruffled hem, lace trim, arm strap, white paw gloves, 1.4::crimson short bloomers, bloomers with white ribbons::, red thigh strap, 2::asymmetrical socks, left white sock, right pink striped sock::, x hairpin, light pink boots, ankle boots, plush boots, 1.4::small rabbit ears headband::, white headband, frilled head band,"
+    }
+   ],
+   "img": "img/look/mve0avsm.jpg?v=1792338898679",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338755057
+ "updatedAt": 1792338899154
 };

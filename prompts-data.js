@@ -2077,7 +2077,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvf3pv.jpg?v=1792330697506",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvfa82",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from above, three-quarter view, looking up, looking at viewer, about to jump, crouching, legs bent, leaning forward, spread wings, wind, hair blowing up, magical girl, holding staff, glowing orb, halo light, scattered jewel, feather, floating debris, dark sky,"
+    }
+   ],
+   "img": "img/comp/mvdvfa82.jpg?v=1792330705737",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330698272
+ "updatedAt": 1792330706170
 };

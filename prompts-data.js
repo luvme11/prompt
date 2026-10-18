@@ -3294,7 +3294,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw8143.jpg?v=1792332047236",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdw87m6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Retro Japanese video game character profile page, early 2000s Japanese game strategy guide aesthetic, large full-body character illustration on the right, multiple small facial expression portraits on the left, small chibi version at the bottom, pink futuristic UI panels, character stats, fake status bars, tiny item icons, decorative hearts, cute cyber fashion, pink cropped jacket, pleated skirt, platform shoes, headphones, silver accessories, indifferent and sleepy expression, white and pink graphic background, pixel icons, CRT scanline texture, nostalgic Japanese video game artbook layout,"
+    }
+   ],
+   "img": "img/comp/mvdw87m6.jpg?v=1792332055300",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792332047999
+ "updatedAt": 1792332055755
 };

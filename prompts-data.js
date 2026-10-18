@@ -2467,7 +2467,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvp9gm.jpg?v=1792331171318",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdvpfuq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from outside, through glass, sitting, hugging knees, knees up, cramped, looking at viewer, claw machine, inside, glass, claw, claw on head, kuromi (sanrio), stuffed toy, multiple plushies, plushie, indoors, white floor, transparent, plastic, shiny, glitter, pastel color, colorful, bright, pop art, y2k, purple theme, pink theme, -2::dark::,"
+    }
+   ],
+   "img": "img/comp/mvdvpfuq.jpg?v=1792331179536",
+   "pos": "29.3% 50.0%"
   }
  ],
- "updatedAt": 1792331171940
+ "updatedAt": 1792331179983
 };

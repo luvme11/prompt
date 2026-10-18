@@ -7210,7 +7210,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve032kf.jpg?v=1792338534303",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0386z",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lingerie, -2::rabbit ears headband, paw gloves::, 2::cinnamoroll face on bandeau::, 3::rabbit ears on the bandeau side, The rabbit ears are part of the bandeau, cute character-style clothing::, 2::kawaii::, white bandeau, white bloomers, pale blue ribbon on bloomers, barefoot,"
+    }
+   ],
+   "img": "img/look/mve0386z.jpg?v=1792338541721",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338534909
+ "updatedAt": 1792338542180
 };

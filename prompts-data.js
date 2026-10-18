@@ -99,7 +99,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdt85yx.jpg?v=1792327014607",
    "pos": "71.8% 50.0%"
+  },
+  {
+   "id": "mvdt8cqs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, sitting, looking at viewer, profile, head tilt, twin tails, hair ribbons, flower hair ornament, gothic lolita dress, black and red dress, frilled dress, puff sleeves, detached sleeves, long gloves, thighhighs, lace, bows, corset, layered skirt, sitting sideways, legs crossed, hands resting on lap, cherries, cocktail glasses, cherry-themed drinks, large cherries in foreground, ribbons flowing, hair flowing, pink background, abstract background, sparkles, sweet atmosphere, gothic aesthetic, dramatic composition, foreground object, depth of field"
+    }
+   ],
+   "img": "img/comp/mvdt8cqs.jpg?v=1792327023302",
+   "pos": "23.3% 50.0%"
   }
  ],
- "updatedAt": 1792327015049
+ "updatedAt": 1792327023746
 };

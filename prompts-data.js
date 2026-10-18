@@ -3898,7 +3898,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwpe1c.jpg?v=1792332856956",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdwpti4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2::pop art style::, vibrant colors, abstract graphic background, paint splatters, lightning bolts, graffiti elements, dynamic angle, leaning forward, leaping, reaching towards viewer, foreshortening, hand reaching out, midair, energetic pose,"
+    },
+    {
+     "label": "의상",
+     "text": "layered street fashion, loose jacket, striped crop top, black shorts, fishnet tights, mismatched leg warmers, sticker patches, colorful hair clips, multi-straps,"
+    }
+   ],
+   "img": "img/comp/mvdwpti4.jpg?v=1792332876772",
+   "pos": "10.2% 50.0%"
   }
  ],
- "updatedAt": 1792332857883
+ "updatedAt": 1792332877206
 };

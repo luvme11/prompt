@@ -840,7 +840,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvductei.jpg?v=1792328911115",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdud0sp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "::high angle::, looking up, arms up, outstretched arms, open arms, reaching, pleading, begging, 3::puckered lips::, 2::small heart particles::, small floating hearts, looking at viewer, solo, close-up, standing, expressive face,"
+    }
+   ],
+   "img": "img/comp/mvdud0sp.jpg?v=1792328920542",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792328911553
+ "updatedAt": 1792328921287
 };

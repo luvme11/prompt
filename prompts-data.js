@@ -2558,7 +2558,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvqxnm.jpg?v=1792331249596",
    "pos": "50.0% 46.0%"
+  },
+  {
+   "id": "mvdvr40c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from side, looking at viewer, kneeling, on couch, holding stuffed toy, object hug, stuffed toy in front, head tilt, oversized hair bow, white lolita dress, frills, lace trim, puffy detached sleeves, white thighhighs, oversized stuffed bear, couch, indoor, soft lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvr40c.jpg?v=1792331257789",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792331250212
+ "updatedAt": 1792331258582
 };

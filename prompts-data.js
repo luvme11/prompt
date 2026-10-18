@@ -5183,7 +5183,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxoo8j.jpg?v=1792334503198",
    "pos": "50.0% 40.0%"
+  },
+  {
+   "id": "mvdxp19o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo, 2::gyaru peace, peace sign, peace sign hand toward viewer, hand reaching toward camera::, foreshortening, exaggerated perspective, close-up, upper body, dutch angle, looking at viewer, wink, open mouth, playful smile, dynamic pose, y2k gyaru bedroom, pink aesthetic bedroom, hot pink room, leopard print bedding, heart-shaped mirror, vanity desk, pink chandelier, fluffy pink carpet, neon signs, LED strip lights, posters covering the walls, stuffed animals, shelves full of cosmetics, glossy decorations, maximalist decor"
+    },
+    {
+     "label": "의상",
+     "text": "pink cat-eared newsboy cap, turquoise fitted t-shirt, lace-trimmed camisole layered over t-shirt, pink frilled mini skirt, layered ruffle skirt, silver waist chain"
+    }
+   ],
+   "img": "img/comp/mvdxp19o.jpg?v=1792334519796",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792334503657
+ "updatedAt": 1792334520243
 };

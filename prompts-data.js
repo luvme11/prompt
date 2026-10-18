@@ -6622,7 +6622,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz5htb.jpg?v=1792336967390",
    "pos": "50.0% 46.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz5o3g",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black military uniform, high collar, black belt, gold trim, 1.5::black cape, short cape,:: pleated skirt, black kepi, brown pantyhose,"
+    }
+   ],
+   "img": "img/look/mvdz5o3g.jpg?v=1792336975696",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336967993
+ "updatedAt": 1792336976625
 };

@@ -4197,7 +4197,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwye0c.jpg?v=1792333276673",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdwyprj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "여자 의상",
+     "text": "thigh-up shot, facing forward, hands folded together neatly in front, graceful reserved pose, wearing a pale butter-yellow or cream-yellow classic one-piece dress, slim fitted upper bodice, gently cinched waist, full bell-shaped skirt flaring softly from the waist, crisp white pointed collar, thin burgundy neck ribbon tied in a small bow, rounded puff shoulders, long narrow sleeves, structured white cuffs at the wrists with small button accents, smooth fabric, elegant noble-lady style dress, refined vintage formal outfit,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "thigh-up shot, facing forward, wearing a fitted light periwinkle-blue academy blazer, single-breasted design, three tone-matched buttons down the front, clean notched lapels, gently tailored waistline, two small straight flap pockets, large embroidered heraldic crest patch on the left chest with black, gold, and purple details, crisp white collared shirt, slim black tie with a bright purple center stripe, black uniform trousers, neat formal school uniform"
+    }
+   ],
+   "img": "img/comp/mvdwyprj.jpg?v=1792333292069",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792333277275
+ "updatedAt": 1792333292663
 };

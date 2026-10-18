@@ -8264,7 +8264,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mve4aw50.jpg?v=1792345617361",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve4f6yt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, ultra detailed, high resolution,\n\nwearing an elaborate autumn classical lolita outfit, a burgundy velvet jumper dress with a fitted corset-style bodice, an ivory high-neck blouse with delicate lace inserts, puff sleeves with layered cuffs, a voluminous dark brown skirt with intricate embroidered floral borders, multiple layers of fine lace ruffles, a short chocolate-brown capelet fastened with antique brass clasps, oversized burgundy velvet ribbons, decorative cameo brooch, pearl chains, patterned tights, polished brown Mary Jane shoes, a structured vintage handbag with ornate metal clasps, exquisite antique-inspired fashion.\n\nAdmiring the display window of an old European antique shop on an autumn afternoon, antique violins, vintage music boxes, porcelain dolls, dried flower bouquets, old books, brass clocks, and delicate glass ornaments arranged inside the window, fallen orange leaves scattered across the cobblestone street, warm shop lights glowing behind the glass, old-fashioned street lamps, climbing ivy, charming historic architecture.\n\nFull-body illustration, diagonal side view from slightly behind, the character leaning gently toward the display window with one hand near the glass, the other holding a vintage handbag, the shop window reflecting the autumn street and golden leaves, ornate clothing details clearly visible, cobblestone path receding diagonally into the distance, vertical composition, refined nostalgic autumn atmosphere, no straight-on frontal pose."
+    }
+   ],
+   "img": "img/comp/mve4f6yt.jpg?v=1792345817962",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792345617877
+ "updatedAt": 1792345818573
 };

@@ -555,7 +555,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu19q9.jpg?v=1792328372455",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdu1l0r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "kitsch high-teen barbie aesthetic, vibrant pink color palette, soft diffused lighting, glamorous bedroom-vanity setting, medium shot, slightly angled front view, playful dreamy atmosphere, holding a hand mirror gracefully with one hand, the other hand resting near vanity items, relaxed upper-body posture, slightly tilted head, playful wink, lively and charming expression, cute flirty mood,"
+    },
+    {
+     "label": "의상",
+     "text": "furry pink oversized coat, pink ribbon bodysuit with frill hem, large satin bow headband, barbie-style accessories, glossy manicure, pastel jewelry"
+    }
+   ],
+   "img": "img/comp/mvdu1l0r.jpg?v=1792328387220",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792328373062
+ "updatedAt": 1792328387663
 };

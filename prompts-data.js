@@ -708,7 +708,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu9o52.jpg?v=1792328764364",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdua0w2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "warm magical ambiance, golden glow lighting, detailed wizard study room, rich wooden textures, vintage magical props, cluttered scholarly desk, fantasy academia mood, straight-on angle, leaning slightly forward with one elbow resting on the desk, hand supporting the cheek, holding a wand in the other hand, wand raised lightly, soft focused expression, surrounded by books, scrolls, potion bottles, and magical instruments,"
+    },
+    {
+     "label": "의상",
+     "text": "wizard-school uniform, black robe with deep red accents, red-and-gold striped tie, white collared shirt, long robe sleeves, red ribbon hair accessory"
+    }
+   ],
+   "img": "img/comp/mvdua0w2.jpg?v=1792328780763",
+   "pos": "50.0% 40.0%"
   }
  ],
- "updatedAt": 1792328764797
+ "updatedAt": 1792328781192
 };

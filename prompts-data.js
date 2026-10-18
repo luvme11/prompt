@@ -381,7 +381,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtq1up.jpg?v=1792327848832",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdtqn01",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "upper body, tight framing, focus on hands, dynamic pose, holding from behind, gun aimed forward, dramatic tension, cinematic lighting, glossy highlights, prism light refraction, rainbow light particles, rose petals flying, elegant hall interior, soft glow, high detail, depth of field,"
+    },
+    {
+     "label": "남자",
+     "text": "behind hold, one arm wrapped around waist, supporting body, other hand holding handgun forward, aiming, close proximity, protective yet aggressive stance,\n\nformal suit, black tailored jacket, dress shirt, gloves,"
+    },
+    {
+     "label": "여자",
+     "text": "sitting in arms, body leaned back, legs drawn up, 2::one hand raised showing middle finger::, other hand resting near body, relaxed but defiant pose, defiant expression,\n\nwedding dress, accessories,"
+    }
+   ],
+   "img": "img/comp/mvdtqn01.jpg?v=1792327876254",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792327849274
+ "updatedAt": 1792327876687
 };

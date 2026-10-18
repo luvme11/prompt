@@ -12,10 +12,15 @@ window.PROMPT_DATA = {
   {
    "id": "mvdsb7zx",
    "tab": "comp",
-   "name": "1",
-   "code": "1girl, solo, lying down, reclining, looking at viewer, winking, open mouth, hand near face, bent knees, legs raised, top-down view, overhead view, twin tails, hair ribbons, cat ear headband, frilled dress, pink dress, white dress, lolita fashion, layered skirt, puff sleeves, detached sleeves, thighhighs, bows, lace, ribbons, heart motifs, pastel colors, stuffed animal, plushie, medical equipment, electronic devices, cables, futuristic room, bedroom, messy room, pink room, soft lighting, cute atmosphere, detailed background, dynamic composition",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, lying down, reclining, looking at viewer, winking, open mouth, hand near face, bent knees, legs raised, top-down view, overhead view, twin tails, hair ribbons, cat ear headband, frilled dress, pink dress, white dress, lolita fashion, layered skirt, puff sleeves, detached sleeves, thighhighs, bows, lace, ribbons, heart motifs, pastel colors, stuffed animal, plushie, medical equipment, electronic devices, cables, futuristic room, bedroom, messy room, pink room, soft lighting, cute atmosphere, detailed background, dynamic composition"
+    }
+   ],
    "img": "img/comp/mvdsb7zx.jpg?v=1792325477669"
   }
  ],
- "updatedAt": 1792325478094
+ "updatedAt": 1792326021255
 };

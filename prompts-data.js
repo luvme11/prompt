@@ -3255,7 +3255,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw772b.jpg?v=1792332008042",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdw7d2i",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "fluffy cozy loungewear, oversized fluffy knit hoodie, soft plush fabric, long sleeves, fluffy shorts, loose fit, fluffy leg warmers, soft pastel pink and ivory colors, cute ribbon details, heart-shaped buttons, adorable feminine style, cozy and warm, soft texture,\n\nfirst-person POV, cozy home date, boyfriend lying flat on his back on a sofa, girlfriend lying on top of boyfriend, both lying down together, girlfriend resting her body gently on his chest, girlfriend propping herself slightly up while looking up at boyfriend with an affectionate gaze, soft shy smile, boyfriend's one hand visible in foreground, boyfriend gently stroking and patting her head, tender intimate gesture, boyfriend's face completely out of frame, only his arm and hand visible, close distance between them, cozy living room, soft warm lighting, relaxed couple moment, romantic atmosphere, natural candid composition,"
+    }
+   ],
+   "img": "img/comp/mvdw7d2i.jpg?v=1792332015801",
+   "pos": "50.0% 40.0%"
   }
  ],
- "updatedAt": 1792332009114
+ "updatedAt": 1792332016876
 };

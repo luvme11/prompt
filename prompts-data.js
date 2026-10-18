@@ -6874,7 +6874,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz9ors.jpg?v=1792337163158",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz9vzq",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "striped sweater, long sleeves, oversized sweater, fishnet socks, layered skirt, frilled skirt, multi belt, chain, spiked choker, necklace, platform boots,"
+    }
+   ],
+   "img": "img/look/mvdz9vzq.jpg?v=1792337172508",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337164407
+ "updatedAt": 1792337173489
 };

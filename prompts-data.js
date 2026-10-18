@@ -2987,7 +2987,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw1p2n.jpg?v=1792331751286",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdw1v17",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, from above, cowboy shot, 1.2::from side::, standing, head tilt, looking up, closed mouth, 1.3::collage::, electric guitar, holding instrument, arm up, hand in pocket, beanie, striped headwear, hat ornament, button badge, print shirt, white shirt, short sleeves, chain necklace, jewelry, black belt, jeans, denim, arm warmers, striped, arm tattoo, star (symbol), red theme, text, english text. The body stands turned side-on to the camera, shoulders angled and the head tipped back toward it; the camera sits slightly above and the eyes glance up into it from under the hat. The right hand is raised behind the head gripping the body of a black electric guitar with a white pickguard that lies horizontally across the shoulders, neck pointing right; the left hand is pushed into a front jeans pocket with a black and white striped arm warmer at that wrist. Long braided yarn tassels hang from the ear flaps of the knit hat, and the tee has dark navy ringer trim at the collar and cuffs. The background is a torn-paper zine collage of crumpled grey newsprint, ragged red spray shapes and a magenta smear, with two star-shaped photo cutouts framed in thick red, one in the upper right and one in the lower left. Red handwritten graffiti lettering runs across the top edge, and two small white caption boxes with black type sit in the lower right,"
+    }
+   ],
+   "img": "img/comp/mvdw1v17.jpg?v=1792331759080",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792331751725
+ "updatedAt": 1792331759520
 };

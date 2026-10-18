@@ -7112,7 +7112,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzz6z8.jpg?v=1792338353043",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve01tch",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black long sleeves turtleneck, black-white checkered tube top, black-white checkered long skirt with layered frill, tight skirt, black see-through stockings, black high heels"
+    }
+   ],
+   "img": "img/look/mve01tch.jpg?v=1792338475496",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338353499
+ "updatedAt": 1792338475978
 };

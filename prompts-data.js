@@ -7700,7 +7700,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0edwi.jpg?v=1792339061776",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0eji1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dog ears, deutscher schaferhund ears, black goggles on head, red short scarf, scarf with bone, black leather jacket, beige crop top, black cross print crop top, black spike belts, black pleated skirt, red checkered asymmetrical skirt, short asymmetrical skirt, asymmetrical legwear, one legwear black thighhighs, one legwear no, both legs wear red and black stripes leg warmers, black shoes,"
+    }
+   ],
+   "img": "img/look/mve0eji1.jpg?v=1792339069423",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339062251
+ "updatedAt": 1792339070047
 };

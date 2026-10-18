@@ -5273,7 +5273,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxqaif.jpg?v=1792334578714",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdxqpdd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "5::elegant black butler uniform::,\nfitted black tailcoat, crisp white dress shirt,\nblack waistcoat, black bow tie,\nwhite gloves, polished formal attire,\n\n5::leaning deeply forward over a gift box::,\n4::upper body bent at the waist::,\n5::mischievous sly smile::,\n4::tongue slightly sticking out::,\nhalf-lidded eyes, teasing expression,\n\n5::biting the ribbon of a gift box with the lips::,\n5::pulling the ribbon loose using the mouth::,\n4::ribbon held gently between the lips::,\nribbon stretching from the mouth to the box,\n\n5::large elegant gift box clearly visible in the foreground::,\nluxurious black gift box, red satin ribbon,\npartially untied bow, loose ribbon ends,\n\nluxurious Victorian mansion interior,\ndark wooden furniture, velvet curtains,\nwarm chandelier light, cinematic shadows,\n\n4::upper body composition, gift box fully visible::,\nslightly low angle,\n\n-5::missing gift box, hidden box, ribbon in hands, fully wrapped ribbon, standing upright::,"
+    }
+   ],
+   "img": "img/comp/mvdxqpdd.jpg?v=1792334597982",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792334579167
+ "updatedAt": 1792334598891
 };

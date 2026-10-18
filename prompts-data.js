@@ -4456,7 +4456,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx2t6y.jpg?v=1792333483093",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdx2zhz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from below, squatting, looking at viewer,  red ribbon, red balloon, multiple balloons, outdoors, sky, blue sky, cloud, day,\n\nschool uniform, white socks, white sneakers,"
+    }
+   ],
+   "img": "img/comp/mvdx2zhz.jpg?v=1792333491295",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792333483537
+ "updatedAt": 1792333491884
 };

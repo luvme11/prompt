@@ -6594,7 +6594,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz54jx.jpg?v=1792336950281",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz5bel",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{white dress}, collared dress, black_bow_tie, silver brooch, {black harness}, black waist belt, bishop sleeves, buttoned cuffs, black gloves, flared_skirt, pleated_skirt, black_inner_skirt, leg strap,"
+    }
+   ],
+   "img": "img/look/mvdz5bel.jpg?v=1792336959202",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336950752
+ "updatedAt": 1792336960460
 };

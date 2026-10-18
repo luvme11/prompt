@@ -5635,7 +5635,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxz014.jpg?v=1792334985012",
    "pos": "50.0% 6.0%"
+  },
+  {
+   "id": "mvdxz6ed",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, crouching, squatting low, sitting on heels,\nhead tilted up, looking up at the sky, gentle curious expression, lips slightly parted,\n1.5::gas mask pulled down, hanging around neck::, 1.5::one hand loosening mask::,\n\noversized olive coat, layered clothing, cargo pants, worn boots, backpack on back, rope across chest, bandaged hands, worn fabric,\n\n2::ancient ruined hall::, tall stone pillars, cracked walls, 2::dark dim interior::, surroundings fading into shadow,\n1.5::opening in ceiling::, 2::patch of blue sky visible only through the opening::, birds flying through the gap,\nwildflowers surrounding, tall grass, moss on stone, plants growing through cracks,\n\n2::beam of sunlight from the opening::, warm sunlight beam from above, dust particles in light, warm golden light spilling onto figure, rest of hall in shadow,\npeaceful quiet mood, sense of relief and new beginning,\n\nbest quality, masterpiece, detailed, cinematic lighting"
+    }
+   ],
+   "img": "img/comp/mvdxz6ed.jpg?v=1792334993351",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792334985478
+ "updatedAt": 1792334993812
 };

@@ -8159,7 +8159,7 @@ window.PROMPT_DATA = {
      "text": "traditional Qing court concubine winter attire, authentic old-school Chinese palace drama aesthetic, rich scarlet padded silk robe, high standing collar, white embroidered yoke, black and gold brocade edging, pale blue trim, wide embroidered cuffs, refined floral embroidery, ornate brocade vest, white fur trim, luxurious traditional winter court costume, ornate imperial concubine headdress only, large black ceremonial headpiece, oversized flower ornament, butterfly decorations, gold details, red tassels, bead strands, elegant dangling earrings, no specific hairstyle description, covered palace garden walkway with a carved wooden bench, light snow falling beyond the eaves, red pillars and willow branches nearby, seated neatly on the bench, both hands folded over the lap inside the long sleeves, shoulders relaxed, gaze directed into the distance as if waiting quietly, faint natural smile, lonely but gentle expression, soft patient eyes, emotional nostalgic Qing palace drama feeling"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve39pie.jpg?v=1792343994435",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8192,5 +8192,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792343981909
+ "updatedAt": 1792343994928
 };

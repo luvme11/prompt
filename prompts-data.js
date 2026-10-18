@@ -674,7 +674,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu8znn.jpg?v=1792328732593",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvdu9bbv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "bright pastel tones, flashy gyaru aesthetic, purikura vibe, kawaii chaotic bedroom background filled with plush toys, especially character-themed dolls, energetic atmosphere, playful and exaggerated pose, dynamic gesture, one hand reaching forward making a peace sign toward the camera, the other hand holding a small accessory or makeup item, sitting posture, confident body language, expressive mood, winking expression, playful open-mouthed smile, camera-facing pose, fun and loud scene composition,"
+    },
+    {
+     "label": "의상",
+     "text": "pink leopard-print oversized bow headpiece, pink leopard-print tank top, layered bracelets, glittery plastic jewelry, pink glasses, long decorated nails, heart-shaped charms, flashy gyaru fashion style"
+    }
+   ],
+   "img": "img/comp/mvdu9bbv.jpg?v=1792328747686",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792328733052
+ "updatedAt": 1792328748118
 };

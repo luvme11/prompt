@@ -6468,7 +6468,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz3idg.jpg?v=1792336874914",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz3ooe",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "subculture_fashion, {black_ruffled_headdress}, white_trim, cross_charm, {black_leather_harness}, cut-out_top, off-shoulder, white_collared_shirt, {white_puffy_sleeves}, black_sleeve_straps, black_fingerless_gloves, black_cross_necklace, {black_tiered_ruffled_skirt}, white_apron_overlay, gothic_print, chains, black_cross_print_over-knee_socks, black_platform_boots, multi-strap"
+    }
+   ],
+   "img": "img/look/mvdz3ooe.jpg?v=1792336883192",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336875562
+ "updatedAt": 1792336883839
 };

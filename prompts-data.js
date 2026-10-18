@@ -6426,7 +6426,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz29a2.jpg?v=1792336816389",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz2fxb",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "punk, y2k, streetwear, dark fashion, peaked cap, grey t-shirt, print shirt, 1.3::off shoulder, cutout, halterneck, black necktie::, lace gloves, fingerless gloves, leather skirt, mini skirt, 1.5::layered skirt, belt, chain, waist chain,:: pantyhose, fishnets, black leg warmers, buckle, straps, star print, shoulder bag,"
+    }
+   ],
+   "img": "img/look/mvdz2fxb.jpg?v=1792336825168",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336817190
+ "updatedAt": 1792336825771
 };

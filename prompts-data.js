@@ -3822,7 +3822,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwnh3q.jpg?v=1792332767600",
    "pos": "32.5% 50.0%"
+  },
+  {
+   "id": "mvdwnskj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2::White background, simple background::, cowboy shot, standing, from behind, looking back over shoulder, blushing deeply, coy expression, gaze lowered shyly,"
+    },
+    {
+     "label": "의상",
+     "text": "virgin killer sweater, turtleneck, backless, sleeveless, ribbed knit, cable knit, ribbon tied on neck, bare back, bare shoulders,"
+    }
+   ],
+   "img": "img/comp/mvdwnskj.jpg?v=1792332782314",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792332768038
+ "updatedAt": 1792332783397
 };

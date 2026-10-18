@@ -1856,7 +1856,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv8l2p.jpg?v=1792330393335",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdv8s25",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, standing, looking down, looking away, hand to face, expressionless, duffel coat, brown coat, hoodie, hood up, scarf, plaid scarf, backpack, outdoors, night, snowing, snow, bus stop, street, cold breath,"
+    }
+   ],
+   "img": "img/comp/mvdv8s25.jpg?v=1792330402423",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330393780
+ "updatedAt": 1792330403023
 };

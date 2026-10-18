@@ -3125,7 +3125,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw4d9x.jpg?v=1792331876213",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvdw4jjn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "girl, solo,\n\ndeep vivid cobalt blue ribbon,\nglossy satin ribbon texture,\n\n1.4::sitting on the floor::,\n1.35::both knees raised::,\n1.35::legs held close together::,\n1.3::both legs drawn up in front of the body::,\n1.25::slight three-quarter view::,\n1.25::body turned slightly to the side::,\n1.2::face turned toward viewer::,\n1.2::one hand resting on the floor for support::,\n1.2::other hand resting naturally beside the body::,\n\n1.3::upper body and both legs clearly visible::,\n1.35::exactly two legs::,\n\nsoft feminine expression,\ncalm alluring expression,\nslender body,\nlong legs,\n\n1.45::both legs wrapped with wide satin ribbons::,\n1.4::matching ribbon wrapping on both legs::,\n1.35::ribbon wrapped around both thighs and lower legs::,\n1.35::symmetrical ribbon placement on both legs::,\n\n1.45::one large satin bow on each leg::,\n1.4::two large visible bows total::,\n1.35::large decorative bow-shaped knots::,\n1.35::long ribbon tails hanging down::,\n\nwhite high heels,\nsimple light background,\nminimal background\n\nwhite ruffled slip dress,\ndelicate sleeveless dress,\nthin shoulder straps,\nsoft gathered neckline,\nlight silky fabric,"
+    }
+   ],
+   "img": "img/comp/mvdw4jjn.jpg?v=1792331884027",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792331876803
+ "updatedAt": 1792331884775
 };

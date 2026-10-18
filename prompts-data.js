@@ -3593,7 +3593,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwhrye.jpg?v=1792332501830",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdwi4vw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "pop art, collage background, chaotic, graphic patterns, geometric, comic panels, grid, stars, ribbons, halftone dots, colorful, maximalist, dynamic perspective, diagonal pose, full body framing, floating, fashion illustration,"
+    },
+    {
+     "label": "의상",
+     "text": "complex denim and lace outfit, puff sleeves with frills, layered skirt, patchwork, checkered patterns, blue beret, ribbon accents, platform denim boots, lace-up boots, maximalist fashion,"
+    }
+   ],
+   "img": "img/comp/mvdwi4vw.jpg?v=1792332518563",
+   "pos": "15.6% 50.0%"
   }
  ],
- "updatedAt": 1792332502281
+ "updatedAt": 1792332519022
 };

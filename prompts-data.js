@@ -6720,7 +6720,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz7eej.jpg?v=1792337056380",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz7pa3",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "casual fashion, mori kei, 3::long shirt,:: 1.2::brown shirt,  black skirt, mini skirt, white cardigan,:: knitted cardigan, open cardigan, long sleeves, frilled skirt, loose socks, leg warmers, beige socks, brown mary janes, crossbody bag,"
+    }
+   ],
+   "img": "img/look/mvdz7pa3.jpg?v=1792337070311",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337057160
+ "updatedAt": 1792337070924
 };

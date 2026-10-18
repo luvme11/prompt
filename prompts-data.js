@@ -3610,7 +3610,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwi4vw.jpg?v=1792332518563",
    "pos": "15.6% 50.0%"
+  },
+  {
+   "id": "mvdwigaq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "pastel background, ornate archway, pillars, floating feathers, floating hearts, soft light, wide shot, upper body, aiming bow, drawing bow, heart arrow, 2::archery stance::, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "angel wings, halo, pink frilled dress, heart motif, ribbons, frills,"
+    }
+   ],
+   "img": "img/comp/mvdwigaq.jpg?v=1792332533343",
+   "pos": "50.0% 100.0%"
   }
  ],
- "updatedAt": 1792332519022
+ "updatedAt": 1792332533785
 };

@@ -640,7 +640,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu2zf7.jpg?v=1792328452373",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdu8n8h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "warm summer atmosphere, bright natural sunlight, golden-yellow color palette, sunflower field background, soft warm glow, gentle breeze feeling, outdoor natural setting, close-up medium shot, peaceful and fresh mood, standing among sunflowers, turning upper body slightly toward the camera, head gently turned back, holding a relaxed posture, calm and serene gesture, looking softly toward the viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "light yellow summer dress, soft flowing fabric, simple rural-style outfit, straw sun hat"
+    }
+   ],
+   "img": "img/comp/mvdu8n8h.jpg?v=1792328716491",
+   "pos": "50.0% 6.0%"
   }
  ],
- "updatedAt": 1792328452814
+ "updatedAt": 1792328716949
 };

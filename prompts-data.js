@@ -3801,7 +3801,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwmy3k.jpg?v=1792332742952",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdwnh3q",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "fireworks, night sky, night, bokeh, sparkling, light particles, outdoors, holding, sparkler, dynamic angle, upper body, blurry foreground, depth of field,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "jinbei, or yukata, japanese clothes, sash"
+    },
+    {
+     "label": "여자 의상",
+     "text": "yukata, floral print, obi, sash, japanese clothes, hair ornament,"
+    }
+   ],
+   "img": "img/comp/mvdwnh3q.jpg?v=1792332767600",
+   "pos": "32.5% 50.0%"
   }
  ],
- "updatedAt": 1792332744048
+ "updatedAt": 1792332768038
 };

@@ -4025,7 +4025,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwsrkn.jpg?v=1792333014416",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdwt3oo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "blue sky, cherry blossom trees, falling cherry blossom petals, flat illustration, white outline, simple shapes, pastel pink and blue tones, horizontal line pattern clouds, sitting on bench, legs together, holding dango, eating dango, looking at viewer, :3, upper body,"
+    },
+    {
+     "label": "의상",
+     "text": "2::short yukata::, wide sleeves, cherry blossom print, obi sash, simple obi bow, cherry blossom hair ornament,"
+    }
+   ],
+   "img": "img/comp/mvdwt3oo.jpg?v=1792333030160",
+   "pos": "50.0% 4.0%"
   }
  ],
- "updatedAt": 1792333015039
+ "updatedAt": 1792333030597
 };

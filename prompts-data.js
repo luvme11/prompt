@@ -4626,7 +4626,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxaevz.jpg?v=1792333837915",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdxalb7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, three-quarter shot, thighs visible, slight low angle, black sleeveless cheongsam-inspired top, mandarin collar, red piping, red frog closures, red tassels, red embroidery, asymmetrical long panel, side slits,\n\n 2::giant serpentine dragon::, massive dragon body coiling around, huge coils surrounding waist and thighs, ornate horns, whiskers, detailed scales, 2::dramatic scale difference::,\n\nmuted yellow background, desaturated fluorescent yellow, huge red kanji calligraphy behind the dragon, bold red Chinese characters, graphic poster composition"
+    }
+   ],
+   "img": "img/comp/mvdxalb7.jpg?v=1792333846169",
+   "pos": "50.0% 2.0%"
   }
  ],
- "updatedAt": 1792333838537
+ "updatedAt": 1792333847232
 };

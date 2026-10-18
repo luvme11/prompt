@@ -1017,7 +1017,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdujnk1.jpg?v=1792329230417",
    "pos": "50.0% 40.0%"
+  },
+  {
+   "id": "mvdujtvc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, fashion illustration, original outfit, creative fashion, unconventional clothing combinations, character reference sheet, multiple views, front view, back view, simple white background,\n\nThe same character shown twice side by side, front view on the left and back view on the right, wearing the same outfit,"
+    }
+   ],
+   "img": "img/comp/mvdujtvc.jpg?v=1792329238363",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792329231153
+ "updatedAt": 1792329238958
 };

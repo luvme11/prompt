@@ -4378,7 +4378,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx1dtv.jpg?v=1792333416682",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdx1jvb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, leaning forward, hands on counter, from above, convenience store, counter, tray, snacks, food packaging, shelves"
+    }
+   ],
+   "img": "img/comp/mvdx1jvb.jpg?v=1792333424743",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792333417134
+ "updatedAt": 1792333425187
 };

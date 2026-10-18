@@ -2129,7 +2129,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvhb70.jpg?v=1792330800437",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvhhlc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "tangerine and electric blue theme, sitting on car, cowboy shot, holding water gun, aiming, shooting, looking at viewer, one eye closed, tongue out, playful, from below, outdoor, car wash, sponge hair buns, garden hose boa, air freshener pendant, tire mark stripe stockings, hubcap shield, wiper blade hair stick, foam cannon backpack, car key anklet, fuzzy dice earrings, rain boots, sparkle, water spray, rainbow, soap arc, wet pavement, water splash, bucket tower"
+    }
+   ],
+   "img": "img/comp/mvdvhhlc.jpg?v=1792330808650",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792330800918
+ "updatedAt": 1792330809087
 };

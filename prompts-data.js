@@ -6566,7 +6566,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz4syf.jpg?v=1792336935131",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz4yu2",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{white_cable_knit_sweater}, v-neck, red and navy striped_trim, decorated cuff, ribbed_hem, oversized long sweater, {denim_wrap_skirt}, mini_skirt, {white_loose_socks}, silver headphones around shoulders, dark_blue_sneakers, striped_shoes"
+    }
+   ],
+   "img": "img/look/mvdz4yu2.jpg?v=1792336942706",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336935611
+ "updatedAt": 1792336943181
 };

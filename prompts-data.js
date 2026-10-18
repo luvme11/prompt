@@ -1392,7 +1392,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdurwk1.jpg?v=1792329614839",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdus7fk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1::gyaru style::,  1::playing guitar::, 1::holding electric guitar::, looking at viewer, leaning against wall, 2::graffiti back::, indoors, 1::pink wall::, shadow, tattoo, neck tattoo, arm tattoo, hand on hip,"
+    },
+    {
+     "label": "의상",
+     "text": "1::leopard print fur jacket::, 1::black tank top::, 1::skull print::, black pants, belt, wallet chain, multiple necklaces, cross necklace, multiple earrings, stud earrings, ear piercing, lip piercing, tongue piercing, hair clip,"
+    }
+   ],
+   "img": "img/comp/mvdus7fk.jpg?v=1792329629086",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792329615283
+ "updatedAt": 1792329629518
 };

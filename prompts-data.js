@@ -3138,7 +3138,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw4jjn.jpg?v=1792331884027",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdw4q2a",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, adult, young adult, [close-up upper body],  slim body, long legs, healthy figure, confident expression, bright smile,  1.4::racing girl outfit::, cropped fitted racing jacket, high-cut bodysuit or fitted racing suit, sponsor patches, logo details, zipper details, short shorts or high-leg outfit, belt details, thigh strap, fingerless gloves, high heels or knee-high boots,  1.35::holding a parasol::, 1.3::posing beside a race car::, one hand on hip, one leg slightly bent, confident promotional pose, slight lean, elegant body line,  long hair flowing softly, hair slightly blown by the wind,  race circuit background, sports car nearby, pit lane, checkered flags, banners, outdoor event atmosphere, bright daylight, lively motorsport setting,  1.3::glamorous promotional atmosphere::, 1.25::clean polished look::, 1.25::eye-catching composition::, very aesthetic, masterpiece, no text"
+    }
+   ],
+   "img": "img/comp/mvdw4q2a.jpg?v=1792331892628",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792331884775
+ "updatedAt": 1792331893059
 };

@@ -2350,7 +2350,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvnb2t.jpg?v=1792331080214",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvngth",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::purikura::, 1.2::chinese style, traditional::, dumpling, baozi, noodles, dim sum, bamboo steamer, teapot, chopsticks, panda, red lantern, paper lantern, gold leaf, chinese calligraphy, brush stroke, traditional paper, ornate frame, frame, border, decoration, sticker, doodle,"
+    }
+   ],
+   "img": "img/comp/mvdvngth.jpg?v=1792331087645",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792331080651
+ "updatedAt": 1792331088095
 };

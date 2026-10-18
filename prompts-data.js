@@ -5377,7 +5377,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxs14k.jpg?v=1792334659982",
    "pos": "50.0% 8.0%"
+  },
+  {
+   "id": "mvdxu0vx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, cinematic Korean noir, standing on a skyscraper rooftop at midnight after a brutal street fight, cigarette loosely hanging between lips, hands casually tucked into pockets, torn and disheveled black suit, heavily damaged suit jacket, large tears along the shoulders and sleeves, ripped shirt cuffs, frayed fabric, partially undone buttons, loosened crooked tie, torn seams, shredded fabric edges, rain-soaked clothes, messy windblown hair, handsome face with several shallow scratches across the cheek and jaw, a small superficial cut above the eyebrow, thin scratch near the lower lip, tiny trace of blood at the corner of the mouth, clean facial contours, no bruises, no swelling, no black eyes, no facial discoloration, unblemished skin apart from minor cuts, scratched knuckles, exhausted yet dangerously composed expression, barely contained aggression, cold indifferent gaze, long coat dramatically billowing in the storm wind, overlooking an endless neon city skyline, heavy rain pouring down, wet concrete reflecting crimson and electric blue neon lights, scattered debris across the rooftop, overturned metal chair, distant red emergency lights, raw gritty atmosphere, aftermath of a vicious street fight, unbothered intimidating presence, low angle full body shot, three-quarter side view, face turned toward the city, not looking at viewer, dramatic silhouette, harsh cinematic backlighting, deep shadows, realistic skin texture, subtle superficial facial scratches, detailed clothing damage, realistic fabric tears, frayed edges, ripped seams, damaged suit jacket, torn shirt cuffs, desaturated colors, subtle film grain, photorealistic movie still, dark neo-noir cinematography"
+    }
+   ],
+   "img": "img/comp/mvdxu0vx.jpg?v=1792334752799",
+   "pos": "30.9% 50.0%"
   }
  ],
- "updatedAt": 1792334660426
+ "updatedAt": 1792334753280
 };

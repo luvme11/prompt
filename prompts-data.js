@@ -4521,7 +4521,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx418m.jpg?v=1792333540332",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvdx47n2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, sitting, sitting on counter, eating, holding chopsticks, holding cup, cup ramen, chopsticks, indoors, kitchen, countertop, sink, faucet, microwave oven, window, curtain, sunlight,\n\ncardigan, grey cardigan, plaid shirt, tied shirt, shorts, black shorts, leg warmers, grey leg warmers, socks, white socks, casual wear,"
+    }
+   ],
+   "img": "img/comp/mvdx47n2.jpg?v=1792333548706",
+   "pos": "50.0% 2.0%"
   }
  ],
- "updatedAt": 1792333540952
+ "updatedAt": 1792333549771
 };

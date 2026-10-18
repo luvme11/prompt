@@ -1129,7 +1129,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduloil.jpg?v=1792329324730",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvdulvdr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "An upper-body portrait of a figure hugging two cats tightly against the chest as they nuzzle in, head thrown back mid-laugh with closed eyes and a beaming open smile. Wearing a flowing long cardigan over a layered top. A cat perches on the crown of the head, one drapes over each shoulder, and another dangles from the lapel mid-climb. Standing in a spacious loft where dozens of cats scatter across the blurred background. Warm horizontal light pours from the side, finished in radiant warm tones with a gentle bloom,"
+    }
+   ],
+   "img": "img/comp/mvdulvdr.jpg?v=1792329333564",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792329325199
+ "updatedAt": 1792329334034
 };

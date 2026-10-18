@@ -20,7 +20,19 @@ window.PROMPT_DATA = {
     }
    ],
    "img": "img/comp/mvdsb7zx.jpg?v=1792325477669"
+  },
+  {
+   "id": "mvdspckr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, sitting on ground, reclining, leaning against motorcycle, looking at viewer, winking, open mouth, one arm raised, cropped top, sleeveless top, cropped tank top, baggy pants, low-rise pants, belt, oversized boots, gloves, goggles, helmet, motorcycle, road, blue sky, clouds, mountains, summer, sunny day, outdoor, roadside, casual streetwear, biker fashion, dynamic composition"
+    }
+   ],
+   "img": "img/comp/mvdspckr.jpg?v=1792326136590"
   }
  ],
- "updatedAt": 1792326109972
+ "updatedAt": 1792326137034
 };

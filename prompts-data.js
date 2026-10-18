@@ -5725,8 +5725,8 @@ window.PROMPT_DATA = {
      "text": "close-up, id photo, identification photo, passport photo style,\nportrait, head-and-shoulders portrait, tight headshot,\nfront view, straight-on view, looking at viewer,\ncentered composition, symmetrical composition,\nface centered, head centered in frame,\nhead and shoulders visible, shoulders slightly visible,\nupper chest slightly visible,\ntight portrait framing,\nsimple blue background, solid blue background, plain background, studio background,\nstudio lighting, even lighting,\nneutral pose, straight posture, little smile"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/base/mvdyeyem.jpg?v=1792335800072",
+   "pos": "50.0% 32.0%",
    "soon": true
   },
   {
@@ -5766,5 +5766,5 @@ window.PROMPT_DATA = {
    "soon": true
   }
  ],
- "updatedAt": 1792335789937
+ "updatedAt": 1792335800699
 };

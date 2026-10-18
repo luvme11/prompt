@@ -2233,7 +2233,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvj1af.jpg?v=1792330880814",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdvj6wa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from side, looking at viewer, lying on stomach, on bed, hugging syringe, 1.3::oversized syringe::, floating, hospital, hospital bed, indoors, pink theme, pastel colors, nurse cap, frilled apron, puffy short sleeves, thigh strap, garter, mary janes, loose socks, tooth, heart (symbol), pill, bandaid, medicine bottle, thermometer, first aid kit, stuffed bunny, stuffed cat, halftone background, sparkle, ribbon, frills, menhera,"
+    }
+   ],
+   "img": "img/comp/mvdvj6wa.jpg?v=1792330887979",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792330881255
+ "updatedAt": 1792330888411
 };

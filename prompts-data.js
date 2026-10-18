@@ -7630,7 +7630,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0d03h.jpg?v=1792338997383",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0d5tl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kawaii, 2::white hair wings::, white ruffle hairband, 1.5: sleeveless::, bustier, white belt, 2::large waist bow::, lowleg skirt, white micro skirt, layered skirt, ruffled skirt, white leg warmers, bandage arm, bandaid on knee, white platform heels, too many bandaid,"
+    }
+   ],
+   "img": "img/look/mve0d5tl.jpg?v=1792339004688",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338997850
+ "updatedAt": 1792339005154
 };

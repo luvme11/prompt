@@ -7028,7 +7028,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzy4r3.jpg?v=1792338303621",
    "pos": "50.0% 40.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzyb9t",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::light yellow checkered crop top, sleeveless, ribbons and frills on the shoulder::, center button, wide jeans, white sneakers, beaded bracelets"
+    }
+   ],
+   "img": "img/look/mvdzyb9t.jpg?v=1792338312573",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338304087
+ "updatedAt": 1792338313496
 };

@@ -4339,7 +4339,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx0unm.jpg?v=1792333391558",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdx10e8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, posture of rest, head resting on knees, heavily cluttered toys, blocks, teddy bear, broken furniture, scattered papers with faded notes and handwritten text on the walls, faded cloud and rainbow stickers, dim natural light, an old green backpack next to the figure, a solitary knife lying forgotten on the floor nearby, old cans on the floor, palpable sense of despondence and loneliness"
+    }
+   ],
+   "img": "img/comp/mvdx10e8.jpg?v=1792333399426",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792333392035
+ "updatedAt": 1792333400039
 };

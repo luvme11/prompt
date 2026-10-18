@@ -4730,7 +4730,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxca2c.jpg?v=1792333924732",
    "pos": "50.0% 8.0%"
+  },
+  {
+   "id": "mvdxcfoh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, dramatic high angle, from above, focus on face, standing, holding handcuffs, police cap, leather black jacket, (색) crop top dress shirt, cleavage cutout, (색) necktie, black belt, A-line skirt, color spotlight, dramatic shadow, police station background, wanted posters on wall"
+    }
+   ],
+   "img": "img/comp/mvdxcfoh.jpg?v=1792333932151",
+   "pos": "50.0% 46.0%"
   }
  ],
- "updatedAt": 1792333925178
+ "updatedAt": 1792333932907
 };

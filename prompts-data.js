@@ -7854,7 +7854,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0jejs.jpg?v=1792339295954",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0jjvx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "egg hair ornament, green ribbon, white heart apron, 2::food print apron::, yellow china clothes, frill furisode sleeves, green short skirt, cross-laced skirt, yaopei, white petticoat, black knee socks, loafers,"
+    }
+   ],
+   "img": "img/look/mve0jjvx.jpg?v=1792339302933",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339296444
+ "updatedAt": 1792339303386
 };

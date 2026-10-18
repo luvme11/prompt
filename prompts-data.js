@@ -1490,7 +1490,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduu3rr.jpg?v=1792329717611",
    "pos": "64.2% 50.0%"
+  },
+  {
+   "id": "mvduuemu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "cross (shape) , medical cross, pink cross, looking at viewer, expressionless,  sitting , front view, upper body, dark background, black background, 1.5::pink clouds::, stylized smoke, pink theme, black theme,high contrast,creepy, yandere, psychological,"
+    },
+    {
+     "label": "의상",
+     "text": "nurse costume , nurse cap, white shirt, collared shirt,  bandaid , bandaid on face, bandage on arms, jewelry, earrings,  holding heart , stitched heart, bleeding heart, syringe, large syringe, liquid in syringe,"
+    }
+   ],
+   "img": "img/comp/mvduuemu.jpg?v=1792329731725",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792329718058
+ "updatedAt": 1792329732170
 };

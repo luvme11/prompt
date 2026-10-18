@@ -3406,7 +3406,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwciek.jpg?v=1792332256140",
    "pos": "50.0% 52.0%"
+  },
+  {
+   "id": "mvdwcyfs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "여자 의상",
+     "text": "concrete wall, urban alley, graffiti, scattered stickers, warm indoor light, blurry background, upper body, standing, martial arts stance, dynamic pose, looking at viewer, head tilt, slight smile, blush, oversized black jacket, off-shoulder, wide sleeves, crop top, chinese-style collar, belt harness, rope ornament, long skirt,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "concrete wall, urban alley, graffiti, scattered stickers, warm indoor light, blurry background, upper body, standing, one hand adjusting collar, looking away, from below, versized black jacket, off-shoulder, wide sleeves, sleeveless top, chinese-style collar, single belt, rope ornament, wide pants,"
+    }
+   ],
+   "img": "img/comp/mvdwcyfs.jpg?v=1792332276722",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792332256598
+ "updatedAt": 1792332277163
 };

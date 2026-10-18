@@ -2428,7 +2428,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvocue.jpg?v=1792331129010",
    "pos": "81.6% 50.0%"
+  },
+  {
+   "id": "mvdvowwf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from below, three quarter view, crossed legs, hand on headphones, smirk, motion blur, black and purple theme, dj, oversized headphones, crop hoodie, holographic visor, necklace, graphic print shirt, ripped jeans, platform boots, glowstick, ring, sound waves, laser, strobe lights, record bag,"
+    }
+   ],
+   "img": "img/comp/mvdvowwf.jpg?v=1792331154974",
+   "pos": "66.4% 50.0%"
   }
  ],
- "updatedAt": 1792331129465
+ "updatedAt": 1792331155736
 };

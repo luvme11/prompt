@@ -2519,7 +2519,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvq0a1.jpg?v=1792331205944",
    "pos": "42.9% 50.0%"
+  },
+  {
+   "id": "mvdvq5op",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, against wall, holding book, open book, reading, manuscript, looking down, contemplative, three quarter view, victorian era, industrial revolution, smoke, smokestack, cobblestone street, grey sky, overcast, european architecture, gaslight, street lamp, long black coat, waistcoat, dramatic lighting, side lighting, warm light, cold-warm contrast, light on wall, shadow, depth of field, cinematic"
+    }
+   ],
+   "img": "img/comp/mvdvq5op.jpg?v=1792331212988",
+   "pos": "40.7% 50.0%"
   }
  ],
- "updatedAt": 1792331206388
+ "updatedAt": 1792331213420
 };

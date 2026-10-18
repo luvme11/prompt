@@ -2961,7 +2961,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw1bo5.jpg?v=1792331734111",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdw1izn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, full body, three-quarter view, looking up at viewer, foreshortening, standing, outstretched arms, open hands, palms up, open mouth, :o, blush, snow, snowing, winter, outdoors, street, blurry background, people in background, coat, plaid scarf, earmuffs, necktie, backpack, bag charm, black pantyhose, loafers,"
+    }
+   ],
+   "img": "img/comp/mvdw1izn.jpg?v=1792331743562",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792331734559
+ "updatedAt": 1792331744000
 };

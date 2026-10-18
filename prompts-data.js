@@ -5312,7 +5312,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxr20a.jpg?v=1792334614038",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdxr83l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, [CHARACTER], Side view, 1.8::dynamic dancing pose beneath blooming cherry trees::, 1.7::cowboy shot::, 1.6::character large in frame::, 1.7::spinning gracefully on a traditional Japanese stone pathway::, one foot lifted, body twisting elegantly, arms extended, 1.7::long flowing kimono sleeves swirling dramatically::, layered traditional Japanese clothing, fluttering silk ribbons, 1.9::thousands of cherry blossom petals spiraling around the character::, 1.7::powerful swirling spring wind::, enormous blooming sakura trees, vermilion torii gates, ancient stone lanterns, distant shrine, pink and white petals filling the air, vivid spring daylight, soft golden sunlight filtering through blossoms, luminous petals, dynamic diagonal composition, joyful yet bittersweet atmosphere, fleeting spring, no text,"
+    }
+   ],
+   "img": "img/comp/mvdxr83l.jpg?v=1792334622824",
+   "pos": "52.7% 50.0%"
   }
  ],
- "updatedAt": 1792334614650
+ "updatedAt": 1792334623727
 };

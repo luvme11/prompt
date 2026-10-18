@@ -1726,7 +1726,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv4nxe.jpg?v=1792330210289",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdv4tv0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "watercolor painting, cinematic, atmospheric, smiling, open mouth, teeth, blush, red shirt, t-shirt, towel around neck, white towel, holding bottle, plastic bottle, pocari sweat, blue background, waves, water, stylized waves"
+    }
+   ],
+   "img": "img/comp/mvdv4tv0.jpg?v=1792330218198",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792330210737
+ "updatedAt": 1792330218667
 };

@@ -1426,7 +1426,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdusiyl.jpg?v=1792329644301",
    "pos": "15.1% 50.0%"
+  },
+  {
+   "id": "mvdusu1p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1::looking at viewer::, blush, hands on face, surprised, 2::video game interface, game ui::, head-up display, hud, computer screen, monitor, window (computing), operating system, sidebar, icons, battery indicator, date (text), heart (shape), 1::limited palette::, pink theme, blue theme, purple theme, vibrant colors, dating sim,"
+    },
+    {
+     "label": "의상",
+     "text": "cyber outfit, futuristic clothing, white and pink jacket, headset, headphones, mechanical ears, hair ribbons, large hair bow, rabbit hair ornament,"
+    }
+   ],
+   "img": "img/comp/mvdusu1p.jpg?v=1792329658412",
+   "pos": "44.5% 50.0%"
   }
  ],
- "updatedAt": 1792329644748
+ "updatedAt": 1792329659205
 };

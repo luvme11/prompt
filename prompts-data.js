@@ -318,7 +318,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtl9f9.jpg?v=1792327625401",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdtm2fp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "studio setting, neutral white background, soft directional lighting, intimate atmosphere, close-up framing, centered composition, straight-on camera angle,"
+    },
+    {
+     "label": "남자",
+     "text": "upper-body pose, seated posture behind person 2, gently holding person 2 from behind, protective gesture, slight forward lean,"
+    },
+    {
+     "label": "여자",
+     "text": "upper-body pose, seated closely in front of person 1, leaning slightly against person 1, arms resting on,"
+    }
+   ],
+   "img": "img/comp/mvdtm2fp.jpg?v=1792327663202",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792327625864
+ "updatedAt": 1792327663652
 };

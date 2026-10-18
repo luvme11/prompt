@@ -6202,7 +6202,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdytvuk.jpg?v=1792336425894",
    "pos": "50.0% 12.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyu2lf",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink short sleeved shirt, 2::light brown vest overlay::, lace up front, small bow, white pleated miniskirt, pink beret, black choker, white thigh high socks, brown lace up boots"
+    }
+   ],
+   "img": "img/look/mvdyu2lf.jpg?v=1792336434553",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336426823
+ "updatedAt": 1792336435319
 };

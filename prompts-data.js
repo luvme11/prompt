@@ -759,7 +759,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduarvf.jpg?v=1792328815972",
    "pos": "50.0% 46.0%"
+  },
+  {
+   "id": "mvdub3vt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "atmospheric oriental setting, softly blurred traditional architecture background, falling snow particles, quiet and poetic winter mood, cool muted color palette, soft diffused lighting, cinematic mid-close shot, side profile angle, upper-body framing, body facing sideways, holding a traditional paper umbrella over the shoulder, umbrella slightly tilted backward, still and composed posture, gentle sense of motion in snowfall"
+    },
+    {
+     "label": "의상",
+     "text": "traditional yukata-style robe, pale blue fabric, delicate floral patterns, soft pastel tones, lightweight textile, wide sleeves, elegant layered traditional clothing"
+    }
+   ],
+   "img": "img/comp/mvdub3vt.jpg?v=1792328831580",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792328816560
+ "updatedAt": 1792328832175
 };

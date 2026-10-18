@@ -5149,7 +5149,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxm2mi.jpg?v=1792334381636",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdxoa9e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "landscape frame, bust shot from headwear to chest, eye-level straight-on angle, subject centered, both hands raised to shoulder height beside the head with fingers curled in a playful pinching gesture, elbows bent and out, shoulders slightly lifted, head slightly tilted, sideways glance, near-symmetrical composition, crowded Japanese souvenir variety shop interior, wire grid display wall at left with cute plush dolls in kimono outfits and yellow plush merchandise with price tags, shelves of small packaged goods and keychains at right, pink t-shirt on a hanger, red paper lantern at upper right, bright flat fluorescent lighting, warm tone, casual travel snapshot, softly blurred background,"
+    },
+    {
+     "label": "의상",
+     "text": "red plush octopus hat with a round snout bump and two black oval eyes on the front, long ear flaps ending in tentacles sticking out sideways, navy one-shoulder top with a twisted fabric knot at the chest, thin black shoulder bag strap across the other shoulder, short red coral bead necklace with a small white pearl pendant, thin black elastic band bracelet, pink manicured nails, quirky tourist style"
+    }
+   ],
+   "img": "img/comp/mvdxoa9e.jpg?v=1792334485027",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792334382083
+ "updatedAt": 1792334485824
 };

@@ -44,7 +44,19 @@ window.PROMPT_DATA = {
     }
    ],
    "img": "img/comp/mvdsptuk.jpg?v=1792326158913"
+  },
+  {
+   "id": "mvdsq1et",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, looking at viewer, open mouth, smile, riding, sitting on carousel horse, side-saddle, from below, holding balloon string, lolita fashion, bonnet, pink bow, puffy short sleeves, corset, frilled skirt, layered skirt, white thighhighs, pink high heels, wrist cuffs, frills, carousel, balloon, transparent balloon, confetti, floating gems, floating cards, streaming ribbons, pink sky, cloud, colorful, fantasy, dynamic angle"
+    }
+   ],
+   "img": "img/comp/mvdsq1et.jpg?v=1792326168845"
   }
  ],
- "updatedAt": 1792326159338
+ "updatedAt": 1792326169274
 };

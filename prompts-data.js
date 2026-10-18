@@ -7910,7 +7910,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0khrr.jpg?v=1792339346958",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0ko6t",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::striped oversized sweater::, white and light blue stripes, sailor collar, white neckerchief, grey pleated miniskirt, pink backpack straps, 1.5::white star-print tights::, white leg warmers, black loafers, white knit hat with cat ears, star patch on hat, black choker, silver chain necklace, pink hair ribbons,"
+    }
+   ],
+   "img": "img/look/mve0ko6t.jpg?v=1792339355539",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339347575
+ "updatedAt": 1792339356022
 };

@@ -3953,7 +3953,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwqzvi.jpg?v=1792332931903",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdwrlst",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "field of sunflowers, clear blue sky, white clouds, floating yellow petals, bright sunlight, surrounded by sunflowers, holding sunflower bouquet, warm sunbeams, soft dappled light, depth of field,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "white short sleeve shirt, light blue denim overalls, straw hat,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "frilled summer dress, ribbon accessories, bright pastel colors,"
+    }
+   ],
+   "img": "img/comp/mvdwrlst.jpg?v=1792332960435",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792332933318
+ "updatedAt": 1792332961508
 };

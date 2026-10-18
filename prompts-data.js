@@ -913,7 +913,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduhnd6.jpg?v=1792329136284",
    "pos": "59.8% 50.0%"
+  },
+  {
+   "id": "mvduhufj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "cowboy shot, night, city lights, street lamp, neon lights, dark, standing, crosswalk,"
+    }
+   ],
+   "img": "img/comp/mvduhufj.jpg?v=1792329145735",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792329136721
+ "updatedAt": 1792329146173
 };

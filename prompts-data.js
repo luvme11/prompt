@@ -5429,7 +5429,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxum6v.jpg?v=1792334780212",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdxv6bv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, upper body, partnered dance, character on left holding character on right by the waist, bodies close together, facing each other, looking at each other, intimate dance pose, dynamic movement, dramatic theatrical composition, retro Halloween magazine cover style, gothic theater stage, deep red velvet curtains, strong spotlight, dramatic stage lighting, glowing marquee bulbs, rich shadows, black and gold ornate frame, antique candelabras, hanging gothic ornaments, lace-like decorative banners, floating confetti, ribbon streamers, sparkles, drifting smoke, subtle bats, orange and dark navy color scheme, bold editorial cover layout, fashion magazine cover aesthetic, halftone dots, retro print texture, comic-style dot shading, vintage poster texture, large serif title text \"HAPPY HALLOWEEN\", large year text \"2026\", smaller cover-line text, stylish typography, luxurious gothic atmosphere"
+    },
+    {
+     "label": "캐릭터 A",
+     "text": "leading the dance, extended arm, stepping forward, theatrical posture"
+    },
+    {
+     "label": "캐릭터 B",
+     "text": "dancing closely with character 1, supporting pose, matching stage presence, refined posture"
+    }
+   ],
+   "img": "img/comp/mvdxv6bv.jpg?v=1792334806884",
+   "pos": "58.6% 50.0%"
   }
  ],
- "updatedAt": 1792334780676
+ "updatedAt": 1792334807341
 };

@@ -6244,7 +6244,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyuudu.jpg?v=1792336470465",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyuzx9",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black short sleeved hoodie, open hoodie, pink graphic t-shirt, denim miniskirt, white shorts under skirt, pink headphones, pink ruffled leg warmers, striped leg warmers, star print, garters, wrist cuffed, black sneakers, necklace,"
+    }
+   ],
+   "img": "img/look/mvdyuzx9.jpg?v=1792336477790",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336470954
+ "updatedAt": 1792336478284
 };

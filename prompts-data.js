@@ -5978,7 +5978,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdynfk6.jpg?v=1792336124751",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvdynmdq",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "striped sweater, crew neck, oversized clothes, cream sweater with black, brown and khaki horizontal stripes,\n\nshirt under sweater, collared shirt, white shirt,\n\nnecktie, olive brown necktie hanging over the sweater,\n\nfront of sweater tucked into shorts,\n\nblack belt,\n\nshorts, dark khaki brown shorts, khaki wide-leg shorts ending above the knees,\n\nkneehighs, black socks,\n\nplatform shoes, black leather derby shoes with thick soles,\n\nbackpack, black backpack"
+    }
+   ],
+   "img": "img/look/mvdynmdq.jpg?v=1792336133579",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336125215
+ "updatedAt": 1792336134041
 };

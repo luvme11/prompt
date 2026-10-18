@@ -2675,7 +2675,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvsx6b.jpg?v=1792331342302",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdvt4j3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, sitting on tombstone, crossed legs, leaning back, holding staff, looking at viewer, head tilt, 1.3::witch hat::, gothic lolita, off-shoulder dress, puffy sleeves, lace-trimmed collar, gemstone choker, gemstone earrings, brooch, barefoot, ornate staff, graveyard, tombstones, cross, crawling skeletons, multiple skeletons, scattered bones, partially buried, thorns, thorny vines, dead tree, fog, blood moon, full moon, red theme, night, dark background, light particles, chiaroscuro, wind lift, dark fantasy,"
+    }
+   ],
+   "img": "img/comp/mvdvt4j3.jpg?v=1792331351496",
+   "pos": "17.3% 50.0%"
   }
  ],
- "updatedAt": 1792331342917
+ "updatedAt": 1792331352250
 };

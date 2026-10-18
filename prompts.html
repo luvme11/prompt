@@ -56,8 +56,7 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 .sr input:focus{border-color:#2a2a2a}
 .sr small{font-size:8px;font-weight:700;letter-spacing:.2em;color:#888;white-space:nowrap}
 .gd{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:12px}
-.tl{position:relative;aspect-ratio:3/4;border-radius:14px;overflow:hidden;background:#ececec;cursor:pointer;border:1px solid #e6e6e6;transition:transform .15s,border-color .15s}
-.tl:hover{transform:translateY(-2px);border-color:#2a2a2a}
+.tl{position:relative;aspect-ratio:3/4;border-radius:14px;overflow:hidden;background:#ececec;border:1px solid #e6e6e6}
 .tl img{width:100%;height:100%;object-fit:cover;display:block}
 .tl .no{position:absolute;inset:0;display:grid;place-items:center;font-size:8px;letter-spacing:.2em;color:#bbb}
 .tl .lb{position:absolute;left:0;right:0;bottom:0;padding:18px 8px 7px;background:linear-gradient(transparent,rgba(0,0,0,.6));color:#fff;font-size:9.5px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -140,7 +139,7 @@ function render(){
   const cur = list.slice((PG-1)*size, PG*size);
   $('#rc').textContent = list.length + ' / ' + all.length;
   const tile = p => { const cs = codesOf(p);
-    return `<div class="tc"><div class="tl" data-id="${esc(p.id)}" data-c="all">${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}</div><div class="cb">${cs.map((c,k)=>`<button class="cp" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,cs.length)}</button>`).join('')}</div></div>`; };
+    return `<div class="tc"><div class="tl">${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}</div><div class="cb">${cs.map((c,k)=>`<button class="cp" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,cs.length)}</button>`).join('')}</div></div>`; };
   const row = p => { const cs = codesOf(p);
     return `<div class="it"><div class="sh"><em>${pad(NUM[p.id])}</em><h3>${nameOf(p)}</h3><i></i><span>${esc(t.label)}</span></div>${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy">`:''}
       ${cs.map((c,k)=>`${c.label?`<div class="cl">${esc(c.label)}</div>`:''}<div class="tx">${esc(c.text)}</div><div class="ft"><button class="cp" data-id="${esc(p.id)}" data-c="${k}">복사</button></div>`).join('')}</div>`; };
@@ -155,12 +154,11 @@ $('#q').oninput = e => { Q = e.target.value.trim(); PG = 1; render(); };
 $('#body').onclick = async e => {
   const p = e.target.closest('[data-p]');
   if (p && !p.disabled){ PG = +p.dataset.p; render(); $('#body').scrollTop = 0; window.scrollTo(0,0); return; }
-  const el = e.target.closest('.tl,.cp'); if(!el) return;
+  const el = e.target.closest('.cp'); if(!el) return;
   const it = ITEMS.find(x => x.id === el.dataset.id); if(!it) return;
   const cs = codesOf(it);
-  await copy(el.dataset.c === 'all' ? cs.map(c=>c.text).join(', ') : (cs[+el.dataset.c]||{}).text || '');
-  if (el.classList.contains('tl')){ el.classList.add('done'); setTimeout(()=>el.classList.remove('done'), 900); }
-  else { const o = el.textContent; el.textContent = '복사됨 ✓'; setTimeout(()=>el.textContent = o, 1200); }
+  await copy((cs[+el.dataset.c]||{}).text || '');
+  const o = el.textContent; el.textContent = '복사됨 ✓'; setTimeout(()=>el.textContent = o, 1200);
 };
 render();
 </script>

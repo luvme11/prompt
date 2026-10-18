@@ -4093,7 +4093,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwwnk6.jpg?v=1792333195712",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdwwtqp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Futuristic black and hot pink nurse outfit, a cropped white medical jacket with black piping details, asymmetrical pink vinyl panels, a fitted black inner top, oversized transparent utility pockets, a glossy pink cross-shaped chest ornament, silver buckles, black detachable sleeves, semi-transparent medical-themed accessories, small capsule-shaped charms, a black choker with a silver clasp, neon pink trim, futuristic platform boots.\nSolo female character, upper body portrait, slightly high angle, 3/4 side view, one index finger lightly touching her lower lip, the other hand holding the hem of the cropped jacket, relaxed elbows, head slightly tilted forward, looking up at the viewer, half-lidded eyes, a subtle playful smile, soft blush, a cute and mysterious expression, the character filling about 70% of the canvas, sharp focus on the face, a soft black and hot pink background, glowing medical cross motifs, and small floating heart-shaped holograms,"
+    }
+   ],
+   "img": "img/comp/mvdwwtqp.jpg?v=1792333204044",
+   "pos": "36.4% 50.0%"
   }
  ],
- "updatedAt": 1792333196162
+ "updatedAt": 1792333204481
 };

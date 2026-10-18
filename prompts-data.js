@@ -6398,7 +6398,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz1w6k.jpg?v=1792336799300",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz239b",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "maid outfit, 2::pinafore dress::, white shirt, short sleeves, black collar, black ribbon, buttons, pleated skirt, black skirt, frilled headband, hair bow, white socks, knee highs, lace garters, thigh strap, black mary janes,"
+    }
+   ],
+   "img": "img/look/mvdz239b.jpg?v=1792336808811",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336800239
+ "updatedAt": 1792336809283
 };

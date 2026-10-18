@@ -6020,7 +6020,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyr65n.jpg?v=1792336299293",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyrcp5",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink and white jester hat, bells on hat, pink dress, puffy dress, white apron, white puffy sleeves, pink puffy shorts, bloomers, white pompoms, white gloves, pink and white platform long boots,"
+    }
+   ],
+   "img": "img/look/mvdyrcp5.jpg?v=1792336307576",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336299798
+ "updatedAt": 1792336308035
 };

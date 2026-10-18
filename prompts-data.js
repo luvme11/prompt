@@ -4469,7 +4469,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx2zhz.jpg?v=1792333491295",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdx35xn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::sitting in shopping cart::, knees up, legs up, holding rabbit, 1.4::medical theme::, iv drip, balloons, soap bubbles, ribbons, indoor, bright lighting, soft light, vertical orientation, full body, 1.5::decorated background::, heart symbol,\n\nfrilled headband, skull hair ornament, 2::oversized sweater::, turtleneck sweater, ribbed sweater, heart choker, leg warmers, bunny print, hair clips, hair ornament,"
+    }
+   ],
+   "img": "img/comp/mvdx35xn.jpg?v=1792333500582",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792333491884
+ "updatedAt": 1792333501034
 };

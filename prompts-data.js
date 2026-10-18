@@ -6272,7 +6272,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyv7ec.jpg?v=1792336487645",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyvhcz",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::red polka dot cardigan::, white pleated skirt, bow necklace, star hair clip, red hair ribbon, black pantyhose, lace trim, burgundy bag, red mary janes,"
+    }
+   ],
+   "img": "img/look/mvdyvhcz.jpg?v=1792336500352",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336488883
+ "updatedAt": 1792336500807
 };

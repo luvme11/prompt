@@ -5566,7 +5566,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxxe7m.jpg?v=1792334910336",
    "pos": "50.0% 8.0%"
+  },
+  {
+   "id": "mvdxxqwu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "컬러",
+     "text": "solo, 1person, [CHARACTER], 2.7::Japanese weekly shonen manga magazine cover::, 2.5::dense flashy commercial cover layout::, 2.4::upper body to thigh-up, character large and centered::, dynamic twisted pose, one hand raised near face forming an occult sign, other hand near waist holding a talisman, confident posture, intense sharp gaze,\n\n2.4::modern fantasy exorcist outfit::, stylish urban occult battlewear, short structured black jacket, high collar, layered inner top, asymmetrical closures, ornamental straps, buckles, silver chains, wide talisman belt, fitted gloves, flowing fabric accents, black battle trousers,\n\n2.4::gigantic black sun or eclipsed moon behind character::, 2.2::large intricate circular sealing sigil::, floating paper talismans, burning fragments, black spiritual flames, cursed smoke, glowing occult glyphs, ritual diagrams, chains, seal fragments, sparks, speed lines, halftone action bursts,\n\n2.5::huge Japanese magazine masthead across top::, 2.3::oversized stylized Japanese typography::, 2.2::dense promotional headlines and teaser captions::, vertical side headlines, stacked text blocks, bold colored typography, issue number, price box, editorial blurbs, burst callouts, caption banners, thick outlined text overlapping illustration,\n\n2.4::hyper-saturated vivid manga cover colors::, 2.2::dominant red and yellow::, electric cyan and deep blue accents, bold black shadows, brilliant white highlights, strong contrast, loud color blocking, crowded but balanced composition, explosive supernatural battle atmosphere"
+    },
+    {
+     "label": "흑백",
+     "text": "solo, 1person, [CHARACTER], 2.5::Japanese manga magazine inner feature page::, 2.3::black and white editorial manga layout::, 2.4::upper body to thigh-up, character large and centered::, dynamic twisted pose, one hand raised near face forming an occult sign, other hand holding a talisman, confident posture, focused sharp gaze,\n\n2.3::modern fantasy exorcist outfit::, stylish urban occult battlewear, short structured black jacket, high collar, layered inner top, asymmetrical closures, straps, buckles, silver chains, wide talisman belt, fitted gloves, flowing fabric, black battle trousers,\n\n2.3::gigantic eclipsed moon behind character::, 2.1::large intricate circular sealing sigil::, floating paper talismans, black spiritual flames, cursed ink smoke, occult glyphs, ritual diagrams, chains, seal fragments, spiritual particles, speed lines, halftone effects,\n\n2::restrained Japanese editorial typography::, medium-sized Japanese feature title, one vertical headline, a few teaser captions, small side notes, single boxed information panel, minimal footer text, clean balanced page layout,\n\n2.5::pure black and white manga printing::, 2.2::monochrome ink illustration::, strong black shadows, crisp white highlights, screentones, halftone shading, dramatic contrast, subtle print texture, dark supernatural battle atmosphere"
+    }
+   ],
+   "img": "img/comp/mvdxxqwu.jpg?v=1792334926481",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792334911411
+ "updatedAt": 1792334927086
 };

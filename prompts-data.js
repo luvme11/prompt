@@ -1921,7 +1921,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvbzif.jpg?v=1792330552237",
    "pos": "36.4% 50.0%"
+  },
+  {
+   "id": "mvdvc6r0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sticker sheet, chibi inset, navy and cream theme, school, sailor collar, serafuku, pleated skirt, loose socks, uwabaki, school bag, hair clip, sparkle, 1.2::thick outline, sticker, outlined::, sticker border, drop shadow, sitting on desk, legs swinging, bread in mouth, one hand peace sign, other hand on desk, three-quarter view, notebook, test paper, juice box, cherry blossom petals, recorder, eraser, ruler, pencil, musical note, speech bubble, grid lines background, border,"
+    }
+   ],
+   "img": "img/comp/mvdvc6r0.jpg?v=1792330561354",
+   "pos": "10.2% 50.0%"
   }
  ],
- "updatedAt": 1792330552675
+ "updatedAt": 1792330562130
 };

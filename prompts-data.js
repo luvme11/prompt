@@ -2597,7 +2597,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvrglw.jpg?v=1792331273878",
    "pos": "48.4% 50.0%"
+  },
+  {
+   "id": "mvdvrnn6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from side, upper body, dark forest, bare tree, night, snowing, kneeling, leaning forward, unsheathing, holding sword, holding sheath, katana, bloody weapon, blood on body, blood splatter, open clothes, japanese clothes, bare shoulders, looking down, parted lips, serious, black kimono, sash, motion blur, cinematic lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvrnn6.jpg?v=1792331283091",
+   "pos": "71.8% 50.0%"
   }
  ],
- "updatedAt": 1792331274791
+ "updatedAt": 1792331283532
 };

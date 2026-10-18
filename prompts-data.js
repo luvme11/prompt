@@ -3627,7 +3627,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwigaq.jpg?v=1792332533343",
    "pos": "50.0% 100.0%"
+  },
+  {
+   "id": "mvdwipy5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "pink background, abstract background, heart, chain, sparkles, upper body, looking at viewer, hand near mouth,"
+    },
+    {
+     "label": "의상",
+     "text": "jirai kei, punk style, pink plaid dress, striped arm warmers, spiked choker, belt, chains, rabbit hood, bunny ears,"
+    }
+   ],
+   "img": "img/comp/mvdwipy5.jpg?v=1792332547549",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792332533785
+ "updatedAt": 1792332547996
 };

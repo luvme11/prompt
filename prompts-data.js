@@ -1,1 +1,13 @@
-window.PROMPT_DATA = {"profile":{"title":"Prompt\nArchive","sub":"AI IMAGE PROMPTS","name":"이름","handle":"@handle","avatar":"","text":"","tags":[]},"items":[]};
+window.PROMPT_DATA = {
+ "profile": {
+  "title": "Prompt\nArchive",
+  "sub": "구도/룩",
+  "name": "U2",
+  "handle": "@noxuelux",
+  "text": "",
+  "tags": [],
+  "avatar": ""
+ },
+ "items": [],
+ "updatedAt": 1792325325171
+};

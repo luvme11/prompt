@@ -1473,7 +1473,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdutrbm.jpg?v=1792329701705",
    "pos": "46.2% 50.0%"
+  },
+  {
+   "id": "mvduu3rr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "dutch angle, lying on back, look at viewer, looking at sky, looking up, holding fruit, 1::tomato in hand::, tomato near mouth, scattered tomatoes, white bedding, duvet, cinematic lighting, soft shadows, 1::top down view::,"
+    },
+    {
+     "label": "의상",
+     "text": "1::red dress::, sleeveless dress, thin straps, flowing skirt, silk fabric,"
+    }
+   ],
+   "img": "img/comp/mvduu3rr.jpg?v=1792329717611",
+   "pos": "64.2% 50.0%"
   }
  ],
- "updatedAt": 1792329702153
+ "updatedAt": 1792329718058
 };

@@ -4782,7 +4782,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxddz2.jpg?v=1792333976402",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdxdrhk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black leather cowboy hat, black fitted corset top, black leather micro shorts, thigh-high black leather boots, brown western belt, patterned bandana hanging from the hip, silver rings,\n\nback view, looking back over shoulder, body turned away from viewer, Place both hands on the hips, slightly parted lips, seductive half-lidded eyes, confident provocative expression,\n\nlow angle shot, knee-up composition, strong perspective, dynamic body line, dramatic fashion editorial pose,\n\nintense crimson red background, saturated red and orange lighting, warm red rim light across skin, large dramatic cast shadow on the wall, cinematic studio lighting, high contrast, glossy leather highlights,\n\ndark western aesthetic, sultry fashion editorial, rebellious femme fatale, smoky sensual atmosphere, stylish and mature, semi-realistic luxurious anime illustration, detailed face, detailed hands, sharp eyes, high detail"
+    }
+   ],
+   "img": "img/comp/mvdxdrhk.jpg?v=1792333994911",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792333976858
+ "updatedAt": 1792333995366
 };

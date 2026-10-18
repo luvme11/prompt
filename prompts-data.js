@@ -4847,7 +4847,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxeqpw.jpg?v=1792334039952",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdxf44f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, A woman seen from behind, looking back over her shoulder toward the viewer, both hands reaching behind her back to fasten the hook of her bra, fingers pinching the clasp together. Elegant standing pose, slightly arched back, one hip cocked. Soft lighting, clean line art style mixed with subtle shading, black lingerie accents on a pale grey figure, simple white background. Dynamic but graceful gesture, natural anatomy, detailed hands and fingers on the bra hook."
+    }
+   ],
+   "img": "img/comp/mvdxf44f.jpg?v=1792334057381",
+   "pos": "50.0% 40.0%"
   }
  ],
- "updatedAt": 1792334040550
+ "updatedAt": 1792334057814
 };

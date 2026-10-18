@@ -4639,7 +4639,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxalb7.jpg?v=1792333846169",
    "pos": "50.0% 2.0%"
+  },
+  {
+   "id": "mvdxas8m",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, back three-quarter view, body facing away, looking back over shoulder, upright elegant posture, one hand raised beside face holding an ornate metallic oni mask, horned demon mask, black traditional Japanese kimono, oversized flowing sleeves, wide draped silhouette, white line-art patterns along sleeves and hem, enormous pale blue full moon behind subject, cool blue-white lighting, misty ethereal atmosphere, minimal pale blue background"
+    }
+   ],
+   "img": "img/comp/mvdxas8m.jpg?v=1792333855106",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792333847232
+ "updatedAt": 1792333856173
 };

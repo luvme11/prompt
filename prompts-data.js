@@ -827,7 +827,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduclfd.jpg?v=1792328900955",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvductei",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "laptop, glasses, wearing glasses, cute, solo, stressed, tired, groaning, moaning, hand on head, typing, indoors, desk, lamp, books, focused, messy desk"
+    }
+   ],
+   "img": "img/comp/mvductei.jpg?v=1792328911115",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792328901380
+ "updatedAt": 1792328911553
 };

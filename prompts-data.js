@@ -4063,7 +4063,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwtn3m.jpg?v=1792333055268",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdwtzxf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "indoors, window, rain, raining outside, raindrops, pastel colors, waist up, looking at viewer, hand near neck, wet, water drops,"
+    },
+    {
+     "label": "의상",
+     "text": "white t-shirt, short sleeves, wet clothes, see-through, clothing cling, bra,"
+    }
+   ],
+   "img": "img/comp/mvdwtzxf.jpg?v=1792333072303",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792333055708
+ "updatedAt": 1792333072737
 };

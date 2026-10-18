@@ -4678,7 +4678,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxb6cm.jpg?v=1792333873449",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdxbd2j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "3::high angle shot from above the feet::,\n3::head at the top of the image, legs toward the bottom::,\n3::framed from head to mid-thigh::,\nface clearly visible,\n\nlying on the back among flowers,\nlooking up at the camera,\nhair spread naturally on the ground,\none hand resting beside the face,\nother hand holding a small white flower,\nsoft dreamy gaze,\n\n2::oversized ivory cotton shirt::,\nloose open collar,\nrelaxed long sleeves,\nstraight-cut beige trousers,\nsimple silver necklace,\n2::gender-neutral casual outfit::,\n\n3::bed of white flowers and soft moss::,\nwhite anemones, baby's breath,\npale blue bellflowers,\ntiny glowing flowers around the hair,\nscattered petals,\n\nabandoned glass greenhouse,\ndark green vines,\nmoonlight through glass ceiling,\nfloating fireflies, subtle mist,\n\n3::soft silver moonlight on the face::,\ndeep emerald shadows,\nsilver-blue highlights,\nmuted sage and ivory palette,\nethereal glow,\ndreamlike mysterious atmosphere,\ncinematic lighting"
+    }
+   ],
+   "img": "img/comp/mvdxbd2j.jpg?v=1792333881992",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792333874230
+ "updatedAt": 1792333882465
 };

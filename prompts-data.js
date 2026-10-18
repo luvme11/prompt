@@ -2324,7 +2324,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvkaiu.jpg?v=1792330939362",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdvn513",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "winter, snow, snowing, outdoors, snow on nose, snowman, miniature snowman, holding, cupped hands, scarf, coat, brea,"
+    }
+   ],
+   "img": "img/comp/mvdvn513.jpg?v=1792331072311",
+   "pos": "52.7% 50.0%"
   }
  ],
- "updatedAt": 1792330939808
+ "updatedAt": 1792331072754
 };

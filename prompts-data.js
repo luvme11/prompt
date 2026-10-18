@@ -3099,7 +3099,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw40b8.jpg?v=1792331859586",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdw46q4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "girl, solo, adult woman,\n\nblack cat ears,\n1.35::large fluffy black cat tail::,\n\n1.35::lying on the stomach::,\n1.45::butt raised up high::,\n1.45::hips lifted high::,\n1.4::butt facing toward the viewer::,\n1.35::arched back::,\n1.35::looking back over the shoulder::,\n1.3::side glance toward the viewer::,\n1.3::legs bent under the body::,\n1.35::soles visible toward the viewer::,\n\n1.35::sulky expression::,\n1.3::pouting lips::,\n1.25::blushing cheeks::,\n1.2::slightly annoyed but cute mood::,\n\nlight gray off-shoulder knit sweater,\nsoft loose knit top,\nwide folded neckline,\none shoulder exposed,\ncozy knit texture,\n\nlight gray ruffled shorts,\nsoft lounge shorts,\nfrilled hem shorts,\n\n1.4::cat paw socks::,\nfluffy paw-pad socks,\n1.35::pink paw pads on the soles::,\n1.35::paw pads clearly visible::,\nsoft fuzzy socks,\n\n1.35::leaning against a sky-blue cushion::,\nsoft plush cushion,\n\nclean white background,\nminimal background,\nsoft indoor lighting,\nstylish anime illustration,\nclean composition"
+    }
+   ],
+   "img": "img/comp/mvdw46q4.jpg?v=1792331867548",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792331860039
+ "updatedAt": 1792331868454
 };

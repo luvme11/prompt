@@ -3474,7 +3474,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwe2eb.jpg?v=1792332328448",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdwef70",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "simple background, white background, floating flowers, cowboy shot, leaning forward, v hand, peace sign, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "white headscarf, floral bandana, red gingham top, ruffled crop top, denim shorts, white thighhighs, lace trim, strawberry necklace, ribbon,"
+    }
+   ],
+   "img": "img/comp/mvdwef70.jpg?v=1792332345233",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792332329057
+ "updatedAt": 1792332346141
 };

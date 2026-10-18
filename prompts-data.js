@@ -500,7 +500,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtswyk.jpg?v=1792327982990",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdu0jdm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "kitsch rockstage background, vibrant neon lights, colorful mismatched props, playful retro stage decor, glowing pastel highlights, soft warm keylight, shallow depth of field, close-up low-angle shot, whimsical energetic atmosphere, kneeling on stage, leaning forward toward the camera, hugging the bass guitar body, one hand gripping the neck of the guitar, expressive stage posture, direct confident gaze toward the camera, casual yet performative pose,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "black oversized bomber jacket, distressed graphic tank top, layered grunge streetwear style, black plush devil-horn beanie with red accents, metallic chains hanging from the beanie, small charm accessories attached to the hat, studded leather wristbands, multiple rings, layered chain necklaces, black ripped skinny jeans with frayed details, patterned knee-high socks or layered leg warmers peeking above the boots, platform combat boots with metallic hardware"
+    },
+    {
+     "label": "여자 의상",
+     "text": "black oversized jacket, lace camisole innerwear, layered grunge style outfit, black plush devil-horn hat with red accents, added metallic chains on the hat, small charm accessories attached to hat edges, studded wristbands, multiple rings, layered chokers, chain necklace, lace mini skirt with layered frills, patterned knee-high socks, platform boots with metallic details"
+    }
+   ],
+   "img": "img/comp/mvdu0jdm.jpg?v=1792328338332",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792327983428
+ "updatedAt": 1792328338760
 };

@@ -7560,7 +7560,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0c6ir.jpg?v=1792338959153",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0cc5j",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white shirt, tight shirt, sleeves rolled up, collarbone, partially unbuttoned, 3: untucked shirt::, silver wristwatch, gray pleated skirt, microskirt, white thighhighs, red trapeze heels, red glasses,"
+    }
+   ],
+   "img": "img/look/mve0cc5j.jpg?v=1792338966253",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338959630
+ "updatedAt": 1792338966710
 };

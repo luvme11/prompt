@@ -7154,7 +7154,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve025fm.jpg?v=1792338491220",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve02bcv",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "yellow cardigan, button gap, white frilled shirt, tiered skirt, grey skirt, polka dot skirt, lace up side, red glasses, hair clip, red polka dot backpack, ribbon, brown shoes,"
+    }
+   ],
+   "img": "img/look/mve02bcv.jpg?v=1792338498882",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338491707
+ "updatedAt": 1792338499338
 };

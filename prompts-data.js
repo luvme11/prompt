@@ -7462,7 +7462,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0avsm.jpg?v=1792338898679",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0b26q",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gothic lolita, long dress, gothic dress, black dress, high waist dress, short puff sleeves, 2::high-low skirt, asymmetrical skirt::, ruffled hem, red frills, black lace veil, wedding veil, red ruffled hairpins, wide waist ribbon, red ribbon, corset, pearl chain belt, ruffled chocker, white lace-up thighhighs, thighhighs with red ribbon, -::leg strap::, black platform boots,"
+    }
+   ],
+   "img": "img/look/mve0b26q.jpg?v=1792338907083",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338899154
+ "updatedAt": 1792338907700
 };

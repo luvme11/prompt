@@ -39,6 +39,9 @@ h1{font-size:30px;font-weight:800;letter-spacing:-.02em;line-height:1.1}
 .pv{width:100px;aspect-ratio:3/4;border-radius:10px;background:#ececec;margin-top:8px;overflow:hidden;display:none}.pv.on{display:block}.pv img{width:100%;height:100%;object-fit:cover;display:block}
 #fFav+.pv{width:56px;aspect-ratio:1;border-radius:12px}
 #fImg+.pv{width:150px;cursor:grab;touch-action:none;user-select:none;-webkit-user-select:none;outline:1px solid #ddd}#fImg+.pv:active{cursor:grabbing}#fImg+.pv img{pointer-events:none;-webkit-user-drag:none}
+.md label.ck{display:flex;align-items:center;gap:8px;font-size:11px;letter-spacing:0;color:#444;margin:18px 0 0;cursor:pointer}
+.md input[type=checkbox]{display:inline-block;width:16px;height:16px;padding:0;flex:none;accent-color:#2a2a2a;cursor:pointer}
+.sb{display:inline-block;margin-left:5px;padding:1px 6px;border-radius:8px;background:#2a2a2a;color:#fff;font-size:7.5px;font-weight:700;letter-spacing:.08em;vertical-align:1px}
 .mf{display:flex;align-items:center;justify-content:flex-end;gap:6px;margin-top:18px}.mf span{flex:1;font-size:10px;color:#888}
 .hint{font-size:10px;color:#999;line-height:1.6;margin-top:8px}
 .toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%);background:#2a2a2a;color:#fff;padding:9px 18px;border-radius:20px;font-size:11px;font-weight:700;display:none;z-index:40}
@@ -157,14 +160,15 @@ function writeModal(it){
     <label>분류</label><select id="fTab">${Object.entries(NAMES).map(([k,v])=>`<option value="${k}" ${k===e.tab?'selected':''}>${v}</option>`).join('')}</select>
     <label>이름 (비우면 #1 #2처럼 번호로 자동)</label><input id="fName" value="${esc(e.name)}" placeholder="예: 로우앵글 전신  ·  ==글자==는 형광펜">
     <label>코드 (복사될 프롬프트)</label><div id="cds">${cs.map(codeRow).join('')}</div><button type="button" class="btn" id="addC">+ 코드 추가 (배경 / 의상 따로)</button>
-    <label>썸네일 이미지 (선택) · 올린 뒤 드래그해서 보일 부분 조정</label><input type="file" id="fImg" accept="image/*"><div class="pv"></div>`, async () => {
-    const name = $('#fName').value.trim(), t = $('#fTab').value;
+    <label>썸네일 이미지 (선택) · 올린 뒤 드래그해서 보일 부분 조정</label><input type="file" id="fImg" accept="image/*"><div class="pv"></div>
+    <label class="ck"><input type="checkbox" id="fSoon" ${e.soon?'checked':''}>COMING SOON (체크하면 방문자는 복사 불가 · 관리자만 복사)</label>`, async () => {
+    const name = $('#fName').value.trim(), t = $('#fTab').value, soon = $('#fSoon').checked;
     const codes = [...document.querySelectorAll('#cds .cr')].map(r => ({label:r.querySelector('.cl').value.trim(), text:r.querySelector('.ct').value.trim()})).filter(c => c.text);
     if (!codes.length) throw new Error('코드를 입력해 주세요');
     const id = e.id || Date.now().toString(36); let img = e.img || '';
     if ($('#fImg').data){ img = `img/${t}/${id}.jpg`; await putImg(img, $('#fImg').data); img += '?v=' + Date.now(); }
     await commit(d => {
-      const n = {id, tab:t, name, codes, img, pos:$('#fImg').pos || '50% 50%'}, i = d.items.findIndex(x => x.id === id);
+      const n = {id, tab:t, name, codes, img, pos:$('#fImg').pos || '50% 50%', soon}, i = d.items.findIndex(x => x.id === id);
       if (i >= 0) d.items[i] = n; else d.items.push(n);
     }, it ? 'Edit prompt' : 'Add prompt');
     tab = t; document.querySelectorAll('.pill').forEach(p => p.classList.toggle('on', p.dataset.k === t));
@@ -211,8 +215,8 @@ function render(){
   const cur = list.slice((PG-1)*size, PG*size), btns = p => `<button data-e="${esc(p.id)}">수정</button><button class="del" data-d="${esc(p.id)}">삭제</button>`;
   const img = p => p.img ? `<img src="${esc(p.img)}" style="object-position:${esc(p.pos||'50% 50%')}" onerror="this.remove()">` : '';
   $('#list').innerHTML = !list.length ? `<div class="empty">${ready() ? (all.length ? '검색 결과가 없어요' : '아직 글이 없어요 — 오른쪽 위 "+ 글쓰기"를 눌러 보세요') : '먼저 "연결 설정"에서 GitHub를 연결해 주세요'}</div>`
-   : grid ? `<div class="gd">${cur.map(({p,n}) => `<div class="ac"><div class="th">${img(p)}</div><div class="cap">${esc(p.name || '#'+n)}</div><div class="rb">${btns(p)}</div></div>`).join('')}</div>`
-   : cur.map(({p,n}) => `<div class="row"><div class="th">${img(p)}</div><div class="tx"><b>${esc(p.name || '#'+n)}</b><small>${esc(codesOf(p).map(c=>c.text).join(' / '))}</small></div><div class="rb">${btns(p)}</div></div>`).join('');
+   : grid ? `<div class="gd">${cur.map(({p,n}) => `<div class="ac"><div class="th">${img(p)}</div><div class="cap">${esc(p.name || '#'+n)}${p.soon?'<span class="sb">SOON</span>':''}</div><div class="rb">${btns(p)}</div></div>`).join('')}</div>`
+   : cur.map(({p,n}) => `<div class="row"><div class="th">${img(p)}</div><div class="tx"><b>${esc(p.name || '#'+n)}${p.soon?'<span class="sb">SOON</span>':''}</b><small>${esc(codesOf(p).map(c=>c.text).join(' / '))}</small></div><div class="rb">${btns(p)}</div></div>`).join('');
   const s = Math.max(1, Math.min(PG-2, pages-4)), n = []; for (let i=s;i<=Math.min(pages,s+4);i++) n.push(`<button data-p="${i}" class="${i===PG?'on':''}">${i}</button>`);
   $('#pg').innerHTML = pages < 2 ? '' : `<div class="pgn"><button data-p="1" ${PG<2?'disabled':''}>«</button><button data-p="${PG-1}" ${PG<2?'disabled':''}>‹</button>${n.join('')}<button data-p="${PG+1}" ${PG>=pages?'disabled':''}>›</button><button data-p="${pages}" ${PG>=pages?'disabled':''}>»</button></div>`;
 }

@@ -1172,7 +1172,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdumcdv.jpg?v=1792329355670",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdumicy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, full body, high angle, crouching pose, resting chin on knee, leaning forward, looking at viewer, one hand cat pose, playful smile, glowing neon arcade, retro claw machine background, vivid cyan lighting, cyber aesthetic, high contrast, sharp details, \n\n{cyan and neon yellow track jersey dress}, oversized white maid apron, sheer lace frills, zipper neck, striped thigh-high socks, chunky platform sneakers,"
+    }
+   ],
+   "img": "img/comp/mvdumicy.jpg?v=1792329363613",
+   "pos": "64.2% 50.0%"
   }
  ],
- "updatedAt": 1792329356248
+ "updatedAt": 1792329364050
 };

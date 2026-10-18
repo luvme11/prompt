@@ -3216,7 +3216,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw6nyy.jpg?v=1792331983364",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdw6u9r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "(black sunglasses, sunglasses over forehead:1.4), silver piercings, multiple ear piercings, silver dangle earrings, layered silver necklace, cross pendant, silver rings, black leather gloves, fingerless gloves, black cropped leather jacket, puffy sleeves, (slipping off one shoulder, disheveled clothing, half-undressed:1.1), exposing collarbone, black sleeveless tank top, wide leather pants, baggy cargo pants, long leather straps, utility straps, layered silver chain belt,\n\n(sitting, sitting on motorcycle:1.5), relaxed posture, shoulders relaxed, body leaning forward slightly, (elbow on knee:1.8), (resting chin on hand, resting on only one hand:1.4), half body, portrait, medium shot, centered composition, focus on character, face focus, (subtle high angle, high angle shot, from above:0.7), three-quarter view, 3/4 view, head tilted slightly, looking up at viewer, looking at viewer, calm expression, confident expression, cool expression, relaxed expression,\n\n(black motorcycle:1.6), black background, dark background, studio background, (single white spotlight, soft spotlight, large white spotlight circle behind character:1.5), cinematic lighting, realistic lighting, low-key lighting, high contrast, dramatic contrast, strong shadows, deep shadows, dramatic black and white composition, studio setting, depth of field, shallow depth of field,"
+    }
+   ],
+   "img": "img/comp/mvdw6u9r.jpg?v=1792331991640",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792331983968
+ "updatedAt": 1792331992082
 };

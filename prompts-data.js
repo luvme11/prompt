@@ -2571,7 +2571,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvr40c.jpg?v=1792331257789",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdvraaa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "hetero, couple, leaning on person, holding hands, hand on another's waist, head tilt, looking at viewer, 1.3::skull face::, 1.4::bald skull::, skeletal hand, crown, black formal suit, red rose boutonniere, white shirt, sad, parted lips, wedding dress, red and white dress, off shoulder, detached sleeves, frills, lace trim, corset, gloves, earrings, red rose, butterfly, falling petals, sparkle, cathedral interior, baroque, gothic, dramatic lighting, depth of field, from side, upper body,"
+    }
+   ],
+   "img": "img/comp/mvdvraaa.jpg?v=1792331265604",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792331258582
+ "updatedAt": 1792331266545
 };

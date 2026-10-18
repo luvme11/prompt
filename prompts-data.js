@@ -6258,7 +6258,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyuzx9.jpg?v=1792336477790",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyv7ec",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white plaid dress, square neck, short sleeves, ruffle hem, wide leg denim pants, red frame glasses, scrunchie, shoulder bag, shell bracelet, platform shoes,"
+    }
+   ],
+   "img": "img/look/mvdyv7ec.jpg?v=1792336487645",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336478284
+ "updatedAt": 1792336488883
 };

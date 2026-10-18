@@ -483,7 +483,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtskah.jpg?v=1792327966285",
    "pos": "50.0% 50.0%"
+  },
+  {
+   "id": "mvdtswyk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "vibrant citrus orchard, warm golden sunlight, soft natural glow, outdoor garden setting, fresh green foliage, bright color harmony, gentle afternoon light, medium shot, slightly angled front view, standing in an orchard, holding a citrus fruit on top of the head, one eye closed in a playful wink, relaxed arm posture, slight lean toward the camera, soft cheerful smile, carrying a woven basket filled with oranges, playful wink, bright and warm smile, cheerful and lively mood,"
+    },
+    {
+     "label": "의상",
+     "text": "soft orange knit cardigan, light floral dress, matching ribbon hair ties, cozy autumn-inspired outfit"
+    }
+   ],
+   "img": "img/comp/mvdtswyk.jpg?v=1792327982990",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792327966716
+ "updatedAt": 1792327983428
 };

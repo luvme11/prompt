@@ -4652,7 +4652,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxas8m.jpg?v=1792333855106",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdxazc2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "5::hands clasped together in prayer before the mouth::,4::interlaced fingers, elbows lowered::,4::facing viewer directly::,3::head slightly bowed, eyes looking upward::,4::sly::5::ornate sacred clerical uniform::,4::black and ivory ceremonial priest robes::,3::intricate gold embroidery, high collar::,layered ecclesiastical vestments,ornate shoulder mantle,golden cross pendant,jeweled rosary, elaborate religious jewelry,4::dark cathedral interior::,gothic arches, stained glass windows,3::radiant golden halo behind the head::,subtle sacred light, deep dramatic shadows,3::frontal medium shot::,symmetrical composition,hands and face clearly visible,dark religious fantasy,beautiful yet blasphemous atmosphere,5::wearing a long white ceremonial veil over the head::,4::delicate ivory lace veil draping over the shoulders::,3::ornate gold embroidery along the veil edges::,soft translucent white fabric,face fully visible beneath the veil,sacred religious headdress,"
+    }
+   ],
+   "img": "img/comp/mvdxazc2.jpg?v=1792333864351",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792333856173
+ "updatedAt": 1792333865441
 };

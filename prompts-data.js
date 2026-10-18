@@ -742,7 +742,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduaebg.jpg?v=1792328798550",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvduarvf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "studio close-up setting, soft and even lighting with gentle highlights, pastel pink background, sweet and dreamy color palette, doll-like and playful mood, eye-level angle, tight close-up framing, face-dominant composition, minimal background presence, one hand raised holding a round peach prop near the cheek, head facing forward with slight tilt, still and intimate portrait-style pose,"
+    },
+    {
+     "label": "의상",
+     "text": "light pink sleeveless pinafore-style dress, white inner blouse with small red dot pattern, soft fabric texture, pastel and cute styling coordination, white lace headscarf covering the top of the head, small pastel hairpins placed at the side"
+    }
+   ],
+   "img": "img/comp/mvduarvf.jpg?v=1792328815972",
+   "pos": "50.0% 46.0%"
   }
  ],
- "updatedAt": 1792328799155
+ "updatedAt": 1792328816560
 };

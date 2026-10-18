@@ -2259,7 +2259,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvje3u.jpg?v=1792330897415",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdvjklf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, from above, looking down, holding paper, reading, convenience store, shelf, food, fluorescent lighting, night, receipt, curling paper, barcode, logo, timestamp, coupon, stain, crumpled paper, pen, green tint, blue theme, brown theme,"
+    }
+   ],
+   "img": "img/comp/mvdvjklf.jpg?v=1792330905631",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792330897879
+ "updatedAt": 1792330906072
 };

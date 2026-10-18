@@ -5714,7 +5714,21 @@ window.PROMPT_DATA = {
    "img": "img/base/mvdy9on5.jpg?v=1792335483327",
    "pos": "50% 50%",
    "soon": true
+  },
+  {
+   "id": "mvdyeyem",
+   "tab": "base",
+   "name": "",
+   "codes": [
+    {
+     "label": "증면사진",
+     "text": "close-up, id photo, identification photo, passport photo style,\nportrait, head-and-shoulders portrait, tight headshot,\nfront view, straight-on view, looking at viewer,\ncentered composition, symmetrical composition,\nface centered, head centered in frame,\nhead and shoulders visible, shoulders slightly visible,\nupper chest slightly visible,\ntight portrait framing,\nsimple blue background, solid blue background, plain background, studio background,\nstudio lighting, even lighting,\nneutral pose, straight posture, little smile"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": true
   }
  ],
- "updatedAt": 1792335701216
+ "updatedAt": 1792335728155
 };

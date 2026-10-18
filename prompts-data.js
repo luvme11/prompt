@@ -5033,7 +5033,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxjjcu.jpg?v=1792334263537",
    "pos": "50.0% 40.0%"
+  },
+  {
+   "id": "mvdxk29o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "flat editorial collage, distressed pink and off-white paper background, ripped magazine edges, photocopied graphics, black scribbles, barcode stickers, fake price-tag graphics, starbursts, heart doodles, tiny fashion cutouts, silver foil accents, overlapping paper fragments, chaotic handmade page layout, underground 2000s Japanese fashion magazine aesthetic,\ndark kitsch streetwear, cropped washed-black zip jacket, striped fitted top, asymmetric low-rise mini skirt, wide utility belt with dangling charms, detached knit sleeves, knee-high platform boots, silver chain accessories, tiny black shoulder bag decorated with pins"
+    }
+   ],
+   "img": "img/comp/mvdxk29o.jpg?v=1792334288107",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792334263981
+ "updatedAt": 1792334289215
 };

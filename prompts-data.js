@@ -2922,7 +2922,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw0ixv.jpg?v=1792331696868",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvdw0pck",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "zoom layer, dutch angle, sitting, gaming chair, leaning back, knees up, hand on own headphones, looking at viewer, full body, arms up, shoe soles, red-framed eyewear, headphones, white hoodie, oversized clothes, clothes writing, black shorts, red socks, striped socks, kneehighs, sneakers, red background, geometric background,"
+    }
+   ],
+   "img": "img/comp/mvdw0pck.jpg?v=1792331705344",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792331697313
+ "updatedAt": 1792331705787
 };

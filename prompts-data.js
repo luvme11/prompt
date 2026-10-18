@@ -7070,7 +7070,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzyons.jpg?v=1792338329464",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvdzyut4",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white sleeveless frill collar shirt, 2::cascading lace ruffles at the neck tie::, bare arms, little white roses and pale green ribbon at the waist, pale green long skirt, white frill under skirt, white mary jane heels with ankle strap"
+    }
+   ],
+   "img": "img/look/mvdzyut4.jpg?v=1792338337514",
+   "pos": "50.0% 48.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338330057
+ "updatedAt": 1792338337975
 };

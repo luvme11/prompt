@@ -6846,7 +6846,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz9bv4.jpg?v=1792337146476",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz9iw1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "punk, off shoulder black jacket, torn clothes, checkered tights, mismatched tights, heart print tights, plaid miniskirt, multi belt, spiked choker, cross necklace, chunky boots,"
+    }
+   ],
+   "img": "img/look/mvdz9iw1.jpg?v=1792337155480",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337147118
+ "updatedAt": 1792337156403
 };

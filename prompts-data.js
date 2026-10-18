@@ -7714,7 +7714,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0eji1.jpg?v=1792339069423",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0eqc4",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black sweater dress, turtleneck, pink ribbon decorate neck, sleeveless, breasts cutout, black arm warmers, pink ribbon lace-up arm warmers, black thighhighs, no shoes,"
+    }
+   ],
+   "img": "img/look/mve0eqc4.jpg?v=1792339078344",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339070047
+ "updatedAt": 1792339078948
 };

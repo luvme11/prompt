@@ -2974,7 +2974,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw1izn.jpg?v=1792331743562",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdw1p2n",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, sitting, picture frame, painting (object), museum, looking back, looking at viewer, finger to mouth, blush, parted lips, knees up, from side, full body, pink dress, two-tone dress, long dress, frills, wide sleeves, back bow, hair ribbon, pink footwear, shadow, light particles, fox, white cat, tree, blue sky, cloud. The figure sits sideways on the bottom edge of an ornate gilded frame on a dark green gallery wall, knees drawn up, body turned away. Their upper body is inside the painting while 1.3::the long white skirt spills out over the frame and hangs down the wall, one pink shoe dangling::. They look back over their shoulder at the viewer with one finger raised to their lips. Inside the painting is a meadow with tall trees under a cloudy blue sky, a small fox and a white cat sitting together far in the distance. A red velvet rope on two metal posts crosses the foreground; a small white label card hangs right of the frame. Soft light from above, faint dust in the air, a soft shadow of the skirt on the wall,"
+    }
+   ],
+   "img": "img/comp/mvdw1p2n.jpg?v=1792331751286",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792331744000
+ "updatedAt": 1792331751725
 };

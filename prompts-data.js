@@ -4573,7 +4573,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx4tst.jpg?v=1792333577090",
    "pos": "50.0% 56.0%"
+  },
+  {
+   "id": "mvdx4znv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, extreme close-up, side profile, lying on back beneath cherry blossom branches, head tilted far backward, face pointing upward, eyes closed, lips slightly parted, one hand raised near face, fingertips gently touching cherry blossoms, delicate pale pink cherry blossoms hanging directly above face, woody branches extending across frame, dense clusters of blossoms surrounding subject, flowers filling foreground, soft blurred petals near camera, pastel floral kimono, delicate floral patterns, soft pink and pale blue fabric, bright spring sunlight, strong dreamy backlighting, glowing petals, soft pink light, shallow depth of field, ethereal spring atmosphere, romantic dreamy mood"
+    }
+   ],
+   "img": "img/comp/mvdx4znv.jpg?v=1792333584935",
+   "pos": "50.0% 80.0%"
   }
  ],
- "updatedAt": 1792333577541
+ "updatedAt": 1792333585555
 };

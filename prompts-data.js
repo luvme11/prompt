@@ -4404,7 +4404,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx1q5p.jpg?v=1792333432575",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdx29l7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from above, bird's-eye view, lying, curled up,  field, grass, flowers, red flowers, outdoors, \n\nwings, feathered wings, large wings, white wings, \ndress, white dress, barefoot,"
+    }
+   ],
+   "img": "img/comp/mvdx29l7.jpg?v=1792333457537",
+   "pos": "50.0% 2.0%"
   }
  ],
- "updatedAt": 1792333433638
+ "updatedAt": 1792333457979
 };

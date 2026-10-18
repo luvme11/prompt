@@ -2155,7 +2155,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvhn7z.jpg?v=1792330815955",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvht3h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "powder blue and red stripe theme, mail carrier, from side, riding bicycle, standing on pedals, downhill, one hand on hat, letters flying, wind swept hair, laughing, open mouth, postman cap, messenger bag, overflowing bag, letter in hatband, stamp earring, wax seal ring, button up shirt, bermuda shorts, knee high socks, mary janes, whistle necklace, paper airplane, postcard, mailbox, zip code stamp, string tied parcel, wax drip,"
+    }
+   ],
+   "img": "img/comp/mvdvht3h.jpg?v=1792330823737",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792330816408
+ "updatedAt": 1792330824206
 };

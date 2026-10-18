@@ -2688,7 +2688,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvt4j3.jpg?v=1792331351496",
    "pos": "17.3% 50.0%"
+  },
+  {
+   "id": "mvdvtb3g",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, dutch angle, from side, looking at viewer, head tilt, lying, on side, key, ornate key, heart, ruby, gem, cross, large bow, frilled bonnet, gothic lolita, frilled dress, black dress, pearl necklace, layered bows, lace, sparkle, falling petals, monochrome, spot color, broken glass, shattered background, gothic,"
+    }
+   ],
+   "img": "img/comp/mvdvtb3g.jpg?v=1792331359977",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792331352250
+ "updatedAt": 1792331360437
 };

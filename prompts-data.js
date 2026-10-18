@@ -3069,7 +3069,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw3cpn.jpg?v=1792331828822",
    "pos": "50.0% 38.0%"
+  },
+  {
+   "id": "mvdw3qws",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo, standing in front of a massive aquarium tank, glowing blue underwater lighting, penguins swimming past the glass, bubbles and water reflections, relaxed smile, hands behind back, cinematic aquarium atmosphere, soft neon blue ambience, modern indoor aquarium"
+    },
+    {
+     "label": "의상",
+     "text": "black bomber jacket, gray zip hoodie layered underneath, white t-shirt, loose black pants, casual streetwear, oversized silhouette, backpack straps, minimalist monochrome fashion"
+    }
+   ],
+   "img": "img/comp/mvdw3qws.jpg?v=1792331847554",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792331829582
+ "updatedAt": 1792331848317
 };

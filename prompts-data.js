@@ -4968,7 +4968,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxikit.jpg?v=1792334218188",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdxitq2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "body covered in shimmering oil, only a delicate gold body chain and tiny shiny briefs, skin looking wet and reflective, extremely seductive reclining pose on black silk sheets, one knee up, hips tilted, fingers trailing along the chain, dark moody bedroom, single warm spotlight creating highlights on oiled skin and metal, erotic fine-art photography, luxurious and explicit atmosphere"
+    }
+   ],
+   "img": "img/comp/mvdxitq2.jpg?v=1792334230352",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792334218639
+ "updatedAt": 1792334230974
 };

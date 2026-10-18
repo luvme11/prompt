@@ -5510,7 +5510,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxwj6p.jpg?v=1792334870182",
    "pos": "53.8% 50.0%"
+  },
+  {
+   "id": "mvdxwp8k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, 2::extreme face close-up::, face filling most of the frame, tightly cropped composition, 3/4 view, slight side angle, looking toward viewer, one hand framing face, striped arm warmers, high-neck white collar, black harness straps, silver chains, long acrylic nails, decorative hair clips, dangling earrings, tongue piercing, heart cheek sticker, neon lime green background, floating capsules, floating candy hearts, pink doodle hearts, black cable graphics, comic speech bubbles, tongue out, playful mischievous expression"
+    }
+   ],
+   "img": "img/comp/mvdxwp8k.jpg?v=1792334877535",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792334870800
+ "updatedAt": 1792334878612
 };

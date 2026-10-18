@@ -6692,7 +6692,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz6zu3.jpg?v=1792337037469",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz76mw",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black formal jacket, two buttons, white dress shirt, black ribbon tie, black pleated skirt,"
+    }
+   ],
+   "img": "img/look/mvdz76mw.jpg?v=1792337046412",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337037906
+ "updatedAt": 1792337046864
 };

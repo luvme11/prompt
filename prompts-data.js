@@ -952,7 +952,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdui9jp.jpg?v=1792329165288",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvduiiic",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "upper body, outdoors, street, summer, blue sky, sunlight, dappled sunlight, light particles, wind, hair blowing,"
+    }
+   ],
+   "img": "img/comp/mvduiiic.jpg?v=1792329176740",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792329165720
+ "updatedAt": 1792329177181
 };

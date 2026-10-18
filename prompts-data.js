@@ -5213,7 +5213,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxp7jt.jpg?v=1792334528598",
    "pos": "50.0% 48.0%"
+  },
+  {
+   "id": "mvdxpe8l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "seductive and languid expression, half-lidded eyes, intense eye contact, slightly parted lips, biting a metal military dog tag chain between his teeth, dog tags hanging loosely from his mouth, back against a dark wall, relaxed and confident pose, head tilted back slightly, defined jawline, muscular physique, broad shoulders, prominent collarbones, exposed neck and upper chest, unbuttoned military shirt, loose fabric falling from his shoulders, subtle sweat sheen on skin, dim red-tinted ambient lighting, deep shadows, smoky atmosphere, dark military aesthetic, sensual tension, provocative but tasteful, cinematic close-up, dramatic lighting, realistic metallic texture, detailed skin, mature masculine beauty, highly detailed, masterpiece, best quality"
+    }
+   ],
+   "img": "img/comp/mvdxpe8l.jpg?v=1792334536943",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792334529199
+ "updatedAt": 1792334537424
 };

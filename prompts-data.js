@@ -339,7 +339,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtm2fp.jpg?v=1792327663202",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdtmnm1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "soft lighting, warm cozy atmosphere, intimate moment, close-up angle, gentle morning mood, natural blanket texture, relaxed sleeping pose, peaceful scene, warm color palette, cuddling composition,"
+    },
+    {
+     "label": "남자",
+     "text": "lying closely behind person1, gentle embrace from behind, arms wrapped around person1, head resting near person1’s head, peaceful sleeping pose, protective cuddling posture,"
+    },
+    {
+     "label": "여자",
+     "text": "lying on side, eyes closed, relaxed facial expression, arms resting forward, body wrapped in blanket, leaning slightly toward person2,"
+    }
+   ],
+   "img": "img/comp/mvdtmnm1.jpg?v=1792327690500",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792327663652
+ "updatedAt": 1792327691090
 };

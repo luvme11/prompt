@@ -538,7 +538,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu0xon.jpg?v=1792328356928",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdu19q9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "vintage room setting, warm brown wood background, soft pink decorative notes behind, cozy retro atmosphere, soft diffused lighting, intimate close-up medium shot, nostalgic analog vibe, sitting on desk edge, one leg raised and bent, holding vintage corded phone to ear, leaning slightly forward, arm resting on desk, subtle pouty expression, half-lowered red glasses, relaxed yet alluring pose,"
+    },
+    {
+     "label": "의상",
+     "text": "red sleeveless dress with bow detail at chest, lightweight wrinkled fabric, red ribbon hair ties, thigh-high white socks, red accent straps, vintage glasses"
+    }
+   ],
+   "img": "img/comp/mvdu19q9.jpg?v=1792328372455",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792328357365
+ "updatedAt": 1792328373062
 };

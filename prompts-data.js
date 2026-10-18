@@ -304,7 +304,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "메인",
      "text": "nighttime festival setting, warm lantern lighting, traditional festive atmosphere, shallow depth of field, soft background blur,"
     },
     {
@@ -362,5 +362,5 @@ window.PROMPT_DATA = {
    "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792327791011
+ "updatedAt": 1792327794446
 };

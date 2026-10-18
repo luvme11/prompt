@@ -151,7 +151,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtcqf6.jpg?v=1792327227712",
    "pos": "50.0% 50.0%"
+  },
+  {
+   "id": "mvdtd0fj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, sitting on parfait, giant parfait, ice cream, strawberry, cherry, whipped cream, sprinkles, pocky, heart-shaped cookie, character cookie, strawberry sauce, dripping, holding giant spoon, bow, maid headdress, hair bow, heart choker, red choker, maid, apron, frills, puffy short sleeves, white gloves, red skirt, petticoat, white thighhighs, garter straps, red mary janes, ankle socks, full body, looking at viewer, light smile, blush, polka dot background, grid, pink border, ribbon, jam jar, envelope, heart, sticker"
+    }
+   ],
+   "img": "img/comp/mvdtd0fj.jpg?v=1792327240701",
+   "pos": "14.0% 50.0%"
   }
  ],
- "updatedAt": 1792327228145
+ "updatedAt": 1792327241135
 };

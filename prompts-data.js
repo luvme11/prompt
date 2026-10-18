@@ -6,7 +6,8 @@ window.PROMPT_DATA = {
   "handle": "@noxuelux",
   "text": "==구도와 룩== 프롬프트를 업로드 합니다\n비슷한 소재가 있을 시 ==창구== 이용해 주세요\n==기본 프롬프트==는 공개할 의향 없습니다",
   "tags": [],
-  "avatar": "img/profile.jpg?v=1792325354366"
+  "avatar": "img/profile.jpg?v=1792325354366",
+  "favicon": "img/favicon.png?v=1792333762418"
  },
  "items": [
   {
@@ -4614,5 +4615,5 @@ window.PROMPT_DATA = {
    "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792333601960
+ "updatedAt": 1792333763331
 };

@@ -7294,7 +7294,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve04k2n.jpg?v=1792338603269",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve04pgx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "button-up shirt, tight shirt, black and white striped shirt, 3: untucked shirt::, -1::crop top::, collarbone, black lace bra, silver necklace, lowleg shorts, black lace trim shorts, gray knee socks, high heels, white leopard high heels, rimless eyewear,"
+    }
+   ],
+   "img": "img/look/mve04pgx.jpg?v=1792338610191",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338603727
+ "updatedAt": 1792338610651
 };

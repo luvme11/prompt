@@ -7490,7 +7490,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0b9j0.jpg?v=1792338916211",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0bffw",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "short coat, double-breasted coat, pastel sky blue coat, -2::unbuttoned::, layered clothes, white turtleneck, gray fur shorts, -2::fur hem::, black leggings, leg warmers, white leg warmers, black boots,"
+    }
+   ],
+   "img": "img/look/mve0bffw.jpg?v=1792338924019",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338916754
+ "updatedAt": 1792338924462
 };

@@ -6776,7 +6776,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz8bbx.jpg?v=1792337099303",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz8k9y",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "idol clothes, gothic lolita, corset, black bodice, pink dress, 1.5::detached sleeves,:: lace gloves, fingerless gloves, wrist cuffs, bare shoulders, choker, 1.5::layered skirt, frills, ruffles,:: black overskirt, open front, pink skirt, lace trim,  ribbon, lace-up, pink thighhighs, criss-cross lacing, garter straps, ankle strap, high heels, hair bow,"
+    }
+   ],
+   "img": "img/look/mvdz8k9y.jpg?v=1792337110696",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337099914
+ "updatedAt": 1792337111298
 };

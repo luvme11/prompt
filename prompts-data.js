@@ -8047,7 +8047,7 @@ window.PROMPT_DATA = {
      "text": "cinematic lighting, 2::intense backlighting::, rim light, dark background, shadow, solo, face focus,  3::chin up::, arrogant, disdainful, 1.3::close-up::, shoulder view, upper body, ​side view, profile, looking down , 2::arms up, arms above head::, hands on head, handcuffs, arche dback, ​shirt lift, white shirt, wet clothes, depth of field, sexy, dangerous smile, moody, very aesthetic, masterpiece, no text,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve2zv2p.jpg?v=1792343556653",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8122,5 +8122,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792343519012
+ "updatedAt": 1792343557116
 };

@@ -1572,7 +1572,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduvj4j.jpg?v=1792329784060",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdv1unr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "dutch angle, dynamic pose, mid-air, action, looking down, 1::stage lighting::, spotlight, dramatic lighting, purple lighting, backlighting, shadow, glow, character focus, upper body, cinematic composition, aesthetic, vocalist, microphone, holding microphone, microphone stand, singing,"
+    },
+    {
+     "label": "의상",
+     "text": "oversized t-shirt, graphic t-shirt, layered clothing, leather jacket, cargo pants, belt, chain accessory,"
+    }
+   ],
+   "img": "img/comp/mvdv1unr.jpg?v=1792330079257",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792329784517
+ "updatedAt": 1792330079710
 };

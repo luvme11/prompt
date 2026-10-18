@@ -8218,7 +8218,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mve3e7pf.jpg?v=1792344265364",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve3su76",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality,1.4::pastel blue ruffle swimsuit::, 1.35::sheer beach cover-up::, 1.3::shell anklet::, 1.3::round sunglasses on head::, 1.35::floating with clear inner tube::, 1.3::one hand splashing water::, 1.35::joyful open laugh::, 1.3::squinting in sunlight::, 1.35::sparkling turquoise ocean::, 1.3::bright summer sky::, 1.3::water droplets and sun glare::"
+    }
+   ],
+   "img": "img/comp/mve3su76.jpg?v=1792344775181",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792344279243
+ "updatedAt": 1792344776429
 };

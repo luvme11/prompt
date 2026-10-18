@@ -7798,7 +7798,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0iq5s.jpg?v=1792339264523",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0ivzs",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::brown earmuffs, cookie earmuffs::, dirnal, collar, frills, white juilet sleeves, short sleeves, black corset, red checkered apron, green skirt, red and black frill-trimmed skirt, strawberry print skirt, strawberry print white pantyhose, ugg boots,"
+    }
+   ],
+   "img": "img/look/mve0ivzs.jpg?v=1792339271977",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339265152
+ "updatedAt": 1792339272605
 };

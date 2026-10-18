@@ -113,6 +113,7 @@ $('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
 $('#sub').textContent = P.sub; $('#nm').textContent = P.name; $('#hd').textContent = P.handle;
 if (P.avatar) $('#av').innerHTML = `<img src="${esc(P.avatar)}" alt="">`;
 document.title = P.title.replace('\n',' ');
+if (P.favicon){ let l = document.querySelector('link[rel~=icon]'); if (!l){ l = document.createElement('link'); l.rel = 'icon'; document.head.appendChild(l); } l.href = P.favicon; }
 
 function pager(pg, pages){
   if (pages < 2) return '';

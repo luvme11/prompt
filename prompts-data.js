@@ -6174,7 +6174,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdytj9c.jpg?v=1792336409642",
    "pos": "50.0% 12.0%",
    "soon": false
+  },
+  {
+   "id": "mvdytp1h",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cream blouse, long sleeves, ruffled collar, frills, tiered ruffled skirt, black and white plaid skirt, neck ribbon, black ribbon, black thigh high socks, black mary janes,"
+    }
+   ],
+   "img": "img/look/mvdytp1h.jpg?v=1792336417154",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336410253
+ "updatedAt": 1792336418080
 };

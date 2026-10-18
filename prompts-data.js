@@ -5200,7 +5200,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxp19o.jpg?v=1792334519796",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdxp7jt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, year 2025, highly detailed playful breakfast chaos illustration, 1.7::large beautiful expressive face dominating composition::, 1.5::dynamic chest-up portrait::, 1.4::clear detailed eyes::, dramatic tilted camera perspective, character lunging forward to catch a falling piece of toast, one hand reaching dramatically toward foreground, other hand holding a tilted ceramic mug, surprised playful expression, lively open mouth, windblown messy hair, cozy oversized morning shirt, colorful apron, flying toast slices, floating strawberries, overturned cereal bowl, miniature jam jars, scattered silver spoons, tiny butter cubes, decorative breakfast plates, gingham napkins, suspended droplets of coffee, detailed kitchen utensils, sunny kitchen window, warm butter yellow and pale sky blue dominant palette, bright cherry red accents, luminous morning sunlight illuminating main face, warm cream highlights, soft blue shadows, dynamic foreshortening, bold expressive anime linework, rich painterly shading, playful dense composition, no text, no typography"
+    }
+   ],
+   "img": "img/comp/mvdxp7jt.jpg?v=1792334528598",
+   "pos": "50.0% 48.0%"
   }
  ],
- "updatedAt": 1792334520243
+ "updatedAt": 1792334529199
 };

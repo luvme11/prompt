@@ -3112,7 +3112,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw46q4.jpg?v=1792331867548",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdw4d9x",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "girl, solo,\n\n[외형]\n\nfull body, squatting, deep squat, low crouching pose, body turned sideways, side-facing body, three-quarter view, one knee raised prominently, legs folded tightly, compact crouched posture, upper body leaning slightly forward, elbow resting on raised knee, chin resting on fist, hand supporting the chin, 1.35::holding a large knife::, 1.4::knife held horizontally beside the face::,, blade pointing sideways, 1.15::relaxed grip on the knife::,, casual dangerous pose, languid expression, half-lidded eyes, slightly open mouth,\n\noversized long-sleeve top, loose off-shoulder top slipping down one shoulder, fitted inner top, wide pants, heavy platform ankle boots, heeled boots, utility shoulder bag, strap details, accessories hanging at the hip, small plush doll keychain hanging from the bag, cute tiny stuffed charm attached to the bag, dangling mascot doll accessory, cute contrast detail,\n\nmanga style, screentone shading, halftone texture, bold black shadows, clean lineart, high contrast, simple background"
+    }
+   ],
+   "img": "img/comp/mvdw4d9x.jpg?v=1792331876213",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792331868454
+ "updatedAt": 1792331876803
 };

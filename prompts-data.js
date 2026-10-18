@@ -2142,7 +2142,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvhhlc.jpg?v=1792330808650",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdvhn7z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "super mario bros., three-quarter view, from above, looking up, looking at viewer, inside pipe, green pipe, warp pipe, partially submerged, water, wet, hands on pipe edge, desperate, open mouth, piranha plant, super mushroom, question block, brick wall, enclosed space, surrounded by walls, vine, dark interior, underground, mario costume, overalls, red cap, white gloves, depth of field, dramatic lighting,"
+    }
+   ],
+   "img": "img/comp/mvdvhn7z.jpg?v=1792330815955",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330809087
+ "updatedAt": 1792330816408
 };

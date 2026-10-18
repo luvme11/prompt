@@ -4547,7 +4547,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx4fof.jpg?v=1792333559056",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdx4nnk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "reclining on ornate sofa, lounging sideways, body leaning back into cushions, one arm bent behind head, other arm resting beside hip, provocative relaxed pose, legs raised toward viewer, one knee bent, legs overlapping, strong foreshortening, black and white classic maid dress, long black sleeves, white ruffled bib, layered white frills, black lace trim, white maid apron, short lifted skirt, black lace panties, black garter straps, sheer black thigh-high stockings, black chunky platform loafers, ornate rococo sofa, turquoise damask upholstery, ivory carved wooden frame, decorative cushions, teal interior, slightly high angle, diagonal composition, wide-angle perspective, legs prominent in foreground, soft diffused lighting"
+    }
+   ],
+   "img": "img/comp/mvdx4nnk.jpg?v=1792333569137",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792333559675
+ "updatedAt": 1792333569908
 };

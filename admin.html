@@ -36,7 +36,8 @@ h1{font-size:30px;font-weight:800;letter-spacing:-.02em;line-height:1.1}
 .md input,.md textarea,.md select{display:block;width:100%;border:1px solid #ddd;border-radius:10px;padding:9px 11px;font-size:12px;background:#fafafa;outline:0}
 .md textarea{min-height:130px;resize:vertical;line-height:1.55}
 .md input:focus,.md textarea:focus{border-color:#2a2a2a}
-.pv{width:100px;aspect-ratio:3/4;border-radius:10px;background:#ececec;margin-top:8px;overflow:hidden;display:none}.pv.on{display:block}.pv img{width:100%;height:100%;object-fit:cover}
+.pv{width:100px;aspect-ratio:3/4;border-radius:10px;background:#ececec;margin-top:8px;overflow:hidden;display:none}.pv.on{display:block}.pv img{width:100%;height:100%;object-fit:cover;display:block}
+#fImg+.pv{width:150px;cursor:grab;touch-action:none;user-select:none;-webkit-user-select:none;outline:1px solid #ddd}#fImg+.pv:active{cursor:grabbing}#fImg+.pv img{pointer-events:none;-webkit-user-drag:none}
 .mf{display:flex;align-items:center;justify-content:flex-end;gap:6px;margin-top:18px}.mf span{flex:1;font-size:10px;color:#888}
 .hint{font-size:10px;color:#999;line-height:1.6;margin-top:8px}
 .toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%);background:#2a2a2a;color:#fff;padding:9px 18px;border-radius:20px;font-size:11px;font-weight:700;display:none;z-index:40}
@@ -125,10 +126,21 @@ function modal(title, body, save){
   };
 }
 $('#mc').onclick = () => $('#mo').classList.remove('on');
-function picker(id, cur){ /* 이미지 선택 + 미리보기, 선택한 파일은 .data 에 */
-  const box = $('#'+id), pv = box.nextElementSibling; box.data = '';
-  if (cur){ pv.classList.add('on'); pv.innerHTML = `<img src="${esc(cur)}">`; }
-  box.onchange = async () => { const f = box.files[0]; if(!f) return; box.data = await resize(f, id==='fAv'?300:520); pv.classList.add('on'); pv.innerHTML = `<img src="${box.data}">`; };
+function picker(id, cur, pos){ /* 이미지 선택 + 미리보기, 선택한 파일은 .data, 보일 위치는 .pos 에 */
+  const box = $('#'+id), pv = box.nextElementSibling; box.data = ''; box.pos = pos || '50% 50%';
+  const show = src => { pv.classList.add('on'); pv.innerHTML = `<img src="${esc(src)}" style="object-position:${esc(box.pos)}">`; };
+  if (cur) show(cur);
+  box.onchange = async () => { const f = box.files[0]; if(!f) return; box.data = await resize(f, id==='fAv'?300:520); box.pos = '50% 50%'; show(box.data); };
+  if (id !== 'fImg') return;
+  let st = null;
+  pv.onpointerdown = e => { const im = pv.querySelector('img'); if (!im || !im.naturalWidth) return;
+    const [px, py] = box.pos.split(' ').map(v => parseFloat(v)); st = {x:e.clientX, y:e.clientY, px:isNaN(px)?50:px, py:isNaN(py)?50:py}; pv.setPointerCapture(e.pointerId); };
+  pv.onpointermove = e => { if (!st) return; const im = pv.querySelector('img'), fw = pv.clientWidth, fh = pv.clientHeight;
+    const k = Math.max(fw/im.naturalWidth, fh/im.naturalHeight), ox = im.naturalWidth*k - fw, oy = im.naturalHeight*k - fh;
+    const nx = ox > 1 ? Math.min(100, Math.max(0, st.px - (e.clientX-st.x)/ox*100)) : st.px;
+    const ny = oy > 1 ? Math.min(100, Math.max(0, st.py - (e.clientY-st.y)/oy*100)) : st.py;
+    box.pos = nx.toFixed(1)+'% '+ny.toFixed(1)+'%'; im.style.objectPosition = box.pos; };
+  pv.onpointerup = pv.onpointercancel = () => { st = null; };
 }
 
 /* ---------- 글쓰기 / 수정 ---------- */
@@ -140,19 +152,19 @@ function writeModal(it){
     <label>분류</label><select id="fTab">${Object.entries(NAMES).map(([k,v])=>`<option value="${k}" ${k===e.tab?'selected':''}>${v}</option>`).join('')}</select>
     <label>이름 (비우면 #1 #2처럼 번호로 자동)</label><input id="fName" value="${esc(e.name)}" placeholder="예: 로우앵글 전신  ·  ==글자==는 형광펜">
     <label>코드 (복사될 프롬프트)</label><div id="cds">${cs.map(codeRow).join('')}</div><button type="button" class="btn" id="addC">+ 코드 추가 (배경 / 의상 따로)</button>
-    <label>썸네일 이미지 (선택)</label><input type="file" id="fImg" accept="image/*"><div class="pv"></div>`, async () => {
+    <label>썸네일 이미지 (선택) · 올린 뒤 드래그해서 보일 부분 조정</label><input type="file" id="fImg" accept="image/*"><div class="pv"></div>`, async () => {
     const name = $('#fName').value.trim(), t = $('#fTab').value;
     const codes = [...document.querySelectorAll('#cds .cr')].map(r => ({label:r.querySelector('.cl').value.trim(), text:r.querySelector('.ct').value.trim()})).filter(c => c.text);
     if (!codes.length) throw new Error('코드를 입력해 주세요');
     const id = e.id || Date.now().toString(36); let img = e.img || '';
     if ($('#fImg').data){ img = `img/${t}/${id}.jpg`; await putImg(img, $('#fImg').data); img += '?v=' + Date.now(); }
     await commit(d => {
-      const n = {id, tab:t, name, codes, img}, i = d.items.findIndex(x => x.id === id);
+      const n = {id, tab:t, name, codes, img, pos:$('#fImg').pos || '50% 50%'}, i = d.items.findIndex(x => x.id === id);
       if (i >= 0) d.items[i] = n; else d.items.push(n);
     }, it ? 'Edit prompt' : 'Add prompt');
     tab = t; document.querySelectorAll('.pill').forEach(p => p.classList.toggle('on', p.dataset.k === t));
   });
-  picker('fImg', e.img);
+  picker('fImg', e.img, e.pos);
   $('#addC').onclick = () => $('#cds').insertAdjacentHTML('beforeend', codeRow({label:'', text:''}));
   $('#cds').onclick = ev => { const b = ev.target.closest('.rm'); if (b && document.querySelectorAll('#cds .cr').length > 1) b.parentElement.remove(); };
 }
@@ -189,7 +201,7 @@ function render(){
   const list = all.map((p,i) => ({p, n:i+1})).filter(({p,n}) => !q || (p.name+' #'+n+' '+codesOf(p).map(c=>c.label+' '+c.text).join(' ')).toLowerCase().includes(q));
   const size = grid ? 24 : 20, pages = Math.max(1, Math.ceil(list.length/size)); PG = Math.min(PG, pages);
   const cur = list.slice((PG-1)*size, PG*size), btns = p => `<button data-e="${esc(p.id)}">수정</button><button class="del" data-d="${esc(p.id)}">삭제</button>`;
-  const img = p => p.img ? `<img src="${esc(p.img)}" onerror="this.remove()">` : '';
+  const img = p => p.img ? `<img src="${esc(p.img)}" style="object-position:${esc(p.pos||'50% 50%')}" onerror="this.remove()">` : '';
   $('#list').innerHTML = !list.length ? `<div class="empty">${ready() ? (all.length ? '검색 결과가 없어요' : '아직 글이 없어요 — 오른쪽 위 "+ 글쓰기"를 눌러 보세요') : '먼저 "연결 설정"에서 GitHub를 연결해 주세요'}</div>`
    : grid ? `<div class="gd">${cur.map(({p,n}) => `<div class="ac"><div class="th">${img(p)}</div><div class="cap">${esc(p.name || '#'+n)}</div><div class="rb">${btns(p)}</div></div>`).join('')}</div>`
    : cur.map(({p,n}) => `<div class="row"><div class="th">${img(p)}</div><div class="tx"><b>${esc(p.name || '#'+n)}</b><small>${esc(codesOf(p).map(c=>c.text).join(' / '))}</small></div><div class="rb">${btns(p)}</div></div>`).join('');

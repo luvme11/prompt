@@ -2623,7 +2623,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvrtnw.jpg?v=1792331290945",
    "pos": "71.8% 50.0%"
+  },
+  {
+   "id": "mvdvrz3o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, arm up, holding veil, hand up, parted lips, korean clothes, hanbok, black hanbok, black jeogori, black skirt, long sleeves, wide sleeves, white ribbon, norigae, tassel, veil, black veil, holding veil over head, floating veil, veil in wind, wind, wind lift, floating hair, floral print, outdoors, night, night sky, full moon, clouds, dark clouds, moonlight, starry sky,"
+    }
+   ],
+   "img": "img/comp/mvdvrz3o.jpg?v=1792331297807",
+   "pos": "44.0% 50.0%"
   }
  ],
- "updatedAt": 1792331291379
+ "updatedAt": 1792331298279
 };

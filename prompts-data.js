@@ -6958,7 +6958,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzv8vz.jpg?v=1792338169060",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzvfgo",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white hairband with one white ribbon, pearl necklace, black off-shoulder dress with double button-up and white fur chest, tight sleeve with white fur cuffs, black pleated skirt with black lace, black ribbon, white thigh-highs with black ribbons, black mery jane shoes"
+    }
+   ],
+   "img": "img/look/mvdzvfgo.jpg?v=1792338177441",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338170144
+ "updatedAt": 1792338178353
 };

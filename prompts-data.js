@@ -5950,7 +5950,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdymzkf.jpg?v=1792336103983",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyn938",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "brown beret,\n\nargyle sweater, oversized clothes, sleeves past wrists,\n\nbrown, beige and charcoal grey argyle sweater, thin white lines on sweater,\n\nsmall gold embroidery on chest,\n\nshirt under sweater, collared shirt, vertical-striped shirt, light blue and white stripes,\n\nshirt hem peeking out under sweater,\n\na small cream fur snap clip clipped onto the edge of the shirt collar,\n\nplaid skirt, brown skirt, pleated skirt, miniskirt,\n\ngrey socks, ribbed socks,\n\nloafers, brown shoes, platform shoes, gold flower ornament on loafers,\n\nshoulder bag, fluffy beige mini fur bag"
+    }
+   ],
+   "img": "img/look/mvdyn938.jpg?v=1792336116536",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336104763
+ "updatedAt": 1792336117009
 };

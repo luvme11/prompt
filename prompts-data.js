@@ -291,7 +291,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "메인",
      "text": "masterpiece, best quality, ultra-high detailed, semi-realistic anime illustration, clear lineart, Korean style, [1 girl, 여자 외형, slightly tongue-out posture, playful smirk], [1 boy, 남자외형], both lying down on floor, heads next to each other, their faces covered with multiple thin circle shaped cucumber slices, cucumber slices covering their cheeks to forehead and around the face, like a full skincare mask, evenly spread, playful and cute mood, playful expression, casual comfortable t-shirt outfits, soft home wear, their hair both wrapped in a towel, towel wrapped around head like after a shower, soft towel turban, fully covered, high angle, focus on faces, soft lighting, wood floor background,"
     }
    ],
@@ -362,5 +362,5 @@ window.PROMPT_DATA = {
    "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792327783796
+ "updatedAt": 1792327787735
 };

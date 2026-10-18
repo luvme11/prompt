@@ -2662,7 +2662,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvsr4o.jpg?v=1792331334124",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdvsx6b",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, from side, looking at viewer, head turn, leaning on rail, railing, arm rest, hand on own cheek, head rest, parted lips, rooftop, cityscape, city lights, skyscraper, cloudy sky, lightning, raining, wet hair, wet clothes, water drops, crows, flying, headphones around neck, oversized jacket, open jacket, chain necklace, ear piercing, wristband, fingerless gloves, rim lighting, cinematic lighting, depth of field, blurry background,"
+    }
+   ],
+   "img": "img/comp/mvdvsx6b.jpg?v=1792331342302",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792331334721
+ "updatedAt": 1792331342917
 };

@@ -6832,7 +6832,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz95iu.jpg?v=1792337138226",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz9bv4",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "japanese clothes, wa maid, 1.5::dark red kimono, floral print, sakura, white apron, pinafore,::  ruffled apron, wide sleeves, decorative knot, black skirt, long skirt, black tights, brown boots, lace-up boots, maid headdress, lace trim, furisode,"
+    }
+   ],
+   "img": "img/look/mvdz9bv4.jpg?v=1792337146476",
+   "pos": "50.0% 8.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337138840
+ "updatedAt": 1792337147118
 };

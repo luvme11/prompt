@@ -4214,7 +4214,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwyprj.jpg?v=1792333292069",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdwywi7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "thigh-up shot, fully opaque cat-maid costume, white and dark navy maid dress, covered bodice, cat-ear headpieces with pink inner-ear details, oversized gold bell ornaments, frilled white collar with center bell, dark navy bodice, white apron front, puff sleeves with frilled cuffs, softly flared knee-length skirt, oversized white mitten gloves with navy bow, dark navy cat tail with ribbon, short white rounded boots, modest outfit, no transparent fabric, no revealing cutouts, pastel checkerboard background, polka dots, tiny stars, sparkles, bell motifs, soft mint pink yellow and sky-blue palette"
+    }
+   ],
+   "img": "img/comp/mvdwywi7.jpg?v=1792333300976",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792333292663
+ "updatedAt": 1792333301446
 };

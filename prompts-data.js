@@ -5166,7 +5166,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxoa9e.jpg?v=1792334485027",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdxoo8j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "nearly square frame, bust shot from head to chest, arm-extended selfie angle, subject placed at right side of frame with a transit map panel filling the left half, face tilted slightly toward camera with an upward glance, a slice of toast held horizontally in the mouth, body turned sideways with shoulder filling lower right, one hand holding a plastic-wrapped bread package partially visible at lower left, outdoor subway platform or bus stop, vertical transit route map in a metal frame filling the left side, white background with a long blue vertical line, round station markers with small labels, transfer icons and triangle markers, glass window at upper right showing green trees and sunlight, bright midday natural light with slightly overexposed highlights, clean fresh tone, casual daily snapshot,"
+    },
+    {
+     "label": "의상",
+     "text": "light blue and white thin windbreaker jacket with navy color-block panels on the shoulders and chest, small white embroidered emblem logo on navy chest panel, hood folded down at the back of the neck, thin orange cord or lanyard hanging below the jacket, bag strap visible behind the shoulder, thin black band bracelet on the wrist, casual sporty commuter style"
+    }
+   ],
+   "img": "img/comp/mvdxoo8j.jpg?v=1792334503198",
+   "pos": "50.0% 40.0%"
   }
  ],
- "updatedAt": 1792334485824
+ "updatedAt": 1792334503657
 };

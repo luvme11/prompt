@@ -1882,7 +1882,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv8y8s.jpg?v=1792330410408",
    "pos": "44.5% 50.0%"
+  },
+  {
+   "id": "mvdv946n",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, inflatable ring, duck float, floating, arms on float, kicking feet, laughing, open mouth, sparkling water, pool toys, sunny day, blue sky, summer vacation, cute pose,"
+    }
+   ],
+   "img": "img/comp/mvdv946n.jpg?v=1792330418271",
+   "pos": "81.1% 50.0%"
   }
  ],
- "updatedAt": 1792330410837
+ "updatedAt": 1792330419178
 };

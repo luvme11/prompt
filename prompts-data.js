@@ -4860,7 +4860,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxf44f.jpg?v=1792334057381",
    "pos": "50.0% 40.0%"
+  },
+  {
+   "id": "mvdxfa8n",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "[upper body, beige sweatshirt, 3::holding an enormous overflowing bouquet with both arms::, arms completely full of flowers, huge pile of colorful flowers covering the chest, slightly lowering the head, face gently touching and partly buried in the bouquet, deeply blushing, red cheeks, shy expression]"
+    }
+   ],
+   "img": "img/comp/mvdxfa8n.jpg?v=1792334065319",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792334057814
+ "updatedAt": 1792334065935
 };

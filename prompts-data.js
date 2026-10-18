@@ -2831,7 +2831,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvvp70.jpg?v=1792331471649",
    "pos": "29.8% 50.0%"
+  },
+  {
+   "id": "mvdvvvlq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from below, full body, monochrome, aqua theme, sitting on floor, wariza, holding flask, arm up, head down, laughing, evil smile, open mouth, fang, scientist, labcoat, open clothes, rubber gloves, combat boots, torn thighhighs, goggles on head, earrings, hair ornament, bag, tattoo, biohazard symbol, button badge, laboratory, shelf, beaker, test tube, syringe, bubble, cracked wall, caution tape, glowing, smoke, sparks,"
+    }
+   ],
+   "img": "img/comp/mvdvvvlq.jpg?v=1792331480044",
+   "pos": "33.1% 50.0%"
   }
  ],
- "updatedAt": 1792331472079
+ "updatedAt": 1792331480806
 };

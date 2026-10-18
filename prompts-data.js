@@ -7938,7 +7938,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0kug7.jpg?v=1792339363237",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0kzwr",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink horizontal striped long-sleeve top, layered gray and white ruffled mini skirt, frilled hem, cream cat-ear beanie, pink inner ears, brown leather backpack, small white wings on backpack, brown slouchy boots, long cat tail with black polka-dot bow, small white wings on back"
+    }
+   ],
+   "img": "img/look/mve0kzwr.jpg?v=1792339370509",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339363696
+ "updatedAt": 1792339371292
 };

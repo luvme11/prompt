@@ -6076,7 +6076,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyrvbt.jpg?v=1792336331992",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvdys134",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white duffel toggle coat, fur collar, heart shaped buttons, red plaid skirt, frilled skirt, white beret, red plaid hair ribbon, red glasses, black thigh high socks, lace trim socks, brown shoes"
+    }
+   ],
+   "img": "img/look/mvdys134.jpg?v=1792336339327",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336332474
+ "updatedAt": 1792336339956
 };

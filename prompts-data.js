@@ -1409,7 +1409,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdus7fk.jpg?v=1792329629086",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdusiyl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1::rappelling::, hanging from rope, mid-air, dynamic pose, floating, looking at viewer, holding gun, handgun, weapon, full body, studio background, simple background, white background, grey background, soft lighting,"
+    },
+    {
+     "label": "의상",
+     "text": "tactical gear, military uniform, black crop top, long sleeves, denim shorts, cut-offs, tactical vest, utility vest, harness, rappelling harness, large backpack, military backpack, holster, thigh holster, knee pads, platform boots, black boots, fingerless gloves, baseball cap, headphones, headset, yellow eyewear, safety glasses,"
+    }
+   ],
+   "img": "img/comp/mvdusiyl.jpg?v=1792329644301",
+   "pos": "15.1% 50.0%"
   }
  ],
- "updatedAt": 1792329629518
+ "updatedAt": 1792329644748
 };

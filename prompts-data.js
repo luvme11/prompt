@@ -5796,7 +5796,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdykdaf.jpg?v=1792335982120",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvdykitt",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, newest, absurdres, ultra detailed, highres, 8k,\n\nnerdcore gyaru casual outfit, oversized zebra print shirt, fitted white graphic t-shirt, low-rise baggy cargo pants, chunky platform sneakers, tiny shoulder bag, layered colorful bracelets, silver chain necklace, thick black rectangular glasses, Y2K accessories, early 2000s Japanese gyaru streetwear, nerdcore aesthetic, bold animal print, casual messy styling, cute tacky fashion,"
+    }
+   ],
+   "img": "img/look/mvdykitt.jpg?v=1792335989202",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792335982570
+ "updatedAt": 1792335990144
 };

@@ -2792,7 +2792,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvuvok.jpg?v=1792331433411",
    "pos": "35.3% 50.0%"
+  },
+  {
+   "id": "mvdvvcxa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "portrait, close-up, looking at viewer, leaning forward, finger to mouth, smile, parted lips, blush, indoors, 1.3::bridal veil::, wedding dress, strapless dress, bare shoulders, choker, pearl necklace, beaded curtain, curtains, backlighting, depth of field, blurry background, pink theme,"
+    }
+   ],
+   "img": "img/comp/mvdvvcxa.jpg?v=1792331456165",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792331434337
+ "updatedAt": 1792331456602
 };

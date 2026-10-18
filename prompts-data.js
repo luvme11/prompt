@@ -1224,7 +1224,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdun5aa.jpg?v=1792329393221",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdunnmu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dappled sunlight, sunbeams, lens flare, golden hour, warm lighting, bright lighting, leaves, tree branches, nature, outdoors, blurry background, bokeh,\nwhite hand-drawn hearts on cheek, portrait, close up, upper body,\nwinking, lollipop in mouth, holding lollipop, smiling, looking at viewer, white tank top, sleeveless shirt,"
+    }
+   ],
+   "img": "img/comp/mvdunnmu.jpg?v=1792329416888",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792329393649
+ "updatedAt": 1792329417498
 };

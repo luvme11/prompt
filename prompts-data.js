@@ -3086,7 +3086,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw3qws.jpg?v=1792331847554",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdw40b8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1person, solo,\n1.45::full body::, 1.4::head to toe visible::,\n\n1.5::sitting on the edge of a giant mushroom cap::,\n1.4::clearly seated pose::,\n1.4::legs hanging down over the side of the mushroom::,\n1.35::both legs and feet visible::,\n1.35::leaning back while seated::,\none hand placed behind the body for support,\nrelaxed lounging posture,\n1.35::holding a long ornate smoking pipe near the mouth::,\n\nflowing fantasy outfit, layered clothing, loose blouse, open-front vest, draped shawl, wide sleeves, decorative trim, embroidered details, tassels, sash belt, loose trousers, soft boots, relaxed mystical outfit,\n\n1.5::thick decorative smoke::,\n1.45::luxurious swirling smoke::,\n1.45::teal smoke::, 1.4::deep teal smoke::, blue-green smoke,\n1.35::ornamental smoke trails curling around the body and mushroom::,\n1.35::glowing translucent smoke::,\n1.35::rich layered smoke ribbons spreading through the air::,\n\n1.35::surreal fantasy forest::,\noversized mushrooms, strange plants, curling vines, dense foliage,\nmysterious enchanted woodland,\n1.45::teal-toned atmosphere::, deep cyan-green ambient glow,\nmist, haze, drifting particles, soft luminous air,\n1.35::dreamlike wonderland mood::,\n1.3::slightly eerie but beautiful::,\n\n1.35::the giant mushroom fully visible as the main seat::,\n1.35::camera far enough to capture the entire body and mushroom::,\nbalanced composition,\nornate whimsical fantasy atmosphere"
+    }
+   ],
+   "img": "img/comp/mvdw40b8.jpg?v=1792331859586",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792331848317
+ "updatedAt": 1792331860039
 };

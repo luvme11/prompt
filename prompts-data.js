@@ -177,7 +177,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtd7p5.jpg?v=1792327250239",
    "pos": "90.4% 50.0%"
+  },
+  {
+   "id": "mvdtdeef",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, cowboy shot, looking at viewer, parted lips, braid, multiple braids, pirate hat, tricorne, feathers, hat feather, skull, hat ornament, bead necklace, beads, off-shoulder shirt, white shirt, puffy sleeves, long sleeves, frilled cuffs, bandages, bare shoulders, scarf, belt, multiple belts, black belt, buckle, thigh strap, bandaged leg, asymmetrical clothes, frilled skirt, torn clothes, sash, ribbon, parrot, bird on hand, pink parrot, holding sword, sword, detailed background"
+    }
+   ],
+   "img": "img/comp/mvdtdeef.jpg?v=1792327258516",
+   "pos": "71.3% 50.0%"
   }
  ],
- "updatedAt": 1792327250674
+ "updatedAt": 1792327258972
 };

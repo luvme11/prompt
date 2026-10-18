@@ -209,7 +209,7 @@ function setModal(){
 }
 /* ---------- 목록 ---------- */
 function render(){
-  const q = Q.toLowerCase(), all = DATA.items.filter(i => i.tab === tab), grid = tab !== 'base';
+  const q = Q.toLowerCase(), all = DATA.items.filter(i => i.tab === tab), grid = true;
   const list = all.map((p,i) => ({p, n:i+1})).filter(({p,n}) => !q || (p.name+' #'+n+' '+codesOf(p).map(c=>c.label+' '+c.text).join(' ')).toLowerCase().includes(q));
   const size = grid ? 24 : 20, pages = Math.max(1, Math.ceil(list.length/size)); PG = Math.min(PG, pages);
   const cur = list.slice((PG-1)*size, PG*size), btns = p => `<button data-e="${esc(p.id)}">수정</button><button class="del" data-d="${esc(p.id)}">삭제</button>`;

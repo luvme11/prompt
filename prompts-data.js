@@ -589,7 +589,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu1w8j.jpg?v=1792328401781",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdu2ckc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "indoor music studio vibe, warm retro lighting, vintage posters on the wall, close-up medium shot, moody yet stylish atmosphere, soft shadows, warm brown and red-toned color palette, artistic indie-rock aesthetic, standing while holding a bass guitar, one hand resting on the strings, subtle playing pose, relaxed but confident stance, headphones hanging around the neck,"
+    },
+    {
+     "label": "의상",
+     "text": "red cropped tank top, casual fit, dark denim jeans, over-ear headphones as an accessory"
+    }
+   ],
+   "img": "img/comp/mvdu2ckc.jpg?v=1792328422757",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792328402209
+ "updatedAt": 1792328423193
 };

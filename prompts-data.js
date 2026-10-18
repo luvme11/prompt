@@ -4352,7 +4352,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx10e8.jpg?v=1792333399426",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdx16nm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, sitting, on ground, full body, holding, holding teddy bear, teddy bear, picnic, picnic basket, picnic blanket, checkered pattern, outdoors, grass, sunlight, dappled sunlight, shadow, fruit, book, cupcake, toy, rabbit,\n\nwhite dress, lace trim, sleeveless dress, patterned dress, cherry print, white socks, knee socks, ribbon,"
+    }
+   ],
+   "img": "img/comp/mvdx16nm.jpg?v=1792333407626",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792333400039
+ "updatedAt": 1792333408086
 };

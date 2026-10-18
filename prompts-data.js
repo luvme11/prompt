@@ -4613,7 +4613,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx5cl4.jpg?v=1792333601525",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdxaevz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, close-up, looking back over shoulder, over-the-shoulder pose, body turned away from camera, head turned back, one hand raised near camera, hand in foreground, floating soap bubbles, iridescent bubbles, dreamy atmosphere, sparkling particles, lush green garden background, bright soft sunlight, glowing bokeh, gentle backlight, wearing a pale floral kimono, long flowing sleeves, neatly tied obi, soft and elegant Japanese mood,"
+    }
+   ],
+   "img": "img/comp/mvdxaevz.jpg?v=1792333837915",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792333763331
+ "updatedAt": 1792333838537
 };

@@ -5964,7 +5964,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyn938.jpg?v=1792336116536",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvdynfk6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "collared shirt, white shirt, cream slim-fit shirt, shirt tucked in, long sleeves,\n\n1.5::waistcoat::, dark forest green tailored waistcoat buttoned up, gold button, -1::sweater vest, oversized clothes, puffy sleeves, shiny clothes::,\n\nlong skirt, grey skirt, high-waist skirt, soft grey wool A-line skirt reaching mid-calf, smooth skirt without pockets,\n\nnewsboy cap, dark forest green newsboy cap,\n\nmessenger bag, dark brown leather messenger bag worn across the body, dark brown leather strap,\n\nlace-up boots, ankle boots, black leather lace-up ankle boots,\n\ndark grey necktie,\n\nsilver thin glasses"
+    }
+   ],
+   "img": "img/look/mvdynfk6.jpg?v=1792336124751",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336117009
+ "updatedAt": 1792336125215
 };

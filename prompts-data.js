@@ -4391,7 +4391,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx1jvb.jpg?v=1792333424743",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdx1q5p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high angle view, looking down at the shop counter, main figure peeking over a cluttered wooden counter with hands resting on the edge, an open doorway, soft indoor shadows, heavily detailed traditional Japanese snack shop, vintage cash register on the right, tray with scattered coins, wooden shelves packed with various boxed snacks and vintage toys, nostalgic slice of life, cozy childhood afternoon atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvdx1q5p.jpg?v=1792333432575",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792333425187
+ "updatedAt": 1792333433638
 };

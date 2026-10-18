@@ -78,7 +78,8 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 .cb{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.cb .cp{margin:0;flex:1;min-width:0;height:24px;padding:0 6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .cp.lock,.cp.lock:hover{color:#aaa;border-color:#e4e4e4;background:#fafafa;cursor:default;letter-spacing:.06em}
 .tx.lock{background:#f1f1f1;color:#aaa;text-align:center;font-weight:700;letter-spacing:.2em;font-size:10px}
-.sb{display:inline-block;margin-left:5px;padding:1px 6px;border-radius:8px;background:#2a2a2a;color:#fff;font-size:7.5px;font-weight:700;letter-spacing:.08em;vertical-align:1px}
+.tl.soon img{filter:grayscale(1)}
+.tl .sn{position:absolute;z-index:2;left:50%;bottom:16px;transform:translateX(-50%);display:flex;align-items:center;gap:5px;padding:7px 13px;border-radius:20px;background:rgba(255,255,255,.93);color:#333;font-size:8.5px;font-weight:800;letter-spacing:.12em;white-space:nowrap;box-shadow:0 4px 14px rgba(0,0,0,.18)}
 .cl{margin:14px 0 -6px 33px;font-size:8.5px;font-weight:800;letter-spacing:.15em;color:#777}
 @media (max-width:1000px){.cl{margin-left:0}}
 </style>
@@ -113,6 +114,7 @@ const nameOf = p => p.name ? hl(p.name) : '#' + NUM[p.id];
 /* 관리자(토큰이 저장된 브라우저)만 COMING SOON 항목을 복사할 수 있음 */
 const OWNER = (() => { try{ const g = JSON.parse(localStorage.getItem('pa_gh') || '{}'); return !!(g.owner && g.repo && g.token); }catch(e){ return false; } })();
 const locked = p => !!p.soon && !OWNER;
+const LOCK = '<div class="sn"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="1.2" y="4.8" width="7.6" height="5" rx="1.4"/><path d="M2.9 4.8V3.4a2.1 2.1 0 0 1 4.2 0v1.4"/></svg>COMING SOON</div>';
 const btnLabel = (c,k,p) => locked(p) ? 'COMING SOON' : esc(c.label || '♡');
 let T = 0, Q = '', PG = 1;
 $('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
@@ -148,7 +150,7 @@ function render(){
   const cur = list.slice((PG-1)*size, PG*size);
   $('#rc').textContent = list.length + ' / ' + all.length;
   const tile = p => { const cs = codesOf(p);
-    return `<div class="tc"><div class="tl">${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}${p.soon&&OWNER?'<span class="sb">SOON</span>':''}</div><div class="cb">${cs.map((c,k)=>`<button class="cp${locked(p)?' lock':''}" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,p)}</button>`).join('')}</div></div>`; };
+    return `<div class="tc"><div class="tl${p.soon?' soon':''}">${p.soon?LOCK:''}${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}</div><div class="cb">${cs.map((c,k)=>`<button class="cp${locked(p)?' lock':''}" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,p)}</button>`).join('')}</div></div>`; };
   const row = p => { const cs = codesOf(p);
     return `<div class="it"><div class="sh"><em>${pad(NUM[p.id])}</em><h3>${nameOf(p)}</h3><i></i><span>${esc(t.label)}</span></div>${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy">`:''}
       ${cs.map((c,k)=>`${c.label?`<div class="cl">${esc(c.label)}</div>`:''}${locked(p)?'<div class="tx lock">COMING SOON</div>':`<div class="tx">${esc(c.text)}</div>`}<div class="ft"><button class="cp${locked(p)?' lock':''}" data-id="${esc(p.id)}" data-c="${k}">${locked(p)?'COMING SOON':'복사'}</button></div>`).join('')}</div>`; };

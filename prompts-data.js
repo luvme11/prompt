@@ -7756,7 +7756,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0f216.jpg?v=1792339093319",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0f7em",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black checkered headscarf, sheep ears, sheep horns, white oversized sweater, knit sweater, high collar, side neck with black bow, black cross-laced sleeves, black duffel bag, sheep tail, white knit thighhighs, black lace-up boots,"
+    }
+   ],
+   "img": "img/look/mve0f7em.jpg?v=1792339100295",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339093813
+ "updatedAt": 1792339100761
 };

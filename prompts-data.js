@@ -2116,7 +2116,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvflwr.jpg?v=1792330720859",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdvhb70",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cat ears, lying down, on back, from above, upper body, looking at viewer, paw pose, spiked collar, bell, silver chain, bandages, black frilled dress, 1.2::bite mark, hickey::, cluttered background, magenta and black theme, cat plush, heart pillow, broken heart, pill, paw print, claw mark, sewing pin, candy, menhera, yami kawaii,"
+    }
+   ],
+   "img": "img/comp/mvdvhb70.jpg?v=1792330800437",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330721288
+ "updatedAt": 1792330800918
 };

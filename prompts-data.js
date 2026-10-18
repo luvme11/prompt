@@ -6090,7 +6090,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdys134.jpg?v=1792336339327",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdys9l1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cat hood, cat ears, small wings, sleeveless shirt, white shirt, black star print, denim shorts, belt, white fingerless gloves, mismatched legwear, white socks, white sneakers"
+    }
+   ],
+   "img": "img/look/mvdys9l1.jpg?v=1792336350705",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336339956
+ "updatedAt": 1792336351946
 };

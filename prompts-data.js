@@ -3682,7 +3682,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwk0qq.jpg?v=1792332607402",
    "pos": "33.1% 50.0%"
+  },
+  {
+   "id": "mvdwkd63",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "pastel background, sweet kitchen, floating hearts, sparkles, cute atmosphere, upper body, 2::holding whisk::, finger to mouth, looking at viewer, cute pose,"
+    },
+    {
+     "label": "의상",
+     "text": "pastry chef apron, pink frilled dress, kerchief, white gloves, hair clips, ribbon,"
+    }
+   ],
+   "img": "img/comp/mvdwkd63.jpg?v=1792332622725",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792332607863
+ "updatedAt": 1792332623343
 };

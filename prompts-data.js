@@ -3013,7 +3013,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw20ln.jpg?v=1792331766294",
    "pos": "48.9% 50.0%"
+  },
+  {
+   "id": "mvdw2871",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, dynamic top-down angle, lying on a luxurious bed, legs raised toward camera, surrounded by flowing ribbons, dramatic perspective, seductive gothic atmosphere, cinematic composition, luxurious gothic bedroom, dark red and black color palette, lace pillows, glowing candles, hanging heart ornaments, roses scattered across bed, soft warm lighting, romantic gothic atmosphere, small demon horns, thin demon tail, pointed devil tail, 2::black very short cropped sailor top::, exposed midriff, oversized sleeves with bat-wing draped fabric and ribbon ties, 2::very short black pleated mini skirt::, oversized sweater tied around waist, black choker, gothic sailor fashion, dark pastel aesthetic,"
+    }
+   ],
+   "img": "img/comp/mvdw2871.jpg?v=1792331776406",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792331767205
+ "updatedAt": 1792331777007
 };

@@ -360,7 +360,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtmnm1.jpg?v=1792327690500",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdtq1up",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "close-up shot, intimate playful mood, soft flash lighting, bright indoor background, warm color tone, slight grain texture, cheek-to-cheek pose, camera-facing angle, lipstick marks on both faces, casual candid moment,"
+    },
+    {
+     "label": "남자",
+     "text": "expressionless face, pouty lips gently pushed upward by the other person's hand, relaxed posture, looking directly at camera, multiple lipstick marks on cheeks and forehead,"
+    },
+    {
+     "label": "여자",
+     "text": "puckered lips making a kissing face, wide-open bright eyes, leaning close toward person 1, slightly tilting head, lipstick marks on cheeks, playful teasing gesture,"
+    }
+   ],
+   "img": "img/comp/mvdtq1up.jpg?v=1792327848832",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792327794446
+ "updatedAt": 1792327849274
 };

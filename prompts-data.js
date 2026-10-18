@@ -3991,7 +3991,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdws3ji.jpg?v=1792332983287",
    "pos": "17.3% 50.0%"
+  },
+  {
+   "id": "mvdwsg6e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "ancient chinese temple interior, dark wooden architecture, dim candlelight, scattered talismans, 2::eerie mist::, cowboy shot, front view, arms forward, head tilt, looking at viewer, one eye closed,"
+    },
+    {
+     "label": "의상",
+     "text": "2::jiangshi::, gothic lolita qipao, black and (색상) color scheme, tiered ruffled skirt, oversized sleeves, harness straps, (색상) dragon embroidery, 3::forehead talisman::, talisman with ribbon, fishnet stockings,"
+    }
+   ],
+   "img": "img/comp/mvdwsg6e.jpg?v=1792332999612",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792332984057
+ "updatedAt": 1792333000201
 };

@@ -3190,7 +3190,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw6brb.jpg?v=1792331967520",
    "pos": "50.0% 6.0%"
+  },
+  {
+   "id": "mvdw6hyx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "(idol headset microphone:2), bandage, band on nose, (white adidas track jacket:1.6), (black three stripes on shoulders and sleeves:1.3), high zip-up collar, ribbed hem, ribbed cuffs, sleeves slightly covering hands,\n\nrelaxed posture, shoulders relaxed, (fan half-heart hand, idol fanservice pose, one hand touching cheek:2), slight blush, sweat, upper body, portrait, close-up, centered composition, focus on character, face focus, front view, body slightly twisted, head tilted slightly, looking at viewer, relaxed expression, \n\nshining large LED board, vivid [] color background, simple background, silver confetti, sparkling particles, stage performance, K-pop Idol aesthetic, stylish, dynamic vibe, airy atmosphere, soft bright color palette, intense stage lighting, spotlight, light rays, crisp highlights, dramatic backlight, soft glow, reflected light, cinematic lighting, realistic lighting, high contrast, depth of field, shallow depth of field,"
+    }
+   ],
+   "img": "img/comp/mvdw6hyx.jpg?v=1792331975456",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792331968117
+ "updatedAt": 1792331976529
 };

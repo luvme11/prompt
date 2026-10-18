@@ -4158,7 +4158,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwxmlq.jpg?v=1792333241371",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdwxsl4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, solo, highly detailed anime illustration, mixed media character collage, mad scientist laboratory aesthetic, 1.5::one large main character upper body portrait::, 1.3::from below::, holding a glowing test tube up to the light, manic grin, looking at viewer, goggles on forehead, stained lab coat, rubber gloves, messy hair, beakers, bubbling flasks, chemical formulas, tesla coils, sparks, blueprints, specimen jars, warning hazard signs, scribbled equations, chalk typography, toxic green and black color scheme, electric purple accents, eerie glow from chemicals, chaotic energetic linework, glossy dramatic shading, dense decorative layout"
+    }
+   ],
+   "img": "img/comp/mvdwxsl4.jpg?v=1792333249149",
+   "pos": "50.0% 70.0%"
   }
  ],
- "updatedAt": 1792333241842
+ "updatedAt": 1792333250253
 };

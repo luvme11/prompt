@@ -4365,7 +4365,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx16nm.jpg?v=1792333407626",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdx1dtv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying on side, 1.2::hugging::, 1.3::hugging large plushie::, plushie, bean bag, eyes half-closed, sleepy, bed, pillow, bed sheet, heart pattern, alpaca, rabbit, sheep, stuffed animal, game controller, white game controller, starry ornaments, hanging ornaments, jewels, indoor, dim lighting, soft lighting,\n\npajamas, polka dot pajamas, frills, ribbon, bow, long sleeves, socks, leg warmers,"
+    }
+   ],
+   "img": "img/comp/mvdx1dtv.jpg?v=1792333416682",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792333408086
+ "updatedAt": 1792333417134
 };

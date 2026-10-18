@@ -8278,7 +8278,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mve4f6yt.jpg?v=1792345817962",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve4ukc3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "pale blue water, 2::lying on water surface::, floating on water, shallow water, water ripples, reflection, flowers floating on water, scattered petals on water, white flowers, light blue flowers, baby's breath, sheer fabric drifting on water, soft light rays, caustics, hazy atmosphere, dreamy soft focus, pastel tones, ethereal, from above, lying on back, hair spread out in water, floating hair, one hand near face, other arm resting above head, looking at viewer, half-closed eyes, faint smile,"
+    },
+    {
+     "label": "의상",
+     "text": "white chiffon dress, off-shoulder, flowing sheer sleeves, layered sheer skirt spread on water, lace trim, thin ribbon at collar, pearl bracelet, sheer ribbon wrapped around arm, wet clothes,"
+    }
+   ],
+   "img": "img/comp/mve4ukc3.jpg?v=1792346535419",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792345818573
+ "updatedAt": 1792346535891
 };

@@ -1869,7 +1869,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv8s25.jpg?v=1792330402423",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdv8y8s",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, swimming pool, inflatable ring, pool float, floating, poolside, water, blue water, sunlight, summer, swimsuit, wet, smile, looking at viewer, relaxing, vacation, tropical,"
+    }
+   ],
+   "img": "img/comp/mvdv8y8s.jpg?v=1792330410408",
+   "pos": "44.5% 50.0%"
   }
  ],
- "updatedAt": 1792330403023
+ "updatedAt": 1792330410837
 };

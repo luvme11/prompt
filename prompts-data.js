@@ -7742,7 +7742,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0ewyx.jpg?v=1792339086515",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0f216",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white hoodie, long hoodie, zipper, fur-trimmed hood, hood up, white pencil skirt, gray leggings, white fur boots"
+    }
+   ],
+   "img": "img/look/mve0f216.jpg?v=1792339093319",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339087149
+ "updatedAt": 1792339093813
 };

@@ -5616,7 +5616,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "의상 X",
      "text": "solo, 2.5::sitting somewhere, glancing back over the shoulder at the viewer, side profile gaze::,\n\n3::large fully spread angel wings, feathers fully extended, detailed individual feathers::,\n\n2.5::holding a rifle behind the back, gripping the gun with both hands::, detailed gun mechanism, weapon held steady,\n\nsky background, soft clouds, high detail, best quality,"
     }
    ],
@@ -5624,5 +5624,5 @@ window.PROMPT_DATA = {
    "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792334968687
+ "updatedAt": 1792334975779
 };

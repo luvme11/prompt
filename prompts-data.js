@@ -1895,7 +1895,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv946n.jpg?v=1792330418271",
    "pos": "81.1% 50.0%"
+  },
+  {
+   "id": "mvdv9bur",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "summer festival, festival stall, paper lantern, fireworks, night sky, yukata, goldfish scooping, candied apple, shaved ice, cotton candy, lively atmosphere, warm lighting, festival lights, nostalgic atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvdv9bur.jpg?v=1792330427957",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792330419178
+ "updatedAt": 1792330428870
 };

@@ -3750,7 +3750,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwlg6g.jpg?v=1792332672928",
    "pos": "55.5% 50.0%"
+  },
+  {
+   "id": "mvdwluto",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "white background, floating cherries, numerous cherries, fruit pattern, full body, squatting, chin rest, resting chin on hands, looking at viewer, long wavy hair"
+    },
+    {
+     "label": "의상",
+     "text": "red frilled dress, tiered ruffled skirt, ribbon straps, big hair ribbon, cherry earrings, frilly socks, red mary janes,"
+    }
+   ],
+   "img": "img/comp/mvdwluto.jpg?v=1792332693275",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792332673851
+ "updatedAt": 1792332693761
 };

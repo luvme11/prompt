@@ -6986,7 +6986,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzvlrl.jpg?v=1792338185720",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzvs6u",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white bandanna with lace, seashells necklace, grayish pink sleeveless ruffled microdress with frills and shoulder ribbon, white frill underdress, seashells and starfish decorated in dress, bead bracelet, grayish light blue small shoulder bag with chain strap, white ruffled socks, brown lace-up boots"
+    }
+   ],
+   "img": "img/look/mvdzvs6u.jpg?v=1792338193931",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338186642
+ "updatedAt": 1792338194531
 };

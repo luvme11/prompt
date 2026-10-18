@@ -4326,7 +4326,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx0oyk.jpg?v=1792333384179",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdx0unm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::sitting on windowsill::, looking up, reaching, touching the flowers, one arm up, wooden window frame, red roses, flowers, climbing roses, 1.5::dappled sunlight::, natural lighting, bokeh, garden, house, plant, leaf,\n\noff-shoulder dress, white dress, sleeveless dress, lace, frills, ribbon, hair ribbon, red hair ribbon,"
+    }
+   ],
+   "img": "img/comp/mvdx0unm.jpg?v=1792333391558",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792333384627
+ "updatedAt": 1792333392035
 };

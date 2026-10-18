@@ -3737,7 +3737,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwl8ha.jpg?v=1792332663068",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvdwlg6g",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white background, simple background, color palette swatches, handwritten japanese text, annotation arrows, rough sketch lines, 2::character sheet::, reference sheet, 1.5::multiple views::, three full body panels in a row, front view, back view, side view, standing, {portrait close-up panel at bottom right}, {small detail insets on the right: eye close-up, hand close-up}, clean layout, face details,"
+    }
+   ],
+   "img": "img/comp/mvdwlg6g.jpg?v=1792332672928",
+   "pos": "55.5% 50.0%"
   }
  ],
- "updatedAt": 1792332664166
+ "updatedAt": 1792332673851
 };

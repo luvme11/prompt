@@ -1077,7 +1077,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdukphc.jpg?v=1792329279392",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdukvq3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, holding polaroid camera up, one eye closed peering through viewfinder, playful smirk, tongue out slightly, oversized denim jacket, pin badges, striped turtleneck, layered necklaces, scrunchie on wrist, plain yellow wall, no props, direct flash lighting, harsh shadow behind subject, overexposed skin, light leak streaks, disposable camera aesthetic, retro pop palette, simple background, candid mood,"
+    }
+   ],
+   "img": "img/comp/mvdukvq3.jpg?v=1792329287248",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792329280137
+ "updatedAt": 1792329287675
 };

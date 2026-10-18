@@ -1709,7 +1709,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv4ckz.jpg?v=1792330195758",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdv4nxe",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "stage, gold background, stage curtain, spotlight, confetti, glitter, falling sparkles, dark background,standing, singing, holding microphone, microphone stand, holding dress,  medium full shot, vintage, retro, old hollywood,gorgeous, elegant, dramatic lighting, cinematic lighting, performance, classic,"
+    },
+    {
+     "label": "의상",
+     "text": "black dress, evening gown, tulle skirt, layered skirt, spaghetti strap, sweetheart neckline, black gloves, long gloves, pearl necklace, multiple necklaces, earrings, headwear, small hat"
+    }
+   ],
+   "img": "img/comp/mvdv4nxe.jpg?v=1792330210289",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792330196206
+ "updatedAt": 1792330210737
 };

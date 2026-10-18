@@ -3932,7 +3932,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwq7op.jpg?v=1792332895234",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdwqzvi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "clear blue sky, fluffy clouds, contrail, sunny day, asphalt road, racetrack, extreme low angle, looking up, dynamic pose, vertical composition,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "racing jacket, racing pants, holding racing helmet, sports car,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "racing jacket, shorts, thighhighs, holding racing helmet, sports car,"
+    }
+   ],
+   "img": "img/comp/mvdwqzvi.jpg?v=1792332931903",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792332895675
+ "updatedAt": 1792332933318
 };

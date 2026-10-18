@@ -7994,7 +7994,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0liyx.jpg?v=1792339395746",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0lom1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink frilled lace bra top, small ribbon on chest, pink tiered ruffled mini skirt, lace trim, white frilled garter belt on one leg, bandage on knee, white lace-up leg warmers, multiple pink ribbons, loose socks, pink platform shoes, white frilled lace headband, pink bow hair ornament, heart earrings, bracelets"
+    }
+   ],
+   "img": "img/look/mve0lom1.jpg?v=1792339402504",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339396384
+ "updatedAt": 1792339402971
 };

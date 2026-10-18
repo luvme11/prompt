@@ -2376,7 +2376,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvnmfa.jpg?v=1792331094845",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvnsu6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, against wall, foot against wall, vending machine, ita bag, can badge, acrylic keychain, paper bag, headphones around neck, holding can, drinking, t-shirt, print shirt, cargo pants, sneakers, shibuya, storefront, sign, poster, cardboard cutout, neon sign, otaku, evening, city lights, Tokyo,"
+    }
+   ],
+   "img": "img/comp/mvdvnsu6.jpg?v=1792331103193",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792331095277
+ "updatedAt": 1792331103643
 };

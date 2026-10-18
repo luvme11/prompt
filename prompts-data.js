@@ -7224,7 +7224,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0386z.jpg?v=1792338541721",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve03xax",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nurse, short sleeves, button up shirt, red cross on right side sleeve, pale pink nurse cap, red cross, shag, white bikini top, navel, low-waist skirt, pale pink miniskirt, lace-up side, white see-through thighhighs, pale pink high heels,"
+    }
+   ],
+   "img": "img/look/mve03xax.jpg?v=1792338573671",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338542180
+ "updatedAt": 1792338574281
 };

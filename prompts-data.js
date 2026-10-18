@@ -7882,7 +7882,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0jqnl.jpg?v=1792339311644",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0jx4b",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::white oversized zip-up hoodie::, pink stripes on hem and cuffs, star zipper pull, white star-print tiered ruffled mini skirt, frilled hem, white slouchy leg warmers, dark brown sneakers, white ribbon hair ties, hair clips, gray polka-dot backpack, white wings on backpack, flower charm, pink-rimmed glasses, open book"
+    }
+   ],
+   "img": "img/look/mve0jx4b.jpg?v=1792339320131",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339312567
+ "updatedAt": 1792339320588
 };

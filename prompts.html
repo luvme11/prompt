@@ -72,6 +72,11 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 .st small{display:block;font-size:8px;font-weight:700;letter-spacing:.2em;color:#777}.st b{display:block;font-size:20px;font-weight:800;margin-top:3px}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin:16px 0 0 33px}
 @media (max-width:1000px){.ab,.st,.chips{margin-left:0}.heart{right:20px}}
+.ab mark,mark{background:#e6e6e6;color:inherit;border-radius:3px;padding:1px 3px}
+.tc{min-width:0}.cap{font-size:10.5px;font-weight:700;margin:7px 2px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cb{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.cb .cp{margin:0;flex:1;min-width:0;height:24px;padding:0 6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cl{margin:14px 0 -6px 33px;font-size:8.5px;font-weight:800;letter-spacing:.15em;color:#777}
+@media (max-width:1000px){.cl{margin-left:0}}
 </style>
 </head>
 <body>
@@ -94,9 +99,14 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 <script>
 const $ = s => document.querySelector(s), pad = n => String(n).padStart(2,'0');
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const hl = s => esc(s).replace(/==(.+?)==/g, '<mark>$1</mark>');
 const D = window.PROMPT_DATA || {}, ITEMS = D.items || [];
 const P = Object.assign({title:'Prompt\nArchive',sub:'AI IMAGE PROMPTS',name:'',handle:'',avatar:'',text:'',tags:[]}, D.profile || {});
 const TABS = [{k:'intro',label:'소개'},{k:'comp',label:'구도',grid:1},{k:'look',label:'룩',grid:1},{k:'base',label:'기본 프롬프트'}];
+const codesOf = it => it.codes && it.codes.length ? it.codes : (it.code ? [{label:'',text:it.code}] : []);
+const NUM = {}; ['comp','look','base'].forEach(k => ITEMS.filter(i=>i.tab===k).forEach((p,i) => NUM[p.id] = i+1));
+const nameOf = p => p.name ? hl(p.name) : '#' + NUM[p.id];
+const btnLabel = (c,k,n) => esc(c.label || (n>1 ? '코드 '+(k+1) : '복사'));
 let T = 0, Q = '', PG = 1;
 $('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
 $('#sub').textContent = P.sub; $('#nm').textContent = P.name; $('#hd').textContent = P.handle;
@@ -118,23 +128,24 @@ function render(){
   if (intro){
     const c = k => ITEMS.filter(i=>i.tab===k).length;
     $('#body').innerHTML = `<div class="sh"><em>01</em><h3>ABOUT</h3><i></i><span>INTRO</span></div>
-      <div class="ab">${esc(P.text || '소개글을 관리자 페이지에서 적어 주세요.')}</div>
+      <div class="ab">${P.text ? hl(P.text) : '소개글을 관리자 페이지에서 적어 주세요.'}</div>
       <div class="st"><div><small>구도</small><b>${c('comp')}</b></div><div><small>룩</small><b>${c('look')}</b></div><div><small>기본</small><b>${c('base')}</b></div></div>
       ${(P.tags||[]).length ? `<div class="chips">${P.tags.map(g=>`<span class="tg">${esc(g)}</span>`).join('')}</div>` : ''}`;
     return;
   }
   const q = Q.toLowerCase(), all = ITEMS.filter(i=>i.tab===t.k);
-  const list = all.filter(p => !q || (p.name+' '+p.code).toLowerCase().includes(q));
+  const list = all.filter(p => !q || (p.name+' #'+NUM[p.id]+' '+codesOf(p).map(c=>c.label+' '+c.text).join(' ')).toLowerCase().includes(q));
   const size = t.grid ? 24 : 8, pages = Math.max(1, Math.ceil(list.length/size));
   PG = Math.min(PG, pages);
   const cur = list.slice((PG-1)*size, PG*size);
   $('#rc').textContent = list.length + ' / ' + all.length;
+  const tile = p => { const cs = codesOf(p);
+    return `<div class="tc"><div class="tl" data-id="${esc(p.id)}" data-c="all">${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}</div><div class="cb">${cs.map((c,k)=>`<button class="cp" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,cs.length)}</button>`).join('')}</div></div>`; };
+  const row = p => { const cs = codesOf(p);
+    return `<div class="it"><div class="sh"><em>${pad(NUM[p.id])}</em><h3>${nameOf(p)}</h3><i></i><span>${esc(t.label)}</span></div>${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy">`:''}
+      ${cs.map((c,k)=>`${c.label?`<div class="cl">${esc(c.label)}</div>`:''}<div class="tx">${esc(c.text)}</div><div class="ft"><button class="cp" data-id="${esc(p.id)}" data-c="${k}">복사</button></div>`).join('')}</div>`; };
   $('#body').innerHTML = !list.length ? '<div class="empty">'+(all.length?'검색 결과가 없어요':'아직 올린 프롬프트가 없어요')+'</div>'
-  : (t.grid
-    ? `<div class="gd">${cur.map(p=>`<div class="tl" data-id="${esc(p.id)}" title="${esc(p.name)}">${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="lb">${esc(p.name)}</div><div class="ok">복사됨 ✓</div></div>`).join('')}</div>`
-    : cur.map((p,n)=>`<div class="it"><div class="sh"><em>${pad((PG-1)*size+n+1)}</em><h3>${esc(p.name)}</h3><i></i><span>${esc(t.label)}</span></div>
-        ${p.img?`<img src="${esc(p.img)}" alt="" loading="lazy">`:''}<div class="tx">${esc(p.code)}</div>
-        <div class="ft"><button class="cp" data-id="${esc(p.id)}">복사</button></div></div>`).join('')) + pager(PG, pages);
+  : (t.grid ? `<div class="gd">${cur.map(tile).join('')}</div>` : cur.map(row).join('')) + pager(PG, pages);
 }
 async function copy(txt){
   try{ await navigator.clipboard.writeText(txt); }catch(x){ const a=document.createElement('textarea'); a.value=txt; document.body.appendChild(a); a.select(); try{document.execCommand('copy')}catch(y){} a.remove(); }
@@ -146,7 +157,8 @@ $('#body').onclick = async e => {
   if (p && !p.disabled){ PG = +p.dataset.p; render(); $('#body').scrollTop = 0; window.scrollTo(0,0); return; }
   const el = e.target.closest('.tl,.cp'); if(!el) return;
   const it = ITEMS.find(x => x.id === el.dataset.id); if(!it) return;
-  await copy(it.code);
+  const cs = codesOf(it);
+  await copy(el.dataset.c === 'all' ? cs.map(c=>c.text).join(', ') : (cs[+el.dataset.c]||{}).text || '');
   if (el.classList.contains('tl')){ el.classList.add('done'); setTimeout(()=>el.classList.remove('done'), 900); }
   else { const o = el.textContent; el.textContent = '복사됨 ✓'; setTimeout(()=>el.textContent = o, 1200); }
 };

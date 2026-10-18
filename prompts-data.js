@@ -2740,7 +2740,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvtvwm.jpg?v=1792331387058",
    "pos": "50.0% 4.0%"
+  },
+  {
+   "id": "mvdvub4n",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, sitting, wariza, holding instrument, playing instrument, holding plectrum, electric guitar, guitar, instrument, shirt, black shirt, short sleeves, print shirt, cross print, white skirt, pleated skirt, thighhighs, white thighhighs, blue stripes, striped thighhighs, ribbon, 1.4::graphic design, halftone background::, drop shadow, halftone, star (symbol), floating star, large star, simple background,"
+    }
+   ],
+   "img": "img/comp/mvdvub4n.jpg?v=1792331407121",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792331387494
+ "updatedAt": 1792331407560
 };

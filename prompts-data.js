@@ -6286,7 +6286,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyvhcz.jpg?v=1792336500352",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyvnfb",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sailor uniform, serafuku, white shirt, short sleeves, sailor black collar, white stripes, black ribbon, striped ribbon, plaid checkered skirt, black skirt, white socks, knee highs, black mary janes,"
+    }
+   ],
+   "img": "img/look/mvdyvnfb.jpg?v=1792336508246",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336500807
+ "updatedAt": 1792336508724
 };

@@ -4171,7 +4171,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwxsl4.jpg?v=1792333249149",
    "pos": "50.0% 70.0%"
+  },
+  {
+   "id": "mvdwxyrq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, highly detailed anime illustration, sterile cyber hospital aesthetic, 1.5::one large main character close-up portrait::, 1.3::from above::, lying on a hospital bed, hair spread out, one hand raised toward the light, IV drip line, hospital gown, barcode tattoo on neck, medical wristband, bandaged fingers, 1.2::small x-ray silhouette of the same character in the corner::, overlapping medical charts, heart rate monitor lines, pill capsules, syringes, warning labels, clipboard papers, caution tape, petri dish circles, clinical sans-serif typography, mint green and white color scheme, pale pink accents, cold fluorescent lighting, thin precise linework, soft airy shading, dense decorative layout, mixed media character collage,"
+    }
+   ],
+   "img": "img/comp/mvdwxyrq.jpg?v=1792333256930",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792333250253
+ "updatedAt": 1792333257380
 };

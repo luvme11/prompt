@@ -4313,7 +4313,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx0irg.jpg?v=1792333376463",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdx0oyk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, side profile, facing left, head lowered, looking down, standing still, one hand resting near chest, black high-collared traditional robe, layered dark fabric, loose sleeves, surrounded by hanging red paper talismans, long red prayer strips with black calligraphy, bronze bells, red tassels, talismans dangling from above, foreground talismans partially framing character, old east asian shrine, blurred bare trees, overcast sky, muted gray-green background, dark red accents, soft diffused lighting, deep shadows, eerie mystical atmosphere, cinematic composition"
+    }
+   ],
+   "img": "img/comp/mvdx0oyk.jpg?v=1792333384179",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792333377228
+ "updatedAt": 1792333384627
 };

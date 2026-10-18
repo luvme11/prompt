@@ -7476,7 +7476,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0b26q.jpg?v=1792338907083",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0b9j0",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pastel clothes, kawaii fashion, white suspenders, crop top, midriff, short sleeve, 1.2::striped shirt, yellow and white stripes shirt::, knit arm warmers, 1.2::lime arm warmers::, 1.5: pink ribbon deck arm warmers::, denim short shorts, pink shorts, 1.2:white star print shorts::, lime belt, muffler, long scarf, light pink and white striped scarf, 1.4:lime fur leg warmers, fluffy leg warmers::, 1.4: white headkerchief::, hairpin, decora, pink and white crocs,"
+    }
+   ],
+   "img": "img/look/mve0b9j0.jpg?v=1792338916211",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338907700
+ "updatedAt": 1792338916754
 };

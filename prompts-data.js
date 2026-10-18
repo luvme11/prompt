@@ -4834,7 +4834,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxek80.jpg?v=1792334031216",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdxeqpw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, maid outfit, skirt, black sheer stockings, 3::sitting on floor, knees raised and bent::, 2::legs visible, feet visible::, 3::soles facing viewer, feet in foreground::, foreshortening, holding smartphone in front of chest, looking at phone, relaxed seated pose, transparent background, isolated character,"
+    }
+   ],
+   "img": "img/comp/mvdxeqpw.jpg?v=1792334039952",
+   "pos": "50.0% 22.0%"
   }
  ],
- "updatedAt": 1792334031851
+ "updatedAt": 1792334040550
 };

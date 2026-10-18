@@ -5351,7 +5351,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxromu.jpg?v=1792334643540",
    "pos": "50.0% 100.0%"
+  },
+  {
+   "id": "mvdxruxk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "(full-body environmental composition:1.35),\n(high-angle view from above the riverbank:1.3),\n\n(floating flat on the back:1.4),\n(back submerged underwater:1.4),\n(chest and abdomen facing upward:1.4),\nface facing upward, limp weightless body,\nshoulders, torso, hips partially submerged,\narms drifting loosely outward, relaxed hands,\nfloating fabric,\n\n(face naturally half-submerged:1.25),\nwaterline across the cheeks, wet hair spreading underwater, half-lidded unfocused eyes, vacant distant gaze, no eye contact, slightly parted lips,\n\noff-center figure, asymmetrical framing, surrounding water and vegetation, natural empty space,\n\nwoodland stream, deep green water,\nmossy banks, reeds, aquatic plants, submerged vegetation, small scattered wildflowers, loose petals, natural reflections, overcast daytime, sunless diffused daylight, muted green, olive, cool gray, soft shadows, subdued highlights, slight atmospheric haze, cinematic film still, dreamlike naturalism, quiet romantic melancholy, subtle vintage film softness"
+    }
+   ],
+   "img": "img/comp/mvdxruxk.jpg?v=1792334651788",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792334644000
+ "updatedAt": 1792334652393
 };

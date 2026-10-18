@@ -7588,7 +7588,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0chlw.jpg?v=1792338973269",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0cnwl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kawaii, balletcore, 2::white and gray striped jersey::, fitted crop jersey, zipper, 2::partially unzipped::, layered shirt, white camisole, pink logo print camisole, gray baggy pants, white ribbon, gray and pink sneakers, silver headphones, pink hair ribbons,"
+    }
+   ],
+   "img": "img/look/mve0cnwl.jpg?v=1792338981499",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338974365
+ "updatedAt": 1792338981978
 };

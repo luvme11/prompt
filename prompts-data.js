@@ -7084,7 +7084,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzyut4.jpg?v=1792338337514",
    "pos": "50.0% 48.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzz0pb",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white beret with black ribbon, black ribbon earrings, white short puff sleeve shirt with black ribbon, black layered frill skirt with black ribbon, short skirt, black dot pantyhose, black high heels, black lace gloves"
+    }
+   ],
+   "img": "img/look/mvdzz0pb.jpg?v=1792338344905",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338337975
+ "updatedAt": 1792338345525
 };

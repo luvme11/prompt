@@ -5609,7 +5609,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxy3pa.jpg?v=1792334943366",
    "pos": "41.3% 50.0%"
+  },
+  {
+   "id": "mvdxyn42",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, 2.5::sitting somewhere, glancing back over the shoulder at the viewer, side profile gaze::,\n\n3::large fully spread angel wings, feathers fully extended, detailed individual feathers::,\n\n2.5::holding a rifle behind the back, gripping the gun with both hands::, detailed gun mechanism, weapon held steady,\n\nsky background, soft clouds, high detail, best quality,"
+    }
+   ],
+   "img": "img/comp/mvdxyn42.jpg?v=1792334968242",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792334943816
+ "updatedAt": 1792334968687
 };

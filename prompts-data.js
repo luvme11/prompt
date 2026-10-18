@@ -8204,7 +8204,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve3e7pf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.4::cowboy shot::, 1.35::thighs in frame::, 1.45::navy blue sailor collar crop top::, 1.4::short sleeves with white piped trim::, 1.4::three yellow stripes on the sailor collar::, 1.4::deep red ribbon bow tied at the chest::, 1.35::small embroidered lettering on the collar::, 1.35::cropped length ending at the waist::, 1.4::white puffy midi skirt::, 1.35::gathered elastic waistband::, 1.35::voluminous balloon silhouette::, 1.3::soft cotton texture::, 1.45::navy blue wool beret worn tilted::, 1.4::small gold heart pins on the beret::, 1.3::white chunky sneakers::, 1.4::both palms pressed together beside the face::, 1.35::elbows bent close to the body::, 1.3::body angled slightly away from viewer::, 1.3::head tilted toward the shoulder::, 1.4::playful wink with one eye closed::, 1.35::lips pushed into a small pout::, 1.3::rosy blush on the cheeks::, 1.4::bright nautical theme park set::, 1.35::sky blue and yellow painted ship wall::, 1.35::round porthole windows with chrome frames::, 1.3::white rope railing above::, 1.3::rippling water pattern floor::, 1.3::vivid saturated colors::, 1.3::cheerful summer light::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792344071307
+ "updatedAt": 1792344091805
 };

@@ -5852,7 +5852,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyl4t0.jpg?v=1792336017346",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvdylbt6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "brown polka dot short-sleeved blouse, fitted waist, sweetheart neckline, white lace trim, front bow detail, brown neck-tie ribbon, faded dark denim short pants, micro shorts, black sheer tights, white ribbed slouch socks, dark brown platform Mary Jane heels, silver hoop earrings, black rectangular glasses on head, dark brown glossy leather shoulder bag"
+    }
+   ],
+   "img": "img/look/mvdylbt6.jpg?v=1792336026796",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336018404
+ "updatedAt": 1792336028239
 };

@@ -7336,7 +7336,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve051t7.jpg?v=1792338626405",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve06mn1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "deep blue jersey, 3:: white chinese knot buttons, pankou::, white three stripes, white bloomers, red headphones, white frilled socks, white sneakers and two red stripes,"
+    }
+   ],
+   "img": "img/look/mve06mn1.jpg?v=1792338700301",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338627650
+ "updatedAt": 1792338700909
 };

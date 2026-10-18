@@ -606,7 +606,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdu2ckc.jpg?v=1792328422757",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdu2oco",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "editorial bathtub setting filled with water and floating rose petals, dramatic top-down composition, warm red and ivory color contrast, soft diffused lighting with gentle highlights, romantic gothic fantasy mood, dark floral atmosphere, overhead angle, full-body shot within the tub, body curled diagonally, one arm bent and resting above the head, other hand placed lightly near the chest, legs folded inward, still and ornamental pose resembling a living artwork,"
+    },
+    {
+     "label": "의상",
+     "text": "sheer lace dress with delicate floral texture, translucent fabric clinging softly in water, ivory tone, romantic editorial styling"
+    }
+   ],
+   "img": "img/comp/mvdu2oco.jpg?v=1792328438040",
+   "pos": "50.0% 8.0%"
   }
  ],
- "updatedAt": 1792328423193
+ "updatedAt": 1792328438497
 };

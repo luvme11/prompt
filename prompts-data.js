@@ -1185,7 +1185,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdumicy.jpg?v=1792329363613",
    "pos": "64.2% 50.0%"
+  },
+  {
+   "id": "mvdumptk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "horror, creepy, dark theme, dim lighting, 3::rpg maker, fake video game, dialogue box. Japanese text::, retro, 4::pixel art::, 3::character positioned on the left side of the frame, upper body::,\n\nold japanese house, traditional japanese house, abandoned house, tatami, fusuma, shoji, dark room, narrow hallway, old wooden floor, paper lantern, antique furniture, family altar, old photograph, bloodstain, broken doll, crawling shadow, open door, mysterious room, horror, japanese horror, psychological horror, eerie, unsettling, ominous, dark atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvdumptk.jpg?v=1792329372954",
+   "pos": "82.2% 50.0%"
   }
  ],
- "updatedAt": 1792329364050
+ "updatedAt": 1792329373380
 };

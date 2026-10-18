@@ -7322,7 +7322,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve04us6.jpg?v=1792338617596",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve051t7",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::buttoned shirt, tight shirt, black and white striped shirt::, 3::untucked shirt::, -1::crop top::, collarbone, black lace bra, silver necklace, black lace trim shorts, gray knee socks, white leopard high heels,"
+    }
+   ],
+   "img": "img/look/mve051t7.jpg?v=1792338626405",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338618855
+ "updatedAt": 1792338627650
 };

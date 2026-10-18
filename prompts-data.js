@@ -6818,7 +6818,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz8z2d.jpg?v=1792337129766",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz95iu",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "japanese clothes, wa maid, 1.2::short kimono, wide sleeves::, black kimono, white apron, frilled apron, lace trim, white ribbon, tassel, decorative knot, pleated skirt, mini skirt, 1.5::kerchief, headscarf,:: hair ornament, black and white,"
+    }
+   ],
+   "img": "img/look/mvdz95iu.jpg?v=1792337138226",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337130763
+ "updatedAt": 1792337138840
 };

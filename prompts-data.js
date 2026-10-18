@@ -3576,7 +3576,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwhf7f.jpg?v=1792332485360",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdwhrye",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "halloween night, moonlit graveyard, giant glowing jack-o'-lantern, floating pumpkin lanterns, autumn leaves falling, fog, bare trees, bats in the sky, glowing orange light, sparkles, dramatic lighting, sitting on giant pumpkin, crossed legs, leaning back on one hand, looking back at viewer, from side, long flowing hair, wind, backlighting, floating leaves, dutch angle,"
+    },
+    {
+     "label": "의상",
+     "text": "black halloween dress, halterneck, gold trim, pleated skirt, small demon horns, black ribbon twintails, striped thighhighs, black arm warmers, black boots, choker,"
+    }
+   ],
+   "img": "img/comp/mvdwhrye.jpg?v=1792332501830",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792332485947
+ "updatedAt": 1792332502281
 };

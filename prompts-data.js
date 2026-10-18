@@ -5489,7 +5489,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxvqq1.jpg?v=1792334833094",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvdxwj6p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, extreme low angle, viewer lying perspective, both leaning down toward camera, looking directly downward, character 1 closer on the left, character 2 slightly behind on the right, close face framing, centered chandelier, gothic ceiling, candlelight, dark mansion interior, dramatic foreshortening, glossy blood, dim lighting, dutch angle, dark mansion interior, gothic ceiling, centered chandelier, candlelight, unsettling atmosphere,"
+    },
+    {
+     "label": "왼쪽 캐릭터",
+     "text": "left side, closer to camera, leaning lower, holding a blood-stained knife, blood dripping from cheek, sharp grin, gothic butler outfit, black tailored suit, fitted vest, white dress shirt, black tie, gloves, silver chain accessories, dark formalwear, elegant gothic aesthetic, matching outfits"
+    },
+    {
+     "label": "오른쪽 캐릭터",
+     "text": "gothic butler outfit, black tailored suit, fitted vest, white dress shirt, black tie, gloves, silver chain accessories, dark formalwear, elegant gothic aesthetic, matching outfits, right side, slightly behind, leaning toward camera, holding a blood-stained fork, blood dripping from utensil"
+    }
+   ],
+   "img": "img/comp/mvdxwj6p.jpg?v=1792334870182",
+   "pos": "53.8% 50.0%"
   }
  ],
- "updatedAt": 1792334833560
+ "updatedAt": 1792334870800
 };

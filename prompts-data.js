@@ -3363,7 +3363,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw96ay.jpg?v=1792332100404",
    "pos": "32.0% 50.0%"
+  },
+  {
+   "id": "mvdw9e8r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, highly detailed, unique composition,\n\nA gigantic antique wooden cabinet with one enormous drawer pulled completely open. The open drawer fills most of the frame and creates a deep, tunnel-like space.\n\nA character is sitting naturally deep inside the drawer, surrounded by various objects and books. The character is positioned toward the back of the drawer rather than near the opening, creating a strong sense of depth.\n\nThe camera is placed outside the drawer, very close to the floor, looking directly into the open drawer. The front edge of the drawer is extremely large in the foreground and partially frames the image.\n\nThe sides and bottom of the drawer form strong perspective lines that converge toward the character in the distance. The character appears smaller because of the deep perspective.\n\nOne hand rests casually on the edge of the drawer while the other hand is positioned naturally near the body. The character sits comfortably among scattered books, letters, small objects, and personal belongings.\n\nSeveral objects are placed very close to the camera on the front edge of the drawer, appearing significantly larger due to perspective. Other objects become progressively smaller toward the character.\n\nThe inside of the drawer is darker than the surrounding room, creating a strong contrast between the foreground and the illuminated space behind the character.\n\nThe cabinet extends beyond the edges of the frame, making the drawer appear enormous. Subtle dust particles float in the light, adding depth to the air.\n\nLow-angle perspective, extreme depth, strong foreshortening, foreground framing, character positioned deep inside the drawer, converging perspective lines, dramatic scale contrast, layered foreground and background, cinematic composition, immersive three-dimensional space, visually striking framing."
+    }
+   ],
+   "img": "img/comp/mvdw9e8r.jpg?v=1792332110767",
+   "pos": "47.3% 50.0%"
   }
  ],
- "updatedAt": 1792332100841
+ "updatedAt": 1792332111843
 };

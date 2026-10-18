@@ -3320,7 +3320,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw8dx4.jpg?v=1792332063687",
    "pos": "34.2% 50.0%"
+  },
+  {
+   "id": "mvdw8sl5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "Character-focused composition, vertical poster layout, editorial photo collage, fashion magazine collage, central full-body character as the main subject, dynamic crouching pose, subject layered over multiple photo panels, large central photograph, multiple rectangular inset photographs, upper-right face close-up photograph, extreme close-up portrait crop, bottom-center medium close-up portrait, additional small inset photograph in the lower right, overlapping photographs, layered image composition, asymmetrical layout, cropped photographs extending beyond the frame, varied image aspect ratios, foreground subject overlapping background panels, soft pink background, hot pink and pastel pink color palette, monochromatic pink aesthetic, pink gradient background, glossy magazine aesthetic, retro pop aesthetic, Y2K editorial design, early 2000s fashion magazine aesthetic, translucent rectangular overlays, semi-transparent photo panels, thin curved decorative lines looping across the composition, hand-drawn pink doodle lines, abstract looping lines, tiny sparkling star effects, lens flare sparkles, soft glow, dreamy and wistful atmosphere, glossy finish, vertical typography along the left edge, large vertical text, decorative editorial typography, text partially cropped by the frame, layered typography behind the main subject, graphic design poster, scrapbook-style fashion editorial,"
+    },
+    {
+     "label": "의상",
+     "text": "hot pink leopard print camisole top, fitted camisole, spaghetti straps, black lace trim, small black ribbon bow, black skull and crossbones emblem, dark wash denim miniskirt, low-rise skirt, ultra short length, layered waistband, double waistband, belt loops, front pockets, frayed hem, distressed denim, oversized silver chain necklace, black leather studded choker, silver metal studs, silver flower embellishment, black vintage leather shoulder bag, slouchy silhouette, multiple front pockets, vintage leather texture, silver hardware, leather fringe"
+    }
+   ],
+   "img": "img/comp/mvdw8sl5.jpg?v=1792332082666",
+   "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792332064136
+ "updatedAt": 1792332083409
 };

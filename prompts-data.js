@@ -3665,7 +3665,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwjpp0.jpg?v=1792332591915",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdwk0qq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "pastel room, bed, fluffy pillows, heart sparkles, cute stickers, lying down, top-down view, tilted head, 2::holding game controller::, cute smile, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "cat ear headphones, off-shoulder sweater, frilled choker, beaded necklace, sneakers,"
+    }
+   ],
+   "img": "img/comp/mvdwk0qq.jpg?v=1792332607402",
+   "pos": "33.1% 50.0%"
   }
  ],
- "updatedAt": 1792332592368
+ "updatedAt": 1792332607863
 };

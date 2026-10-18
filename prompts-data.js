@@ -4599,7 +4599,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx56su.jpg?v=1792333593860",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdx5cl4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, close-up, three-quarter view, head slightly tilted back, playful pose, one eye closed, tongue out, round wire-frame glasses perched low on nose bridge, glasses sitting playfully on the tip of nose, looking over glasses, one hand raised beside face making a V sign, other arm relaxed, oversized dark brown plaid coat, beige striped collared shirt, brown striped necktie, oversized layered collar, vintage preppy outfit, loose oversized silhouette, dusty mustard background"
+    }
+   ],
+   "img": "img/comp/mvdx5cl4.jpg?v=1792333601525",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792333594304
+ "updatedAt": 1792333601960
 };

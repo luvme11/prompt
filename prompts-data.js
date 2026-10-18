@@ -2818,7 +2818,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvvj5k.jpg?v=1792331463940",
    "pos": "39.1% 50.0%"
+  },
+  {
+   "id": "mvdvvp70",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from side, looking at viewer, lying, on stomach, raised hips, head rest, hand on own chin, holding stethoscope, reaching towards viewer, parted lips, nurse cap, nurse, white dress, puffy sleeves, frills, x hair ornament, bandaid on face, stethoscope, hospital, heart, sparkle, bubble, blurry foreground, depth of field, soft focus, pastel colors, pink theme, glitter, chromatic aberration,"
+    }
+   ],
+   "img": "img/comp/mvdvvp70.jpg?v=1792331471649",
+   "pos": "29.8% 50.0%"
   }
  ],
- "updatedAt": 1792331464851
+ "updatedAt": 1792331472079
 };

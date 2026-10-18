@@ -7308,7 +7308,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve04pgx.jpg?v=1792338610191",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve04us6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white t-shirt, tight t-shirt, short sleeves, low neckline, 2::long shirt::, goth print t-shirt, bare arms, chain necklace, no bottom, bare legs, mary jane shoes, black shoes,"
+    }
+   ],
+   "img": "img/look/mve04us6.jpg?v=1792338617596",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338610651
+ "updatedAt": 1792338618855
 };

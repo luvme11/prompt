@@ -7280,7 +7280,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve04eo3.jpg?v=1792338596376",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve04k2n",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "street fashion, y2k fashion, baseball cap, red cap, logo cap, worn cap, red bikini top, logo print bikini, dark jacket hanging loosely, panty strap, red ribbon panty strap, layered necklace, long necklace, low rise pants, baggy pants, gray pants, sweatpants, drawstring pants, gray lace-up boots,"
+    }
+   ],
+   "img": "img/look/mve04k2n.jpg?v=1792338603269",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338596827
+ "updatedAt": 1792338603727
 };

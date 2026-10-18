@@ -5059,7 +5059,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxkasn.jpg?v=1792334299273",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdxkhnu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting at a cafe table, casual candid pose, one hand in hair grabbing the top of his head, elbow on the table, 2::the other hand holding phone::, 3::looking at the phone::, calm expression, slightly serious expression, relaxed posture, oversized black leather jacket, black inner shirt, all black outfit, silver wristwatch, silver rings, bracelet, dark modern cafe, charcoal gray stone wall, marble table, indoor cafe, shopping bags beside character, wide shot, side profile,"
+    }
+   ],
+   "img": "img/comp/mvdxkhnu.jpg?v=1792334307931",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792334300171
+ "updatedAt": 1792334309027
 };

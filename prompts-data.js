@@ -4,7 +4,7 @@ window.PROMPT_DATA = {
   "sub": "구도/룩",
   "name": "U2",
   "handle": "@noxuelux",
-  "text": "다양한 구도와 ==룩==",
+  "text": "==구도와 룩== 프롬프트를 업로드 합니다\n비슷한 소재가 있을 시 ==창구== 이용해 주세요",
   "tags": [],
   "avatar": "img/profile.jpg?v=1792325354366"
  },
@@ -22,5 +22,5 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvdsb7zx.jpg?v=1792325477669"
   }
  ],
- "updatedAt": 1792326021255
+ "updatedAt": 1792326097121
 };

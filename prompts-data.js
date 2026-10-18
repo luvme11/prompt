@@ -6146,7 +6146,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyt4x5.jpg?v=1792336391563",
    "pos": "50.0% 6.0%",
    "soon": false
+  },
+  {
+   "id": "mvdytc6e",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "polka dot tank top, sleeveless shirt, frilled hem, light blue miniskirt, yellow ribbon on skirt, pink striped socks, thigh highs, purple hair bow, hair clip, white sneakers,"
+    }
+   ],
+   "img": "img/look/mvdytc6e.jpg?v=1792336400704",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336392169
+ "updatedAt": 1792336401332
 };

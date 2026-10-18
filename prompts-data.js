@@ -1623,7 +1623,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv2i7k.jpg?v=1792330109785",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdv2q34",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red lighting, red ambient light, kitchen, indoors, side view, looking at viewer, handgun, holding gun, one hand holding gun, maid outfit, apron, frilled dress, black dress, thighhighs, gloves, dramatic lighting, cinematic atmosphere, tension, moody atmosphere, contrast lighting, shadows, dangerous atmosphere, counter, nighttime, elegant pose,"
+    }
+   ],
+   "img": "img/comp/mvdv2q34.jpg?v=1792330119648",
+   "pos": "50.0% 4.0%"
   }
  ],
- "updatedAt": 1792330110215
+ "updatedAt": 1792330120101
 };

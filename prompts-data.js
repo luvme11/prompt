@@ -793,7 +793,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdubyx4.jpg?v=1792328871616",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvducb6c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "birthday party table setting, pastel studio background, sparkling glitter background, bokeh lights, shimmering confetti and tinsel, balloons and teddy bear in background, colorful party decorations, cake with candles and cherries, soft warm lighting, dreamy glow, shallow depth of field, eye-level close-up angle, upper-body framing, leaning forward over a birthday cake, elbow resting on table, cheek resting on palm, other hand holding a macaron near the face, playful tabletop pose, looking sideways, soft smile, relaxed pose"
+    },
+    {
+     "label": "의상",
+     "text": "light lavender party dress, sleeveless dress, thin shoulder straps, soft tulle fabric, layered skirt, birthday party hat with ribbon"
+    }
+   ],
+   "img": "img/comp/mvducb6c.jpg?v=1792328887485",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792328872080
+ "updatedAt": 1792328887923
 };

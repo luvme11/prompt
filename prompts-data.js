@@ -2896,7 +2896,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw07dv.jpg?v=1792331681856",
    "pos": "75.1% 50.0%"
+  },
+  {
+   "id": "mvdw0dfg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, dutch angle, wide shot, full body, standing, standing in water, wading, skirt hold, looking at viewer, head tilt, waterfall, river, rock, moss, splashing, water drop, ripples, reflection, wind, wind lift, floating hair, floating clothes, butterfly, bug, light rays, sunlight, dappled sunlight, depth of field, blurry foreground, outdoors, nature, day,"
+    }
+   ],
+   "img": "img/comp/mvdw0dfg.jpg?v=1792331689786",
+   "pos": "50.0% 44.0%"
   }
  ],
- "updatedAt": 1792331682305
+ "updatedAt": 1792331690227
 };

@@ -6496,7 +6496,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz3v6r.jpg?v=1792336891589",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz41ew",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{black_mini_crown}, pearl_choker, {white_corset_bodice}, front_lacing, off-shoulder, black_lace_trim, {detached_wide_bell_sleeves}, heavily_ruffled_sleeves, {high-low_skirt}, floral_lace_skirt, purple_pleated_under_skirt, long_back_drape, hanging_pearl_chains, white_ankle_socks, ruffled_socks, white_pumps, shoe_bows"
+    }
+   ],
+   "img": "img/look/mvdz41ew.jpg?v=1792336899583",
+   "pos": "50.0% 40.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336892046
+ "updatedAt": 1792336900041
 };

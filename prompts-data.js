@@ -5880,7 +5880,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyljjf.jpg?v=1792336036521",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyltqt",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black newsboy cap, brown plaid scarf, black double-breasted short jacket, tight jacket, dark grey shorts, black sheer tights, light grey knit leg warmers, black platform shoes with cat face ornaments, brown suede handbag, -1.3::navel::"
+    }
+   ],
+   "img": "img/look/mvdyltqt.jpg?v=1792336049901",
+   "pos": "50.0% 6.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336036990
+ "updatedAt": 1792336050526
 };

@@ -263,7 +263,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtjpiq.jpg?v=1792327553112",
    "pos": "67.0% 50.0%"
+  },
+  {
+   "id": "mvdtkaob",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::red light district::, red Yoshiwara, yukaku, luxury Japanese brothel, ornate wooden interior, red shoji screens, sliding doors, gold leaf folding screens, paper lanterns, warm dim glow, hazy smoke, incense, 2people, couple, straddling, extreme close proximity, highly intimate, sensual, full shot, side-angle view, dramatic shadows, cinematic lighting, moody atmosphere,"
+    },
+    {
+     "label": "아래",
+     "text": "1.5::lying down::, reclining, leaning back on cushions, looking up at her, hands on her waist, intense gaze, yukata, haori, kimono,"
+    },
+    {
+     "label": "위",
+     "text": "back view, from behind, showing back, straddling him, sitting on his lap, leaning forward, 1.4::disheveled kimono::, loose clothing, kimono falling off shoulders, exposing bare back, exposing shoulders, luxurious patterned kimono, silk fabric, wide obi sash undone,"
+    }
+   ],
+   "img": "img/comp/mvdtkaob.jpg?v=1792327580461",
+   "pos": "50.0% 50.0%"
   }
  ],
- "updatedAt": 1792327553732
+ "updatedAt": 1792327580891
 };

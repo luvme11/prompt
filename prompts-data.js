@@ -5299,7 +5299,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxqvzb.jpg?v=1792334606696",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdxr20a",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, absurdres, 2d anime style, oriental gothic aesthetic, fine lineart, vibrant colors, painterly shading,\n\n1.1::upper body, low angle, head tilted back, exposed throat, looking sideways::, hair blowing in wind, flowing hair, black leather choker, large purple patterned ribbon bow, pearl necklace, dark green jacket, gold drop earring,\n\n1.4::vibrant crimson background, gold foil patterns, purple flowers framing, many flowers, green leaves, high contrast, graphic illustration::,\n\n1.5::disintegrating into glitter, dissolving into stars, body turning into colorful sparkles, shimmering dust particles::, 2::rainbow glitter wings, holographic stars wings, many small stars, big wings, iridescent confetti qings, multi-colored star shapes, sparkling effect, deep space texture, contrasting colors::,"
+    }
+   ],
+   "img": "img/comp/mvdxr20a.jpg?v=1792334614038",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792334607148
+ "updatedAt": 1792334614650
 };

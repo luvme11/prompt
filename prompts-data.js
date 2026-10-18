@@ -3440,7 +3440,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwdeu1.jpg?v=1792332297961",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdwdq2o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "3::magazine cover::, 2::japanese music magazine::, bold japanese typography, large title text, column text, barcode, copyright mark, pastel gradient background, pink and mint color scheme, holographic, chromatic aberration, neon glow, sparkles, floating petals, upper body, dynamic pose, leaning forward, looking at viewer, one hand raised, wind, flowing hair, slight open mouth,"
+    },
+    {
+     "label": "의상",
+     "text": "white sleeveless top, (색상) mini skirt, heart belt, (색상) headphones, white gloves, (색상) wristband, holographic fabric,"
+    }
+   ],
+   "img": "img/comp/mvdwdq2o.jpg?v=1792332312670",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792332298423
+ "updatedAt": 1792332313132
 };

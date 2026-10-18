@@ -5674,7 +5674,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxzkbv.jpg?v=1792335011071",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdxzqdp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::solo, standing::, 2::cowboy shot, front view::, looking at viewer, gentle smile, cheerful expression,\n2::holding a mixing bowl in one hand, holding a whisk in the other hand::, bowl held against the body, whisk raised slightly, flour dusted on cheek,\n\n2::witch outfit blended with patissier uniform::, witch hat, double-breasted chef jacket with witch-style cape, frilly apron, bow at neck, puffy sleeves, ruffles, rolled-up cuffs, small star and moon charms, cute and soft design,\n\n2::cozy witch bakery interior::, 1.5::shelves of fresh bread, croissants, cakes and cupcakes::, wooden counter, brick oven, hanging herbs and lanterns, flour sacks, copper pots, potion jars mixed with baking jars, small black cat sitting on the counter,\n\nfloating flour dust, floating sparkles, tiny magic stars, rising steam, whipped cream swirls in the air,\n\n2::soft fluffy atmosphere, warm and cozy mood::, warm window light, soft glow, gentle bokeh, soft shading, pastel-like softness, rounded shapes,\n\nbest quality, masterpiece, detailed background, soft lighting, heartwarming"
+    }
+   ],
+   "img": "img/comp/mvdxzqdp.jpg?v=1792335019226",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792335011551
+ "updatedAt": 1792335019861
 };

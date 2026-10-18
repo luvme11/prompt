@@ -6678,7 +6678,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz6ta9.jpg?v=1792337029072",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz6zu3",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::grey blazer dress, lapels,:: v-neck, double breasted suit, long sleeves, rolled-up_sleeves, {wide fabric black belt}, large square buckle, black pleated mini skirt, coat dress,"
+    }
+   ],
+   "img": "img/look/mvdz6zu3.jpg?v=1792337037469",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337029540
+ "updatedAt": 1792337037906
 };

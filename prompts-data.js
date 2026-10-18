@@ -4274,7 +4274,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwzrik.jpg?v=1792333340968",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdwzy3z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, solo, 1.1::upper body::, 1.2::close-up::, 1.3::multiple view, dynamic view::, looking viewer, 1.1::head down slightly, upturned eyes::, 1.3::closed mouth::,\n\ntortoiseshell glasses, 1.2::thick-framed glasses sliding down nose holding white toothbrush near mouth::, 1.3::[color] toothpaste, toothpaste flowing down the jaw::, 1.2::hand to toothbrush, finger on toothbrush::, collarbone, 1.1::white shirt slipping off shoulders::, open messy shirt, loosened black tortoiseshell necktie,\n\nfashion magazine cover, editorial photoshoot, 1.2::[color] marble background::, [color] and [color] color scheme, crowded but balanced composition,\n\n2.2::huge masthead text across top::, 2.5::oversized stylized Japanese typography::, 2.6::dense Japanese headlines and teaser captions::, 1.75::vertical side headlines, stacked text blocks, credits text::, 1.6::issue number, barcode::, 1.4::editorial blurbs, tagline, subtitle, issue number, thick outlined text overlapping illustration::"
+    }
+   ],
+   "img": "img/comp/mvdwzy3z.jpg?v=1792333349429",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792333341731
+ "updatedAt": 1792333350033
 };

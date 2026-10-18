@@ -6608,7 +6608,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz5bel.jpg?v=1792336959202",
    "pos": "50.0% 38.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz5htb",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "military_uniform, {black_cropped_military_jacket}, open_jacket, black collar, silver embroidery, white pleated blouse, black bow tie, silver epaulettes, dangling ribbon,{black corset waist}, double-breasted_clasps, silver buckles, black long skirt, pleated skirt, side slit, black_leather_belt, asymmetrical_belt"
+    }
+   ],
+   "img": "img/look/mvdz5htb.jpg?v=1792336967390",
+   "pos": "50.0% 46.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336960460
+ "updatedAt": 1792336967993
 };

@@ -7042,7 +7042,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzyb9t.jpg?v=1792338312573",
    "pos": "50.0% 38.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzyhz2",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white hairband, light pink checkered halter top, tie-neck, light pink checkered ribbon on neck, wide damaged jeans with light pink checkered ribbon, black small bag with light pink ribbon, white sneakers"
+    }
+   ],
+   "img": "img/look/mvdzyhz2.jpg?v=1792338320948",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338313496
+ "updatedAt": 1792338321747
 };

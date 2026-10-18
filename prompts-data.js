@@ -4795,7 +4795,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxdrhk.jpg?v=1792333994911",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdxdybn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, front view, 2::baseball cap with [색] lop rabbit ears::, 2::floppy [색] bunny ears attached to cap::, [색] cap, [색] fur ears, bunny pin on cap, hair peeking from under cap, bangs covering one eye, half-lidded eyes, parted lips, relaxed expression, 2::[색] overalls::, 2::denim overalls::, one strap unhooked, white t-shirt underneath, layered outfit, 2::squatting::, 2::crouching::, knees together, stud earring, white background, simple background, slightly from above, soft lighting, high detail, illustration"
+    }
+   ],
+   "img": "img/comp/mvdxdybn.jpg?v=1792334003100",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792333995366
+ "updatedAt": 1792334003558
 };

@@ -3337,7 +3337,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw8sl5.jpg?v=1792332082666",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdw901r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "elegant lavender bikini, pale lavender satin fabric, delicate white frill details, small silver accessories, sheer white beach cover-up, thin lavender ribbons, pearl anklet, silver earrings, sitting on a white poolside lounge chair, one knee raised, one hand resting beside her for support, the other hand gently brushing through her hair, relaxed and subtle smile, long hair cascading over the lounge chair, three-quarter view from a slightly frontal angle, slightly high camera angle, medium full shot, luxurious rooftop swimming pool, crystal-clear blue water, white marble tiles, lavender parasols, white lounge chairs, soft summer sky, distant ocean horizon, floating flower petals, bright natural sunlight, subtle reflected light, pastel icy blue and lavender color palette, dreamy and elegant summer atmosphere"
+    }
+   ],
+   "img": "img/comp/mvdw901r.jpg?v=1792332092361",
+   "pos": "32.0% 50.0%"
   }
  ],
- "updatedAt": 1792332083409
+ "updatedAt": 1792332092979
 };

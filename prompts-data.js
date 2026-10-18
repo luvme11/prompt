@@ -1267,7 +1267,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduo3nj.jpg?v=1792329437390",
    "pos": "50.0% 2.0%"
+  },
+  {
+   "id": "mvduofns",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "snowing, winter castle, balcony, night sky, moonlight, dramatic shadows, close-up, portrait,"
+    },
+    {
+     "label": "의상",
+     "text": "military uniform, black formal wear, fur-trimmed cape, epaulettes, medals on chest, high collar, black gloves,"
+    }
+   ],
+   "img": "img/comp/mvduofns.jpg?v=1792329453265",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792329437819
+ "updatedAt": 1792329453726
 };

@@ -2909,7 +2909,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw0dfg.jpg?v=1792331689786",
    "pos": "50.0% 44.0%"
+  },
+  {
+   "id": "mvdw0ixv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, dutch angle, from side, leaning back, looking at viewer, hand on own mouth, crop top, midriff, black pleated miniskirt, fur-trimmed skirt, black belt, chain, pearl necklace, oversized bow, hair ornament, pink ribbon, collage, halftone, english text, pink theme,"
+    }
+   ],
+   "img": "img/comp/mvdw0ixv.jpg?v=1792331696868",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792331690227
+ "updatedAt": 1792331697313
 };

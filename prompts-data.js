@@ -853,7 +853,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdud0sp.jpg?v=1792328920542",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvduddr6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "floating in the sky, hovering in midair, the other leg bent to the side, torso slightly leaning forward, hands gently cupped together in front of chest, ritual-like gesture, large angel wings partially wrapping around body, feathers drifting in the air, bright sky background, soft clouds surrounding, sunlight rays from above, prism light refraction, rainbow prism flare, dreamy ethereal atmosphere, cool blue-white color palette, soft glowing light, cinematic lighting, airy haze,"
+    },
+    {
+     "label": "의상",
+     "text": "white lace bodysuit with front lace-up detail, high-cut design, lace arm sleeves, lace thighhigh stockings, delicate garter straps, feather halo headpiece, white feather hair ornament, large angel wings accessory"
+    }
+   ],
+   "img": "img/comp/mvduddr6.jpg?v=1792328937393",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792328921287
+ "updatedAt": 1792328937850
 };

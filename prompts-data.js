@@ -1830,7 +1830,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv88gl.jpg?v=1792330376782",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdv8eze",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "through glass, behind glass, hands on glass, looking at viewer, upper body,  puckered lips, funny face, silly face, choker, black choker, bare shoulders, ring, claw machine, crane game, stuffed animal, plushie, stuffed toy, heart, text, reflection, glass reflection, lens flare, rainbow, light leak, arcade, indoors, blurry background, depth of field,"
+    }
+   ],
+   "img": "img/comp/mvdv8eze.jpg?v=1792330385523",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792330377240
+ "updatedAt": 1792330385957
 };

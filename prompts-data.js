@@ -6552,7 +6552,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz4ke1.jpg?v=1792336924263",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz4syf",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{pink_floral_print_camisole}, lace_trim_top, triple_ribbon_bows_on_chest, {heart_charm}, {denim_tiered_miniskirt}, {pink_plaid_frilled_hem}, gingham_check_skirt, heart_patch_on_skirt, pink_star_buckle_belt, white_fuzzy_leg_warmers, pink_ribbon_bows_on_leg_warmers, pink_platform_shoes, pink_newsboy_cap, {strawberry_embroidery}, pink_flower_cross_earrings, beaded_bracelet, pink_frilled_boston_bag"
+    }
+   ],
+   "img": "img/look/mvdz4syf.jpg?v=1792336935131",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336924721
+ "updatedAt": 1792336935611
 };

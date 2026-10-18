@@ -112,7 +112,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdt8cqs.jpg?v=1792327023302",
    "pos": "23.3% 50.0%"
+  },
+  {
+   "id": "mvdtc9k0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, waitress, diner, visor cap, striped shirt, collared shirt, puffy short sleeves, crop top, midriff, name tag, waist apron, frills, striped skirt, both hands holding tray, parfait, ice cream, hamburger, french fries, plate, animal-shaped food, left tray is cat shaped parfait, right tray is shiba inu shaped hamburger, open mouth, smile, looking at viewer, dutch angle, paw print, sticker, neon sign, vending machine, colorful"
+    }
+   ],
+   "img": "img/comp/mvdtc9k0.jpg?v=1792327206109",
+   "pos": "24.9% 50.0%"
   }
  ],
- "updatedAt": 1792327023746
+ "updatedAt": 1792327206535
 };

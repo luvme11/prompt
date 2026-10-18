@@ -6902,7 +6902,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzui9w.jpg?v=1792338134809",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzup9u",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "3::elaborate Chinese fantasy outfit::, 2::three-color coordinated costume::, \n2::dominant [색상]::, \n1.7::secondary [jade-green]::, \n1.5::accent [색상]::,\n\ncropped bolero jacket, mandarin collar, open front, floral embroidery, frog closure,\n2::wide bell sleeves::, brocade cuffs, cloud embroidery, piping, knots, tassels,\nstructured brocade bust panel, chest tassels,\nfitted bodice, slim waist, knot ornaments, side tassels,\n2::asymmetrical overskirt::, pointed hem, cloud-wave embroidery, layered pleated underskirt, sheer fabric,\n2::detached calf gaiters::, brocade inserts, ruffled tops, frog closures,\n1.5::matching  shoes::\n\nluxurious brocade, intricate embroidery, elegant tassels, ornate knotwork"
+    }
+   ],
+   "img": "img/look/mvdzup9u.jpg?v=1792338143623",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338135961
+ "updatedAt": 1792338144386
 };

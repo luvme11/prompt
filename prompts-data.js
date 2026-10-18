@@ -3767,7 +3767,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwluto.jpg?v=1792332693275",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdwm8ow",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "bright white room, opulent palace interior, gold ornaments, floating candles, magic book, sitting on floor, high angle, looking at viewer, open book,"
+    },
+    {
+     "label": "의상",
+     "text": "large witch hat, white roses on hat, white frilled dress, cleavage, lace gloves, corset, neck ribbon, cross pendant,"
+    }
+   ],
+   "img": "img/comp/mvdwm8ow.jpg?v=1792332710212",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792332693761
+ "updatedAt": 1792332710657
 };

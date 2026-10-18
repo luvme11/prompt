@@ -2025,7 +2025,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdve26b.jpg?v=1792330648717",
    "pos": "50.0% 84.0%"
+  },
+  {
+   "id": "mvdvea59",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "digital, system crash, error, neon, cowboy shot, from front, looking at viewer, clutching own chest, hyperventilating, trembling, wide eyes, constricted pupils, open mouth, cold sweat, hunched over, circuit pattern, circuit board, cascading popup windows, UI overlay, pixelated, glitch, chromatic aberration, RGB shift, cracked screen, broken glass, safety pin, skull, loading circle, neon green and hot pink theme, stark black, high contrast, cyber, chaotic,"
+    }
+   ],
+   "img": "img/comp/mvdvea59.jpg?v=1792330658944",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792330649953
+ "updatedAt": 1792330659381
 };

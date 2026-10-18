@@ -4586,7 +4586,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx4znv.jpg?v=1792333584935",
    "pos": "50.0% 80.0%"
+  },
+  {
+   "id": "mvdx56su",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, three-quarter view, body leaning backward, head tilted back slightly, playful pose, holding a metal whisk near mouth, fluffy whipped cream coating the whisk, licking whipped cream from the whisk, tongue touching cream, other hand holding a stainless steel mixing bowl filled with whipped cream, baking pose, puffed long sleeves, fitted cute dress, high collar, large ribbon bow at neck, ruffled trim, wide waist sash, huge bow tied at waist, long flowing ribbon tails, oversized striped heart in background, fluffy clouds, floating hearts, candy decorations, pink monochrome background, cute valentine baking theme, dynamic composition, slight low angle"
+    }
+   ],
+   "img": "img/comp/mvdx56su.jpg?v=1792333593860",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792333585555
+ "updatedAt": 1792333594304
 };

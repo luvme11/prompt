@@ -7420,7 +7420,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve07h55.jpg?v=1792338739637",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve07mnj",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "harajuku fashion, yume kawaii, kawaii, y2k fashion, white fur hat, cat hat, hello kitty hat, 1.2::hat strings, long hat strings, striped hat strings, pink and white striped pattern::, hat with pink ribbon, oversized pink shirt, long sleeves, skull print shirt, thigh gap, pink leg strap, knee socks, pink and black striped socks, 1.3::fur leg warmers, light pink leg warmers, leg warmers with fluffs::, black loafers,"
+    }
+   ],
+   "img": "img/look/mve07mnj.jpg?v=1792338747149",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338740089
+ "updatedAt": 1792338747640
 };

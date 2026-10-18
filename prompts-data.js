@@ -249,7 +249,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "메인",
      "text": "2people lying together on a cozy bed, one person leaning on the other's back, soft morning sunlight through the window, warm bedroom atmosphere, pillows and blankets, relaxed intimate composition, cozy anime illustration,"
     },
     {
@@ -362,5 +362,5 @@ window.PROMPT_DATA = {
    "pos": "50.0% 0.0%"
   }
  ],
- "updatedAt": 1792327691090
+ "updatedAt": 1792327779639
 };

@@ -1116,7 +1116,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdul6vn.jpg?v=1792329301676",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvduloil",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "A full-body shot of a figure lying back on the floor with limbs relaxed and one arm draped overhead, expression peaceful with eyes half-closed and a contented soft smile. Dressed in a comfortable oversized hoodie and jogger pants with fuzzy socks, a blanket half-covering the legs. Resting in a dim living room absolutely blanketed by dozens of cats sprawled across the body, sofa, and rug in every direction. Warm lamplight glows from a corner casting a cozy amber pool, deep evening shadows around the edges, rendered in warm muted tones."
+    }
+   ],
+   "img": "img/comp/mvduloil.jpg?v=1792329324730",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792329302133
+ "updatedAt": 1792329325199
 };

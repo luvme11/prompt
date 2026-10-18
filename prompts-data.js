@@ -7266,7 +7266,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve048jp.jpg?v=1792338588330",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve04eo3",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black bodysuit, tight bodysuit, romper, zipper bodysuit, long sleeves, 2: unzipped, collarbone::, -1::leather bodysuit::, -2::jersey, loose sleeves::, bunny hood, hood up, short shorts, pink ribbon lace-up shorts, bare legs, white leg warmers, chunky boots,"
+    }
+   ],
+   "img": "img/look/mve04eo3.jpg?v=1792338596376",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338589587
+ "updatedAt": 1792338596827
 };

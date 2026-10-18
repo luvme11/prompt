@@ -3860,7 +3860,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwoduz.jpg?v=1792332810026",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdwoxxh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "simple background, white background,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "full body, squatting, looking at viewer, eating popsicle, cool expression, short-sleeved collared shirt, loose tie, slacks, belt, backpack, chunky sneakers,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "full body, squatting, looking at viewer, holding popsicle, eating, track jacket, off shoulder, short-sleeved collared shirt, necktie, pleated skirt, backpack, bandaid on knee, loose socks, chunky sneakers,"
+    }
+   ],
+   "img": "img/comp/mvdwoxxh.jpg?v=1792332836190",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792332811124
+ "updatedAt": 1792332836625
 };

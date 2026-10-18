@@ -2545,7 +2545,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvqrrl.jpg?v=1792331241845",
    "pos": "50.0% 8.0%"
+  },
+  {
+   "id": "mvdvqxnm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot,\ndynamic casual angle, sitting on engawa veranda, eating watermelon slices, bright summer afternoon,\nclear sunlight, gentle summer breeze,\nlaughing with mouth open, carefree youthful energy, watermelon seeds,\nwater droplets, floating soap bubbles, transparent bubbles drifting in the air, wind chime, lush greenery background, fresh blue sky tones,\nrefreshing summer atmosphere, soft natural lighting, nostalgic summer vibe, high detail"
+    }
+   ],
+   "img": "img/comp/mvdvqxnm.jpg?v=1792331249596",
+   "pos": "50.0% 46.0%"
   }
  ],
- "updatedAt": 1792331242280
+ "updatedAt": 1792331250212
 };

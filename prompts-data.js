@@ -7392,7 +7392,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve074vp.jpg?v=1792338723855",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve07au2",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "beige long knit sweater, -1::v-neck::, off shoulder shirt, long sleeves, -1::cardigan::, layered shirt, white shirt, button-up shirt, collared shirt, pleated shirt, necktie, striped necktie, loosened necktie, 2:: untucked necktie:, brown skirt, mini skirt, flared skirt, white leg warmers, black loafers,"
+    }
+   ],
+   "img": "img/look/mve07au2.jpg?v=1792338731684",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338724334
+ "updatedAt": 1792338732157
 };

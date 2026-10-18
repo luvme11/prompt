@@ -449,7 +449,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtrukc.jpg?v=1792327932958",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdts7tq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "winter night atmosphere, soft glowing lantern light, snowflakes gently falling, cool blue background, cinematic lighting, dreamy and serene mood, shallow depth of field, close-up portrait, contrast between warm light and cold tones, soft focus, wearing fluffy earmuffs, holding a softly glowing lantern, looking over the shoulder toward the camera, calm and mysterious expression, standing in softly falling snow,"
+    },
+    {
+     "label": "의상",
+     "text": "fluffy white earmuffs, winter outfit, cozy yet classic style"
+    }
+   ],
+   "img": "img/comp/mvdts7tq.jpg?v=1792327949959",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792327933400
+ "updatedAt": 1792327950392
 };

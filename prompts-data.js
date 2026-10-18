@@ -3268,7 +3268,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw7d2i.jpg?v=1792332015801",
    "pos": "50.0% 40.0%"
+  },
+  {
+   "id": "mvdw7v2s",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lolita fashion, elegant frilly lolita dress, layered lolita skirt, abundant inner frills, delicate lace, ribbons, holding an open parasol with one hand,\n\ngraceful high jump above a lake, moderately elevated above the water, one leg fully extended gracefully, the other leg gently bent, pointed toes, floating weightlessly in midair,\n\nface, hair, hands and lolita dress covered in dark red blood stains, blood-stained fingers, heavily stained clothing, smeared dark red marks across the face, unsettling expression, vacant and eerie eyes, beautiful yet deeply ominous atmosphere,\n\nthe entire lake transformed into a dark blood-red color, crimson water surface, red reflections, blood-red mist hovering above the lake, dark ripples spreading across the water, ominous red atmosphere,\n\nfluffy petticoats billowing outward, inner frills floating and fluttering freely, multiple layers of ruffles gently fanning out, delicate lace frills visible beneath the outer skirt,\n\ndark cloudy sky, faint moonlight, eerie silence, unsettling fairytale horror atmosphere, beautiful but disturbing scenery, ominous composition, cinematic lighting, surreal and haunting mood, full-body composition,"
+    }
+   ],
+   "img": "img/comp/mvdw7v2s.jpg?v=1792332039025",
+   "pos": "50.0% 8.0%"
   }
  ],
- "updatedAt": 1792332016876
+ "updatedAt": 1792332039534
 };

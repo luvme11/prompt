@@ -7378,7 +7378,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve06z9a.jpg?v=1792338716388",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve074vp",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::blue shirt, fitted shirt, sleeveless, untucked shirt::, buttoned shirt, -1.5::off shoulder::, 2::layered clothes, layered white tank top, ::, low neckline tank top, 1.5: visible black lace bra::, layered necklaces, cross necklace, black skirt, short skirt, flared skirt, grey thighhighs, black shoes, chunky shoes,"
+    }
+   ],
+   "img": "img/look/mve074vp.jpg?v=1792338723855",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338716840
+ "updatedAt": 1792338724334
 };

@@ -6104,7 +6104,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdys9l1.jpg?v=1792336350705",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdysgm6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink vest, sleeveless jacket, 2::white lace up dress::, corset lacing, frilled dress, short skirt, striped skirt, polka dot hair bow, pink ribbon on hair, pearl bracelet, star earring, white thigh high socks, ruffled socks, pink ribbon on leg, pink mary janes,"
+    }
+   ],
+   "img": "img/look/mvdysgm6.jpg?v=1792336359403",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336351946
+ "updatedAt": 1792336360034
 };

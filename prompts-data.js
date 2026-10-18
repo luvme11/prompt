@@ -7658,7 +7658,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0dcvl.jpg?v=1792339013788",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0dib1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black bonnet, pink flower hair ornament, pearl hair ornament, off shoulder, white and pink gradient mermaid dress, 2::lace kimono hem::, black kimono, black lace-trimmed kimono, pink flower print, white flower print, pink obi, pink bow obidome, pink straps, black lace collar, koma-geta,"
+    }
+   ],
+   "img": "img/look/mve0dib1.jpg?v=1792339020799",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339014310
+ "updatedAt": 1792339021555
 };

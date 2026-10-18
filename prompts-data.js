@@ -4119,7 +4119,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwx0m6.jpg?v=1792333212837",
    "pos": "57.6% 50.0%"
+  },
+  {
+   "id": "mvdwx7u1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Futuristic black and hot pink nurse outfit, a cropped white medical jacket with black piping details, asymmetrical pink vinyl panels, a fitted black inner top, oversized transparent utility pockets, a glossy pink cross-shaped chest ornament, silver buckles, black detachable sleeves, semi-transparent medical-themed accessories, small capsule-shaped charms, a black choker with a silver clasp, neon pink trim, futuristic platform boots.\nSolo female character, a 16:9 horizontal thumbnail composition, the character occupying the right-center 60% of the canvas, a dramatic 3/4 side view from a slightly low angle, looking directly at the viewer, with a playful and wicked smile, narrowed eyes, holding an oversized semi-transparent pink syringe-shaped fantasy prop diagonally upward toward the upper opposite side of the viewer with one hand, while the other hand touches her cheek with two fingers as she tilts her head, creating a strong diagonal arm line.\nA black background with hot pink, white, and toxic lime accents, floating capsule graphics, medical cross symbols, warning labels, an ECG monitor distorted into abstract waveforms, diagonal warning stripes, bold Japanese typography prominently placed on the left side, text running across the lower front sleeve area, layered warning stickers, and glossy neon reflections."
+    }
+   ],
+   "img": "img/comp/mvdwx7u1.jpg?v=1792333222144",
+   "pos": "72.9% 50.0%"
   }
  ],
- "updatedAt": 1792333213289
+ "updatedAt": 1792333222739
 };

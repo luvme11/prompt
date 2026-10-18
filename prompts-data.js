@@ -6482,7 +6482,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz3ooe.jpg?v=1792336883192",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz3v6r",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{moe_gothic}, {subculture_fashion}, ruffled_headband, hair_bows, {blue_collar}, bone_charm, cross_accessory, {white_ruffled_bra}, lace-up, striped_straps, white and blue striped, arm_warmers, puffed_sleeves, small_bows, {light blue ruffled_shorts}, striped_waistband, belt, buckle, garters, kneehighs, striped_socks, {ruffled_leg_warmers}, white straps, buckles, platform_shoes,"
+    }
+   ],
+   "img": "img/look/mvdz3v6r.jpg?v=1792336891589",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336883839
+ "updatedAt": 1792336892046
 };

@@ -3699,7 +3699,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwkd63.jpg?v=1792332622725",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdwktsa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "brick wall, 3::graffiti, large painted wings on wall::, vibrant lighting, cowboy shot, hand adjusting hat, hand in pocket, blowing bubblegum, confident smirk, looking at viewer,"
+    },
+    {
+     "label": "남자 의상",
+     "text": "baseball cap, open oversized windbreaker, oversized t-shirt, denim shorts, chain necklace, sneakers,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "baseball cap, oversized windbreaker, off-shoulder jacket, crop top, keyhole neckline, denim shorts,"
+    }
+   ],
+   "img": "img/comp/mvdwktsa.jpg?v=1792332644264",
+   "pos": "24.9% 50.0%"
   }
  ],
- "updatedAt": 1792332623343
+ "updatedAt": 1792332645173
 };

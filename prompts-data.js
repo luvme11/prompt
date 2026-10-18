@@ -2389,7 +2389,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvnsu6.jpg?v=1792331103193",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdvo05j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, from side, profile, indoor, window, leaning on windowsill, elbows on windowsill, head on hands, looking outside, window frame, floating curtains, wind, wind chime, sunflower, balcony, blue sky, clouds, cicada, sunlight, lens flare, dappled sunlight, golden hour, slice of life,"
+    }
+   ],
+   "img": "img/comp/mvdvo05j.jpg?v=1792331112612",
+   "pos": "63.1% 50.0%"
   }
  ],
- "updatedAt": 1792331103643
+ "updatedAt": 1792331113054
 };

@@ -5922,7 +5922,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdymnpd.jpg?v=1792336088541",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvdymtfp",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gyaru, gyaru fashion, pink leopard print dress, short dress, bodycon, form-fitting, sleeveless, spaghetti strap,\n\nblack lace shoulder straps, black trim, black lace trim along the neckline,\n\n2::lowleg waist::, ruched waist,\n\n1.5::single large ruffle at the hem::, 1.25::black ruffled hem::, thigh-length\n\nlarge pink leopard bow on head, 1.5::large black bow on the chest::, pink heard brooch on center of bow, \n\nsilver cross necklace, heart charm chain, chain with heart pendant,\n\nlarge hoop earrings, multiple rings, ring on every finger, rhinestone rings,\n\nlayered bracelets, gold chain bracelet, charm bracelet,\n\nsheer black thighhighs, semi-transparent thighhighs,\n\nblack platform stiletto sandals, thin heel, high heels, platform sole, ankle strap, open toe, ribbon on shoes, \n\npink handbag, keychain, rhinestone nails, long nails, pink nails"
+    }
+   ],
+   "img": "img/look/mvdymtfp.jpg?v=1792336096096",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336089141
+ "updatedAt": 1792336096552
 };

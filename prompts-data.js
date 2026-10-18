@@ -1947,7 +1947,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvcf6u.jpg?v=1792330572285",
    "pos": "17.8% 50.0%"
+  },
+  {
+   "id": "mvdvcmrz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sticker sheet, chibi inset, orange and black theme, pastel orange, pumpkin and bat pattern background, witch hat, pumpkin bag, candy, lollipop, jack o lantern motif, spider web lace, torn cape, corset, striped stockings, buckle boots, bat hair clip, potion bottle, 1.2::thick outline, sticker, outlined::, 1.5::riding broomstick, sidesaddle, one hand holding hat, wink::, from three-quarter view,"
+    }
+   ],
+   "img": "img/comp/mvdvcmrz.jpg?v=1792330581940",
+   "pos": "80.0% 50.0%"
   }
  ],
- "updatedAt": 1792330572896
+ "updatedAt": 1792330582371
 };

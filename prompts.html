@@ -76,6 +76,9 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 .ab mark,mark{background:#e6e6e6;color:inherit;border-radius:3px;padding:1px 3px}
 .tc{min-width:0}.cap{font-size:10.5px;font-weight:700;margin:7px 2px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .cb{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}.cb .cp{margin:0;flex:1;min-width:0;height:24px;padding:0 6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cp.lock,.cp.lock:hover{color:#aaa;border-color:#e4e4e4;background:#fafafa;cursor:default;letter-spacing:.06em}
+.tx.lock{background:#f1f1f1;color:#aaa;text-align:center;font-weight:700;letter-spacing:.2em;font-size:10px}
+.sb{display:inline-block;margin-left:5px;padding:1px 6px;border-radius:8px;background:#2a2a2a;color:#fff;font-size:7.5px;font-weight:700;letter-spacing:.08em;vertical-align:1px}
 .cl{margin:14px 0 -6px 33px;font-size:8.5px;font-weight:800;letter-spacing:.15em;color:#777}
 @media (max-width:1000px){.cl{margin-left:0}}
 </style>
@@ -107,7 +110,10 @@ const TABS = [{k:'intro',label:'소개'},{k:'comp',label:'구도',grid:1},{k:'lo
 const codesOf = it => it.codes && it.codes.length ? it.codes : (it.code ? [{label:'',text:it.code}] : []);
 const NUM = {}; ['comp','look','base'].forEach(k => ITEMS.filter(i=>i.tab===k).forEach((p,i) => NUM[p.id] = i+1));
 const nameOf = p => p.name ? hl(p.name) : '#' + NUM[p.id];
-const btnLabel = (c,k,n) => esc(c.label || '♡');
+/* 관리자(토큰이 저장된 브라우저)만 COMING SOON 항목을 복사할 수 있음 */
+const OWNER = (() => { try{ const g = JSON.parse(localStorage.getItem('pa_gh') || '{}'); return !!(g.owner && g.repo && g.token); }catch(e){ return false; } })();
+const locked = p => !!p.soon && !OWNER;
+const btnLabel = (c,k,p) => locked(p) ? 'COMING SOON' : esc(c.label || '♡');
 let T = 0, Q = '', PG = 1;
 $('#title').innerHTML = P.title.split('\n').map(esc).join('<br>');
 $('#sub').textContent = P.sub; $('#nm').textContent = P.name; $('#hd').textContent = P.handle;
@@ -136,16 +142,16 @@ function render(){
     return;
   }
   const q = Q.toLowerCase(), all = ITEMS.filter(i=>i.tab===t.k);
-  const list = all.filter(p => !q || (p.name+' #'+NUM[p.id]+' '+codesOf(p).map(c=>c.label+' '+c.text).join(' ')).toLowerCase().includes(q));
+  const list = all.filter(p => !q || (p.name+' #'+NUM[p.id]+' '+(locked(p) ? '' : codesOf(p).map(c=>c.label+' '+c.text).join(' '))).toLowerCase().includes(q));
   const size = 8, pages = Math.max(1, Math.ceil(list.length/size));
   PG = Math.min(PG, pages);
   const cur = list.slice((PG-1)*size, PG*size);
   $('#rc').textContent = list.length + ' / ' + all.length;
   const tile = p => { const cs = codesOf(p);
-    return `<div class="tc"><div class="tl">${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}</div><div class="cb">${cs.map((c,k)=>`<button class="cp" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,cs.length)}</button>`).join('')}</div></div>`; };
+    return `<div class="tc"><div class="tl">${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy" onerror="this.remove()">`:''}<div class="no">NO IMAGE</div><div class="ok">복사됨 ✓</div></div><div class="cap">${nameOf(p)}${p.soon&&OWNER?'<span class="sb">SOON</span>':''}</div><div class="cb">${cs.map((c,k)=>`<button class="cp${locked(p)?' lock':''}" data-id="${esc(p.id)}" data-c="${k}">${btnLabel(c,k,p)}</button>`).join('')}</div></div>`; };
   const row = p => { const cs = codesOf(p);
     return `<div class="it"><div class="sh"><em>${pad(NUM[p.id])}</em><h3>${nameOf(p)}</h3><i></i><span>${esc(t.label)}</span></div>${p.img?`<img src="${esc(p.img)}" alt="" style="object-position:${esc(p.pos||'50% 50%')}" loading="lazy">`:''}
-      ${cs.map((c,k)=>`${c.label?`<div class="cl">${esc(c.label)}</div>`:''}<div class="tx">${esc(c.text)}</div><div class="ft"><button class="cp" data-id="${esc(p.id)}" data-c="${k}">복사</button></div>`).join('')}</div>`; };
+      ${cs.map((c,k)=>`${c.label?`<div class="cl">${esc(c.label)}</div>`:''}${locked(p)?'<div class="tx lock">COMING SOON</div>':`<div class="tx">${esc(c.text)}</div>`}<div class="ft"><button class="cp${locked(p)?' lock':''}" data-id="${esc(p.id)}" data-c="${k}">${locked(p)?'COMING SOON':'복사'}</button></div>`).join('')}</div>`; };
   $('#body').innerHTML = !list.length ? '<div class="empty">'+(all.length?'검색 결과가 없어요':'아직 올린 프롬프트가 없어요')+'</div>'
   : (t.grid ? `<div class="gd">${cur.map(tile).join('')}</div>` : cur.map(row).join('')) + pager(PG, pages);
 }
@@ -158,7 +164,7 @@ $('#body').onclick = async e => {
   const p = e.target.closest('[data-p]');
   if (p && !p.disabled){ PG = +p.dataset.p; render(); $('#body').scrollTop = 0; window.scrollTo(0,0); return; }
   const el = e.target.closest('.cp'); if(!el) return;
-  const it = ITEMS.find(x => x.id === el.dataset.id); if(!it) return;
+  const it = ITEMS.find(x => x.id === el.dataset.id); if(!it || locked(it)) return;
   const cs = codesOf(it);
   await copy((cs[+el.dataset.c]||{}).text || '');
   const o = el.textContent; el.textContent = '복사됨 ✓'; setTimeout(()=>el.textContent = o, 1200);

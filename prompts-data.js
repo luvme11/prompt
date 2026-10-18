@@ -2103,7 +2103,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvffrz.jpg?v=1792330712902",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdvflwr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gyaru, hime gyaru, full body, 1.3::from above, looking up::, standing, holding phone, selfie, decoden, pink cardigan, off shoulder, black crop top, leopard print skirt, loose socks, heart choker, chain necklace, pearl necklace, cross necklace, multiple hair clips, pink bow, large bow, sticker on face, long nails, nail art, sparkle, floating hearts, pink and white theme, indoors, pink interior, cafe, glint, light particles, lens flare, glowing, shiny,"
+    }
+   ],
+   "img": "img/comp/mvdvflwr.jpg?v=1792330720859",
+   "pos": "50.0% 12.0%"
   }
  ],
- "updatedAt": 1792330713336
+ "updatedAt": 1792330721288
 };

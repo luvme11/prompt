@@ -4080,7 +4080,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwtzxf.jpg?v=1792333072303",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvdwwnk6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, highly detailed anime illustration, mixed media character collage, dark Y2K punk aesthetic, 1.5::one large main character waist-up portrait::, 1.3::dynamic diagonal composition::, leaning toward viewer, head tilted, one hand reaching toward camera, oversized black leather jacket, layered distressed streetwear, multiple belts, silver chains, fingerless gloves, metallic accessories, 1.2::one tiny chibi illustration of the same character in the bottom corner::, miniature matching outfit, overlapping magazine cutouts, torn paper, graffiti stickers, chrome hearts, safety pins, barbed wire graphics, checkerboard patterns, metallic stars, bold typography, black and crimson color scheme, silver highlights, dramatic red rim lighting, bold expressive linework, rich painterly shading, dense decorative layout,"
+    }
+   ],
+   "img": "img/comp/mvdwwnk6.jpg?v=1792333195712",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792333072737
+ "updatedAt": 1792333196162
 };

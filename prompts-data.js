@@ -6328,7 +6328,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyvzou.jpg?v=1792336524108",
    "pos": "50.0% 40.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz13w9",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.2::cable knit sweater::, light yellow sweater, v neck, long sleeves, brown plaid skirt, mini skirt, brown hairband, white leg warmers, slouch socks, brown footwear, fur trim,"
+    }
+   ],
+   "img": "img/look/mvdz13w9.jpg?v=1792336762817",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336524744
+ "updatedAt": 1792336763593
 };

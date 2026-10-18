@@ -4704,7 +4704,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxbixv.jpg?v=1792333889687",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdxbp54",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "A dreamy, cinematic outdoor portrait in a lush green garden after the rain. The subject leans back slightly while holding a transparent umbrella covered in tiny raindrops, the umbrella tilted diagonally across the upper left of the frame. One hand grips the white umbrella handle near the lower right, creating a natural diagonal line across the composition. The head tilts gently backward, with the gaze directed toward the camera. A black backpack is partially visible behind the shoulder. Soft white water droplets and floating bokeh particles scatter across the foreground, creating a magical rain-suspended effect. Vertical portrait composition, slightly low camera angle, medium close-up, subject positioned left of center. Deep emerald-green foliage in the blurred background, cool blue clothing contrasting with pale skin tones, icy blue and mint-green color grading, soft overcast daylight, diffused highlights, shallow depth of field, delicate lens bloom, fresh post-rain atmosphere, ethereal and nostalgic mood, photorealistic editorial photography, subtle film grain, high detail."
+    }
+   ],
+   "img": "img/comp/mvdxbp54.jpg?v=1792333897690",
+   "pos": "50.0% 50.0%"
   }
  ],
- "updatedAt": 1792333890156
+ "updatedAt": 1792333898132
 };

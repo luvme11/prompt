@@ -4665,7 +4665,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxazc2.jpg?v=1792333864351",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdxb6cm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::solo::, 5::photocard, trading card frame, rounded corners::, 4::idol photocard style, upper body::, 3::heart hands, playful smile::, pastel gradient background, sparkle stickers, handwritten signature, glossy finish, masterpiece, very aesthetic"
+    }
+   ],
+   "img": "img/comp/mvdxb6cm.jpg?v=1792333873449",
+   "pos": "50.0% 36.0%"
   }
  ],
- "updatedAt": 1792333865441
+ "updatedAt": 1792333874230
 };

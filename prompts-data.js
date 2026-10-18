@@ -1960,7 +1960,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvcmrz.jpg?v=1792330581940",
    "pos": "80.0% 50.0%"
+  },
+  {
+   "id": "mvdvct5h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sticker, chibi inset, cherry red and ivory theme, firefighter, oversized turnout coat, fire helmet tilted, axe holster, flame pattern boots, hydrant bag charm, smoke detector earrings, dalmatian patch, emergency siren hair clip, oxygen mask around neck, caution tape bracelet, sparkle, 1.2::thick outline, sticker, outlined::, from above, lying on back, hugging fire extinguisher, one leg up, confident grin, winking, fire, smoke, caution tape, floating embers,"
+    }
+   ],
+   "img": "img/comp/mvdvct5h.jpg?v=1792330590292",
+   "pos": "82.2% 50.0%"
   }
  ],
- "updatedAt": 1792330582371
+ "updatedAt": 1792330590744
 };

@@ -6888,7 +6888,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz9vzq.jpg?v=1792337172508",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzui9w",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sailor shirt, short sleeves, white shirt, necktie, maxi skirt, black long skirt, multi belt, studded belt, chain, necklace, jewelry, platform heels,"
+    }
+   ],
+   "img": "img/look/mvdzui9w.jpg?v=1792338134809",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337477593
+ "updatedAt": 1792338135961
 };

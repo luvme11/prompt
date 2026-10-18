@@ -8089,7 +8089,7 @@ window.PROMPT_DATA = {
      "text": "1.3::film photography::, 1.2::grainy texture::, 1.3::santorini::, 1.2::white cave house::, 1.2::balcony::, 1.2::sea view::, 1.2::sitting on chair::, 1.2::holding coffee cup::, 1.3::looking at viewer::, 1.2::eye contact::, 1.3::soft smile::, 1.2::gentle expression::, 1.1::relaxed::, 1.2::from side::, 1.2::head tilt::,1.2::messy hair::, 1.3::white bathrobe::, 1.1::open robe::, 1.1::wedding ring::, outdoors, 1.3::morning light::, 1.2::soft sunlight::, 1.2::calm sea::, bright, airy, 1.2::candid::, honeymoon,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve30r0p.jpg?v=1792343615153",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8122,5 +8122,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792343574344
+ "updatedAt": 1792343616240
 };

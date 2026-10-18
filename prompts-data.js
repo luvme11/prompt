@@ -2285,7 +2285,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvjqez.jpg?v=1792330913254",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdvjzoe",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, walking, looking back, subway station, underwater, submerged, train, coral, sea fan, tropical fish, school of fish, manta ray, jellyfish, sign, mosaic, tile, wall, cracked, rust, handrail, vending machine, fluorescent lighting, caustics, air bubble, ocean, ruins, blue theme, pink theme, green theme, white theme, brown theme, cyan,"
+    }
+   ],
+   "img": "img/comp/mvdvjzoe.jpg?v=1792330925416",
+   "pos": "50.0% 40.0%"
   }
  ],
- "updatedAt": 1792330913770
+ "updatedAt": 1792330925847
 };

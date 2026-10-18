@@ -45,7 +45,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, sitting, sitting on floor, legs crossed, knees bent, looking at viewer, resting chin on hands, gentle smile, braided hair, flower hair ornaments, floral headpiece, frilled dress, pastel dress, puff sleeves, layered skirt, ruffles, lace, bows, ribbons, waist belt, frilled ankle socks, mary janes, tea party, teapot, teacups, tiered dessert stand, macarons, cakes, strawberries, pastries, plush toy, pastel background, flowers, clouds, rainbow, sparkles, dreamy atmosphere, whimsical, soft lighting, cute aesthetic"
     }
    ],
-   "img": "img/comp/mvdsptuk.jpg?v=1792326158913"
+   "img": "img/comp/mvdsptuk.jpg?v=1792326158913",
+   "pos": "68.0% 50.0%"
   },
   {
    "id": "mvdsq1et",
@@ -60,5 +61,5 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvdsq1et.jpg?v=1792326168845"
   }
  ],
- "updatedAt": 1792326954532
+ "updatedAt": 1792326958075
 };

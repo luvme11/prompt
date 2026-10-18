@@ -4145,7 +4145,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwxff7.jpg?v=1792333231988",
    "pos": "50.0% 54.0%"
+  },
+  {
+   "id": "mvdwxmlq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "japanese home entrance, genkan, inside the house, indoor entrance hall, single entrance door, one front door, closed front door, door completely closed, dry indoor environment, extremely soaking wet, completely drenched, thoroughly soaked, dripping wet appearance, heavily soaked hair, completely wet hair, waterlogged hair, wet hair clinging tightly to the face and neck, soaked hair strands sticking together, dripping wet hair, heavily soaked clothes, completely drenched clothing, waterlogged fabric, wet fabric clinging to the body, visibly saturated clothing, heavy water droplets covering the hair and clothes, water dripping from hair, water dripping from clothing, wet skin, soaked from head to toe, sheepish grin, goofy smile, slightly embarrassed smile,"
+    }
+   ],
+   "img": "img/comp/mvdwxmlq.jpg?v=1792333241371",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792333232469
+ "updatedAt": 1792333241842
 };

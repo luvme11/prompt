@@ -1456,7 +1456,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdut08d.jpg?v=1792329666383",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdutrbm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "smile, 1::standing on ship deck::, 2::looking at viewer::, 1::full body::, ocean background, blue sky, clear weather, lens flare, railing, mast, nautical setting, outdoors,"
+    },
+    {
+     "label": "의상",
+     "text": "1::military salute::, arm at side, standing, 1::white navy uniform::, military uniform,::, peaked cap, double breasted, white gloves, white trousers, gold buttons,"
+    }
+   ],
+   "img": "img/comp/mvdutrbm.jpg?v=1792329701705",
+   "pos": "46.2% 50.0%"
   }
  ],
- "updatedAt": 1792329666815
+ "updatedAt": 1792329702153
 };

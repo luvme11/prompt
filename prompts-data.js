@@ -7518,7 +7518,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0bl73.jpg?v=1792338931781",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0bvbi",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kawaii, balletcore, gray jersey, cherry print jersey, long sleeves, zipper, 2::sky blue checkered collar, sky blue checkered sleeves cuffs::, white layered skirt, miniskirt,\n\n2::white polka dot skirt::, -1::tutu::, gray leggings, white leg warmers, silver ballet slippers, pointe shoes,"
+    }
+   ],
+   "img": "img/look/mve0bvbi.jpg?v=1792338944505",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338932236
+ "updatedAt": 1792338945132
 };

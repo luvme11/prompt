@@ -1546,7 +1546,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduv445.jpg?v=1792329764920",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvduv9yj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking up, from above, wide shot, high angle, 2::bird's eye view::, 1::sitting in bathtub::, 1::milky water::, 1::strawberry in mouth::, holding strawberry, floating strawberries, eating, looking at viewer, wet hair, indoors, bathroom, strawberry bikini,"
+    }
+   ],
+   "img": "img/comp/mvduv9yj.jpg?v=1792329772855",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792329765351
+ "updatedAt": 1792329773771
 };

@@ -2493,7 +2493,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvplm2.jpg?v=1792331187333",
    "pos": "64.7% 50.0%"
+  },
+  {
+   "id": "mvdvptom",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from side, leaning forward, leaning on railing, arms on railing, looking afar, goggles on head, dirty face, soot, sleeves rolled up, vest, pocket watch, apron, leather, tool belt, wrench, gears, steam, pipes, gauge, boiler, furnace, orange glow, glowing, sparks, bridge, brick wall, smokestack, smoke, overcast, cloudy, industrial, city, factory, gaslight, wet, cobblestone road, puddle, reflection, rain, fog, dawn, railroad tracks, steam locomotive, train,"
+    }
+   ],
+   "img": "img/comp/mvdvptom.jpg?v=1792331197485",
+   "pos": "33.6% 50.0%"
   }
  ],
- "updatedAt": 1792331187775
+ "updatedAt": 1792331198113
 };

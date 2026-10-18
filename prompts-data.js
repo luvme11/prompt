@@ -1250,7 +1250,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdunt6u.jpg?v=1792329424200",
    "pos": "50.0% 8.0%"
+  },
+  {
+   "id": "mvduo3nj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "palace ballroom, golden curtains, crystal chandelier, sunlight filtering, flower petals, sparkles, regal atmosphere, elegant, portrait,"
+    },
+    {
+     "label": "의상",
+     "text": "white military uniform, high collar, gold epaulettes, medals on chest, golden buttons, white gloves, saber at waist,"
+    }
+   ],
+   "img": "img/comp/mvduo3nj.jpg?v=1792329437390",
+   "pos": "50.0% 2.0%"
   }
  ],
- "updatedAt": 1792329424638
+ "updatedAt": 1792329437819
 };

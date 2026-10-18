@@ -3307,7 +3307,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw87m6.jpg?v=1792332055300",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdw8dx4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Pink Y2K bedroom computer setup, cute girl sitting in front of a large CRT monitor, pink computer tower, vintage keyboard and mouse, multiple retro windows open on the screen, black and pink fashion, short black hoodie, pink pleated skirt, striped socks, chunky shoes, headphones around her neck, sitting sideways on a desk chair, one hand resting on the keyboard, sleepy expression, pink neon desk lamp, plush toys and CDs scattered around, pixel hearts and stars, retro internet graphics, nostalgic 2000s cyber kawaii bedroom,"
+    }
+   ],
+   "img": "img/comp/mvdw8dx4.jpg?v=1792332063687",
+   "pos": "34.2% 50.0%"
   }
  ],
- "updatedAt": 1792332055755
+ "updatedAt": 1792332064136
 };

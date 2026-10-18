@@ -4508,7 +4508,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx3jnl.jpg?v=1792333517209",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdx418m",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::blowing bubbles,  bubbles::, holding bubble wand, sitting, sitting on wall, seaside, ocean, horizon, blue sky, cumulus clouds, road sign, speed limit sign, sunny day, summer, outdoors, white dress"
+    }
+   ],
+   "img": "img/comp/mvdx418m.jpg?v=1792333540332",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792333517661
+ "updatedAt": 1792333540952
 };

@@ -5085,7 +5085,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxknb6.jpg?v=1792334315063",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdxkta2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black-and-white manga page, monochrome, greyscale, ink, screentone, hatching, detailed linework, two panels, panel overlap, breaking the panel border,\n\nA black-and-white seinen manga page with two overlapping panels, the same character in both.\n\nOn the left, breaking out of the panel border with no frame around them, the character is drawn full-figure, crouching on the floor barefoot with one knee raised, one forearm resting on the knee and the back of that hand pressed against their mouth. They wear a sleeveless knit top and loose, wide black trousers filled in solid ink. Their eyes are narrowed and tired, looking off to the side.\n\nOn the right, a large rectangular panel overlaps behind the left figure, showing an extreme close-up of the same character's face. One hand presses against their forehead, eyes half-closed and heavy with exhaustion, brows slightly furrowed. A cigarette hangs from their lips, and their other hand raises a lighter toward it, about to light it.\n\nFine, sharp pen linework, cross-hatching for shadows on the face and arms, solid black ink fills on the trousers and dark areas, and subtle dot screentone in the background. Pure white paper, no color at all. Mature, weary, cinematic manga mood."
+    }
+   ],
+   "img": "img/comp/mvdxkta2.jpg?v=1792334323116",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792334316138
+ "updatedAt": 1792334324195
 };

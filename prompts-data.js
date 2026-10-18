@@ -4008,7 +4008,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwsg6e.jpg?v=1792332999612",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdwsrkn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "cluttered messy classroom, graffiti on wall, banner flags, sticker covered desk, scattered papers, overturned chairs, neon pink and cyan lighting, kitsch, vivid gradient, chromatic aberration, glowing outlines, from above, high angle, sitting on desk, knees up, 2::holding lollipop::, holding lollipop in hand, hand near face, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "oversized cardigan, gingham shirt, large ribbon bow, plaid skirt, loose socks, sneakers, school uniform,"
+    }
+   ],
+   "img": "img/comp/mvdwsrkn.jpg?v=1792333014416",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792333000201
+ "updatedAt": 1792333015039
 };

@@ -8131,7 +8131,7 @@ window.PROMPT_DATA = {
      "text": "playful smile, teeth, wink, tongue out, cheerful expression, looking at viewer, \nhead tilt, peace sign, hand near face, playful pose, leaning forward, dynamic pose, \nfrom above, upper body, selfie angle,y2k fashion, plaid mini skirt, cropped cardigan, crop top, low-rise skirt, \nmidriff, hair clips, butterfly hair clips, hoop earrings, layered necklace, \ntinted sunglasses on head, shoulder bag, arm warmers,pink background, heart decorations, sticker decorations, \nflash photography, candid, y2k aesthetic, playful atmosphere"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve38tuk.jpg?v=1792343967670",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8192,5 +8192,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792343932804
+ "updatedAt": 1792343968147
 };

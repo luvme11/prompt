@@ -1533,7 +1533,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduuyp2.jpg?v=1792329757527",
    "pos": "50.0% 42.0%"
+  },
+  {
+   "id": "mvduv445",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "opening door, front door, doorway, entrance, hallway, inside, welcome home, standing in doorway, light from indoors, house interior background, leaning on door frame, waving hand, apron"
+    }
+   ],
+   "img": "img/comp/mvduv445.jpg?v=1792329764920",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792329758002
+ "updatedAt": 1792329765351
 };

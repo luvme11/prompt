@@ -6118,7 +6118,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdysgm6.jpg?v=1792336359403",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvdysymh",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::oversized track jacket::, color block jacket, white and pink jacket, purple ruffled mini skirt, polka dot skirt, grey leggings, leg warmers, ruffled leg warmers, shoulder bag, star print bag, striped strap, hair clip, cat hair ornament,"
+    }
+   ],
+   "img": "img/look/mvdysymh.jpg?v=1792336382567",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336360034
+ "updatedAt": 1792336383493
 };

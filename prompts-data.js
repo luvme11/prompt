@@ -7179,10 +7179,10 @@ window.PROMPT_DATA = {
      "text": "white t-shirt, short sleeves, polka dot shirt, grey pleated skirt, red glasses, backpack, blue backpack, wing backpack, bunny plush, holding plush, grey shoes, platform shoes,"
     }
    ],
-   "img": "img/look/mve02gx5.jpg?v=1792338505970",
+   "img": "img/look/mve02gx5.jpg?v=1792338518081",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792338506583
+ "updatedAt": 1792338518675
 };

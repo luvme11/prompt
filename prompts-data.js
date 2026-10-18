@@ -978,7 +978,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduiq73.jpg?v=1792329186852",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvduiw4z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, physical magical girl, combat-ready magical girl dress, torn and detailed purple outfit, practical but stylized, holding a gigantic crystal hammer, ready to strike, intense determination expression, dynamic action pose, earth-shattering impact effect, scattered rock fragments with glowing energy, dust and debris particles, urban battlefield background, ruined city at night, dramatic rim lighting, cinematic composition, intense atmosphere, masterpiece, best quality,"
+    }
+   ],
+   "img": "img/comp/mvduiw4z.jpg?v=1792329194405",
+   "pos": "65.8% 50.0%"
   }
  ],
- "updatedAt": 1792329187273
+ "updatedAt": 1792329194997
 };

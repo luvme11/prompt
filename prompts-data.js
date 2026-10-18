@@ -1362,7 +1362,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdur8sj.jpg?v=1792329584067",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdurks5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "holding cake, candle in mouth, birthday girl, sitting, looking at viewer, cool expression, female focus, solo, 1::birthday party::, 1::silver balloon letters::,  indoor, dimly lit, warm lighting, flash photography style, black strapless top, tube top, mini tiara,"
+    }
+   ],
+   "img": "img/comp/mvdurks5.jpg?v=1792329599992",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792329584537
+ "updatedAt": 1792329600573
 };

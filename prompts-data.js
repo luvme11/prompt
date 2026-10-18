@@ -3056,7 +3056,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdw2scz.jpg?v=1792331802516",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvdw3cpn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, large instant photograph, oversized polaroid frame, 1.4::high angle::, from above, looking up at viewer, diagonal composition, upper body, body turned sideways, curled posture, hunched shoulders, head tilted back slightly, half-lidded eyes, uneasy gaze, flushed cheeks, parted lips, vulnerable expression, wrists bound together with thin vivid hot pink satin ribbon, ribbon wrapped around wrists and forearms, tangled pink ribbon, loose ribbon crossing body, trailing ribbon extending outside photograph, hands raised near face, asymmetrical pose, obsessive love, possessive yandere aesthetic, direct camera flash, pale flash-lit skin, dim blue-gray shadows, deep magenta shadows, underexposed, low-key lighting, hot pink reflected light, muted inner photograph, vivid hot pink accents, charcoal black, pale gray, large pale gray polaroid border, dark textured paper background, asymmetrical editorial collage, large outer margins, 1.4::fashion magazine typography::, oversized serif typography, vertical typography, small printed captions, cropped typography, 1.4::hot pink lipstick writing scrawled across photograph::, handwritten \"MINE\", handwritten \"LOVE\", handwritten \"ONLY YOU\", repeated \"MINE\", large messy cursive writing, obsessive handwritten notes, repeated lipstick-drawn hearts, overlapping rough heart outlines, heart enclosing character's face, 1.4::vivid pink lipstick kiss prints::, multiple lipstick kiss marks around face and photo border, smeared lipstick, lipstick fingerprints, pink lipstick streaks, crossed-out writing, sweeping hot pink handwritten strokes, handwriting extending outside photograph, writing overlapping character and photo border, torn paper labels, hot pink tape with handwriting, layered printed paper, mixed media print collage, dark romantic fashion zine, obsessive love letter aesthetic, scanned print, distressed paper texture, fine film grain, dust, scratches, faded ink, matte finish, very aesthetic, masterpiece, teXt: MINE LOVE ONLY YOU MINE"
+    }
+   ],
+   "img": "img/comp/mvdw3cpn.jpg?v=1792331828822",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792331803274
+ "updatedAt": 1792331829582
 };

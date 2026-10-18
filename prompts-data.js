@@ -3491,7 +3491,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwef70.jpg?v=1792332345233",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdwet85",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "engawa, japanese house, sunflowers, shaved ice, ramune bottle, electric fan, summer, sunny sky, dutch angle, sitting, leaning back, holding spoon, open mouth, happy, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "mint off-shoulder crop top, floral lace, frilled top, denim shorts, lace hem, sandals,"
+    }
+   ],
+   "img": "img/comp/mvdwet85.jpg?v=1792332363371",
+   "pos": "71.2% 50.0%"
   }
  ],
- "updatedAt": 1792332346141
+ "updatedAt": 1792332363967
 };

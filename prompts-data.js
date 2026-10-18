@@ -7546,7 +7546,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0c0ue.jpg?v=1792338951726",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0c6ir",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kawaii, balletcore, lavender crop top, fitted crop top, long sleeves, low neckline, 2::lavender ribbon decorated crop top, lace-up crop top::, collarbone, layered shirt, gray tank top, long tank top, dark gray skirt, flared skirt, miniskirt, white leg warmers, black loafers,"
+    }
+   ],
+   "img": "img/look/mve0c6ir.jpg?v=1792338959153",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338952199
+ "updatedAt": 1792338959630
 };

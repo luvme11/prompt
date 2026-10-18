@@ -6790,7 +6790,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz8k9y.jpg?v=1792337110696",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz8r4d",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "classic lolita, winter clothes, 1.5::capelet::, fur collar, brown cape, bow, white blouse, high neck, long sleeves, 1.2::underbust corset, vest, lace-up torso, plaid skirt,:: tartan, layered skirt, frilled skirt, beige underskirt, knee boots, brown footwear, hat, fur hat"
+    }
+   ],
+   "img": "img/look/mvdz8r4d.jpg?v=1792337119440",
+   "pos": "50.0% 36.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792337111298
+ "updatedAt": 1792337120543
 };

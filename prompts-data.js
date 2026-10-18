@@ -8145,7 +8145,7 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, 1.3::bright colorful qing dynasty princess winter outfit::, 1.2::pink and white fur-trimmed embroidered silk robe::, 1.2::soft fluffy fur trim::, floral embroidery, flowing sleeves, 1.2::cute chinese hair ornaments::, flower hairpins, tassels, 1.3::playing in the snow::, 1.2::tossing snow up with both hands::, catching snowflakes, 1.3::joyful excited expression::, bright laughing smile, sparkling happy eyes, 1.3::snowy imperial garden::, plum blossoms in snow, 1.2::falling snowflakes sparkling::, red lanterns, pavilion, soft winter sunlight, cheerful lively atmosphere, detailed background, depth of field, masterpiece, best quality, very aesthetic"
     }
    ],
-   "img": "",
+   "img": "img/comp/mve395c1.jpg?v=1792343980652",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8192,5 +8192,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792343968147
+ "updatedAt": 1792343981909
 };

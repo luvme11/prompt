@@ -7182,7 +7182,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve02gx5.jpg?v=1792338518081",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve02wg6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "shark hood, shark tail, blue shrug jersey, long sleeves, -1::jumpsuit::, layered clothes, 2::see-through leotard, heart cutout on stomach::, sky blue leotard, 2::sky blue string panties::, barefoot,"
+    }
+   ],
+   "img": "img/look/mve02wg6.jpg?v=1792338526025",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338518675
+ "updatedAt": 1792338526478
 };

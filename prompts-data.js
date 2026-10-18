@@ -5252,7 +5252,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxpqh0.jpg?v=1792334552741",
    "pos": "50.0% 4.0%"
+  },
+  {
+   "id": "mvdxqaif",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1 person, side view, sitting, elegant seated pose, flower-patterned lantern, holding a glowing paper lantern, one hand gently holding the lantern handle, other hand resting against cheek, looking softly at the lantern, calm expression, outdoor, graceful posture, traditional korean garden, stone pathway, rocks, wooden fence, nighttime, traditional korean courtyard, light pink lighting, golden amber glow, deep shadows, soft cinematic lighting, rich warm color harmony, peaceful atmosphere, dreamy mood, shallow depth of field, bokeh, editorial photography, cinematic composition"
+    },
+    {
+     "label": "남자 의상",
+     "text": "black hanbok robe, black silk outer robe, gold floral embroidery, wide sleeves, deep V-neck, partially open chest, loose fit, flowing silhouette, luxurious silk fabric, traditional korean aesthetic,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "traditional hanbok, soft blush pink jeogori, white collar, voluminous pastel pink organza chima, layered translucent skirt, flowing silhouette, delicate floral norigae, elegant korean traditional attire,"
+    }
+   ],
+   "img": "img/comp/mvdxqaif.jpg?v=1792334578714",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792334553506
+ "updatedAt": 1792334579167
 };

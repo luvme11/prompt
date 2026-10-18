@@ -3881,7 +3881,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwoxxh.jpg?v=1792332836190",
    "pos": "50.0% 18.0%"
+  },
+  {
+   "id": "mvdwpe1c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "purple sky, cloudy sky, pink clouds, glowing ghost, floating spirits, sparkles, low angle, from below, looking at viewer, holding scythe, weapon,"
+    },
+    {
+     "label": "의상",
+     "text": "black dress, black hood, capelet, lace trim, corset, sheer skirt, bat wings, garter belt, thigh strap,"
+    }
+   ],
+   "img": "img/comp/mvdwpe1c.jpg?v=1792332856956",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792332836625
+ "updatedAt": 1792332857883
 };

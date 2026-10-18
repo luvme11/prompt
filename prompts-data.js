@@ -4240,7 +4240,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwz4nz.jpg?v=1792333311427",
    "pos": "50.0% 100.0%"
+  },
+  {
+   "id": "mvdwzlyz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "duo, hug from behind, sitting between legs, cowboy shot, 1.4::snowing, falling snow, blizzard, heavy snow::, snow on branches, snow-covered tree, winter, outdoors, snow background"
+    },
+    {
+     "label": "남자 의상",
+     "text": "closed eyes, grin, black coat, striped scarf, shared scarf, arms around waist, hand on another's hand,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "blush, looking at viewer, covered mouth, knees up, black coat, striped scarf, shared scarf, sleeves past wrists, earmuffs, white thighhighs, lace-up boots, holding snowman, mini snowman, snowman on hand"
+    }
+   ],
+   "img": "img/comp/mvdwzlyz.jpg?v=1792333333746",
+   "pos": "50.0% 38.0%"
   }
  ],
- "updatedAt": 1792333312028
+ "updatedAt": 1792333334365
 };

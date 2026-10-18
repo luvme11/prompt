@@ -1375,7 +1375,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdurks5.jpg?v=1792329599992",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdurwk1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo, standing, walking, 1::shibuya::, urban background, city street, neon lights, night, depth of field, from above, fisheye Lens,"
+    },
+    {
+     "label": "의상",
+     "text": "1::white leopard print jumpsuit::, 1::full length white leopard print leggings::,  white fur trim, white faux fur waist wrap, 1::white fur leg warmers::, white boots, choker, earrings,"
+    }
+   ],
+   "img": "img/comp/mvdurwk1.jpg?v=1792329614839",
+   "pos": "50.0% 32.0%"
   }
  ],
- "updatedAt": 1792329600573
+ "updatedAt": 1792329615283
 };

@@ -2012,7 +2012,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvde33.jpg?v=1792330617415",
    "pos": "52.2% 50.0%"
+  },
+  {
+   "id": "mvdve26b",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "angel, full body, from below, flying, midair, spread wings, large wings, looking down, looking at viewer, arms spread out, wind, wind lift, blue sky, clouds, backlighting, sunlight, lens flare, falling feathers, light particles, halo, white flowing dress, barefoot, dove, multiple birds, bird flying,"
+    }
+   ],
+   "img": "img/comp/mvdve26b.jpg?v=1792330648717",
+   "pos": "50.0% 84.0%"
   }
  ],
- "updatedAt": 1792330617846
+ "updatedAt": 1792330649953
 };

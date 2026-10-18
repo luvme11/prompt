@@ -7406,7 +7406,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve07au2.jpg?v=1792338731684",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve07h55",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "harajuku fashion, kawaii, y2k fashion, 1.4::white frilled shirt, off shoulder::, long sleeves, lace trim, frilled sleeves, 3: untucked top::, silver cross necklace, frilled skirt, layered skirt, tiered skirt, ruffled skirt, gray skirt, white thighhighs, white leg warmers, slouchy leg warmers, platform shoes, chunky shoes, black shoes,"
+    }
+   ],
+   "img": "img/look/mve07h55.jpg?v=1792338739637",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338732157
+ "updatedAt": 1792338740089
 };

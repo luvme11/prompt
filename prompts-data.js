@@ -6636,7 +6636,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz5o3g.jpg?v=1792336975696",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz5u7e",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black military uniform, white dress shirt, collar chain, black short necktie, juliet sleeves, frilled cuff, black corset bodice, black pleated skirt, frilled underskirt, gothic dress, gold trim,"
+    }
+   ],
+   "img": "img/look/mvdz5u7e.jpg?v=1792336983662",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336976625
+ "updatedAt": 1792336984279
 };

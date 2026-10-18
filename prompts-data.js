@@ -1520,7 +1520,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduulgj.jpg?v=1792329740560",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvduuyp2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo, hand on face, holding face, face grab, touching face, hand on cheek, close-up, intimate, skin contact,"
+    }
+   ],
+   "img": "img/comp/mvduuyp2.jpg?v=1792329757527",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792329749194
+ "updatedAt": 1792329758002
 };

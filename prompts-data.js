@@ -5072,7 +5072,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxkhnu.jpg?v=1792334307931",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdxknb6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, cowboy shot, slightly from side, looking back, looking at viewer, over shoulder, head tilt, standing, hand on hip, wide sleeve covering hand,\n\n2.3::chinese style black cropped jacket::, long sleeves, oversized wide sleeves, drooping sleeves, structured shoulders, stand collar, mandarin collar, lace trim on collar, floral lace collar, black binding trim, 2.2::asymmetrical backless cutout::, open back, shoulder cutout, keyhole cutout, bare shoulder blades, exposed back,\n\n2.2::white satin inner tunic::, glossy silk fabric, shiny fabric, wrinkled fabric, sleeveless, v-shaped back cutout, thin straps, long tunic length, side slit,\n\n2.0::wide black obi-style belt with floral embroidery::, white flower pattern, lotus pattern, floral brocade, 2.2::black trousers with butt crack cutout::, heavily cutout, lotus embroidery on hem, floral lace hem,\n\npearl earring, jade green tassel, ear stud, jewelry, {simple background, clear red background}"
+    }
+   ],
+   "img": "img/comp/mvdxknb6.jpg?v=1792334315063",
+   "pos": "50.0% 18.0%"
   }
  ],
- "updatedAt": 1792334309027
+ "updatedAt": 1792334316138
 };

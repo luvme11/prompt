@@ -2454,7 +2454,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvp340.jpg?v=1792331163438",
    "pos": "37.5% 50.0%"
+  },
+  {
+   "id": "mvdvp9gm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, dutch angle, walking, tiptoes, wobbling, holding tray, tray, stacked cups, balancing, nervous, smile, sweat drop, indoors, cafe, cat cafe, apron, waitress, cat ears, headband, paw print name tag, fish shaped keychain, milk bottle earrings, yarn ball bracelet, pencil behind ear, sleeves rolled up, denim, loafers, cat paw, coffee bean, latte art, fish bone, ball of yarn, menu board, yellow theme, brown theme,"
+    }
+   ],
+   "img": "img/comp/mvdvp9gm.jpg?v=1792331171318",
+   "pos": "50.0% 20.0%"
   }
  ],
- "updatedAt": 1792331163886
+ "updatedAt": 1792331171940
 };

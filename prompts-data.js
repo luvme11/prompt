@@ -203,7 +203,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtdklq.jpg?v=1792327266794",
    "pos": "26.0% 50.0%"
+  },
+  {
+   "id": "mvdtdqmx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, lying, on back, from side, parted lips, fang, hair ribbon, hairband, cross hair ornament, leaf hair ornament, gold leaf, hair spread out, holding apple, apple, arms up, elbow gloves, white gloves, white dress, frilled dress, detached sleeves, wide sleeves, bow, red strap, belt, gem, white rose, flower bed, rose petals, petals, red ribbon, butterfly, white theme, red accent"
+    }
+   ],
+   "img": "img/comp/mvdtdqmx.jpg?v=1792327274548",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792327267227
+ "updatedAt": 1792327274993
 };

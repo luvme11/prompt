@@ -5098,7 +5098,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxkta2.jpg?v=1792334323116",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdxl92u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "vertical portrait, full-body, slightly high-angle three-quarter shot, subject in a deep squat angled toward camera, one elbow resting on knee with hand held at the side of the head, other arm stretched diagonally down across the knee with relaxed dangling hand, head slightly tilted, direct gaze at camera, diagonal composition, urban rooftop, cracked weathered concrete floor, off-white stained parapet walls with soot-darkened base, thin metal railing and wire running along the top, distant apartment buildings, pale hazy overcast sky, soft natural daylight, slightly faded film tone, small object on the floor at right edge,"
+    },
+    {
+     "label": "의상",
+     "text": "fitted heather-gray short-sleeve scoop-neck tee with distressed black block-letter graphic print, faded blue frayed denim cutoff shorts, white studded belt, white crew socks with two black stripes, black canvas high-top sneakers with white rubber toe caps and white laces, thin black cord necklace, thin gold rings"
+    }
+   ],
+   "img": "img/comp/mvdxl92u.jpg?v=1792334343535",
+   "pos": "50.0% 16.0%"
   }
  ],
- "updatedAt": 1792334324195
+ "updatedAt": 1792334343979
 };

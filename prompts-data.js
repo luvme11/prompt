@@ -7952,7 +7952,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0kzwr.jpg?v=1792339370509",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0l6qf",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pale green zip-up hoodie, short puff sleeves, kangaroo pockets, dark gray and black striped long-sleeved undershirt, brown denim mini shorts, white star-patterned leggings, brown star prints, beige slouchy leg warmers, pink slip-on loafers, panda-shaped crossbody bag, small green clover detail on panda bag,"
+    }
+   ],
+   "img": "img/look/mve0l6qf.jpg?v=1792339379208",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339371292
+ "updatedAt": 1792339379690
 };

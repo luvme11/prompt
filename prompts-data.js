@@ -1973,7 +1973,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvct5h.jpg?v=1792330590292",
    "pos": "82.2% 50.0%"
+  },
+  {
+   "id": "mvdvcz3z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sticker, chibi inset, cobalt and white theme, painter, 1.2::thick outline, sticker, outlined::, beret, oversized smock, paint-stained clothes, suspenders, boots, brush in hair, from above, sitting on ground, holding paintbrush, painting on ground, focused expression, 1.5::paint splatter::, 1.3::ink splatter, blue paint::, palette, canvas, blue background, border,"
+    }
+   ],
+   "img": "img/comp/mvdvcz3z.jpg?v=1792330598184",
+   "pos": "70.7% 50.0%"
   }
  ],
- "updatedAt": 1792330590744
+ "updatedAt": 1792330598631
 };

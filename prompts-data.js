@@ -2064,7 +2064,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvexpf.jpg?v=1792330689453",
    "pos": "50.0% 60.0%"
+  },
+  {
+   "id": "mvdvf3pv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from front, sitting on floor, looking at viewer, abandoned operating room, overgrown, vines, flowers growing through floor, cracked tiles, rusted gurney, scattered surgical tools, IV stand, old monitor, broken window, sunbeam through window, butterfly, dust, sterile green and rust orange theme, warm golden light,"
+    }
+   ],
+   "img": "img/comp/mvdvf3pv.jpg?v=1792330697506",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330690209
+ "updatedAt": 1792330698272
 };

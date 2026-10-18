@@ -5728,7 +5728,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": true
+  },
+  {
+   "id": "mvdyf6mi",
+   "tab": "base",
+   "name": "",
+   "codes": [
+    {
+     "label": "시트",
+     "text": "character reference sheet composition, full body character in the foreground, sharp and detailed main character, large faded portrait of the same character in the background, oversized semi-transparent character illustration on the right side, ghosted character overlay, low opacity background portrait, softly faded colors, washed-out background figure, subtle transparency effect, layered character composition, white background, clean character showcase layout,"
+    }
+   ],
+   "img": "img/base/mvdyf6mi.jpg?v=1792335739810",
+   "pos": "50.0% 26.0%",
+   "soon": true
   }
  ],
- "updatedAt": 1792335728155
+ "updatedAt": 1792335740270
 };

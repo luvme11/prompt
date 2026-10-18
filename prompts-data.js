@@ -2207,7 +2207,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvibai.jpg?v=1792330847246",
    "pos": "34.7% 50.0%"
+  },
+  {
+   "id": "mvdvii0o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from above, three-quarter view, looking at viewer, sitting, partially submerged, knees up, legs together, tidepool, shallow water, wet, rock, sea glass, hermit crab, starfish, seaweed, sand dollar, seashell, pebble, reflection, ripple, iridescent, crystal, green theme, grey theme, pink theme,"
+    }
+   ],
+   "img": "img/comp/mvdvii0o.jpg?v=1792330855898",
+   "pos": "70.7% 50.0%"
   }
  ],
- "updatedAt": 1792330848186
+ "updatedAt": 1792330856326
 };

@@ -466,7 +466,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdts7tq.jpg?v=1792327949959",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdtskah",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "opulent golden lighting, sparkling bokeh particles, lavish stage-like indoor setting, vibrant red–gold palette, luxurious ornate atmosphere, cinematic close-up angle, mystical dancer ambience, seated dancer pose, elegant upper-body framing, one hand lifted gracefully toward the lips, expressive and alluring gesture, head slightly bowed forward, long beaded veil flowing around the shoulders, subtle performance-like posture,"
+    },
+    {
+     "label": "의상",
+     "text": "extravagant dancer costume, jewel-encrusted ornaments, richly embroidered red fabric, shimmering gold patterns, layered metallic jewelry, elaborate gem headpiece, cascading beaded veil, ornate arm bangles and wrist cuffs, decorative waist accessories"
+    }
+   ],
+   "img": "img/comp/mvdtskah.jpg?v=1792327966285",
+   "pos": "50.0% 50.0%"
   }
  ],
- "updatedAt": 1792327950392
+ "updatedAt": 1792327966716
 };

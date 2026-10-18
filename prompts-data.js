@@ -991,7 +991,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduiw4z.jpg?v=1792329194405",
    "pos": "65.8% 50.0%"
+  },
+  {
+   "id": "mvduj23r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, cyber magical girl, mecha musume elements, futuristic magical girl dress, glowing neon accents, holographic magic circle, digital floating runes, high-tech glowing wand, translucent energy wings, glowing visor, chromatic aberration, floating data fragments, night cyberpunk city background, towering skyscrapers with neon signs, dynamic angle, vibrant cyan and magenta lighting, sharp focus, anime illustration, masterpiece, best quality"
+    }
+   ],
+   "img": "img/comp/mvduj23r.jpg?v=1792329202246",
+   "pos": "50.0% 24.0%"
   }
  ],
- "updatedAt": 1792329194997
+ "updatedAt": 1792329202834
 };

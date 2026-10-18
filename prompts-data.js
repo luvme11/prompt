@@ -5020,7 +5020,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxjdso.jpg?v=1792334256312",
    "pos": "50.0% 74.0%"
+  },
+  {
+   "id": "mvdxjjcu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, front view, close-up, 3::white snake coiling around body::, 3::large white serpent wrapping around character::, 3::snake tightly constricting chest::, smooth white scales, red eyes, 2::scales pressing into skin::, skin indentation, 2::snake head resting on shoulder::, 2::snake face beside character face::, 2::forked tongue out::, 2::snake tongue flickering::, bare upper body, robe falling off shoulders, robe draped at waist, 2::pale white glow where snake touches skin::, 2::glowing white markings spreading on body::, silver particles floating, white embers, dark background, single shaft of moonlight, self-sacrifice, divine suffering, traditional media"
+    }
+   ],
+   "img": "img/comp/mvdxjjcu.jpg?v=1792334263537",
+   "pos": "50.0% 40.0%"
   }
  ],
- "updatedAt": 1792334256777
+ "updatedAt": 1792334263981
 };

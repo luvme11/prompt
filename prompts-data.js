@@ -1310,7 +1310,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvduos2h.jpg?v=1792329469316",
    "pos": "50.0% 30.0%"
+  },
+  {
+   "id": "mvduoymd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1::sitting on edge::, sitting on balcony, high place, 1::smoking::, holding cigarette, cigarette smoke, profile, looking away, side view, 1::cityscape::, urban, night, buildings, city lights, skyscrapers, 1::blue theme::, orange lighting, warm glow, dusk, twilight, moody, cinematic lighting,"
+    }
+   ],
+   "img": "img/comp/mvduoymd.jpg?v=1792329477806",
+   "pos": "68.0% 50.0%"
   }
  ],
- "updatedAt": 1792329469909
+ "updatedAt": 1792329478256
 };

@@ -2441,7 +2441,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvowwf.jpg?v=1792331154974",
    "pos": "66.4% 50.0%"
+  },
+  {
+   "id": "mvdvp340",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, from side, jumping, mid-air, holding umbrella, open umbrella, under umbrella, looking at viewer, head turned, floating clothes, skirt flip, floating hair, hair flying, shocked, wide eyes, open mouth, blazer, pencil skirt, blouse, ribbon, clip, brooch, sun, earrings, cloud, anklet, raindrop, hairpin, umbrella, high heels, wedge, wind, lightning, rain, snowflake, spiral, rainbow, weather vane,"
+    }
+   ],
+   "img": "img/comp/mvdvp340.jpg?v=1792331163438",
+   "pos": "37.5% 50.0%"
   }
  ],
- "updatedAt": 1792331155736
+ "updatedAt": 1792331163886
 };

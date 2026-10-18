@@ -2766,7 +2766,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvuhzn.jpg?v=1792331415752",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdvuol6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from below, wide shot, scenery, sitting, crossed legs, sitting on branch, power lines, bare tree, branch, twig, blue sky, blue background, day, bird, flock, white bird, flying, crow, perched, coat, full body, looking down, limited palette, winter,"
+    }
+   ],
+   "img": "img/comp/mvdvuol6.jpg?v=1792331424338",
+   "pos": "36.4% 50.0%"
   }
  ],
- "updatedAt": 1792331416201
+ "updatedAt": 1792331424781
 };

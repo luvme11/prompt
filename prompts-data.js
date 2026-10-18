@@ -164,7 +164,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtd0fj.jpg?v=1792327240701",
    "pos": "14.0% 50.0%"
+  },
+  {
+   "id": "mvdtd7p5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, lying, on stomach, legs up, looking at viewer, parted lips, blush, twin braids, star hair ornament, visor cap, iridescent, cropped jacket, track jacket, zipper, sleeves past wrists, crop top, midriff, navel, white shorts, leg warmers, mismatched legwear, roller skates, knee pads, fingerless gloves, wristband, rainbow, sparkle, star (symbol), white background, simple background, colorful"
+    }
+   ],
+   "img": "img/comp/mvdtd7p5.jpg?v=1792327250239",
+   "pos": "90.4% 50.0%"
   }
  ],
- "updatedAt": 1792327241135
+ "updatedAt": 1792327250674
 };

@@ -810,7 +810,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvducb6c.jpg?v=1792328887485",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvduclfd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "night city rooftop, urban night atmosphere, cinematic mood, dark and moody lighting, cool blue and charcoal color palette, shallow depth of field, half-body close-up, eye-level angle, soft rim light on face, glossy skin highlights, intense gaze toward camera, slightly parted lips, calm but seductive expression, holding a cigarette between fingers near lips, another person's hand lighting the cigarette with a lighter, small flame visible, small flame visible, moment frozen just before inhaling smoke, dramatic contrast, fashion editorial style, high-detail, realistic lighting,"
+    },
+    {
+     "label": "의상",
+     "text": "off-shoulder black top, matte fabric, minimal design, exposed collarbone and shoulders, fitted silhouette, black leather jacket draped loosely over arms, edgy fashion styling"
+    }
+   ],
+   "img": "img/comp/mvduclfd.jpg?v=1792328900955",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792328887923
+ "updatedAt": 1792328901380
 };

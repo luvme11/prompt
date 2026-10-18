@@ -6650,7 +6650,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz5u7e.jpg?v=1792336983662",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz60mm",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dress shirt, white blouse, white chiffon ribbon, large bow on chest, long sleeves, sheer sleeves, black pencil skirt, short skirt, black sheer pantyhose,"
+    }
+   ],
+   "img": "img/look/mvdz60mm.jpg?v=1792336991855",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336984279
+ "updatedAt": 1792336992314
 };

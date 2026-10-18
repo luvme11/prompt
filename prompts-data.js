@@ -1778,7 +1778,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv5ea8.jpg?v=1792330244544",
    "pos": "50.0% 12.0%"
+  },
+  {
+   "id": "mvdv5l8l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "checkered flag, black and white flag, sparkles, lens flare, glowing particles, bokeh, night, racetrack background, blurred background, cinematic lighting, dramatic shadows, racing suit, red jumpsuit, tied at waist, black t-shirt, \"REDBULL\" text, fingerless gloves, grey gloves, bracelet, grinning, hand gesture, looking at viewer,"
+    }
+   ],
+   "img": "img/comp/mvdv5l8l.jpg?v=1792330253675",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792330244998
+ "updatedAt": 1792330254130
 };

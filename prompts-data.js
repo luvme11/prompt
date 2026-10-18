@@ -7644,7 +7644,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0d5tl.jpg?v=1792339004688",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0dcvl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white beret, blue ribbon hair ornament, school uniform, serafuku, red bow, white furisode sleeves, blue cross-laced sleeves, cloud print furisode, blue pleated skirt, mini skirt, white petticoat, black knee socks, black loafers,"
+    }
+   ],
+   "img": "img/look/mve0dcvl.jpg?v=1792339013788",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792339005154
+ "updatedAt": 1792339014310
 };

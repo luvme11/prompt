@@ -2753,7 +2753,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvub4n.jpg?v=1792331407121",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdvuhzn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from side, outdoors, day, blue sky, cumulonimbus cloud, grass, field, tree, road, soap bubbles, bubble, 1.3::swing::, playground, jungle gym, sitting, sitting on swing, dangling legs, holding, holding swing chains, closed eyes, open mouth, arm up, blowing bubbles, serafuku, sailor collar, neckerchief, white shirt, pleated skirt, white footwear, stuffed toy, stuffed rabbit, handgun, bag, fire hydrant,"
+    }
+   ],
+   "img": "img/comp/mvdvuhzn.jpg?v=1792331415752",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792331407560
+ "updatedAt": 1792331416201
 };

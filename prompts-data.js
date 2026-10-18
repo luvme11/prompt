@@ -7504,7 +7504,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0bffw.jpg?v=1792338924019",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve0bl73",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red hairclips, polka dot white tank top, dark denim jacket hanging loosely, white polka dot red scarf, 2: short scarf::, capri pants, camouflage, cargo pants, yellow sneakers and tow black stripes, rimless eyewear,"
+    }
+   ],
+   "img": "img/look/mve0bl73.jpg?v=1792338931781",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338924462
+ "updatedAt": 1792338932236
 };

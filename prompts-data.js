@@ -4938,7 +4938,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxhzuu.jpg?v=1792334191707",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdxie7p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "holding camcorder, holding camera up, camera covering face, one hand raised, filming, first person perspective, close-up, front view, standing, hallway, indoor corridor, window light, blurry background, sunlight through window,"
+    },
+    {
+     "label": "의상",
+     "text": "white shirt, school uniform, necktie, loose necktie, collared shirt, student uniform, youthful, high school student"
+    }
+   ],
+   "img": "img/comp/mvdxie7p.jpg?v=1792334210516",
+   "pos": "50.0% 30.0%"
   }
  ],
- "updatedAt": 1792334192340
+ "updatedAt": 1792334210989
 };

@@ -776,7 +776,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdub3vt.jpg?v=1792328831580",
    "pos": "50% 50%"
+  },
+  {
+   "id": "mvdubyx4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "medium close-up shot, eye-level angle, enchanted forest setting, surrounded by lush green foliage and softly glowing leaves, dappled sunlight filtering through canopy, dreamy soft backlighting, fresh green and pastel light color palette, shallow depth of field, ethereal cinematic lighting, slightly leaning from behind branches, one arm gently lifting leaves aside, other arm resting close to body, fairy-like presence, serene and magical atmosphere,"
+    },
+    {
+     "label": "의상",
+     "text": "sleeveless light dress, sheer and airy fabric, soft flowing silhouette, subtle check pattern, natural fairy-style clothing"
+    }
+   ],
+   "img": "img/comp/mvdubyx4.jpg?v=1792328871616",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792328832175
+ "updatedAt": 1792328872080
 };

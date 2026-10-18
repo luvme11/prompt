@@ -4560,7 +4560,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx4nnk.jpg?v=1792333569137",
    "pos": "50.0% 0.0%"
+  },
+  {
+   "id": "mvdx4tst",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, three-quarter view, body turned sideways, looking back at viewer, head slightly tilted, bright cheerful smile, smiling eyes, white yukata with soft pink and lavender floral patterns, loose wide sleeves, one arm extended forward, holding a lit sparkler, bright golden sparks, summer fireworks festival, outdoors at dusk, vivid deep blue twilight sky, distant waterfront, warm orange and pink bokeh lights, large blurred glowing lights in foreground, shallow depth of field, soft focus, warm firelight, blue and orange lighting, dreamy romantic summer atmosphere"
+    }
+   ],
+   "img": "img/comp/mvdx4tst.jpg?v=1792333577090",
+   "pos": "50.0% 56.0%"
   }
  ],
- "updatedAt": 1792333569908
+ "updatedAt": 1792333577541
 };

@@ -1986,7 +1986,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvcz3z.jpg?v=1792330598184",
    "pos": "70.7% 50.0%"
+  },
+  {
+   "id": "mvdvd7ir",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "3::magazine cover, gravure::, 2::japanese text, barcode::, leaning forward, from below, looking down at viewer, hair tucking, seductive smile, wet skin, shiny skin, sweat, beach, ocean, sand, palm tree, summer, sunlight, professional photoshoot, sultry lighting, bokeh,"
+    }
+   ],
+   "img": "img/comp/mvdvd7ir.jpg?v=1792330609056",
+   "pos": "50.0% 42.0%"
   }
  ],
- "updatedAt": 1792330598631
+ "updatedAt": 1792330609509
 };

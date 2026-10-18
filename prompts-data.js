@@ -4417,7 +4417,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx29l7.jpg?v=1792333457537",
    "pos": "50.0% 2.0%"
+  },
+  {
+   "id": "mvdx2gn6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, holding, holding bag, holding food, bakery, shop window, bread, baguette, paper bag, bokeh, snowflakes, warm lighting,\n\nwinter clothes, coat, scarf, cat hat, animal hat,"
+    }
+   ],
+   "img": "img/comp/mvdx2gn6.jpg?v=1792333466785",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792333457979
+ "updatedAt": 1792333467240
 };

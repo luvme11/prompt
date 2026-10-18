@@ -5908,7 +5908,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdymgl7.jpg?v=1792336079603",
    "pos": "50.0% 44.0%",
    "soon": false
+  },
+  {
+   "id": "mvdymnpd",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "short-sleeved white collared shirt, brown plaid necktie, school uniform badge on chest, brown plaid tiered pleated miniskirt, black shoulder bag, brown plaid headband, white ankle socks, black chunky platform Mary Jane shoes"
+    }
+   ],
+   "img": "img/look/mvdymnpd.jpg?v=1792336088541",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336080214
+ "updatedAt": 1792336089141
 };

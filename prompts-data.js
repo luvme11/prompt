@@ -3784,7 +3784,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwm8ow.jpg?v=1792332710212",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdwmy3k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "red tufted background, valentine, box of chocolates, red roses, pearl necklace, hanging heart ornaments, scattered ribbons, high angle, looking up at viewer, sitting, knees up, parted lips, hands on feet,"
+    },
+    {
+     "label": "의상",
+     "text": "black oversized jacket, red ruffled trim, red necktie, criss-cross patterned pantyhose, red shoes, red hair ribbons, heart hair clip,"
+    }
+   ],
+   "img": "img/comp/mvdwmy3k.jpg?v=1792332742952",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792332710657
+ "updatedAt": 1792332744048
 };

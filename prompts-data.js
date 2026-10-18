@@ -6230,7 +6230,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyu9i2.jpg?v=1792336443493",
    "pos": "50.0% 38.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyuudu",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "brown smock dress, long sleeves, ruffled hem, plaid collar, plaid trim, layered dress, white underskirt, black thigh high socks, brown leather boots, hair clips,"
+    }
+   ],
+   "img": "img/look/mvdyuudu.jpg?v=1792336470465",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336444413
+ "updatedAt": 1792336470954
 };

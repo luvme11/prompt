@@ -1103,7 +1103,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdul171.jpg?v=1792329294289",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdul6vn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dutch angle, dynamic pose, jumping, kicking leg up, peace sign, open mouth grin, wink, blush stickers on cheeks, demon horns, tail flick, oversized varsity jacket, cropped tank top, pleated skirt, sneakers, striped socks, polka dot pattern background, lime green solid background, dripping paint graphic, graffiti scribbles, star burst shapes, sticker collage, streetwear pop, graphic background, high saturation"
+    }
+   ],
+   "img": "img/comp/mvdul6vn.jpg?v=1792329301676",
+   "pos": "50.0% 10.0%"
   }
  ],
- "updatedAt": 1792329294748
+ "updatedAt": 1792329302133
 };

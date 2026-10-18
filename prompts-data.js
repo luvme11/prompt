@@ -6062,7 +6062,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyro2s.jpg?v=1792336322325",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyrvbt",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "steampunk, military uniform, khaki, brown shirt, sleeveless, vest, worn clothes,\nscarf, mouth mask, neck scarf, shoulder strap,\nmultiple belts, bandolier, ammunition belt, pouch, canteen, backpack,\nhelmet, hanging helmet, brown gloves, fingerless gloves,\nbrown pants, jodhpurs, leg wrap, knee boots, brown boots,\nhand on own hip, striped shirt under a khaki tunic,"
+    }
+   ],
+   "img": "img/look/mvdyrvbt.jpg?v=1792336331992",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336322955
+ "updatedAt": 1792336332474
 };

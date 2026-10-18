@@ -55,7 +55,8 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 .sr input{flex:1;min-width:0;height:30px;border:1px solid #ddd;border-radius:15px;padding:0 14px;font-size:11px;background:#fafafa;outline:0}
 .sr input:focus{border-color:#2a2a2a}
 .sr small{font-size:8px;font-weight:700;letter-spacing:.2em;color:#888;white-space:nowrap}
-.gd{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:12px}
+.gd{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px 12px}
+@media (max-width:560px){.gd{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .tl{position:relative;aspect-ratio:3/4;border-radius:14px;overflow:hidden;background:#ececec;border:1px solid #e6e6e6}
 .tl{user-select:none;-webkit-user-select:none}
 .tl img{position:relative;z-index:1;width:100%;height:100%;object-fit:cover;display:block}
@@ -64,7 +65,7 @@ main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:64px;width:min(1
 .tl .ok{position:absolute;inset:0;display:none;place-items:center;background:rgba(42,42,42,.78);color:#fff;font-size:11px;font-weight:700}
 .tl.done .ok{display:grid}
 .heart{position:fixed;top:22px;right:38px;font-size:15px;color:#b9b9b9;text-decoration:none}.heart.off{pointer-events:none;cursor:default;opacity:.5}.heart:hover{color:#666}
-.pgn{display:flex;justify-content:center;align-items:center;gap:4px;margin:22px 0 4px}
+.pgn{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:4px;margin:22px 0 4px}
 .pgn button{min-width:26px;height:26px;padding:0 6px;border-radius:13px;font-size:10px;font-weight:700;color:#777}
 .pgn button:hover:not(:disabled){background:#f0f0f0;color:#111}.pgn button.on{background:#2a2a2a;color:#fff}.pgn button:disabled{opacity:.25;cursor:default}
 .ab{margin:14px 0 0 33px;font-size:12px;line-height:1.85;color:#444;white-space:pre-wrap;word-break:break-word}
@@ -115,7 +116,7 @@ document.title = P.title.replace('\n',' ');
 
 function pager(pg, pages){
   if (pages < 2) return '';
-  const s = Math.max(1, Math.min(pg-2, pages-4)), e = Math.min(pages, s+4), n = [];
+  const s = Math.max(1, Math.min(pg-4, pages-9)), e = Math.min(pages, s+9), n = [];
   for (let i=s;i<=e;i++) n.push(`<button data-p="${i}" class="${i===pg?'on':''}">${i}</button>`);
   return `<div class="pgn"><button data-p="1" ${pg<2?'disabled':''}>«</button><button data-p="${pg-1}" ${pg<2?'disabled':''}>‹</button>${n.join('')}<button data-p="${pg+1}" ${pg>=pages?'disabled':''}>›</button><button data-p="${pages}" ${pg>=pages?'disabled':''}>»</button></div>`;
 }
@@ -135,7 +136,7 @@ function render(){
   }
   const q = Q.toLowerCase(), all = ITEMS.filter(i=>i.tab===t.k);
   const list = all.filter(p => !q || (p.name+' #'+NUM[p.id]+' '+codesOf(p).map(c=>c.label+' '+c.text).join(' ')).toLowerCase().includes(q));
-  const size = t.grid ? 24 : 8, pages = Math.max(1, Math.ceil(list.length/size));
+  const size = 8, pages = Math.max(1, Math.ceil(list.length/size));
   PG = Math.min(PG, pages);
   const cur = list.slice((PG-1)*size, PG*size);
   $('#rc').textContent = list.length + ' / ' + all.length;

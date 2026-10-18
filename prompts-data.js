@@ -297,7 +297,28 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdtkr04.jpg?v=1792327601780",
    "pos": "50.0% 72.0%"
+  },
+  {
+   "id": "mvdtl9f9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nighttime festival setting, warm lantern lighting, traditional festive atmosphere, shallow depth of field, soft background blur,"
+    },
+    {
+     "label": "남자",
+     "text": "sitting closely beside the other person, holding a lit sparkler in one hand, hand positioned slightly forward, maintaining a steady seated posture while focusing on the shared activity, dark-colored traditional robe"
+    },
+    {
+     "label": "여자",
+     "text": "sitting next to the other person, holding a sparkler with one hand, hand placed near the other person’s hand, seated posture leaning slightly inward toward the shared action, light-colored traditional robe with subtle pattern"
+    }
+   ],
+   "img": "img/comp/mvdtl9f9.jpg?v=1792327625401",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792327602220
+ "updatedAt": 1792327625864
 };

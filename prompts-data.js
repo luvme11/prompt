@@ -1692,7 +1692,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv3i87.jpg?v=1792330156190",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdv4ckz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo, mechanic, auto mechanic, garage, indoors, textured background, wall, car headlight, backlights, lens flare, light flare, bright background, scuffed, urban, industrial, standing, leaning, profile, from side, upper body, medium shot, holding objects, looking aside, from below, focused, intense, serious, dramatic lighting, cinematic lighting, scruffy, rough, urban style, smoking, cigarette in mouth, work, repairing,"
+    },
+    {
+     "label": "의상",
+     "text": "apron, wearing apron, no shirt, bare shoulders, jeans, denim jeans, gloves, one glove, dirty gloves, holding phone, using phone,"
+    }
+   ],
+   "img": "img/comp/mvdv4ckz.jpg?v=1792330195758",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792330156647
+ "updatedAt": 1792330196206
 };

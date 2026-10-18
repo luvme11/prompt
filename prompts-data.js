@@ -5338,7 +5338,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxrfut.jpg?v=1792334632173",
    "pos": "50.0% 36.0%"
+  },
+  {
+   "id": "mvdxromu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.6::vertical composition::, 1.7::dynamic upper body shot::, 1.6::waist-up portrait::, 1.6::character large in frame::, 1.5::dramatic close perspective::, 1.5::slightly low angle::, 1.5::three-quarter front view::, 1.6::dynamic asymmetrical composition::, 1.5::body twisting slightly::, 1.5::shoulders angled dramatically::, 1.4::wind-swept pose::, 1.4::energetic motion feeling::,\n\n1.9::one hand raised beside the face::, 2::kitsune hand gesture::, 1.9::fox hand sign::, 1.7::fingers forming a fox-shaped silhouette::, 1.7::index finger and little finger extended::, 1.6::middle and ring fingers folded inward::, 1.5::thumb touching the folded fingers::, 1.7::hand positioned diagonally across the face::, 1.6::fingers framing one eye::, 1.5::elegant finger pose::, 1.4::foreshortened hand close to the camera::,\n\n1.8::other hand extended forward::, 1.7::open palm facing upward::, 1.7::cupped hand conjuring spirit fire::, 1.8::large glowing foxfire above the palm::, 1.7::swirling blue flame::, 1.6::cyan and turquoise spirit fire::, 1.5::white-hot luminous core::, 1.5::violet and magenta accents inside the flames::, 1.6::flame trails spiraling upward::, 1.5::glowing embers and particles::, 1.5::supernatural energy flowing around the arm and torso::,\n\n1.7::dark traditional robe::, 1.6::layered shrine-inspired outfit::, 1.6::properly dressed upper body::, 1.5::high-collared inner layer::, 1.5::chest fully covered::, 1.5::cross-collar inner garment::, 1.5::fitted inner robe::, 1.5::wide sleeves::, 1.5::layered dark fabric::, 1.4::flowing robe caught in the wind::, 1.5::waist sash::, 1.5::elegant draped outer robe::, 1.5::white cloth wraps around both wrists and forearms::, layered bandage wraps, trailing cloth ends, 1.5::clean skin::, 2::no tattoos::,\n\n1.8::ornate night shrine setting::, 1.7::traditional torii gate in the background::, 1.6::massive shrine pillars::, 1.5::stone courtyard::, 1.5::sacred Japanese architecture::, 1.6::stormy supernatural atmosphere::, 1.5::glowing paper talismans flying in the air::, 1.5::floating petals and sparks::, 1.5::swirling mist and spirit smoke::,\n\n1.8::large ethereal fox spirit behind the character::, 1.7::translucent glowing fox silhouette::, 1.6::huge spectral fox head emerging from blue mist::, 1.6::multiple trailing foxfire wisps::, 1.5::ghostly tails implied in the mist::, 1.5::supernatural aura spreading across the background::, 1.6::circular arcs of spirit energy around the character::, 1.5::energy rings and drifting luminous trails::,\n\n1.8::intense supernatural lighting::, 1.7::bright cyan-blue glow::, 1.6::purple and magenta reflected light::, 1.6::strong rim light on body and clothing::, 1.6::blue underlighting from the palm flame::, 1.5::high contrast shadows::, 1.5::neon-like shrine atmosphere::, 1.5::flashy magical effects::, 1.5::dramatic cinematic energy::, 1.5::luxurious and flamboyant mood::, 1.5::more dynamic and more decorative than the original::, 1.4::action-portrait feeling::"
+    }
+   ],
+   "img": "img/comp/mvdxromu.jpg?v=1792334643540",
+   "pos": "50.0% 100.0%"
   }
  ],
- "updatedAt": 1792334632641
+ "updatedAt": 1792334644000
 };

@@ -6580,7 +6580,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdz4yu2.jpg?v=1792336942706",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvdz54jx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white military uniform, gold trim, white sailor collar, black sailor tie, sleeveless, white pleated skirt, sailor dress, black thin belt, 1.5::white great coat on shoulders::"
+    }
+   ],
+   "img": "img/look/mvdz54jx.jpg?v=1792336950281",
+   "pos": "50.0% 36.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336943181
+ "updatedAt": 1792336950752
 };

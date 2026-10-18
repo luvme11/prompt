@@ -2194,7 +2194,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvi5ao.jpg?v=1792330839531",
    "pos": "65.3% 50.0%"
+  },
+  {
+   "id": "mvdvibai",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from above, three-quarter view, sitting on engawa, arms behind back, hands on ground, knees up, miko, white kimono, red hakama, pouch, omamori, bell, string, compact mirror, cherry blossoms, petals, hairpin, coin, omikuji, fox, incense, red theme, white theme, gold, wooden floor,"
+    }
+   ],
+   "img": "img/comp/mvdvibai.jpg?v=1792330847246",
+   "pos": "34.7% 50.0%"
   }
  ],
- "updatedAt": 1792330839968
+ "updatedAt": 1792330848186
 };

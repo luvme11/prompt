@@ -7252,7 +7252,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve0438d.jpg?v=1792338581385",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve048jp",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::see-through dress, black lace::, china dress, side slit, microdress, breasts cutout, sleeveless, pink trimm, no bra, black panties, high heels,"
+    }
+   ],
+   "img": "img/look/mve048jp.jpg?v=1792338588330",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338581861
+ "updatedAt": 1792338589587
 };

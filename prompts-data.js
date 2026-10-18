@@ -6,7 +6,7 @@ window.PROMPT_DATA = {
   "handle": "@noxuelux",
   "text": "==구도와 룩== 프롬프트를 업로드 합니다\n비슷한 소재가 있을 시 ==창구== 이용해 주세요\n==기본 프롬프트==는 공개할 의향 없습니다\n==@noxuelux 계정==과 어떠한 경로던 ==블락==이 되신 분들은 사용하지 말아 주세요\n창구에 ==그림 관련 질문== 하지 말아주세요",
   "tags": [],
-  "avatar": "img/profile.jpg?v=1792325354366",
+  "avatar": "img/profile.jpg?v=1792339143371",
   "favicon": "img/favicon.png?v=1792333762418"
  },
  "items": [
@@ -7786,5 +7786,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792339111890
+ "updatedAt": 1792339143820
 };

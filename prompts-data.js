@@ -5132,7 +5132,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxlm4x.jpg?v=1792334360346",
    "pos": "50.0% 22.0%"
+  },
+  {
+   "id": "mvdxm2mi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "vertical portrait, bust shot from head to waist, slightly high selfie-like angle, body angled slightly toward camera, one hand raised beside the face with fingers spread touching near the glasses frame, other arm hanging relaxed and cropped at the bottom, head slightly tilted, direct gaze at camera, tight framing with subject centered-left, indoor office hallway or elevator lobby, pale gray-blue paneled wall with vertical seams and horizontal grooves, darker gray wall corner at right creating depth, small paper partially visible at upper left, flat soft fluorescent lighting with minimal shadows, desaturated cool tone, casual smartphone snapshot look,"
+    },
+    {
+     "label": "의상",
+     "text": "fitted gray ribbed-knit short-sleeve top dress with white shirt collar layered inside a V-neckline, white folded contrast cuffs on the sleeves, thin gold chain necklace, light blue and white ribbon lanyard with ID badge holder, thin black metal oval half-rim glasses with small heart detail at the bridge and pink-tinted lenses, long nude-tone nails, thin ring, office lady uniform style"
+    }
+   ],
+   "img": "img/comp/mvdxm2mi.jpg?v=1792334381636",
+   "pos": "50.0% 34.0%"
   }
  ],
- "updatedAt": 1792334360794
+ "updatedAt": 1792334382083
 };

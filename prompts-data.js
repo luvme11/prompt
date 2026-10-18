@@ -2584,7 +2584,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvraaa.jpg?v=1792331265604",
    "pos": "50.0% 16.0%"
+  },
+  {
+   "id": "mvdvrglw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, from side, 1.4::holding syringe::, holding object with both hands, syringe, oversized object, head tilt, vampire, fangs, smirk, blood on face, blood from mouth, licking lips, blood bag, iv stand, hospital, indoors, chains, medical, gothic, dutch angle, dark room, dim lighting, latin cross, chromatic aberration, film grain, backlighting, desaturated, red theme, horror (theme),"
+    }
+   ],
+   "img": "img/comp/mvdvrglw.jpg?v=1792331273878",
+   "pos": "48.4% 50.0%"
   }
  ],
- "updatedAt": 1792331266545
+ "updatedAt": 1792331274791
 };

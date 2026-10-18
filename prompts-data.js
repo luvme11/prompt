@@ -6034,7 +6034,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdyrcp5.jpg?v=1792336307576",
    "pos": "50.0% 38.0%",
    "soon": false
+  },
+  {
+   "id": "mvdyri3l",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "salmon kimono, yukata, floral print, flower pattern, wide sleeves, large flower hair ornament, hair flower, salmon ribbon, obi, layered skirt, frilled kimono, white socks, salmon zori,"
+    }
+   ],
+   "img": "img/look/mvdyri3l.jpg?v=1792336314644",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792336308035
+ "updatedAt": 1792336315114
 };

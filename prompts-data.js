@@ -1649,7 +1649,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv2w77.jpg?v=1792330127821",
    "pos": "50.0% 24.0%"
+  },
+  {
+   "id": "mvdv31xs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, idol pose, ending fairy, ending pose, finger heart, hand heart, looking at viewer, stage outfit, performance outfit, smiling, playful expression, cute pose, stage lighting, spotlight, concert stage, idol fashion, accessories, headset microphone,  glitter, sparkles, soft glow, energetic atmosphere, fancam angle, close-up, upper body, colorful lighting,"
+    }
+   ],
+   "img": "img/comp/mvdv31xs.jpg?v=1792330135114",
+   "pos": "50% 50%"
   }
  ],
- "updatedAt": 1792330128267
+ "updatedAt": 1792330135564
 };

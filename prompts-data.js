@@ -725,7 +725,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdua0w2.jpg?v=1792328780763",
    "pos": "50.0% 40.0%"
+  },
+  {
+   "id": "mvduaebg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "sunlit bamboo forest setting, fresh and playful atmosphere, bright natural daylight, soft green color palette, shallow depth of field, slightly low-angle shot, dynamic full-body shot, one leg lifted in a light jump, body slightly twisted, one arm reaching forward, other hand holding a small bamboo steamer, a panda plush carried on the back in a basket, cheerful and lively pose, whimsical and fairy-tale mood"
+    },
+    {
+     "label": "의상",
+     "text": "black and white maid-style dress with green accents, frilled skirt hem, puffed short sleeves, white apron detail, green ribbon decorations, lace-trimmed underskirt, black ankle boots with decorative fastenings, playful fantasy costume style"
+    }
+   ],
+   "img": "img/comp/mvduaebg.jpg?v=1792328798550",
+   "pos": "50.0% 28.0%"
   }
  ],
- "updatedAt": 1792328781192
+ "updatedAt": 1792328799155
 };

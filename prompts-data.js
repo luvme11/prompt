@@ -7350,7 +7350,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve06mn1.jpg?v=1792338700301",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve06sxx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "long grey knit sweater, v neck sweater, off shoulder sweater, -1::sweater tucked in::, loose sleeves, -2::cardigan::, layered clothes, 1.5::black lace tank top::, silver cross necklace, black plaid skirt, pleated skirt, mini skirt, black thighhighs, black loafers,"
+    }
+   ],
+   "img": "img/look/mve06sxx.jpg?v=1792338708526",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338700909
+ "updatedAt": 1792338709155
 };

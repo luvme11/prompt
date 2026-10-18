@@ -3389,7 +3389,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdwc4lf.jpg?v=1792332238391",
    "pos": "35.3% 50.0%"
+  },
+  {
+   "id": "mvdwciek",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "cozy indoor, sunlight through window, warm lighting, soft blanket, cushions, lens flare, sparkles, blurry background, upper body, from above, sitting, slouching, hood up, holding handheld game console, playing games, looking down, half-closed eyes, candy in mouth,"
+    },
+    {
+     "label": "의상",
+     "text": "oversized hoodie, sleeves past wrists"
+    }
+   ],
+   "img": "img/comp/mvdwciek.jpg?v=1792332256140",
+   "pos": "50.0% 52.0%"
   }
  ],
- "updatedAt": 1792332238845
+ "updatedAt": 1792332256598
 };

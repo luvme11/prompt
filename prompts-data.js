@@ -5239,7 +5239,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxpk2p.jpg?v=1792334544183",
    "pos": "50.0% 28.0%"
+  },
+  {
+   "id": "mvdxpqh0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, 1.5::elegant white backless dress::, deep backless cut, silver details, fitted white gloves, silver accessories, holding a handgun, 1.5::cowboy shot::, 1.5::dramatic low angle::, three-quarter back view, looking back over her shoulder, asymmetrical composition, flowing long hair, dramatic wind, 1.6::heavy blood splatter covering the white dress::, 1.5::large crimson bloodstains across the fabric::, blood-soaked skirt, bloodstained gloves, 1.5::blood splattered across the face::, 1.4::blood droplets on cheeks and forehead::, blood streaks on jawline, blood on lips, 1.5::blood smeared across bare back and shoulders::, blood on arms and neck, scattered blood droplets, gun smoke, 1.8::pitch black background::, deep black shadows, dark noir atmosphere, subtle emerald rim lighting, faint silver highlights, dramatic chiaroscuro, low-key cinematic lighting, high contrast, femme fatale, elegant brutality, clean lineart, polished cel shading"
+    }
+   ],
+   "img": "img/comp/mvdxpqh0.jpg?v=1792334552741",
+   "pos": "50.0% 4.0%"
   }
  ],
- "updatedAt": 1792334544665
+ "updatedAt": 1792334553506
 };

@@ -4430,7 +4430,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdx2gn6.jpg?v=1792333466785",
    "pos": "50.0% 26.0%"
+  },
+  {
+   "id": "mvdx2mtx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, sitting, from side, hugging, hugging snowman, snowman, blue scarf, mini snowman, snow, winter, outdoors, sunlight,\n\nclosed eyes, smile, laughing, open mouth,\nwinter clothes, poncho, mittens, boots, earflap hat, fur-trimmed headwear,"
+    }
+   ],
+   "img": "img/comp/mvdx2mtx.jpg?v=1792333474658",
+   "pos": "50.0% 6.0%"
   }
  ],
- "updatedAt": 1792333467240
+ "updatedAt": 1792333475261
 };

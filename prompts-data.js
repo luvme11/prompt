@@ -1791,7 +1791,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdv5l8l.jpg?v=1792330253675",
    "pos": "50.0% 10.0%"
+  },
+  {
+   "id": "mvdv5tfy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, paw pose, hand up, cowboy shot, on couch, leaning back, parted lips, blush, makeup, red eyeshadow, hair ribbon, pink ribbon, cross earrings, safety pin, ear piercing, choker, frilled choker, ribbon choker, oversized clothes, sweater, white top, long sleeves, frills, animal hands, cat paw gloves, pink bottoms,  paw print, quilted background, diamond background, sparkles, pink theme, pastel colors, soft colors,"
+    }
+   ],
+   "img": "img/comp/mvdv5tfy.jpg?v=1792330264190",
+   "pos": "80.0% 50.0%"
   }
  ],
- "updatedAt": 1792330254130
+ "updatedAt": 1792330264627
 };

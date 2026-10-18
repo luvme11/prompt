@@ -2181,7 +2181,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdvhzig.jpg?v=1792330831750",
    "pos": "50.0% 14.0%"
+  },
+  {
+   "id": "mvdvi5ao",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, from below, three-quarter view, sitting on ground, knees up, legs together, flower field, dead flowers, beehive, honey, sign, banner, pollen, wind, butterfly, ladybug, golden hour, sky, sunset, yellow theme, brown theme, red theme,"
+    }
+   ],
+   "img": "img/comp/mvdvi5ao.jpg?v=1792330839531",
+   "pos": "65.3% 50.0%"
   }
  ],
- "updatedAt": 1792330832204
+ "updatedAt": 1792330839968
 };

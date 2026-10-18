@@ -5046,7 +5046,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxk29o.jpg?v=1792334288107",
    "pos": "50.0% 20.0%"
+  },
+  {
+   "id": "mvdxkasn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "greedy, mocking grin, wide open mouth, little bit extended tongue, biting into a vivid crimson-red apple, arrogant, defiant expression::, ::1.5::masculine fantasy ceremonial uniform regardless of gender, tailored black jacket, gold embroidery, ornate buttons, black leather gloves::, ::1.6::black dark fantasy peaked cap, gold ornaments, ruby embellishment::, holding the bitten red apple near the lips, slightly tilted head, slightly side angle, half-lidded eyes, condescending gaze, three-quarter view, upper body shot, dark biblical symbolism, forbidden fruit, subtle crimson lighting, dramatic shadows, decadent atmosphere, cinematic composition, -2::closed mouth, hidden tongue, missing hat, real-world military insignia::, solid red color background, circular spotlight on the face, sharp-edged circular lightcircular spotlight on the face, sharp-edged circular light"
+    }
+   ],
+   "img": "img/comp/mvdxkasn.jpg?v=1792334299273",
+   "pos": "50.0% 26.0%"
   }
  ],
- "updatedAt": 1792334289215
+ "updatedAt": 1792334300171
 };

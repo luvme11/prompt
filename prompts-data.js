@@ -7140,7 +7140,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mve01z5z.jpg?v=1792338483315",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mve025fm",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "waistcoat, double breasted, black vest, vertical striped shirt, short sleeves, puff sleeves, frilled shirt, ruffled shirt, pleated miniskirt, black skirt, lace trimmed grey stockings, over knee socks, leg warmers, chunky boots, cross necklace, jewelry,"
+    }
+   ],
+   "img": "img/look/mve025fm.jpg?v=1792338491220",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338484256
+ "updatedAt": 1792338491707
 };

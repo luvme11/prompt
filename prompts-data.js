@@ -900,7 +900,20 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdudxbd.jpg?v=1792328963023",
    "pos": "50.0% 34.0%"
+  },
+  {
+   "id": "mvduhnd6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "very wide shot, scenery, small figure, landscape, hill, town below, sky, clouds, walking away, from behind"
+    }
+   ],
+   "img": "img/comp/mvduhnd6.jpg?v=1792329136284",
+   "pos": "59.8% 50.0%"
   }
  ],
- "updatedAt": 1792328963480
+ "updatedAt": 1792329136721
 };

@@ -5523,7 +5523,24 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvdxwp8k.jpg?v=1792334877535",
    "pos": "50.0% 32.0%"
+  },
+  {
+   "id": "mvdxx0eg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "masterpiece, best quality, ultra high detail, Korean manhwa style, semi-realistic, cinematic lighting, fashion editorial style, three-quarter shot, from thighs up, walking or standing naturally, slight movement in posture, centered composition, subject filling most of the frame, highly detailed face, sharp eyes, clear facial features, no blur, urban street background, soft sunlight, natural shadows, candid fashion photography, realistic lighting, stylish mood,"
+    },
+    {
+     "label": "의상",
+     "text": "wearing a tailored beige suit, oversized blazer, striped shirt, loose tie, modern office look, one hand in pocket, holding a coffee cup in the other hand,"
+    }
+   ],
+   "img": "img/comp/mvdxx0eg.jpg?v=1792334892099",
+   "pos": "50.0% 14.0%"
   }
  ],
- "updatedAt": 1792334878612
+ "updatedAt": 1792334892894
 };

@@ -7000,7 +7000,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvdzvs6u.jpg?v=1792338193931",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvdzxyik",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "denim tube top with red ribbon and white frill, denim belts with red checkered ribbons, white layered frill skirt, short skirt, red Merijane shoes"
+    }
+   ],
+   "img": "img/look/mvdzxyik.jpg?v=1792338295535",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792338194531
+ "updatedAt": 1792338296486
 };

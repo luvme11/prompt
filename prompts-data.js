@@ -9157,8 +9157,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, dark magical girl, gothic lolita dress, black and deep crimson theme, intricate lace, ornate magical staff, dramatic rim lighting, intense gaze, fluttering cape, dark ethereal aura, scattered feathers, shattered stained glass background, cinematic composition, moody, masterpiece, best quality"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfl4ep1.jpg?v=1792434489145",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -9176,5 +9176,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792434455033
+ "updatedAt": 1792434489797
 };

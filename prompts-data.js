@@ -8998,7 +8998,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfjn5rh.jpg?v=1792432003985",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfjvvi7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "남자",
+     "text": "Chiseled abs, sweaty, Cowboy shot, from above, 1.1::nude::, sitting, on office chair, facing viewer, holding glasses, adjusting glasses, glasses, black-rimmed eyewear, sharp gaze, seductive smile, blushing, 2::white shirt, open shirt, black necktie::, hands on glasses, sweatdrop, paper on lap, covering crotch with document, paperwork, document, sticky_note, sharp focus, solid blue background"
+    },
+    {
+     "label": "여자",
+     "text": "adult woman, sweaty, Cowboy shot, from above, 1.1::nude::, sitting, on office chair, facing viewer, holding glasses, adjusting glasses, glasses, black-rimmed eyewear, sharp gaze, seductive smile, blushing, 2::white shirt, open shirt, black necktie::, hands on glasses, sweatdrop, paper on lap, covering crotch with document, paperwork, document, sticky_note, sharp focus, solid blue background,"
+    }
+   ],
+   "img": "img/comp/mvfjvvi7.jpg?v=1792432257249",
+   "pos": "50.0% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792432004525
+ "updatedAt": 1792432257775
 };

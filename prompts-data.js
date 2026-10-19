@@ -8612,7 +8612,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf8whwk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "masterpiece, best quality, ultra detailed, wearing luxurious silk robes, deep red and black tones,\nloose and flowing fabric, slightly open collar but elegant, gold embroidery, layered design, holding a folding fan or a wine cup delicately, sitting in a lavish room, leaning slightly to one side, relaxed posture, confident presence, ornate interior, silk curtains, low tables, lantern light, warm golden lighting mixed with shadows, smoke or incense drifting in the air, soft glow, rich and mysterious atmosphere, elegant but dangerous aura, controlled charm"
+    },
+    {
+     "label": "의상",
+     "text": "calm and alluring expression, subtle smirk"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792413749911
+ "updatedAt": 1792413808803
 };

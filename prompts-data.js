@@ -9283,10 +9283,10 @@ window.PROMPT_DATA = {
      "text": "khaki, three-quarter view, sliding down sand dune, holding torch, squinting, pith helmet, goggles on head, bandana, linen shirt, leather holster, utility belt, wrapped leggings, hiking boots, wristwatch, pendant, pouch, rope coil, sandstorm, temple pillar, desert"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvflmb2y.jpg?v=1792435189080",
+   "pos": "50.0% 8.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792435168378
+ "updatedAt": 1792435189880
 };

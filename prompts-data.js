@@ -8321,7 +8321,7 @@ window.PROMPT_DATA = {
      "text": "from above, high angle, looking down, upper body focus, close-up, 2::lying on floor, on back::, looking at viewer, wounded face, cuts on face, blood on face, 2::nose blood::, 2::blood from mouth::, smirk smile, licking lips, black dress shirt, slightly unbuttoned shirt, black leather harness, thick leather collar, 1.3::thick balck leather handcuffs::, both hands cuffed, hands positioned at chest, handcuffed hands on chest, wrists close together, 1.3::short chain connecting handcuffs to collar::, taut chain, broken white tile floor, 2::multiple black rose petals on floor::, wet floor, dramatic lighting, high contrast, tense atmosphere, cinematic"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvf5u6dr.jpg?v=1792408931165",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8368,5 +8368,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792408911854
+ "updatedAt": 1792408931971
 };

@@ -9202,7 +9202,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvflbyz0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized shirt, button-up dark shirt, long sleeves, black shorts, socks, white socks, sneakers, grey sneakers, sunglasses on head,\n\nside view, full body, turning head, looking at viewer, holding basket on forearm, hooking handle with elbow, shopping basket, black wire basket, grocery store, supermarket, shelves, shelved products, packaged food, refrigerated section, glass door, whole foods, interior, concrete floor, mat, lighting,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792434654808
+ "updatedAt": 1792434686519
 };

@@ -9073,10 +9073,10 @@ window.PROMPT_DATA = {
      "text": "solo, photography, realistic, vintage poster style, collage style, promotional poster layout, bright lighting, red background with white polka dots, checkered tablecloth pattern, torn milky yellow paper, ripped paper, paper texture, rough edges, 2.0::big yellow japanese text with white outlined \"[캐릭터 이름]の喫茶店\" on left::, 1.5:: black japanese text with white outlined \"新発売\" on right::, 1.5::black japanese text \"一度味わったら、絶対に抜け出せないはずだよ...！\" on right::, 1.2::english text with circle sticker\"NEW\" on left bottom::, left side, leaning forward resting chin on hand, lying on stomach, positioned slightly off-center with upper body visible. (scattered graphic elements surround the subject including a glass of green melon soda with a cherry, a chocolate pudding, a stack of pancakes, a strawberry cake),"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfkf9eb.jpg?v=1792433327922",
+   "pos": "38.0% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792433160148
+ "updatedAt": 1792433328532
 };

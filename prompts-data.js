@@ -8641,7 +8641,7 @@ window.PROMPT_DATA = {
      "text": "(cinematic ultra-wide-angle perspective:1.5), (dramatic fisheye lens effect:1.3), (dynamic low-angle three-quarter view:1.4), (character prominently filling the foreground:1.5), strong diagonal composition, exaggerated perspective, immersive visual depth,\n(sitting casually on top of a giant retro CRT computer monitor:1.5), (one leg extended toward the camera:1.5), exaggerated foreshortening of the foreground sneaker, other leg dangling over the monitor edge, leaning forward slightly, (holding a heavily decorated smartphone in one hand:1.4), looking down toward the viewer, sleepy unimpressed expression, subtle mischievous smirk,\n(luxurious gothic Y2K Halloween fashion:1.4), black and deep crimson red cropped jacket, fitted ribbed top, layered crimson red plaid mini skirt, intricate black lace details, silver chains, dangling heart charms, oversized satin bows, striped thigh-high socks, chunky platform sneakers, heart-shaped gemstone hair accessories, tiny black bat-wing hair clips,\n(smartphone decorated with numerous dangling charms:1.5), red cat keychains, translucent ruby red heart charms, satin ribbon keychains, miniature ghost charms, sparkling bead straps,\n(giant crimson red retro CRT monitor:1.5), glowing screen displaying a cute pixel ghost, distorted Halloween graphics, crimson red and black glitch effects, tiny pixel pumpkins, heart-shaped error symbols,\n(numerous holographic computer windows floating around her:1.5), translucent crimson red pop-up windows, floating pixel ghosts, neon red heart icons, pixel bats, glowing cursors, holographic warning windows, sparkling digital particles, cascading pixel stars,\n(dreamy haunted Y2K cyberspace:1.5), floating retro computer accessories, layered translucent screens, dark red gaming devices, neon cables, holographic decorations, dense detailed foreground and background, no plain walls,\n(cinematic neon lighting:1.4), luminous crimson red screen glow, electric scarlet rim lighting, glossy reflections, dramatic shadows, dreamy volumetric light, strong depth of field, sparkling holographic atmosphere"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfhtzv8.jpg?v=1792428985848",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8674,5 +8674,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792428946294
+ "updatedAt": 1792428986330
 };

@@ -8338,7 +8338,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf5w84f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, painterly semi-realistic illustration, inspired by Édouard Manet's Le Déjeuner sur l'herbe, one adult person only, solitary figure seated casually on lush green grass in a woodland clearing, relaxed asymmetrical seated pose, one knee raised and the other leg extended naturally, body turned slightly sideways while looking toward the viewer, elegant confident expression, tasteful loose white drapery partially wrapped around the body, picnic still life beside the figure with bread, fruit, folded cloth and a small basket, scattered leaves and wild grass in the foreground, dense dark green foliage and slender trees behind, soft daylight filtering through the canopy, strong contrast between luminous skin and deep forest greens, classical oil painting composition, visible brush texture, muted natural colors, 19th-century French painting atmosphere, full figure, medium-wide composition, eye-level camera, character clearly emphasized, no other people"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792408719857
+ "updatedAt": 1792408757435
 };

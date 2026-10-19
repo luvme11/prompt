@@ -8748,7 +8748,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfifmfe",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, hand on face, portrait, stage, performance, concert background, star-shaped confetti, track jacket, sleeveless top, necklace, layered necklaces, earrings, hoop earrings, ring, fingerless glove, microphone headset, headgear, heart-shaped goggles, headband, charm bracelet, star hair clip"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792429793667
+ "updatedAt": 1792429818114
 };

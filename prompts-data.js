@@ -8391,7 +8391,7 @@ window.PROMPT_DATA = {
      "text": "[background]: close-up, face focus, tight framing, aquarium in foreground, character behind aquarium, looking through aquarium glass, water surface near top of frame, horizontal aquarium rim, goldfish swimming in foreground, large orange goldfish on left, orange and white goldfish on right, partially cropped fish, depth of field, water droplets on glass, light refraction, {narrow reflective glass strip along bottom edge}, {faint upside-down reflection of character's face within the strip}, warm sunlight, dappled sunlight on face, blurry green background, no text\n\n[pose]: leaning forward behind aquarium, face close to glass, looking to the right, chin resting on horizontal forearm, other arm raised above head, {hand gripping upper aquarium rim from outside}, {four fingers hooked over rim, fingertips pressed against outer front surface}, flattened finger pads, thumb behind rim, naturally hanging dry hair"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvf6r9kf.jpg?v=1792410384172",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8410,5 +8410,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792410370478
+ "updatedAt": 1792410384795
 };

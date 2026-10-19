@@ -9115,10 +9115,10 @@ window.PROMPT_DATA = {
      "text": "2.5::long mermaid tail::, [색] mermaid tail color, layered fin ruffles resembling a long frilly skirt, [색] and white lace trim on the tail fins, [색] long hair ribbon tied in the hair, [색] ornamental jewelry piece attached at the tip of the tail,\n\n3::seashell bra top::, [색] shell-shaped top covering the chest, pearl and shell accents,\n\nsparkling detailed linework, delicate glossy shading, soft romantic anime illustration,\n\n5::magical light particles surrounding the figure::, glowing sparkle bursts, soft bokeh light orbs floating around,\n\nunderwater daytime scene, sunlight filtering down through the water, bright turquoise ocean, shimmering water reflections, bubbles floating upward, dreamy fantasy atmosphere, high detail, best quality,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfkvucu.jpg?v=1792434129056",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792434103267
+ "updatedAt": 1792434129717
 };

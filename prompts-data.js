@@ -8687,10 +8687,10 @@ window.PROMPT_DATA = {
      "text": "solo, 2::sitting in the center of a cluttered messy room, gothic atmosphere, dark cluttered interior::, 2::top-down view, high angle looking down from above, bird's eye view::,\n\n2::the person turning to glance back over the shoulder, looking back, head tilted up, looking up at the viewer from below::, 1.5::twisting torso, over-the-shoulder glance::,\n\n2::wearing an elaborate gothic outfit, gothic lolita style clothing, lace frills, ruffles, ribbons, victorian gothic dress with layers, corset and lace trim::,\n\n2::the person looking like a cloth rag doll, fabric doll body, seams and stitched lines across the body, stuffing bursting out of the shoulders, cotton stuffing leaking from torn seams::, 2::sewn stitched lines on the skin, visible thread stitches::,\n\n2::chains wrapped and binding the person, heavy chains coiled around the body::,\n\n2::large scissors object lying nearby, sewing scissors::, needle and thread, scattered thread spools, 2::a gift box with a ribbon nearby::,\n\n2::messy scattered objects all over the floor, dark gothic room, dim moody lighting, deep shadows::, eerie melancholic atmosphere, desaturated dark tones, cinematic, highly detailed, detailed clothes, atmospheric"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfi7861.jpg?v=1792429542227",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792429516332
+ "updatedAt": 1792429543206
 };

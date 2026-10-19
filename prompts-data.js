@@ -8730,7 +8730,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfidxt6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "eye-level close-up shot,tabletop perspective,soft winter studio lighting,bright and cozy mood,winter strawberry photoshoot theme,pastel light pink background,gentle falling snowflakes,red and cream color palette,clean magazine-style composition, sweet and soft atmosphere, single magazine cover layout, subject leaning forward on a wooden table, upper body resting on surface, one arm folded under head for support, other hand extended forward holding a strawberry near the table, strawberries and desserts arranged in foreground, still-life interaction,"
+    },
+    {
+     "label": "의상",
+     "text": "white winter-style outfit, soft fabric texture, dress material, red ribbon strap details, delicate frill accents, red heart-shaped hair clips as accessories, cute winter styling, strawberry-inspired red color accents"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792429662044
+ "updatedAt": 1792429739136
 };

@@ -9230,7 +9230,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvflcxxz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "side view, standing in shallow sea water, wading in waves, holding up hem of white flowing dress, lace details, barefoot, straw hat with ribbon,  side view, looking at ocean, serene beach background, gentle surf, shimmering water, wet sand with reflections, wicker basket with seashells on sand, small sandpipers, blue sky with fluffy white clouds, impressionism style, oil painting, visible brushstrokes, soft pastel colors, dreamy atmosphere, nostalgic, bright natural lighting, highly detailed"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792434711979
+ "updatedAt": 1792434731896
 };

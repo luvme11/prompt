@@ -8469,8 +8469,8 @@ window.PROMPT_DATA = {
      "text": "white tube top dress with pearl accessories, white see-through crop cardigan with white ribbon, ruffled skirt, tiered skirt, fetal position in giant vintage suit case, open huge vintage suit case, white knee-high, ivory pointe shoes, ballet core, pearl hairband with white see-through ribbon, clothes scattered around, sun glare, sunlight, huge window, light particles, dust, lens flare, prism, 2::bird's eye view::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf75vq9.jpg?v=1792411041005",
+   "pos": "74.0% 50.0%",
    "soon": false
   },
   {
@@ -8500,5 +8500,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792410996954
+ "updatedAt": 1792411041629
 };

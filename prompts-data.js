@@ -9325,7 +9325,7 @@ window.PROMPT_DATA = {
      "text": "full body, running, looking back, smile, breath visible, ushanka, fur-trimmed coat, long coat, mittens, scarf, knee-high boots, heavy snow, onion dome, cathedral, cobblestone, lamppost, snow on hair, snow on shoulders, winter, night, blue tint, motion lines"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvflpn52.jpg?v=1792435497785",
    "pos": "50% 50%",
    "soon": false
   },
@@ -9344,5 +9344,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792435370078
+ "updatedAt": 1792435498276
 };

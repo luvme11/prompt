@@ -9255,8 +9255,8 @@ window.PROMPT_DATA = {
      "text": "sticker sheet, chibi, peach and slate blue theme, traveling cartographer, rolled map tube backpack, ink stained fingers, quill tucked behind ear, astrolabe necklace, wax stamp cufflinks, parchment wrap skirt, compass tattoo on ankle, satchel covered in patches, laced moccasins, sparkle, 1.2::thick outline, sticker, outlined::, jumping, arms up, spread arms, mid-air, above giant globe, legs apart, excited, open mouth, diagonal angle, unfurling scroll, ink splatter, dotted trail line, mountain silhouette, tiny ship, vintage compass rose"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvflid69.jpg?v=1792435117912",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -9274,5 +9274,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792435006881
+ "updatedAt": 1792435118410
 };

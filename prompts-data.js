@@ -8780,7 +8780,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfihssn.jpg?v=1792430059971",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfil76z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "mischievous smirk, wearing rings, reaching hand forward towards the viewer with open palm, sliced red and lime green apples exploding in mid-air, red liquid splash, flying glass shards scattering, Blood splattered, sliced apples pour out, lime green apples turn red, sharp pieces splatter towards the viewer, noise builds on the screen, red speech bubble on top right with Japanese sound effect \"ボンッ！\", dynamic perspective, stylized impact graphics with large bold Japanese manga sound effects \"ドッ!\" and \"バーン!\", high contrast, vibrant red details, cinematic composition."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430060642
+ "updatedAt": 1792430078301
 };

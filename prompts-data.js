@@ -9286,7 +9286,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvflmb2y.jpg?v=1792435189080",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mvflndnk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "kneeling, leaning forward, hand on ground, arm support, looking at viewer, surprised, mouth open, white angel wings, fishing net, black fishing net, tangled, off-shoulder, oversized sweater, black sweater, torn clothes, leg warmers, combat boots, dark forest, tall grass, white flowers, night, moody lighting, rim light, painterly, thick brushstrokes, oil painting style, dark theme, wrapped in a black fishing net"
+    }
+   ],
+   "img": "img/comp/mvflndnk.jpg?v=1792435220176",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792435189880
+ "updatedAt": 1792435221265
 };

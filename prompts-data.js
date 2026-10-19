@@ -9185,8 +9185,8 @@ window.PROMPT_DATA = {
      "text": "solo, flying papers, whirling papers, chaotic, library, office, wind, indoor, swirling, debris, depth of field, standing in center, arms spread, looking up, dramatic pose, suit, tie, messy clothing, formal wear, motion blur, shutter speed, cinematic lighting, high contrast"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvflaz2h.jpg?v=1792434791421",
+   "pos": "50.0% 42.0%",
    "soon": false
   },
   {
@@ -9246,5 +9246,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792434731896
+ "updatedAt": 1792434791916
 };

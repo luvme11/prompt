@@ -8377,7 +8377,7 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, beautiful anime illustration, solo, preserve original facial features, hair color and eye color,\n\nelegant silver-white gothic dress, intricate lace details, delicate pearl necklace, braided low bun with a large white satin ribbon, preserve original hair color,\n\nholding a single deep burgundy black rose close to her lips, delicate fingers gently holding the stem, looking directly at the viewer, calm cold expression, slightly lowered chin, elegant mysterious gaze,\n\ndramatic frontal close-up portrait, upper body composition, face prominently filling the frame, perfectly visible eyes, subtle low-angle perspective, elegant asymmetrical framing,\n\ndark burgundy roses surrounding the foreground, ornate silver swords arranged behind her, deep black background, delicate silver ornaments, dramatic soft lighting, luminous silver fabric, rich burgundy accents,\n\ndark romantic gothic fantasy, refined anime illustration, delicate lineart, smooth shading, cinematic contrast, clean composition,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvf6qosg.jpg?v=1792410369847",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8410,5 +8410,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792410343101
+ "updatedAt": 1792410370478
 };

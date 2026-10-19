@@ -9129,8 +9129,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, magical girl, dynamic floating pose, elaborate pastel dress, layered frills, ribbon bow, twintails, holding glowing ornate crystal wand, casting spell, glowing magic circle, sparkling particles, star dust, floating ribbons, vibrant colors, detailed expressive eyes, masterpiece, best quality, sharp focus, anime illustration"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfl3jwm.jpg?v=1792434430375",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -9176,5 +9176,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792434346439
+ "updatedAt": 1792434430896
 };

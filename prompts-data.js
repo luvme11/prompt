@@ -8498,7 +8498,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvf77q4g.jpg?v=1792411089264",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf7blkp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "dreamy misty background, white and pastel blue, floating particles, sparkles, swirling sheer ribbons, feathers, soft glow, ethereal atmosphere, cowboy shot, standing, arms spread wide, arms outstretched, one leg lifted, knee bent, ballet pose, on tiptoes, looking at viewer, dynamic pose, floating ribbons around,"
+    },
+    {
+     "label": "의상",
+     "text": "layered lace tutu, backless bodice, harness straps, sheer puff sleeves, lace leg wraps, floral garter, ballet shoes, ribbon laces, white and light blue fabric,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792411090520
+ "updatedAt": 1792411154649
 };

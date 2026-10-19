@@ -8363,10 +8363,10 @@ window.PROMPT_DATA = {
      "text": "seated, sitting, upper body, front view, leaning slightly backward, head tilted back, chin raised, jaw lifted, looking upward, closed mouth, closed lips, looking at viewer, 2::Two hand entering from outside the frame::, {2::Left hand gripping the character's chin from below::, fingers placed along the jawline, lifting the character's chin, holding the chin up}, {2::Right hand holding a fork::, fork held directly in front of the character's mouth}, {fork approaching the mouth, 2::food on fork::}, feeding the character, being fed by another person, 2::lips pressed::, foreground hands, hands close to the character's face, fork near mouth, overlapping foreground, foreshortening, centered in frame, face near the center,upper torso filling the frame, cropped lower body, dynamic perspective, intimate composition, simple background, white background"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvf5xy41.jpg?v=1792408986077",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792408962855
+ "updatedAt": 1792408986881
 };

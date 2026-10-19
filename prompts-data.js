@@ -8822,7 +8822,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfiqt04",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, oversized [후드색] hoodie, no makeup look, holding convenience store snack bag, standing outside apartment building at night, sleepy soft expression, natural candid vibe,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430284994
+ "updatedAt": 1792430340030
 };

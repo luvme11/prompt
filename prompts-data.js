@@ -8307,7 +8307,7 @@ window.PROMPT_DATA = {
      "text": "high angle, overhead view, cropped, 1.4::lying on a large plate, fetal position, curled up::, eyes closed, peaceful expression, white puff sleeve blouse, crisp collar, pink pinstripe corset bodice, laced bodice, satin ribbon necktie, cameo brooch, delicate chain charm on the bodice, lace cuffs, pink layered frilled skirt, tulle petticoat, black knee socks, polished mary jane shoes, formal dress, giant strawberry shortcake, whipped cream swirls, fresh strawberries, halved strawberries, macarons, cookies, wrapped candies, a few chocolate coated biscuit sticks scattered around, sugar pearls, sprinkles, cake knife resting on the plate, pink roses, scattered rose petals, lace doily under the plate, 1.2::black satin ribbon and red satin ribbon crossing diagonally over each other, intertwined black and red ribbons, crossed ribbons framing the composition::, black and red ribbon bows, sparkle, glitter, floating sugar crystals, pastel colors, pink tone with black and red accents, sweet atmosphere, soft lighting, 1.4::monthly manga magazine cover layout, magazine logo in the top corner, huge thin outlined title lettering overlapping the character, oversized vertical text running down the left edge::, 1.2::big issue number inside a circle in the top corner, bold horizontal catchphrase banner across the lower middle, small text-only round badges, narrow columns of small text along the side, small labeled text boxes, text layered both behind and in front of the character, pink and teal text colors::, holographic text, english text, text, holographic lighting, photoshoot, fake magazine cover,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvf5u2o1.jpg?v=1792408911219",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8368,5 +8368,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792408837746
+ "updatedAt": 1792408911854
 };

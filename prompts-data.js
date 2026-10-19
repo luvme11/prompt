@@ -8408,7 +8408,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf6vimp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "surreal couture campaign, minimalist dreamscape, elegant fantasy atmosphere,\n\nwearing an ivory silk gown with long flowing panels, delicate gold waist jewelry, minimal refined accessories,\n\nstanding in an endless white sand desert at golden hour, enormous floating golden rings suspended in the sky, thin mirrored panels rising from the dunes, silk fabric banners drifting in the wind,\n\nwalking barefoot across the smooth dunes, lightly holding one side of the flowing skirt, body turned diagonally as the wind catches the fabric,\n\ncalm radiant smile, confident dreamy gaze, serene sophisticated mood,\n\ncreamy ivory sunlight, warm pale-gold reflections, long elegant shadows, glowing dust in the air, cinematic backlighting, surreal minimalist beauty, graceful movement, high-fashion fragrance-film atmosphere without visible product, ultra detailed, 8k"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792410384795
+ "updatedAt": 1792410403963
 };

@@ -8794,7 +8794,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfilw41",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, falling from sky, 1.3::lying back::, wide shot, holding weapon, aiming viewer, streaks, techwear, floating straps, futuristic outfit, black jacket, layered clothes, white crop top, midriff, black shorts, tactical belt, straps around body, body harness, glowing accents, fingerless gloves, 1.2::ribbons connecting body and weapon::, huge rifle, futuristic rifle, detailed weapon, glowing weapon parts, wind, hair blowing in wind, clothes blowing in wind, ribbons fluttering in wind, city at night, neon lights, cityscape in background, strings, many straps in background, holding straps, action, masterpiece, best quality, amazing quality, very aesthetic, highres, incredibly absurdres, colorful background,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430078301
+ "updatedAt": 1792430110318
 };

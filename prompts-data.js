@@ -8970,7 +8970,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfjea5z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, hand raised near face, elegant hand pose, holding a long cigarette holder, cigarette holder near lips, fingers framing face, smoke swirling around, foreground smoke, overlapping smoke, ornate gothic fashion, high collar jacket, fitted jacket, frog buttons, embroidered details, gold accessories, round tinted sunglasses, dangling earrings, multiple rings, ornate jewelry, (색상1) and (색상2) and (색상3) and (색상4) colors, vivid colors, high saturation, limited color palette, stark color contrast, flat colors, thick swirling smoke, curling smoke trails, billowing two vivid colors smoke, smoke ribbons, flowing smoke, smoke obscuring part of face, bold black outlines, rough lineart, expressive linework, flat shading, cel shading, sharp shadows, graphic illustration, (색상5) background, abstract smoke shapes, large smoke clouds, swirling shapes, organic flowing shapes, abstract graphic composition, smoke filling edges of frame, smoke extending beyond frame"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792431405527
+ "updatedAt": 1792431434897
 };

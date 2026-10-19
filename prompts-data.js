@@ -8548,7 +8548,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvf8j16x.jpg?v=1792413182520",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf8nqex",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, ultra high detail, anime style, soft pastel color palette, summer atmosphere, bright sunlight, wide horizontal composition, panoramic view, clear blue ocean, gentle waves, water sparkles reflecting sunlight, soft ripples, minimal clean background, lots of empty space on the left, composition weighted slightly to the right, soft delicate features, holding onto a floating inflatable pool ring with both arms, upper body above water, body partially submerged, naturally floating in water (not lying on the ring), relaxed posture, wet hair slightly clinging to skin, small water droplets on shoulders and arms, wearing a simple swimsuit, soft sunlight glow, cinematic lighting, dreamy atmosphere, gentle breeze effect, natural water movement, clean composition, aesthetic summer vibe,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792413183324
+ "updatedAt": 1792413399932
 };

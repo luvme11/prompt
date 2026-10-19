@@ -8851,7 +8851,7 @@ window.PROMPT_DATA = {
      "text": "tying her hair with both hands, arms raised above her head, slightly messy hair, soft natural expression, gentle smile,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfitkl4.jpg?v=1792430559791",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8870,5 +8870,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792430539935
+ "updatedAt": 1792430560558
 };

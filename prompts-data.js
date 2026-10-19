@@ -8422,7 +8422,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf6wbrf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "playful surreal fashion campaign, dreamy pop-luxury aesthetic, feminine and whimsical atmosphere,\n\nwearing a glossy cherry-pink satin mini dress with a dramatic oversized bow detail, delicate crystal earrings, sleek heels,\n\ninside a surreal transparent glass room surrounded by an endless pale pink sunset sky, giant glossy red cherries floating weightlessly outside the windows, sheer curtains suspended in midair,\n\nsitting sideways on a transparent acrylic chair, legs elegantly angled, one elbow resting casually on the chair back, playful relaxed pose,\n\nbright mischievous smile, lively sparkling eyes, charming cheeky expression,\n\nsoft pink ambient light, cherry-red reflections, glossy glass surfaces, dreamy bloom, floating objects, subtle sparkle effects, youthful high-fashion fantasy, editorial advertising still, ultra detailed"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792410403963
+ "updatedAt": 1792410441733
 };

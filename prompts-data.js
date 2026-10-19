@@ -8495,10 +8495,10 @@ window.PROMPT_DATA = {
      "text": "smile, wink,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvf77q4g.jpg?v=1792411089264",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792411041629
+ "updatedAt": 1792411090520
 };

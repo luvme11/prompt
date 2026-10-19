@@ -9034,7 +9034,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfk1lgr.jpg?v=1792432524003",
    "pos": "50.0% 40.0%",
    "soon": false
+  },
+  {
+   "id": "mvfk5i90",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nsfw, 1person, solo, anime style, bright lighting, from above, angled toward the viewer, close-up, 3::face focus, overhead shot::, indoor, cozy bedroom background, 1::all body lying on bed, leaning back::, audio player on shelf, bed with [침구 색] bedding, 1.2:: school identity card with small text \"[카드 이름]\" and character's photo::, 3::left hand holding an identity card covered the mouth. right hand makes a v sign gesture near the face::. scattered clothing and socks lie around the bed. leg bent, blush, shy, frustrated, -1::wariza, spread legs, selfie::,\nwhite short-sleeved collared shirt, unbuttoned collar, navy plaid pleated miniskirt, red uniform ribbon, black thigh-high socks, mini side ponytail with pink pompom, white panty on one thigh"
+    }
+   ],
+   "img": "img/comp/mvfk5i90.jpg?v=1792432706613",
+   "pos": "72.9% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792432525137
+ "updatedAt": 1792432707241
 };

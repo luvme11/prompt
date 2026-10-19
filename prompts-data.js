@@ -9328,7 +9328,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvflpzzo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, standing, storefront, posing, hand on hip, v, wink, decora, tutu, oversized shirt, kneehighs, platform footwear, multiple hair clips, oversized bow, bandaid on cheek, star sticker on cheek, beaded bracelet, multiple necklaces, tote bag, button badge, stuffed toy, keychain, harajuku, narrow street, storefront sign, food stand, gachapon, crowd, daytime, sunlight, overexposed, colorful, vibrant colors, street"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792435324292
+ "updatedAt": 1792435341434
 };

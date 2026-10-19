@@ -9244,7 +9244,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvflcxxz.jpg?v=1792434886888",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mvflid69",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sticker sheet, chibi, peach and slate blue theme, traveling cartographer, rolled map tube backpack, ink stained fingers, quill tucked behind ear, astrolabe necklace, wax stamp cufflinks, parchment wrap skirt, compass tattoo on ankle, satchel covered in patches, laced moccasins, sparkle, 1.2::thick outline, sticker, outlined::, jumping, arms up, spread arms, mid-air, above giant globe, legs apart, excited, open mouth, diagonal angle, unfurling scroll, ink splatter, dotted trail line, mountain silhouette, tiny ship, vintage compass rose"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792434888007
+ "updatedAt": 1792434984495
 };

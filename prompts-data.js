@@ -8324,7 +8324,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf5vf46",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, from side, side view, eye level,  topless, bare breasts, white cloth wrapped around lower body, wet skin, tying hair, arms up, hands in hair, biting a hairband, partially submerged in water, water level at pubic height, night, outdoor, pond, waterfall, soft lighting, moonlight, mist,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792408661695
+ "updatedAt": 1792408719857
 };

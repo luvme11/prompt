@@ -8967,8 +8967,8 @@ window.PROMPT_DATA = {
      "text": "japanese traditional luxury procession, oiran-inspired atmosphere, dramatic full-body composition,\n\n1.4::stylized walking pose::, 1.35::slow ceremonial step::, 1.35::one foot turned outward::, upright confident posture, broad-shouldered silhouette, calm dominant presence, refined intimidating elegance,\n\n1.45::luxurious layered male kimono::, 1.4::ornate haori and kimono ensemble::, 1.35::long structured outer robe::, rich brocade, subtle floral embroidery, gold-thread detailing, traditional Japanese motifs, wide obi, decorative tassels, slightly open collar showing the neck and collarbones,\n\n1.35::traditional male hairstyle::, minimal refined hair ornaments, no overly feminine styling, clean masculine presentation,\n\n1.35::tall lacquered geta::, 1.3::one hand lifting the robe hem::, 1.3::other hand holding a folding fan or long kiseru pipe::,\n\nlayered robes trailing behind, drifting petals, glimmering gold accents, soft incense haze, warm lantern glow,\n\ntraditional Edo-period pleasure district, wooden lattice facades, warm paper lanterns, polished stone path, subtle night festival mood, cinematic traditional Japanese setting,\n\nornate, masculine, elegant, dominant, dignified, luxurious Japanese aesthetic, dramatic silhouette"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfjdni8.jpg?v=1792431468222",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -8986,5 +8986,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792431434897
+ "updatedAt": 1792431469463
 };

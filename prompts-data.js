@@ -8952,7 +8952,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfj9yri.jpg?v=1792431348937",
    "pos": "50.0% 100.0%",
    "soon": false
+  },
+  {
+   "id": "mvfjdni8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "여자",
+     "text": "1person, solo, japanese traditional oiran procession, elegant extravagant courtesan atmosphere,\n\n1.4::dynamic graceful oiran walking pose::, 1.35::distinctive outward-turned footstep::, poised movement, slightly tilted body, 1.35::flowing sleeves and trailing hems::, dignified alluring presence, dramatic full-body composition,\n\n1.45::luxurious multilayered uchikake kimono::, 1.4::heavily layered ornate robes::, long trailing hems, rich brocade, floral embroidery, gold-thread patterns, traditional Japanese motifs, 1.35::large front-tied obi::, decorative tassels,\n\n1.4::elaborate oiran hairstyle::, 1.35::multiple ornate kanzashi hairpins::, decorative combs, floral ornaments, dangling accessories,\n\n1.4::very tall lacquered koma-geta::, 1.3::one hand lifting the kimono::, 1.3::other hand holding a folding fan or kiseru pipe::,\n\ndrifting flower petals, shimmering gold accents, delicate incense haze, warm lantern glow,\n\ntraditional Edo-period pleasure district, wooden lattice facades, glowing paper lanterns, polished stone street, night festival atmosphere, cinematic lighting,\n\nornate, graceful, seductive but dignified, lavish details, dramatic silhouette, luxurious Japanese aesthetic"
+    },
+    {
+     "label": "남자",
+     "text": "japanese traditional luxury procession, oiran-inspired atmosphere, dramatic full-body composition,\n\n1.4::stylized walking pose::, 1.35::slow ceremonial step::, 1.35::one foot turned outward::, upright confident posture, broad-shouldered silhouette, calm dominant presence, refined intimidating elegance,\n\n1.45::luxurious layered male kimono::, 1.4::ornate haori and kimono ensemble::, 1.35::long structured outer robe::, rich brocade, subtle floral embroidery, gold-thread detailing, traditional Japanese motifs, wide obi, decorative tassels, slightly open collar showing the neck and collarbones,\n\n1.35::traditional male hairstyle::, minimal refined hair ornaments, no overly feminine styling, clean masculine presentation,\n\n1.35::tall lacquered geta::, 1.3::one hand lifting the robe hem::, 1.3::other hand holding a folding fan or long kiseru pipe::,\n\nlayered robes trailing behind, drifting petals, glimmering gold accents, soft incense haze, warm lantern glow,\n\ntraditional Edo-period pleasure district, wooden lattice facades, warm paper lanterns, polished stone path, subtle night festival mood, cinematic traditional Japanese setting,\n\nornate, masculine, elegant, dominant, dignified, luxurious Japanese aesthetic, dramatic silhouette"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792431350015
+ "updatedAt": 1792431405527
 };

@@ -8658,21 +8658,7 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfhv8v8.jpg?v=1792429086716",
    "pos": "56.5% 50.0%",
    "soon": false
-  },
-  {
-   "id": "mvfhwxgf",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "1girl, one tiny chibi character, authentic early 2000s Japanese Heisei gyaru, authentic 2000s Japanese Y2K fashion, classic Heisei purikura aesthetic,\n\nEXTREMELY VOLUMINOUS HEISEI GYARU HAIR, huge fluffy teased hair, massive hair volume, heavily teased roots, lifted crown, fluffy outward curls, large bouncy curls, layered hair, thick full bangs, curled face-framing strands, glossy hair, dramatic thick curled eyelashes, long lower eyelashes, huge sparkling eyes, glittery gyaru eye makeup, glossy lips, cute exaggerated gyaru makeup,\n\nAUTHENTIC 2000s JAPANESE Y2K GYARU OUTFIT, fitted cropped baby tee, tiny graphic print on the top, layered camisole, ultra-low-rise mini skirt, low-rise denim mini skirt, exposed midriff, decorative belt, chunky belt buckle, rhinestone details, metallic details, glittery accessories, tiny shoulder bag, colorful plastic accessories, chunky platform shoes, authentic 2000s street gyaru styling, NOT modern Y2K, NOT contemporary fashion,\n\nEXTREMELY LONG GLAMOROUS NAILS, long pointed acrylic nails, heavily decorated gyaru nails, rhinestones, tiny gems, glitter, charms, 3D nail decorations, glossy nail polish, elaborate nail art, sparkling oversized nail decorations,\n\nextremely long fluffy Japanese loose socks, oversized slouchy loose socks, thick loose socks gathered around the calves and ankles, exaggerated 2000s Japanese loose socks, chunky platform shoes,\n\nthe girl taking a purikura photo together with one tiny chibi character, the chibi character is extremely small and adorable, miniature mascot-like proportions, clearly much smaller than the girl, posing together with her, cute matching pose, peace signs, playful exaggerated expressions,\n\nclassic early 2000s Japanese purikura booth, retro purikura machine, colorful glowing screen, strong camera flash, purikura photo sheets scattered around, printed photo strips, sticker sheets, handwritten doodles, hearts, stars, sparkles, ribbons, bows, colorful stamps, glitter stickers, cute Japanese handwritten-style decorations, rhinestones, charms, maximalist Heisei decoration,\n\nglossy overexposed purikura effect, enlarged sparkling eyes, smooth glowing skin, vivid saturated colors, slightly dreamy low-resolution printed-photo texture, nostalgic 2000s Japanese atmosphere, colorful cluttered composition, cute maximalist aesthetic, authentic Heisei gyaru culture, authentic early 2000s Japanese Y2K, maximum purikura energy, highly detailed"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
   }
  ],
- "updatedAt": 1792429087526
+ "updatedAt": 1792429116041
 };

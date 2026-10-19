@@ -9087,8 +9087,8 @@ window.PROMPT_DATA = {
      "text": "lying on stomach on a bed, 1.3::propped up on both elbows, both palms cupping cheeks, face resting in both hands::, forearms upright and close together, shoulders slightly hunched, 1.2::both knees bent, lower legs raised behind the body, ankles loosely crossed, feet visible above the head in the background::, front view, camera at mattress level, looking directly at viewer, intimate close-up, face and upper torso filling the frame, centered face, vertical composition, strong foreshortening, face and hands in the foreground,\n\n1.4::extremely oversized white button-up shirt, enormous loose-fitting shirt, excessive fabric volume::, dropped shoulder seams, extra-wide long sleeves loosely pushed up to the elbows, billowing fabric pooled around the body, 1.3::several front buttons undone, shirt hanging loosely open at the front, widely parted shirt collar, deep open neckline::, exposed collarbones and upper chest, loose shirt panels draping to either side, soft rumpled fabric, abundant folds,\n\n1.3::bright heart-shaped catchlights in both eyes, luminous white heart-shaped eye highlights::, 1.2::warm pink-red glow radiating softly from the eyes::, soft rosy bloom around the eyelids, flushed cheeks, delighted open-mouth smile,\n\nnear-black background, faint deep crimson ambient glow behind the body, dim bedroom, minimal background detail, softly rumpled pale bedsheets in the foreground, 1.2::strong backlighting, pale pink rim light tracing the hair, shoulders and sleeves::, face mostly in soft shadow, luminous eyes standing out against the shaded face, high contrast lighting"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfkreqx.jpg?v=1792433978118",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -9120,5 +9120,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792433933973
+ "updatedAt": 1792433978759
 };

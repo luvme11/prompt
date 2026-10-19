@@ -9171,10 +9171,10 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, steampunk magical girl, victorian frill dress with leather corset, brass gears and clockwork mechanisms, ornate goggles on hair, holding a giant ornate clockwork key staff, glowing golden clock-dial magic circle, floating cogs, subtle steam effects, sepia and gold tone, industrial victorian city background, intricate mechanical details, cinematic rim lighting, masterpiece, best quality"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfl4oqj.jpg?v=1792434506637",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792434489797
+ "updatedAt": 1792434507321
 };

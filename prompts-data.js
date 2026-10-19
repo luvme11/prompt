@@ -8644,7 +8644,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfhv8v8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "[색상] tracksuit ,holding a Shōjo manga with both hands, covering the corners of his mouth with a Shōjo manga, a shy face, red cheeks, lowered eyebrows,indoor,[색상] Shōjo manga magazine, sitting on the bed , sitting on the floor holding your knees ,in a [색상]-based room,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792428808944
+ "updatedAt": 1792428866966
 };

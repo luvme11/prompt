@@ -8627,10 +8627,10 @@ window.PROMPT_DATA = {
      "text": "calm and alluring expression, subtle smirk"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf8whwk.jpg?v=1792414052103",
+   "pos": "50.0% 8.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792413877303
+ "updatedAt": 1792414052749
 };

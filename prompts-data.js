@@ -8833,10 +8833,10 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, oversized [후드색] hoodie, no makeup look, holding convenience store snack bag, standing outside apartment building at night, sleepy soft expression, natural candid vibe,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfiqt04.jpg?v=1792430421013",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792430404118
+ "updatedAt": 1792430421810
 };

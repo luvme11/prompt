@@ -8562,7 +8562,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf8nvrg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, anime style, bathroom mirror aesthetic, standing in front of mirror, phone selfie, water droplets on mirror, steam slightly fogging glass, flash reflection, glossy wet skin look, wearing casual tank top, messy but intentional composition, intimate but stylish mood,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792413399932
+ "updatedAt": 1792413406835
 };

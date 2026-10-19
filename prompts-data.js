@@ -9174,7 +9174,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfl4oqj.jpg?v=1792434506637",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvflaz2h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, flying papers, whirling papers, chaotic, library, office, wind, indoor, swirling, debris, depth of field, standing in center, arms spread, looking up, dramatic pose, suit, tie, messy clothing, formal wear, motion blur, shutter speed, cinematic lighting, high contrast"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792434507321
+ "updatedAt": 1792434639759
 };

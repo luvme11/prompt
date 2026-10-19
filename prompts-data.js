@@ -8896,7 +8896,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfj0gm0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::Japanese manga tankobon cover::, 1.9::vertical book cover::, 1.8::single character large in frame::, 1.8::waist-up::, three-quarter view, 1.9::moving forward through dense forest::, 1.8::one hand pushing aside wet branches and leaves::, reaching arm, forward leaning posture, face partially hidden by foliage,1.9::traditional Japanese gakuran uniform::, black buttoned jacket, high standing collar, metal buttons, rain-soaked fabric, wet collar,2::dense overgrown Japanese forest::, 1.9::claustrophobic vegetation::, 1.8::oversized foreground leaves::, dark foliage enclosing character, branches resembling prison bars, tangled vines, intricate leaf veins, narrow forest path, layered vegetation,1.9::heavy rainfall::, 1.8::diagonal rain streaks::, dripping leaves, glossy wet foliage, rain-soaked hair, rain mist, atmospheric haze,2::pure monochrome black and white::, 1.9::dramatic high contrast::, deep black shadows, bright white highlights, gray midtones, wet reflections,2::Japanese manga cover typography::, 2::large vertical Japanese title \"緑の檻\"::, 1.9::title on right side::, 1.8::bold Japanese Mincho lettering::, white text with black outline, small Japanese author name, volume number 01, subtle publisher imprint,1.8::thin double-line rectangular border::, off-white margins, foliage overlapping frame, asymmetrical editorial layout, Japanese literary mystery, melancholic rainy atmosphere,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430710870
+ "updatedAt": 1792430790046
 };

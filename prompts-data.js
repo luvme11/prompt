@@ -8716,7 +8716,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvficacn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white mini dress, sleeveless dress, sleeveless dress with string, camisole dress, 1.5::all cherry pattern, red and green details::, cotton fabric, textured fabric, delicate and playful style, tiered skirt"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792429604473
+ "updatedAt": 1792429662044
 };

@@ -8436,7 +8436,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvf6wbrf.jpg?v=1792410587180",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mvf74xbo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "gothic chapel, stained glass window, blue roses, scattered blue flowers, cross ornaments, dark blue tones, glowing particles, luminous atmosphere, upper body, standing, floating, hand on own chest, other hand reaching out, looking at viewer, head tilt, flowing hair, wind, veil blowing, centered,"
+    },
+    {
+     "label": "의상",
+     "text": "gothic ghost bride dress, black dress, lace veil, blue rose crown, cross hair chain, detached lace sleeves, cross choker, silver filigree belt, chain accessories, cross pendant,"
+    },
+    {
+     "label": "표정",
+     "text": "sad, melancholic, teary eyes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792410587815
+ "updatedAt": 1792410842909
 };

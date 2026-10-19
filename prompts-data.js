@@ -8559,8 +8559,8 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, ultra high detail, anime style, soft pastel color palette, summer atmosphere, bright sunlight, wide horizontal composition, panoramic view, clear blue ocean, gentle waves, water sparkles reflecting sunlight, soft ripples, minimal clean background, lots of empty space on the left, composition weighted slightly to the right, soft delicate features, holding onto a floating inflatable pool ring with both arms, upper body above water, body partially submerged, naturally floating in water (not lying on the ring), relaxed posture, wet hair slightly clinging to skin, small water droplets on shoulders and arms, wearing a simple swimsuit, soft sunlight glow, cinematic lighting, dreamy atmosphere, gentle breeze effect, natural water movement, clean composition, aesthetic summer vibe,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf8nqex.jpg?v=1792413587047",
+   "pos": "50.0% 56.0%",
    "soon": false
   },
   {
@@ -8592,5 +8592,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792413445159
+ "updatedAt": 1792413587543
 };

@@ -9227,7 +9227,7 @@ window.PROMPT_DATA = {
      "text": "2::black long coat with gold trim, military coat, oversized coat::, lying, lying on bed, top down view, looking at viewer, deep blush, covering mouth, moe sleeves,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvflciol.jpg?v=1792434859400",
    "pos": "50% 50%",
    "soon": false
   },
@@ -9246,5 +9246,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792434839773
+ "updatedAt": 1792434859942
 };

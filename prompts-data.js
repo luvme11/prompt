@@ -8658,7 +8658,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfhv8v8.jpg?v=1792429086716",
    "pos": "56.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvfi74ej",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "남자",
+     "text": "cigarette in mouth,\nsmoking,\nvisible cigarette smoke,\ncalm expression,\nrelaxed expression,\ncomfortable posture,\n\nopen black outerwear,\nblack jacket slipping off the shoulders,\ntight white t-shirt,\ncasual jeans,\n\n1.35::thick muscular body::,\n1.3::broad shoulders::,\n1.25::wide chest::,\n1.3::thick muscular arms::,\n1.2::large biceps::,\n1.2::thick forearms::,\n1.25::defined pectorals::,\n1.2::defined abs::,\n1.15::defined obliques::,\n1.25::dense musculature::,\npowerful physique,\n\n1.5::main male standing in the foreground::,\n1.45::medium shot::,\n1.4::framed from upper thighs to head::,\n1.35::slightly low angle::,\n1.35::body angled slightly to the side::,\n1.35::relaxed standing pose::,\n1.3::one hand resting near the waist or pocket::,\n\n1.5::holding a smartphone toward the camera::,\n1.5::smartphone prominently visible in the foreground::,\n1.45::phone screen facing the viewer::,\n1.4::strong foreground perspective on the phone::,\n1.35::fingers visibly holding the phone at the lower edge::,\n\n1.55::the man outside the phone looks calm, relaxed, and casually smoking::,\n1.6::the man inside the smartphone screen is the exact same person as the man outside the phone::,\n1.55::same male character inside and outside the phone::,\n1.5::same face, same hair, same eyes, same piercings, same physique::,\n1.4::not a different person::,\n1.4::same character shown in two states::,\n\n1.5::inside the smartphone screen, the same man is lying down on a bed::,\n1.45::shirt lifted up, exposing the stomach and torso::,\n1.45::more disheveled appearance inside the phone::,\n1.4::aroused_face::,\n1.2::panting::,\n1.2::nipple piercing::,\n1.45::aroused, excited expression::,\n1.35::slightly parted lips::,\n1.35::messy hair::,\n1.3::sensual pose::,\n1.3::suggestive atmosphere inside the phone screen::,\n\ndark alley,\nnarrow alleyway,"
+    },
+    {
+     "label": "여자",
+     "text": "cigarette in mouth,\nsmoking,\nvisible cigarette smoke,\ncalm expression,\nrelaxed expression,\ncomfortable posture,\n\nopen black outerwear,\nblack jacket slipping off the shoulders,\ntight white t-shirt,\ncasual jeans,\n\n1.3::curvy athletic female body::,\n1.2::soft but toned physique::,\n1.2::defined waist::,\n1.2::wide hips::,\n1.2::full thighs::,\n1.15::toned arms::,\n1.15::defined midriff::,\n1.1::subtle abs::,\nhealthy feminine proportions,\nconfident sensual presence,\n\n1.5::main female standing in the foreground::,\n1.45::medium shot::,\n1.4::framed from upper thighs to head::,\n1.35::slightly low angle::,\n1.35::body angled slightly to the side::,\n1.35::relaxed standing pose::,\n1.3::one hand resting near the waist or pocket::,\n\n1.5::holding a smartphone toward the camera::,\n1.5::smartphone prominently visible in the foreground::,\n1.45::phone screen facing the viewer::,\n1.4::strong foreground perspective on the phone::,\n1.35::fingers visibly holding the phone at the lower edge::,\n\n1.55::the woman outside the phone looks calm, relaxed, and casually smoking::,\n1.6::the woman inside the smartphone screen is the exact same person as the woman outside the phone::,\n1.55::same female character inside and outside the phone::,\n1.5::same face, same hair, same eyes, same piercings, same physique::,\n1.4::not a different person::,\n1.4::same character shown in two states::,\n\n1.5::inside the smartphone screen, the same woman is lying down on a bed::,\n1.45::shirt lifted up, exposing the stomach and torso::,\n1.45::more disheveled appearance inside the phone::,\n1.35::flushed expression::,\n1.2::slightly panting::,\n1.2::nipple piercing::,\n1.45::aroused, excited expression::,\n1.35::slightly parted lips::,\n1.35::messy hair::,\n1.3::sensual pose::,\n1.3::suggestive atmosphere inside the phone screen::,\n\ndark alley,\nnarrow alleyway"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792429116041
+ "updatedAt": 1792429421227
 };

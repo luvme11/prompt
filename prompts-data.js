@@ -9311,8 +9311,8 @@ window.PROMPT_DATA = {
      "text": "from above, looking up at viewer, kneeling, in water, wet, hands on lap, wind, 1.3::mixed media::, 1.2::photorealistic, realistic::, ocean, beach, rock, waves, 1.2::glitch::, noise, pixelated, text, ui, border, white, black background, grid"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvflourc.jpg?v=1792435369289",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -9344,5 +9344,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792435341434
+ "updatedAt": 1792435370078
 };

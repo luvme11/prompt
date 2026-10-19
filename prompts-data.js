@@ -8935,10 +8935,10 @@ window.PROMPT_DATA = {
      "text": "A dramatic high-angle, looking down upon a kneeling, full body, positioned in the center frame, wearing a voluminous long white lace dress, ornate lace-trimmed veil, flows onto the dark green grass, clasped together, an entreating pose, clasped in prayer gesture, gaze upward eyes, Swirling, thick smoke envelopes, an ornate cream-colored antique candelabra, three unlit candles clearly visible, cool ambient lighting, film grain texture, moody and cinematic atmosphere, soft focus, 35mm photograph."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfj45k8.jpg?v=1792431144608",
+   "pos": "50.0% 20.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792430962340
+ "updatedAt": 1792431145838
 };

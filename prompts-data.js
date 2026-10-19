@@ -8609,8 +8609,8 @@ window.PROMPT_DATA = {
      "text": "male, a handsome god, long hair loosely tied or braided, slightly messy divine hairstyle, sharp calm expression, pale skin, wearing ancient god attire, dark elegant outfit with layered gold ornaments, gemstones, arm chains, rings, intricate accessories, powerful and mysterious presence"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf8v8d3.jpg?v=1792413876364",
+   "pos": "50.0% 56.0%",
    "soon": false
   },
   {
@@ -8632,5 +8632,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792413808803
+ "updatedAt": 1792413877303
 };

@@ -8777,10 +8777,10 @@ window.PROMPT_DATA = {
      "text": "medium shot, side profile,\n1.5::adult woman::,\n1.5::holding hair tie in mouth::,\n1.4::tying hair::,\nlifting hair,\nhand in own hair,\n2::only one arm raised::,\nlooking down slightly,\nglancing at viewer,\nbare shoulders,\n1.3::white towel draped over shoulder::,\nsilver necklace,\n1.3::wet hair::,\nmessy hair,\nwet skin,\nindoor,\nbathroom background,\nwhite tiled wall,\nglass shower door,\ntowel wrapped around chest and waist,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfihssn.jpg?v=1792430059971",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792429987493
+ "updatedAt": 1792430060642
 };

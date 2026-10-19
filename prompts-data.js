@@ -8745,7 +8745,7 @@ window.PROMPT_DATA = {
      "text": "white winter-style outfit, soft fabric texture, dress material, red ribbon strap details, delicate frill accents, red heart-shaped hair clips as accessories, cute winter styling, strawberry-inspired red color accents"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfidxt6.jpg?v=1792429986982",
    "pos": "50% 50%",
    "soon": false
   },
@@ -8782,5 +8782,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792429935469
+ "updatedAt": 1792429987493
 };

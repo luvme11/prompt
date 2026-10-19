@@ -8590,7 +8590,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvf8op3p.jpg?v=1792413624118",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf8v8d3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "ancient deity concept, mystical divine atmosphere, gods banquet scene, sitting or reclining on an ornate throne or luxurious cushions, surrounded by a grand ancient temple, pillars, draped fabrics, glowing candles, soft ambient light, ultra detailed ornate jewelry, intricate accessories, layered gold and gemstone ornaments, face chain jewelry across the nose and cheeks, forehead jewelry, glowing gems, dramatic lighting, soft shadows, cinematic composition, medium shot, upper body to waist visible, more background visible, rich decorative environment, fantasy god aesthetic, elegant and powerful aura, highly detailed, anime illustration style, masterpiece,"
+    },
+    {
+     "label": "여자 의상",
+     "text": "female, a beautiful goddess, partially braided with delicate ornaments, soft but mysterious expression, wearing luxurious ancient goddess attire, decorated with layered gold jewelry, gemstones, arm chains, hand jewelry, elegant posture"
+    },
+    {
+     "label": "남자 의상",
+     "text": "male, a handsome god, long hair loosely tied or braided, slightly messy divine hairstyle, sharp calm expression, pale skin, wearing ancient god attire, dark elegant outfit with layered gold ornaments, gemstones, arm chains, rings, intricate accessories, powerful and mysterious presence"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792413624617
+ "updatedAt": 1792413749911
 };

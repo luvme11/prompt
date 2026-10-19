@@ -8995,10 +8995,10 @@ window.PROMPT_DATA = {
      "text": "looking up at viewer, standing pose, hands raised behind head, confident expression, cigarette in mouth, smoke trail,\nblack crop top pulled up to the chest, {Black and white striped sleeves}, spiked arm band, tight see-through inner top, black cross nipple tape, spiked bracelets, layered chain accessories on chest and waist, black micro shorts, lace-up waist detail, thigh straps, Gothic streetwear, multiple necklaces, Spike choker,\nurban street at night, asphalt road, faded road markings, dark city atmosphere,\nwarm streetlights, cinematic lighting, moody shadows, depth of field, high contrast, glossy highlights, nightlife atmosphere,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfjn5rh.jpg?v=1792432003985",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792431849061
+ "updatedAt": 1792432004525
 };

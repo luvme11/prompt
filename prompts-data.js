@@ -9048,7 +9048,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfk5i90.jpg?v=1792432706613",
    "pos": "72.9% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvfk6mo3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1person, solo, cinematic lighting, warm indoor lighting, bedroom setting, blinds with horizontal slat shadows, lying prone on a bed with legs bent upward in the background, elbows in the foreground, 3::holding a lit cigarette in right hand and a silver handgun in the left hand::, pillows, rumpled patterned bedsheets, a table lamp with a pleated shade on the left, scattered magazines and an ashtray on the bed. cigarette pack,black short-sleeved top, black fitted pants, thin black choker necklace with a small red circle pendant, black high heels on feet"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792432707241
+ "updatedAt": 1792432757454
 };

@@ -8836,7 +8836,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfiqt04.jpg?v=1792430421013",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfitkl4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "masterpiece, best quality, ultra high detail, Korean manhwa style, semi-realistic, upper body focus, cinematic composition, warm soft lighting, shallow depth of field, soft glow, dreamy atmosphere, gentle blur background, romantic mood, subtle sparkles, small floating heart particles, soft pink light effects, charming aura, slightly flustered cute mood,"
+    },
+    {
+     "label": "표정",
+     "text": "tying her hair with both hands, arms raised above her head, slightly messy hair, soft natural expression, gentle smile,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430421810
+ "updatedAt": 1792430468938
 };

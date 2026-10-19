@@ -8879,8 +8879,8 @@ window.PROMPT_DATA = {
      "text": "maid, black dress, china dress, short dress, side slit, open chest, gold floral print, waist apron, frills, frilled apron, frilled sleeves, long sleeves, sleeves past fingers, wide sleeves, thighhighs, white stockings, lace trim, maid headdress, gold chinese-style knots attached to the maid headdress, hair ribbon, white ribbon, hands up, shadow, contrapposto, cowboy shot, low angle, looking at viewer, indoor, white and gold and black tone mansion background, large window, bright, dynamic composition, dramatic lighting"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfix8z4.jpg?v=1792430806566",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -8912,5 +8912,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792430790046
+ "updatedAt": 1792430807049
 };

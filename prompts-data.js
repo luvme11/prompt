@@ -8882,7 +8882,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfiye6p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::solo::, 2::upper body shot::, 1.9::waist-up::, 1.9::character large in frame::, 1.8::three-quarter front view::, 1.7::slightly low angle::, 1.8::dynamic asymmetrical composition::, 2::tying a Japanese tasuki sash by oneself::, 2::one end of a long white cloth sash held between teeth::, 1.9::seductively biting the white fabric::, 2::one hand firmly pulling the sash across the chest::, 1.9::other hand gripping the loose fabric near the shoulder::, 1.9::white cloth stretched diagonally across the chest::, 1.8::sash draped over both shoulders::, 1.8::visible fabric tension::, 1.7::loose cloth ends fluttering::, 1.9::head tilted slightly downward::, 1.9::half-lidded eyes::, 1.8::looking up through eyelashes::, 1.8::intense alluring gaze::, 1.7::subtle seductive expression::, 1.7::relaxed eyebrows::, 1.6::slightly flushed cheeks::, 1.6::messy windblown hair::, 1.6::exposed neck::, 1.7::visible collarbones::, 1.9::black Japanese tokko-fuku uniform::, 1.8::partially unbuttoned uniform jacket::, 1.7::open collar::, 1.7::loosely fitted neckline::, 1.6::subtle glimpse of upper chest::, 1.7::gold embroidered kanji::, 1.6::gold buttons::, 1.8::white tasuki contrasting against black clothing::, 1.6::wrinkled fabric::, 1.7::dramatic side lighting::, 1.6::deep shadows around the neck::, 1.5::cinematic atmosphere::, 1.5::dark muted background::, 1.4::subtle rim lighting::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430640697
+ "updatedAt": 1792430693666
 };

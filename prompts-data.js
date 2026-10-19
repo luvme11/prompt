@@ -9101,7 +9101,7 @@ window.PROMPT_DATA = {
      "text": "2-panel manga, side-by-side panels, vertical border, same adult character in both panels, consistent proportions and outfit, head-to-knee shot, matching angles,\n\n[캐릭터 성별 / 체형]\n\nfitted opaque white ghost robe, defined waist silhouette, long bell sleeves, separate white ghost veil with black oval eyes and pink cheek marks,\n\nleft panel: fully covered head and face, hair completely hidden inside the veil, playful ghost pose, both hands raised beside shoulders, elbows bent, weight on one leg,\n\nright panel: unseen partner's hand lifting the front of the veil above the forehead, fabric gathered on top of the head, face and hair revealed, [캐릭터 머리카락 / 눈 / 얼굴 외모], deep blush, embarrassed startled expression, furrowed brows, averted gaze, small pout, raised shoulders, hands drawn shyly toward chest, robe fully in place,\n\ndim Halloween room, velvet curtains, glowing jack-o'-lanterns, warm orange lighting, soft violet shadows, detailed fabric folds, no text, no speech bubbles"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfktut2.jpg?v=1792434102169",
    "pos": "50% 50%",
    "soon": false
   },
@@ -9120,5 +9120,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792433978759
+ "updatedAt": 1792434103267
 };

@@ -8808,7 +8808,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfiodas",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, side profile, cowboy shot, shirtless, bare chest,\n1.5::brushing teeth::, toothbrush in mouth, holding toothbrush, cheek slightly puffed,\n\n1.5::looking down at viewer::, head tilted, half-lidded eyes, sleepy gaze, lazy expression, morning drowsiness,\n\n1.5::towel draped over shoulder::, damp towel, casual pose,\n\nbathroom background, mirror, morning light, simple indoor lighting,\n\nbest quality, masterpiece, detailed skin texture, casual everyday mood"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430175692
+ "updatedAt": 1792430225886
 };

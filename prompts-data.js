@@ -9143,7 +9143,7 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, magical girl, idol singer, mid-transformation, seashell motif, blonde twintails, dynamic pose, winking, holding cute magical microphone, outfit materializing from sparkling light, rainbow light trails, floating iridescent bubbles, soft glowing rings, pastel color palette, nostalgic 2000s anime style, retro aesthetic, classic cel animation, bright lighting, masterpiece, best quality"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvfl3rbv.jpg?v=1792434454391",
    "pos": "50% 50%",
    "soon": false
   },
@@ -9176,5 +9176,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792434430896
+ "updatedAt": 1792434455033
 };

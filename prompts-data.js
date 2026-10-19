@@ -8713,8 +8713,8 @@ window.PROMPT_DATA = {
      "text": "holding a futuristic handgun, one-handed aiming pose, sleek black pistol, red illuminated details"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfib1x8.jpg?v=1792429760671",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -8750,5 +8750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792429739136
+ "updatedAt": 1792429761318
 };

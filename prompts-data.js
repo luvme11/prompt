@@ -8405,8 +8405,8 @@ window.PROMPT_DATA = {
      "text": "POV, first-person perspective, authentic Korean Go-Stop game, two adults playing Go-Stop inside a cozy room, playful and lively atmosphere,\n\nthe viewer is sitting on the floor across a low table, holding hwatu cards in the foreground, one hand visible placing a card down onto the table, only the viewer’s hands visible,\n\nacross the table, only one opponent is present, sitting upright on the floor and clearly visible from the waist up, holding several hwatu cards, wearing a simple plain short-sleeve t-shirt, casual everyday indoor clothing, natural styling suitable for either male or female,\n\nthe opponent has a playful teasing expression, bright mischievous smile, lively eyes, amused and competitive mood, looking toward the viewer as if reacting to the game, slightly leaning forward with fun energy,\n\na realistic Go-Stop game in progress, colorful hwatu cards naturally spread across the table, clear center field cards, draw pile, captured card piles neatly arranged for both players, believable and authentic Korean card-game layout,\n\ninside a tidy cozy Korean room, soft bedding or cushions in the background, low cabinet, snacks and drinks near the table, comfortable lived-in atmosphere,\n\nmedium-close POV composition, the viewer’s hands and cards in the foreground, the opponent clearly visible across the table, both players sitting properly, no one lying down,\n\nwarm indoor lighting, realistic shadows, natural textures, playful slice-of-life realism, grounded and believable scene, cinematic everyday atmosphere, highly detailed"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf6u7mf.jpg?v=1792410520625",
+   "pos": "50.0% 0.0%",
    "soon": false
   },
   {
@@ -8438,5 +8438,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792410441733
+ "updatedAt": 1792410521119
 };

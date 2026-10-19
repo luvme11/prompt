@@ -8690,7 +8690,33 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfi7861.jpg?v=1792429542227",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvfib1x8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "masterpiece, best quality, absurdres, highres,\nsolo, full body, character focus, side view,\ndynamic pose, large character in foreground, diagonal composition, flowing hair, windblown hair,\n\n[의상]cyberpunk streetwear, futuristic tactical fashion,\noversized black techwear jacket, cropped armored jacket, asymmetrical red panels, neon red piping,\nhigh-tech bodysuit, layered utility straps, metal buckles, tactical harness, detachable belt pouches, futuristic shoulder armor, glossy black material, transparent technical fabric, exposed mechanical fasteners, holographic patches, glowing circuit patterns, fingerless gloves, metallic rings, thigh straps, asymmetrical shorts, black thigh-high boots, chunky platform soles, red illuminated details, sleek futuristic accessories, intricate techwear design\n\n[배경]black background, simple background, white graphic accents, futuristic targeting HUD, technical overlay, concentric targeting reticles, crosshairs, radial measurement scales, thin geometric lines, intersecting grid lines, numbered coordinates, tiny alphanumeric labels, calibration marks, ticks, segmented circles, angular diagrams, geometric graphics layered over the entire image, reticles overlapping the head, arms, torso and legs, targeting marks aligned across different body parts, foreground graphic layers, pink-purple typography, blue and red contrast, editorial graphic design, sci-fi poster aesthetic, crisp linework, high contrast, intricate details,\n\nholding a futuristic sniper rifle, aiming pose, precision scope, angular black and red weapon"
+    },
+    {
+     "label": "저격총",
+     "text": "holding a futuristic sniper rifle, aiming pose, precision scope, angular black and red weapon"
+    },
+    {
+     "label": "카타나",
+     "text": "holding a futuristic katana, dynamic sword pose, black metallic blade, glowing red edge"
+    },
+    {
+     "label": "권총",
+     "text": "holding a futuristic handgun, one-handed aiming pose, sleek black pistol, red illuminated details"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792429543206
+ "updatedAt": 1792429604473
 };

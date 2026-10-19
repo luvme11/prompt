@@ -8949,10 +8949,10 @@ window.PROMPT_DATA = {
      "text": "1.2::solo::, 2::a person and a beluga whale side by side underwater, together::, 2::facing forward, looking at the viewer::, 2::the person and the beluga close together, cheeks almost touching, posing cutely for the camera::,\n\n2::cute heart-shaped air bubble ring floating above their heads::, a thin stream of bubbles rising up into the heart, small scattered bubbles,\n\n2::underwater scene, clear blue ocean water, sunlight filtering down from the surface, caustics, soft god rays::, bubbles drifting, gentle water,\n\n2::the beluga smiling with its gentle rounded face, adorable::, 2::the person smiling brightly, cheerful happy expression, hair floating softly in the water::,\n\ncute, heartwarming, wholesome, soft lighting, dreamy, front view,\n\nbest quality, masterpiece, detailed, detailed eyes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvfj9yri.jpg?v=1792431348937",
+   "pos": "50.0% 100.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792431233462
+ "updatedAt": 1792431350015
 };

@@ -9258,7 +9258,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfliu3s",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sticker sheet, chibi inset, strawberry red theme, pastel red, patissier outfit, apron, whisk, piping bag, frosting, melting chocolate, strawberry, macaron, donut, cake slice, candy wrapper, gummy bear, jawbreaker, sugar skull, sprinkles, sparkle, 1.2::thick outline, sticker, outlined::, sitting on giant macaron, legs swinging, licking frosting off finger, one eye closed, cheeky grin, from three-quarter view, cupcake, candy, cherry, lollipop, frosting drip, sprinkle, border"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792434984495
+ "updatedAt": 1792435006881
 };

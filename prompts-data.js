@@ -8854,7 +8854,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfiv3d8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, side view, profile, 2::sitting by window::, 2::reading book::, book open in hands, 2::headphones on::, simple headphones, over-ear headphones, school uniform, white dress shirt, loosened necktie, blazer, 2::rain on window::, rain streaks on glass, water droplets on window, blurred rain outside, grey sky, dim classroom, soft natural light from window, cold tone, quiet atmosphere, elancholy, nostalgic, illustration, high detail,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430468938
+ "updatedAt": 1792430539935
 };

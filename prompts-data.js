@@ -8472,7 +8472,33 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf77q4g",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "idol concert stage, colorful stage lights, spotlight, glow sticks in audience, cheering crowd, confetti, lens flare, sparkles, upper body, heart hands, dutch angle, dynamic angle,"
+    },
+    {
+     "label": "의상 화이트",
+     "text": "2::white suit::, fitted jacket, black dress shirt, white tie, shoulder harness, double belt with metal rings, chain belt, white leather gloves, layered necklaces, 2::headset microphone::,"
+    },
+    {
+     "label": "의상 블랙",
+     "text": "2::black suit::, fitted jacket, white dress shirt, black tie, shoulder harness, double belt with metal rings, chain belt, black leather gloves, layered necklaces, 2::headset microphone::,"
+    },
+    {
+     "label": "표정",
+     "text": "smile, wink,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792410888022
+ "updatedAt": 1792410973589
 };

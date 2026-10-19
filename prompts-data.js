@@ -8455,8 +8455,8 @@ window.PROMPT_DATA = {
      "text": "sad, melancholic, teary eyes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf74xbo.jpg?v=1792410996318",
+   "pos": "37.4% 50.0%",
    "soon": false
   },
   {
@@ -8500,5 +8500,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792410973589
+ "updatedAt": 1792410996954
 };

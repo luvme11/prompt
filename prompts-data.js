@@ -8587,10 +8587,10 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, ultra high detail, Korean manhwa style, semi-realistic, cinematic lighting, small cute stickers on face, colorful stickers on cheeks and forehead, doodle-style stickers, heart stickers, star stickers, embarrassed and sulky expression, pouting slightly, lips pressed together, cheeks flushed, blushing, looking away, avoiding eye contact, slightly turning head away, teary eyes, glossy eyes, annoyed but shy, awkward posture, stiff shoulders, slightly hunched, hands fidgeting, subtle tension, gap moe, contrast between serious appearance and cute elements, clean background, upper body focus,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvf8op3p.jpg?v=1792413624118",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792413606486
+ "updatedAt": 1792413624617
 };

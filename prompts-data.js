@@ -9199,8 +9199,8 @@ window.PROMPT_DATA = {
      "text": "solo, greenhouse, abandoned, ruins, overgrown, vines, flowers, plants, sunbeams, dust motes, misty, fog, soft lighting, nature, nostalgic, 2::from side, sitting on chair, leaning back, turning head, looking at viewer::, hand in hair, surrounded by petals, white dress, linen, lace, delicate, serene expression"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvflbakh.jpg?v=1792434812931",
+   "pos": "50.0% 72.0%",
    "soon": false
   },
   {
@@ -9246,5 +9246,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792434791916
+ "updatedAt": 1792434813950
 };

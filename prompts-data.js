@@ -8516,7 +8516,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvf7cwj7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "medical lab, tiled floor, cyan and purple neon lighting, iv drip, blood pack, glowing heart crystal, floating hearts, tangled wires, scattered pills, medical equipment, glowing screens, sparkles, bokeh, dreamy atmosphere, from above, overhead shot, lying on back, one hand on own face, other arm spread, one knee up, hair spread out, looking at viewer,"
+    },
+    {
+     "label": "의상",
+     "text": "white nurse dress, frilled trim, lace trim, puff sleeves, red cross motif, ribbon bow, nurse cap, garter straps, white thighhighs, knee boots, fake wings,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792411154649
+ "updatedAt": 1792411215164
 };

@@ -8513,8 +8513,8 @@ window.PROMPT_DATA = {
      "text": "layered lace tutu, backless bodice, harness straps, sheer puff sleeves, lace leg wraps, floral garter, ballet shoes, ribbon laces, white and light blue fabric,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf7blkp.jpg?v=1792411499682",
+   "pos": "22.7% 50.0%",
    "soon": false
   },
   {
@@ -8536,5 +8536,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792411215164
+ "updatedAt": 1792411500312
 };

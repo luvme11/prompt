@@ -9188,7 +9188,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvflbakh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, greenhouse, abandoned, ruins, overgrown, vines, flowers, plants, sunbeams, dust motes, misty, fog, soft lighting, nature, nostalgic, 2::from side, sitting on chair, leaning back, turning head, looking at viewer::, hand in hair, surrounded by petals, white dress, linen, lace, delicate, serene expression"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792434639759
+ "updatedAt": 1792434654808
 };

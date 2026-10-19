@@ -9272,7 +9272,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfliu3s.jpg?v=1792435139405",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvflmb2y",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "khaki, three-quarter view, sliding down sand dune, holding torch, squinting, pith helmet, goggles on head, bandana, linen shirt, leather holster, utility belt, wrapped leggings, hiking boots, wristwatch, pendant, pouch, rope coil, sandstorm, temple pillar, desert"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792435139920
+ "updatedAt": 1792435168378
 };

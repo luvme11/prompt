@@ -9016,7 +9016,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvfjvvi7.jpg?v=1792432257249",
    "pos": "50.0% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvfk1lgr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1person, solo, pov, dutch angle, bright lighting, lens flare, sparkles, pure white and [테마색] theme, hospital room background, bed, medical cart, ekg monitor displaying pink heartbeat, glowing pink heart-shaped iv bag on a stand, the subject is kneeling on a bed and leaning forward playfully with tongue out. the subject holds a syringe in one raised hand, subject sitting on other person, while the other person rests on the bed, head out of frame. a blurred hand reaches out from the foreground toward the subject, seductive expression,"
+    },
+    {
+     "label": "의상",
+     "text": "nsfw, white nurse cap with heart logo, [테마색] cross hair clip, bandage shaped hair clip on hair, fitted white and [테마색] nurse uniform, sexy nurse uniform, heart-shaped keyhole chest cutout, stethoscope, [테마색] buttons, white and [테마색] detached ruffled cuffs, white thigh-high stockings, [테마색] garter strap, no pants"
+    }
+   ],
+   "img": "img/comp/mvfk1lgr.jpg?v=1792432524003",
+   "pos": "50.0% 40.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792432257775
+ "updatedAt": 1792432525137
 };

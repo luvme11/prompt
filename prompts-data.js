@@ -8531,10 +8531,10 @@ window.PROMPT_DATA = {
      "text": "white nurse dress, frilled trim, lace trim, puff sleeves, red cross motif, ribbon bow, nurse cap, garter straps, white thighhighs, knee boots, fake wings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvf7cwj7.jpg?v=1792411515980",
+   "pos": "27.6% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792411500312
+ "updatedAt": 1792411516638
 };

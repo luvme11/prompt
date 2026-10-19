@@ -8910,7 +8910,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfj22v9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.7::dynamic low angle shot::, 1.6::full body::, 1.6::large character in frame::, 1.8::sitting on the horizontal crossarm of a tall utility pole::, one knee raised, other leg dangling, relaxed but alert pose, one hand on knee, one hand holding a sheathed katana, looking down toward the street, wind-blown clothing,1.6::traditional japanese exorcist outfit::, layered kimono, short haori, wide hakama pants, long sleeves, sash, braided cords, tassels, talisman charms, tabi socks, traditional footwear,1.7::white kitsune mask tilted on the side of the head::, face unobstructed, red mask markings, tiny bells, red braided cords,1.6::ornate yokai-hunting katana::, engraved scabbard, red silk wrapping, glowing ofuda talismans, blue spirit flames, shadowy yokai silhouettes below,1.6::modern japanese shrine at night::, vermilion torii, stone lanterns, shrine steps, shimenawa ropes, ema plaques, narrow residential street, vending machines, overhead power lines, tangled electric cables, distant apartments, convenience store signs,utility pole insulators, transformers, dense wires, enormous full moon, deep indigo sky, drifting clouds, scattered maple leaves, mist, crimson shrine lanterns, warm streetlights, cold moonlight, supernatural blue glow, dramatic rim lighting, mysterious urban fantasy atmosphere, japanese folklore, cinematic composition, no text,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792430836223
+ "updatedAt": 1792430865531
 };

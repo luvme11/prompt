@@ -8762,7 +8762,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvfihssn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "남자",
+     "text": "medium shot, side profile, 1.5::holding hair tie in mouth::, 1.4::tying hair::, lifting hair, hand in own hair, 2::only one arm raised::, looking down slightly, glancing at viewer, bare chest, 1.3::white towel draped over shoulder::, silver necklace, 1.3::wet hair::, messy hair, wet skin, indoor, bathroom background, white tiled wall, glass shower door, towel around waist,"
+    },
+    {
+     "label": "여자",
+     "text": "medium shot, side profile,\n1.5::adult woman::,\n1.5::holding hair tie in mouth::,\n1.4::tying hair::,\nlifting hair,\nhand in own hair,\n2::only one arm raised::,\nlooking down slightly,\nglancing at viewer,\nbare shoulders,\n1.3::white towel draped over shoulder::,\nsilver necklace,\n1.3::wet hair::,\nmessy hair,\nwet skin,\nindoor,\nbathroom background,\nwhite tiled wall,\nglass shower door,\ntowel wrapped around chest and waist,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792429818114
+ "updatedAt": 1792429919188
 };

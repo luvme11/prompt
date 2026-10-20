@@ -9704,7 +9704,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgp7b8e",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light green cardigan, cream ruffled tunic top, blue flare denim jeans, white sneakers, pink polka-dot boston bag, blue star hair clip"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792501637630
+ "updatedAt": 1792501653552
 };

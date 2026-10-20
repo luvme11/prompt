@@ -10348,7 +10348,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrt566",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black graphic t-shirt, oversized t-shirt, band t-shirt, monochrome print, black plaid pleated mini skirt, gray tartan pattern, gray striped arm warmers, black and gray torn thighhighs, black patent leather combat boots, lace up boots, chunky platform boots, black cross choker,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506025984
+ "updatedAt": 1792506031251
 };

@@ -9872,7 +9872,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgq4svj",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black long sleeved turtleneck bodycon dress, black belt, gold buckle, leopard print newsboy cap, gold chain, leopard print thigh boots, high heel boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503207799
+ "updatedAt": 1792503216992
 };

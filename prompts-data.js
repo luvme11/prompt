@@ -10765,8 +10765,8 @@ window.PROMPT_DATA = {
      "text": "grey zip up hoodie, baggy jeans, white t shirt, dark grey baseball cap, letter print, embroidery, over ear headphones, black headphones, silver necklace, sneakers, platform sneakers, chunky shoes,  black backpack,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvguwnhg.jpg?v=1792511335790",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -10798,5 +10798,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511257537
+ "updatedAt": 1792511336586
 };

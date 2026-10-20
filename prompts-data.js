@@ -10110,7 +10110,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqot2o",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink fitted polo shirt, short sleeves, ribbed polo shirt, pointed collar, button placket, triple stripe sleeves, ADIDAS logo, white mini pleated skirt, low rise skirt, white crew socks, white leather sneakers, stripe sneakers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792504143012
+ "updatedAt": 1792504149922
 };

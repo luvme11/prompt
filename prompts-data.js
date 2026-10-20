@@ -10611,8 +10611,8 @@ window.PROMPT_DATA = {
      "text": "black silk bodycon dress, deep neckline, lace trim, white fur coat, sheer black pantyhose, high heels, tight fit, sleeveless,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgtrwaq.jpg?v=1792509509766",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -10644,5 +10644,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792509497479
+ "updatedAt": 1792509510740
 };

@@ -10709,8 +10709,8 @@ window.PROMPT_DATA = {
      "text": "black leather jacket, white tiered dress, black combat boots, long sleeves, ruffled dress, lace up boots, leather boots, headphones,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgupthf.jpg?v=1792511118742",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -10742,5 +10742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511106038
+ "updatedAt": 1792511119433
 };

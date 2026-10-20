@@ -11104,7 +11104,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgww9eb",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white eyelet blouse, square neckline, puffed short sleeves, front buttoning, fitted waist, lace trim, white cotton blouse, red gingham ruffled mini skirt, layered ruffle hem, gathered skirt, red plaid skirt, red patent platform mary janes, bow shoes,  red plaid glasses,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792514562382
+ "updatedAt": 1792514575493
 };

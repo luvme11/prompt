@@ -11352,7 +11352,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvh9unjj.jpg?v=1792536337045",
    "pos": "50.0% 12.0%",
    "soon": false
+  },
+  {
+   "id": "mvha09e3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1boy, 1girl, couple, intimate pose, 2::back hug::, 2::man standing directly behind woman::, 2::man wrapping both arms around woman's waist from behind::, 2::man leaning forward and kissing the side of woman's neck::, 2::lips pressed against her neck::, 1.8::woman tilting her head to the side to expose her neck::, man's face close to woman's neck, bodies pressed closely together, woman leaning back against man's chest, romantic atmosphere, intimate embrace, side view, three-quarter side angle, upper body shot, both characters clearly visible"
+    }
+   ],
+   "img": "img/comp/mvha09e3.jpg?v=1792536597990",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792536338328
+ "updatedAt": 1792536599086
 };

@@ -10555,10 +10555,10 @@ window.PROMPT_DATA = {
      "text": "1.4::off shoulder shirt::, white t-shirt, butterfly print, graphic print, black camisole, 1.5::tiered skirt::, ruffled skirt, black skirt, mini skirt, white leg warmers, 1.8::black headphones::, over ear headphones, silver necklace, pendant necklace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgtp16e.jpg?v=1792509293838",
+   "pos": "50.0% 30.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792509198767
+ "updatedAt": 1792509294632
 };

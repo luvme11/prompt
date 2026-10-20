@@ -11308,7 +11308,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvh9l785.jpg?v=1792535990188",
    "pos": "50.0% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvh9nr14",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2 charaters, full body, simple back ground, white background,"
+    },
+    {
+     "label": "안기는 쪽",
+     "text": "Princess carried, leaning, white frill apron, naked, bare foot,"
+    },
+    {
+     "label": "안는 쪽",
+     "text": "Princess carry, holding A, carrying A, standing, serious, suit, necktie, black leather gloves, looking at A"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792535990819
+ "updatedAt": 1792536012976
 };

@@ -10782,7 +10782,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgux5tl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "striped rugby shirt, tan work boots, green shirt, beige shirt, horizontal stripes, long sleeves, white collar, oversized shirt, yellow skirt, short skirt, pleated skirt, white socks, crew socks, lace up boots, yellow crossbody bag,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511249748
+ "updatedAt": 1792511257537
 };

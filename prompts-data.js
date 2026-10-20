@@ -9486,25 +9486,7 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvgm9d7t.jpg?v=1792496712150",
    "pos": "50.0% 52.0%",
    "soon": false
-  },
-  {
-   "id": "mvgnhcaq",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "1girl, full body, standing by a misty lakeside, robe gently moving in the breeze, looking toward the lake, Hogwarts-style castle in the distance, stone shore, magical school atmosphere, soft cloudy sky, Slytherin-inspired school uniform"
-    },
-    {
-     "label": "의상",
-     "text": "full body, full figure, head to toe visible, Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, long flowing robe, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, pleated black skirt, knee-high socks or stockings, black leather school shoes, detailed fabric folds, neat magical academy outfit"
-    }
-   ],
-   "img": "img/comp/mvgnhcaq.jpg?v=1792498765436",
-   "pos": "50.0% 28.0%",
-   "soon": false
   }
  ],
- "updatedAt": 1792498766239
+ "updatedAt": 1792499195849
 };

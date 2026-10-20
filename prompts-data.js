@@ -9953,8 +9953,8 @@ window.PROMPT_DATA = {
      "text": "2::gray polka dot hoodie::, zip up hoodie, hood up, lace trimmed hood, wing print, pink star print, oversized sleeves, white pleated skirt, layered skirt, ruffled hem, polka dot headscarf, zippers, belt, white polka dot sneakers, shoe bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqazpb.jpg?v=1792503709843",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -9972,5 +9972,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503700388
+ "updatedAt": 1792503711139
 };

@@ -10544,7 +10544,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgtm7iv.jpg?v=1792509185020",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvgtp16e",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.4::off shoulder shirt::, white t-shirt, butterfly print, graphic print, black camisole, 1.5::tiered skirt::, ruffled skirt, black skirt, mini skirt, white leg warmers, 1.8::black headphones::, over ear headphones, silver necklace, pendant necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792509186050
+ "updatedAt": 1792509198767
 };

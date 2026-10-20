@@ -10219,8 +10219,8 @@ window.PROMPT_DATA = {
      "text": "white hooded long cape coat, fit and flare coat, fur trimmed hood, fur trimmed hem, oversized ribbon bows, toggle fastening, fur trimmed muff pockets, white faux fur earmuffs, black ribbon bows, white faux fur gloves, fur cuffs, black and white shoulder bag, leather handbag, black fur ankle boots, stiletto heel boots, oversized fur cuffs, black ribbon boot decoration, black bow earrings, pearl earrings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgri7u0.jpg?v=1792505702208",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -10308,5 +10308,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792505685065
+ "updatedAt": 1792505703210
 };

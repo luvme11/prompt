@@ -11466,7 +11466,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvhai6wm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, lying down, wearing pajama, close embrace, indoor, sofa, couch, cozy mood, cozy atmosphere, duch angle, 2::camera frame, camera hud::,"
+    },
+    {
+     "label": "잠든 쪽",
+     "text": "2::sleeping, closed eyes::,  2::hugging, cuddling::,"
+    },
+    {
+     "label": "셀카 찍는 쪽",
+     "text": "2::selfie::, playful, smile,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792537397241
+ "updatedAt": 1792537433578
 };

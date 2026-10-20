@@ -10723,8 +10723,8 @@ window.PROMPT_DATA = {
      "text": "green dress, 2::ruffled dress::, brown boots, sleeveless dress, pinafore dress, lace trim, white skirt, petticoat, layered skirt, bow, ribbon, charm bracelet, leather boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvguq4fz.jpg?v=1792511147360",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -10742,5 +10742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511119433
+ "updatedAt": 1792511148061
 };

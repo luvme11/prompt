@@ -9774,7 +9774,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgpd1sm",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white frilled blouse, peter pan collar, black neck bow, puffy long sleeves, detached sleeves, black ribbon armbands, black star print skirt, high waisted skirt, wide black belt, belt buckle, layered frilled skirt, white ruffled petticoat, black garter straps, mismatched thighhighs, star print thighhighs, frilled socks, black and white platform mary janes, shoe bows,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792501916836
+ "updatedAt": 1792501921240
 };

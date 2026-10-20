@@ -9718,7 +9718,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgp7jp1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "blue long-sleeved dress with white apron, frilled collar, tiered ruffled hem, pink bear-shaped crossbody bag, white medical eyepatch, blue and pink striped leg warmers, white sneakers with pink heart ornaments, blue lace headband with pink bows, pink heart hair ties,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792501653552
+ "updatedAt": 1792501664950
 };

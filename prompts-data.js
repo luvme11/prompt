@@ -9841,8 +9841,8 @@ window.PROMPT_DATA = {
      "text": "ight blue track jacket, black triple stripe, striped standing collar, zipper, long sleeves, ribbed cuffs, ribbed hem, number print, white tiered miniskirt, silver studs, black lace thighhighs, white lace-up mid-calf boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgpwqb6.jpg?v=1792503127500",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -9860,5 +9860,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503108826
+ "updatedAt": 1792503128399
 };

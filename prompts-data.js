@@ -9522,7 +9522,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgnt7xv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, solo, ((full body)), ((head to toe)), ((entire body visible)), long shot, wide shot, camera pulled back, full figure in frame, feet fully visible, snowy ground visible beneath both feet, three-quarter side view, standing on a snowy cobblestone street, holding a large wooden mug of butterbeer near her lips, taking a sip of butterbeer, creamy foam on top of the drink, relaxed posture, slightly lowered gaze,\n\nSlytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, long flowing open-front robe, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, black pleated mini skirt, black knee-high socks, black leather loafers, layered school uniform, detailed fabric folds,\n\n((Hogsmeade village from Harry Potter)), iconic snowy Hogsmeade street, traditional British wizarding village, crooked medieval timber-framed houses, steep snow-covered rooftops, Three Broomsticks Inn, Honeydukes sweet shop, glowing shop windows, warm golden lanterns, cobblestone streets covered in snow, magical shop signs, winter afternoon, cozy magical atmosphere, highly detailed fantasy village background"
+    },
+    {
+     "label": "의상",
+     "text": "Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, detailed fabric folds"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792499306567
+ "updatedAt": 1792499316611
 };

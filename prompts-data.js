@@ -11118,7 +11118,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwwfm4",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "brown plaid babydoll dress, spaghetti straps, empire waist, lace trimmed neckline, ribbon bow, lace hem, brown bloomers, cream knit leg warmers, slouch socks, brown platform mary janes, double buckle straps, bow shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792514575493
+ "updatedAt": 1792514582790
 };

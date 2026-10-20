@@ -9673,8 +9673,8 @@ window.PROMPT_DATA = {
      "text": "blue heart studded denim crop top, studded overall straps, asymmetrical denim mini skirt, pink plaid skirt layer, oversized white track jacket, pink stripes on sleeves, buckle straps on jacket, blue and pink fur-trimmed leg warmers, mismatched legwear, striped thigh-high sock on one leg, fishnet sock on other leg, chunky platform sneakers, black leather belt with heart buckle, cat-shaped keychain on belt, blue choker with cross, spiked bracelet, pink demon horns, thin heart-tipped tail"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgp2a1i.jpg?v=1792501580830",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -9692,5 +9692,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792501552368
+ "updatedAt": 1792501581627
 };

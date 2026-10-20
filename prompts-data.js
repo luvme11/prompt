@@ -10740,7 +10740,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvguq9lb.jpg?v=1792511165103",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvguviay",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "checkered camisole, wide leg jeans, pink mary janes, yellow shirt, tiered shirt, ruffled shirt, sleeveless shirt, denim pants, light blue pants, pink belt, belt,  beaded bracelet,"
+    }
+   ],
+   "img": "img/look/mvguviay.jpg?v=1792511182856",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511165769
+ "updatedAt": 1792511183666
 };

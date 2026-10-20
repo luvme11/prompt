@@ -10026,7 +10026,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqhf9o",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cream tiered babydoll dress, fit and flare, square neckline, lace trimmed neckline, front ribbon tie, pintucks, embroidered lace panel, short puff sleeves, empire waist, cream straw boater hat, lace hatband, woven straw shoulder bag, cream knit leg warmers, ribbon lace up leg warmers, cream mary jeans,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503790146
+ "updatedAt": 1792503804982
 };

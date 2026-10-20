@@ -11382,20 +11382,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mvha3x79",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "의상 X",
-     "text": "1boy, 1girl, couple, intimate pose, 2::man sitting::, 2::woman standing or kneeling behind him::, 2::woman wrapping both arms around man's neck from behind::, 2::woman leaning over his shoulders and kissing the side of his neck::, 2::lips pressed against his neck::, cheek close to his head, bodies close together, affectionate embrace, romantic atmosphere, upper body shot, side view, three-quarter angle, both characters clearly visible,"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
-  },
-  {
    "id": "mvha43q2",
    "tab": "comp",
    "name": "",
@@ -11410,5 +11396,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792536775778
+ "updatedAt": 1792536806358
 };

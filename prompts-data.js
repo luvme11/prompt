@@ -10289,8 +10289,8 @@ window.PROMPT_DATA = {
      "text": "black sailor dress, short puff sleeves, sailor collar, pink sailor collar trim, black lace trim, oversized pink ribbon bow, heart buckle belt, pleated skirt, pink ribbon hair bows, black lace choker, heart pendant choker, black lace thighhighs, black platform mary janes, heart buckle shoes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgrj70j.jpg?v=1792505798902",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -10308,5 +10308,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792505775848
+ "updatedAt": 1792505800038
 };

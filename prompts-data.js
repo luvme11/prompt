@@ -11449,8 +11449,8 @@ window.PROMPT_DATA = {
      "text": "2::removing other's glasses::, 2::hands near other's face, touching glasses::, careful movement, focused expression,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvhaffbl.jpg?v=1792537612541",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -11526,5 +11526,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792537507960
+ "updatedAt": 1792537613323
 };

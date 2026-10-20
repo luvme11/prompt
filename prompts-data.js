@@ -10824,7 +10824,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgv2k7t",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "grey dress, long sleeves, peter pan collar, white collar, contrast cuffs, beret, grey beret, white socks, loose socks, mary janes, black shoes, platform shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511480424
+ "updatedAt": 1792511510598
 };

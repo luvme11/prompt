@@ -11160,7 +11160,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgx3ldl.jpg?v=1792515191803",
    "pos": "50.0% 44.0%",
    "soon": false
+  },
+  {
+   "id": "mvgx9t3q",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white lace babydoll dress, spaghetti straps, empire waist, floral lace overlay, scalloped lace hem, brown off shoulder blouse, puffed short sleeves, ribbon bow, brown gingham ruffle hem, brown ribbon waist, cream cable knit leg warmers, plaid ribbon bows, pom pom ties, brown platform mary janes, ankle strap, block heels, bear hair clips,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792515192589
+ "updatedAt": 1792515206970
 };

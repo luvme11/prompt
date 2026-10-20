@@ -10474,7 +10474,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgs6mk6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::cable knit cardigan::, panda bag, plush bag, loose socks, white beret, sailor collar, black neck ribbon, cream cardigan, long sleeves, buttons, black pleated skirt, mini skirt, white leg warmers, black platform footwear, black shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506653029
+ "updatedAt": 1792506660583
 };

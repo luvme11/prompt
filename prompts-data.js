@@ -10334,7 +10334,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrt0jl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white bishop sleeve blouse, open collar, button up blouse, gathered cuffs, dark brown corduroy vest, fitted vest, front button vest, dark brown plaid pleated skirt, asymmetrical hem, brown leather belt, brown suede jacket, oversized jacket, flap pockets, dark brown leather shoulder bag, brown newsboy cap, pendant necklace, cream slouch socks, dark brown leather knee high boots, block heel boots, round glasses,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506019894
+ "updatedAt": 1792506025984
 };

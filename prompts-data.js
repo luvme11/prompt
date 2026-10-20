@@ -10527,10 +10527,10 @@ window.PROMPT_DATA = {
      "text": "light pink t-shirt, 1.5::hello kitty print::, short sleeves, denim skirt, 1.5::tiered skirt::, blue skirt, cable knit leg warmers, white leg warmers, 1.5::chunky sneakers::, white sneakers, 1.5::hello kitty bag::, plush bag, shoulder bag,"
     }
    ],
-   "img": "img/look/mvgsi23l.jpg?v=1792507297899",
-   "pos": "50.0% 0.0%",
+   "img": "img/look/mvgsi23l.jpg?v=1792509048559",
+   "pos": "50.0% 14.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792507298558
+ "updatedAt": 1792509049269
 };

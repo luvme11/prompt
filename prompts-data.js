@@ -10320,7 +10320,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrsw2b",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black camisole, spaghetti straps, pink lace trim, skull print, bow detail, black denim short shorts, rolled cuffs, pink zebra print lining, distressed shorts, black and pink striped arm warmers, mismatched thighhighs, pink and black striped thighhigh, black thighhigh with pink star print, pink music note belt, pink studded bracelet, pink and black low top sneakers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792505995326
+ "updatedAt": 1792506019894
 };

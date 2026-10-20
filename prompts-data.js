@@ -11269,10 +11269,10 @@ window.PROMPT_DATA = {
      "text": "2people, hug from behind, standing, height difference, upper body, side view,\n\nstanding, looking back, looking another, hands in pockets\n\nhug from behind, face in another's back, arms around another's waist, blue eyes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvh99rpo.jpg?v=1792535512880",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792535418078
+ "updatedAt": 1792535513862
 };

@@ -10989,8 +10989,8 @@ window.PROMPT_DATA = {
      "text": "2::dark navy furisode::, long sleeves, gradient kimono, blue floral pattern, white flower print, white inner collar, white lace collar, black obi, long obi sash, white pleated hakama, white fur shoulder cape, fur collar, pom pom ornament, white lace trim,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwgqbe.jpg?v=1792514136425",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -11036,5 +11036,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792514126404
+ "updatedAt": 1792514137712
 };

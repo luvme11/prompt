@@ -10852,7 +10852,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgva41x.jpg?v=1792511978633",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvgvd1yx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::detective outfit::, capelet, beret, tan vest, double breasted, gold buttons, pleated skirt, high waist skirt, striped trim, white shirt, long sleeves, contrast cuffs, brown necktie, brown socks, dark brown shoes, loafers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511979576
+ "updatedAt": 1792511999350
 };

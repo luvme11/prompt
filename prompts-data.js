@@ -10499,8 +10499,8 @@ window.PROMPT_DATA = {
      "text": "1.3::gingham top::, flared jeans, red hair clip, cherry earrings, cherry bracelet, mary janes, platform shoes, chunky heels, bow, ribbon, denim, checkered, shoulder ribbons,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgs70pi.jpg?v=1792506902362",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -10518,5 +10518,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792506888786
+ "updatedAt": 1792506902978
 };

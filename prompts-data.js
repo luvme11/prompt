@@ -10670,7 +10670,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgupkeo",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sailor collar, pleated skirt, pink neck ribbon, sailor shirt, short sleeves, white shirt, blue skirt, miniskirt, white socks, brown loafers, hair ribbon, heart hair clip,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792510895319
+ "updatedAt": 1792510903326
 };

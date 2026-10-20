@@ -10275,8 +10275,8 @@ window.PROMPT_DATA = {
      "text": "cream cable knit off shoulder sweater, foldover neckline, long sleeves, pearl embellishments, ribbon bow, oversized sweater, 2::light pink ruffle mini skirt::, gathered skirt, elastic waistband, pink knit cat ear beanie, faux fur trim, star applique, pastel cat hair clips, pink fluffy winter boots, faux fur boots, ribbon laces, pom pom trim, pink shoulder bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgrj1z9.jpg?v=1792505775319",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -10308,5 +10308,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792505763803
+ "updatedAt": 1792505775848
 };

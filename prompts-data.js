@@ -11244,7 +11244,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvh98gxy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2people, kiss on cheek, hug from behind, upper body, close-up,\n\nkissing another's cheek, eyes closed, leaning forward, hand over another's cheek,\n\nlooking at viewer, surprised, blush,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792535268442
+ "updatedAt": 1792535300052
 };

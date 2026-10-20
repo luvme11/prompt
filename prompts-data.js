@@ -10558,7 +10558,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgtp16e.jpg?v=1792509293838",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvgtrau9",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white frilled sailor dress, blue necktie, sleeveless dress, white thighhighs, blue sandals, anchor hair ornament,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792509294632
+ "updatedAt": 1792509304617
 };

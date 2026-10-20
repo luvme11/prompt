@@ -10768,7 +10768,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvguwzpm",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized graphic t-shirt, charcoal t-shirt, white arm warmers, white long sleeves, layered sleeves, baggy cargo jeans, blue denim pants, wide leg pants, white sneakers, chunky shoes, black backpack, black headphones, over-ear headphones, silver necklace, chain necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511233803
+ "updatedAt": 1792511249748
 };

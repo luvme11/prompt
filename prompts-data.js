@@ -10891,10 +10891,10 @@ window.PROMPT_DATA = {
      "text": "military lolita, capelet, pleated skirt, black clothing, gold trim, gold buttons, standing collar, double breasted, belt, buckle, wide belt, ruffled cuffs, white shirt, long sleeves, black thighhighs, mary janes, black shoes,"
     }
    ],
-   "img": "img/look/mvgvqbyl.jpg?v=1792512754229",
-   "pos": "50.0% 28.0%",
+   "img": "img/look/mvgvqbyl.jpg?v=1792513441391",
+   "pos": "50.0% 22.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792512755377
+ "updatedAt": 1792513442346
 };

@@ -11488,7 +11488,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvhaisol",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "couple, 3::back view::, 3::looking over shoulder::, 2::looking at viewer::, slight smile, confident expression, 2::hand on butt::, 2::touching partner::, playful pose,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792537433578
+ "updatedAt": 1792537461464
 };

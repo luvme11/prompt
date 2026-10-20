@@ -10569,8 +10569,8 @@ window.PROMPT_DATA = {
      "text": "white frilled sailor dress, blue necktie, sleeveless dress, white thighhighs, blue sandals, anchor hair ornament,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgtrau9.jpg?v=1792509465492",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -10644,5 +10644,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792509354375
+ "updatedAt": 1792509466312
 };

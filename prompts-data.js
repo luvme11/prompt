@@ -11087,8 +11087,8 @@ window.PROMPT_DATA = {
      "text": "white babydoll camisole, spaghetti straps, ribbon shoulder ties, gathered bust, empire waist, lace trim, ruffled hem, white cotton camisole, light blue wide leg jeans, high waist, faded denim, light blue sneakers, silver ribbon necklace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwvu7e.jpg?v=1792514678968",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -11148,5 +11148,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792514590728
+ "updatedAt": 1792514680260
 };

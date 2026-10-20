@@ -10516,7 +10516,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgs7k0f.jpg?v=1792506921860",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvgsi23l",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink t-shirt, 1.5::hello kitty print::, short sleeves, denim skirt, 1.5::tiered skirt::, blue skirt, cable knit leg warmers, white leg warmers, 1.5::chunky sneakers::, white sneakers, 1.5::hello kitty bag::, plush bag, shoulder bag,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506922817
+ "updatedAt": 1792507193780
 };

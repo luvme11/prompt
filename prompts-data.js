@@ -10096,7 +10096,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqonze",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white jacquard peplum camisole, ruched bust, front drawstring, 2::ruffled cap sleeves::, sweetheart neckline, fitted bodice, flared hem, pink plaid pleated micro skirt, low rise skirt, pink rhinestone western belt, heart belt buckle, pink ribbed leg warmers, pink suede sneakers, white and pink heart hair pin, -2::arm warmers::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792504134435
+ "updatedAt": 1792504143012
 };

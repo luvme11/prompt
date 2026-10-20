@@ -9617,8 +9617,8 @@ window.PROMPT_DATA = {
      "text": "full body, full figure, head to toe visible, Ravenclaw Hogwarts school uniform, black wizard robe, deep royal blue and silver inner lining, wide loose sleeves, long flowing robe, Ravenclaw eagle crest embroidered on chest, white collared dress shirt, blue and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, pleated black skirt, knee-high socks or stockings, black leather school shoes, detailed fabric folds, neat magical academy outfit"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgojh2k.jpg?v=1792500712181",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -9650,5 +9650,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792500701093
+ "updatedAt": 1792500712985
 };

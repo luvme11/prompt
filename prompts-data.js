@@ -11427,10 +11427,10 @@ window.PROMPT_DATA = {
      "text": "2people, couple,  3::in mirror, facing each other, close distance, eye contact, standing close::, flowers everywhere, floral decor, dreamy, soft lighting, romantic atmosphere, candid, realistic lighting, flower-filled room, floral walls, hanging flowers, dense flowers, colorful flowers, dreamy, aesthetic,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvhab44q.jpg?v=1792537154889",
+   "pos": "50.0% 18.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792537102877
+ "updatedAt": 1792537155672
 };

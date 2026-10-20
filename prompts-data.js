@@ -9984,7 +9984,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqgtel",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red gingham camisole, shoulder bows, spaghetti straps, lace trim, denim shorts, low rise shorts, lace trimmed shorts, heart earrings, red hair bow, white ribbed leg warmers, red high top sneakers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503768370
+ "updatedAt": 1792503777261
 };

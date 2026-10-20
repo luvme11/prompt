@@ -9690,7 +9690,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgp2iuj.jpg?v=1792501592345",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvgp6yxk",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink button-up cardigan, light brown ruffled tiered mini skirt, white thigh-high socks, brown sheepskin boots, white head scarf tied under chin, pink hair clip on head scarf, large pink leather boston bag, pink ribbon bows and white bunny plush charm on bag,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792501593125
+ "updatedAt": 1792501637630
 };

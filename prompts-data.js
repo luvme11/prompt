@@ -9743,10 +9743,10 @@ window.PROMPT_DATA = {
      "text": "oversized white t-shirt, anime girl print, crew neck, short sleeves, white tiered ruffled mini skirt, eyelet lace trim, bandages on legs, white sheer tights, white leg warmers, light pink platform sneakers, butterfly shoe ornaments, pink wrist ribbon, pink star hair clip, white medical eyepatch, white medical face mask on neck"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgp7t2h.jpg?v=1792501890102",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792501879585
+ "updatedAt": 1792501891091
 };

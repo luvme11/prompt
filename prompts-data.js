@@ -10754,7 +10754,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvguviay.jpg?v=1792511182856",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvguwnhg",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "grey zip up hoodie, baggy jeans, white t shirt, dark grey baseball cap, letter print, embroidery, over ear headphones, black headphones, silver necklace, sneakers, platform sneakers, chunky shoes,  black backpack,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511183666
+ "updatedAt": 1792511233803
 };

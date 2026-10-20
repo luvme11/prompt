@@ -11188,21 +11188,7 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgxdvzb.jpg?v=1792515507053",
    "pos": "50.0% 12.0%",
    "soon": false
-  },
-  {
-   "id": "mvgyu4ru",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "young woman, waist-length pale pink twin braids, blunt straight bangs, ruby-red eyes with concentric ring irises, porcelain-like skin, fitted white high-collar dress, segmented chrome corset, oversized mechanical sleeves, articulated knee guards, ribbon-like fiber optic cables, silver and pink accents"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
   }
  ],
- "updatedAt": 1792517835098
+ "updatedAt": 1792518261379
 };

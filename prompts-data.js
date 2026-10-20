@@ -9981,8 +9981,8 @@ window.PROMPT_DATA = {
      "text": "dark red long sleeved henley shirt, scoop neckline, front buttoned, white lace camisole, brown plaid tiered skirt, layered ruffles, frilled hem, black pantyhose, white cable knit leg warmers, dark red mary janes, platform footwear, ankle strap, bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqgmpd.jpg?v=1792503923163",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -10042,5 +10042,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503804982
+ "updatedAt": 1792503923813
 };

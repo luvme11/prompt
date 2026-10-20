@@ -10443,8 +10443,8 @@ window.PROMPT_DATA = {
      "text": "black sailor collar, black fur coat, oversized coat, large plaid bow, grey bow tie, striped cuffs, grey plaid skirt, miniskirt, black leg warmers, platform footwear, black shoes, dark kawaii"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgs63ot.jpg?v=1792506850818",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -10518,5 +10518,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792506842050
+ "updatedAt": 1792506852087
 };

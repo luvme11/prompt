@@ -11305,10 +11305,10 @@ window.PROMPT_DATA = {
      "text": "1woman, 1man, adult woman, adult man,\nromantic male-female couple, intimate couple,\n\n1.5::adult man standing behind adult woman in a close embrace::,\n1.5::back hug::,\n\n1.5::man standing behind woman::,\n1.6::man behind leaning forward and pressing his lips against the woman's neck::,\n1.4::neck kissing, gentle neck biting, lips touching the side of the woman's neck::,\nface buried against her neck,\n1.3::bodies pressed closely together::,\noverlapping silhouettes,\none hand gripping the woman's shoulder,\n1.3::woman's hand with spread fingers raised against the wall::,\ntense fingers, flinching, shoulders hunched,\n\n1.4::woman in front tilting her head away, exposing the side of her neck::,\nstartled reaction, flustered expression,\nintense blushing, pink cheeks, embarrassed,\ntrembling, parted lips, shaky breathing,\nsweatdrops, watery eyes, half-closed eyes,\nnervous expression,\n\nman behind with closed eyes,\naffectionate expression,\nintimate atmosphere, romantic tension,\n\n1.4::side view, close-up upper body shot::,\nthree-quarter angle, tightly framed composition,\nasymmetrical composition, diagonal body positioning,\nforeground and background character overlap,\n\n1.3::monochrome manga illustration::,\n1.5::multiple bite marks and kiss marks on the woman's neck::,\n2::negative space on right side::,\n\nblack and white, selective pink coloring,\nsoft pink blush accents, manga screentones,\nfine crosshatching, white background,\ngrey textured wall on the left,\nkorean handwritten manga sound effects \"쪼옥 쪽\",\nsmall floating motion lines,\ndelicate emotional manga illustration"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvh9l785.jpg?v=1792535990188",
+   "pos": "50.0% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792535894151
+ "updatedAt": 1792535990819
 };

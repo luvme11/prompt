@@ -11059,8 +11059,8 @@ window.PROMPT_DATA = {
      "text": "olive green hooded field jacket, oversized outerwear, front zipper, flap pockets, short sleeves, brown ribbed turtleneck sweater, extra long sleeves, distressed knit sleeves, brown wide leg cropped pants, corduroy pants, brown leather newsboy cap, 2::aviator goggles, brass goggles::, fingerless gloves, layered wrist cuffs, brown leather messenger bag, brown leather lace up boots, foldover boots, earth tone clothing, rugged clothing,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwo49m.jpg?v=1792514450014",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -11078,5 +11078,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792514429123
+ "updatedAt": 1792514451262
 };

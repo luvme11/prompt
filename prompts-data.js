@@ -9813,8 +9813,8 @@ window.PROMPT_DATA = {
      "text": "black sleeveless turtleneck, black denim shorts, black thighhighs, black platform ankle boots, black leather newsboy cap, spiked cap, black leather belt, bullet belt, silver chain necklace, cross pendant, silver bangle, black wallet,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgpwba1.jpg?v=1792503095552",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -9860,5 +9860,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503060698
+ "updatedAt": 1792503096188
 };

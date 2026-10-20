@@ -10471,8 +10471,8 @@ window.PROMPT_DATA = {
      "text": "1.5::frog hoodie, green raincoat::, frog eyes, animal hood, yellow buttons, long sleeves, oversized fit, vinyl fabric, waterproof material, yellow trim, glossy surface, green shorts, yellow rain boots, shiny boots"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgs6gqk.jpg?v=1792506876994",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -10518,5 +10518,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792506864632
+ "updatedAt": 1792506878265
 };

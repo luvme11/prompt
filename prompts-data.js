@@ -11090,7 +11090,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwvzqu",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white lace babydoll dress, spaghetti straps, ribbon shoulder straps, empire waist, floral lace overlay, gathered bodice, scalloped lace hem, red tiered mini skirt, layered ruffles, side drawstrings, white lace thighhighs, frilled tops, cable knit pattern, black patent mary janes, pearl necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792514555187
+ "updatedAt": 1792514562382
 };

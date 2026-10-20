@@ -9900,7 +9900,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgq53k1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black pinstripe double breasted vest, high collar, sleeveless, black shorts, dark red belt, dark red beret, black ribbed leg warmers, black high heeled shoes, black handbag,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503224396
+ "updatedAt": 1792503230084
 };

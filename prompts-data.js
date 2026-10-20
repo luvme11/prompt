@@ -10247,7 +10247,7 @@ window.PROMPT_DATA = {
      "text": "white puff long sleeve blouse, peter pan collar, pintuck blouse, front button blouse, brown fitted vest, front button vest, lace trim, cream striped hem, pink plaid pleated mini skirt, high waisted skirt, brown leather shoulder bag, school satchel, pink newsboy cap, cream knit leg warmers, brown leather mary janes, brogue shoes, ankle strap shoes, block heels,"
     }
    ],
-   "img": "",
+   "img": "img/look/mvgrip3m.jpg?v=1792505752817",
    "pos": "50% 50%",
    "soon": false
   },
@@ -10308,5 +10308,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792505742444
+ "updatedAt": 1792505753462
 };

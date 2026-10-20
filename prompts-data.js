@@ -10446,7 +10446,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgs69oy",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red beret, animal ear beret, white stripes, pale yellow short-sleeved shirt, collared shirt, red buttons, 1.5::red overall dress::, jumper skirt, apple-shaped chest pocket, apple print, 1.4::scalloped hem::, 1.5::red and white gingham ruffled hem::, layered skirt, white leg warmers, slouch socks, red cross-stitching, red bow, pompom charm, red platform mary janes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506635846
+ "updatedAt": 1792506644076
 };

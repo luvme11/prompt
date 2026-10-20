@@ -11227,8 +11227,8 @@ window.PROMPT_DATA = {
      "text": "1boy, 1girl, two people, couple, trapped in a small box, cramped box, extremely cramped space, confined space, barely enough room, sitting close together, knees drawn up, legs bent, awkwardly folded legs, cramped pose, tangled legs, close proximity, almost touching, face to face, blushing, embarrassed, flushed cheeks,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvh97cdv.jpg?v=1792535330597",
+   "pos": "68.6% 50.0%",
    "soon": false
   },
   {
@@ -11260,5 +11260,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792535300052
+ "updatedAt": 1792535331399
 };

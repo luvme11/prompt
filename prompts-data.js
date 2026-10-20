@@ -10597,8 +10597,8 @@ window.PROMPT_DATA = {
      "text": "pink wool cardigan, heart button, 1.5::white silk blouse::, race ribbon, beige pleated skirt, mini skirt, lace trim, pearl buttons, white socks, race socks, pink mary janes, silver necklace, heart earrings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgtrrkv.jpg?v=1792509496969",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -10644,5 +10644,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792509485709
+ "updatedAt": 1792509497479
 };

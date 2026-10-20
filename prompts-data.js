@@ -10667,8 +10667,8 @@ window.PROMPT_DATA = {
      "text": "camisole, white camisole, spaghetti straps, striped arm warmers, grey arm warmers, grey jeans, tight jeans, black belt, belt buckle, pant chain, white combat boots, high top sneakers, laced boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgupe3a.jpg?v=1792511081346",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -10742,5 +10742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511066884
+ "updatedAt": 1792511082489
 };

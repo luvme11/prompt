@@ -9939,8 +9939,8 @@ window.PROMPT_DATA = {
      "text": "2::light pink off shoulder sweater::, long sleeves, white trim, gray polka dot miniskirt, white ribbed tights, white fur trimmed boots, platform boots, white knit beanie,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqat2b.jpg?v=1792503699128",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -9972,5 +9972,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503664724
+ "updatedAt": 1792503700388
 };

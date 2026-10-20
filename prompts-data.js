@@ -9956,7 +9956,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqb763",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink cable knit sweater vest, short sleeves, sailor collar, white collared shirt, striped trim, chest bow, gray ruffled skirt, lace trim, pink bows, gray newsboy cap, fingerless gloves, gray plaid sneakers, pearl earrings,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503504866
+ "updatedAt": 1792503514513
 };

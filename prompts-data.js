@@ -11017,8 +11017,8 @@ window.PROMPT_DATA = {
      "text": "white chinese dress, mandarin collar, frog closures, sleeveless dress, black trim, black lace hem, white detached sleeves, extra wide sleeves, black cuffs, arm ribbons, tassel ornaments, black ribbon bows, shoulder cutout, chest cutout, white thighhighs, black mary janes, monochrome clothing,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwh4ro.jpg?v=1792514169838",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -11036,5 +11036,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792514147398
+ "updatedAt": 1792514170500
 };

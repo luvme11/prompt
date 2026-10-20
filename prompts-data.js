@@ -9648,7 +9648,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgokim8.jpg?v=1792501369723",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mvgp21b6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::pink and brown argyle sweater::, off-shoulder, long sleeves, brown checkered mini skirt, pleated skirt, mismatched thigh-high socks, polka dot pattern on one leg, striped pattern on other leg, cream slouchy leg warmers, white leg warmers, pink heart choker, heart pendant necklace, pink and brown platform sandals, hair bands"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792501371027
+ "updatedAt": 1792501408050
 };

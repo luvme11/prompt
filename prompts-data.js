@@ -9465,10 +9465,10 @@ window.PROMPT_DATA = {
      "text": "Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, detailed fabric folds"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvglx2q0.jpg?v=1792496219871",
+   "pos": "50.0% 42.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792496137137
+ "updatedAt": 1792496220694
 };

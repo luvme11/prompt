@@ -9687,10 +9687,10 @@ window.PROMPT_DATA = {
      "text": "light pink zip-up track jacket, ruffled hem, layered pink and white frilled mini skirt, pink beanie with lace trim, pink heart-shaped zipper pull, pink and white striped thigh-high socks, pink platform mary janes with white bows, heart-shaped bandages on leg,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgp2iuj.jpg?v=1792501592345",
+   "pos": "50.0% 14.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792501581627
+ "updatedAt": 1792501593125
 };

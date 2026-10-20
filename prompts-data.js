@@ -10023,8 +10023,8 @@ window.PROMPT_DATA = {
      "text": "charcoal pinstripe corset white camisole, spaghetti straps, sweetheart neckline, fitted bodice, 2::black lace trim::, black cargo micro skirt, black grommet belt, square buckle belt, black lace pantyhose, black leather platform engineer boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqh3cs.jpg?v=1792504053012",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -10042,5 +10042,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503966828
+ "updatedAt": 1792504053692
 };

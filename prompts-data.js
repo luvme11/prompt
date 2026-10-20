@@ -10807,8 +10807,8 @@ window.PROMPT_DATA = {
      "text": "black Adidas zip-up track jacket, jeans, white sneakers, striped sleeves, half zip, oversized fit, white t-shirt, light wash denim, wide leg pants, black backpack,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgv1rwu.jpg?v=1792511659538",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -10840,5 +10840,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511510598
+ "updatedAt": 1792511660367
 };

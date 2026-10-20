@@ -9858,7 +9858,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgpwx1e.jpg?v=1792503137116",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvgq4mlx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gray sleeveless turtleneck bodycon dress, dark blue cropped denim jacket, frayed hem, black leather newsboy cap, brown hoop earrings, bangles, black leather mid calf boots, wedge heels,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503137762
+ "updatedAt": 1792503207799
 };

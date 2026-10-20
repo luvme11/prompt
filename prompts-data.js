@@ -10418,7 +10418,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgrtt1m.jpg?v=1792506368217",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvgs5u85",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized leather jacket, black jacket, embroidery on jacket, white crop top, red plaid skirt, pleated skirt, belt, black beret, choker, chain, platform boots, black footwear,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506541472
+ "updatedAt": 1792506623711
 };

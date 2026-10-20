@@ -11143,10 +11143,10 @@ window.PROMPT_DATA = {
      "text": "olive green empire waist dress, sleeveless dress, gathered bodice, lace trim, ribbon bow, layered ruffled hem, olive cotton dress, blue cropped denim bolero, puffed short sleeves, notched lapels, cropped jacket, brown loafers, buckle straps, brown shoulder bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwwlqp.jpg?v=1792514730931",
+   "pos": "50.0% 42.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792514720305
+ "updatedAt": 1792514731600
 };

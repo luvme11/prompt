@@ -11502,7 +11502,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvhajsop",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "upper body, from side, facing each other, sitting on chair, retro diner, 90's diner, red seat, jukebox on table, diner interior, neon sign, checkerboard floor, night, wide shot,"
+    },
+    {
+     "label": "남",
+     "text": "light blue formal shirt, open collar, wiping other's lips, gentle smile, hand on chin, leaning on counter,"
+    },
+    {
+     "label": "여",
+     "text": "casual prom dress, cocktail dress, oversized black jacket, boyfriend blazer, blazer on shoulders, holding burger, messy eating,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792537461464
+ "updatedAt": 1792537507960
 };

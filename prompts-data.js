@@ -10936,7 +10936,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwfwup",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black military lolita jacket, double breasted jacket, pink piping, peter pan collar, scalloped collar, long puff sleeves, fitted waist, side waist tabs, pink buttons, cross brooch, black pleated skirt, layered ruffled hem, pink trim, black thighhighs, ribbon trim thighhighs, black patent mary janes, military lolita, gothic lolita,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792513804382
+ "updatedAt": 1792513812118
 };

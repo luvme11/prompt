@@ -10695,8 +10695,8 @@ window.PROMPT_DATA = {
      "text": "cropped jacket, pleated skirt, platform boots, white jacket, long sleeves, wide sleeves, lapel, white skirt, high waisted skirt, black choker, spiked choker, cross necklace, silver necklace, black socks, combat boots, lace up boots, glossy footwear,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgupqbg.jpg?v=1792511104887",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -10742,5 +10742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511092771
+ "updatedAt": 1792511106038
 };

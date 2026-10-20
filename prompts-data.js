@@ -10681,8 +10681,8 @@ window.PROMPT_DATA = {
      "text": "sailor collar, pleated skirt, pink neck ribbon, sailor shirt, short sleeves, white shirt, blue skirt, miniskirt, white socks, brown loafers, hair ribbon, heart hair clip,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgupkeo.jpg?v=1792511091953",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -10742,5 +10742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511082489
+ "updatedAt": 1792511092771
 };

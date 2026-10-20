@@ -10292,7 +10292,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrjd35",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink track jacket, zip up jacket, stand collar, three stripe sleeves, oversized jacket, 2::light pink tiered mini skirt::, layered ruffle skirt, lace trim, elastic waistband, black cat thighhighs, cat face print, black low top sneakers, striped sneakers, white cat hair pin,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792505567330
+ "updatedAt": 1792505574915
 };

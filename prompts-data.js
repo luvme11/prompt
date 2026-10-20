@@ -10653,8 +10653,8 @@ window.PROMPT_DATA = {
      "text": "pink frilled bikini top, black lace trim, layered ruffled mini skirt, 1.2::pink checkered pattern::, 1.4::pink choker, white gemstone pendant, black ribbon bows choker::, frilled off-shoulder sleeves, pink wrist cuffs, black lace cuffs, pink platform sandals, ankle ribbon ties, heart motif buttons, pink lace garters, sheer pink fabric, white lace frills, pom-pom details"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgu2x3r.jpg?v=1792511066198",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -10742,5 +10742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792510935978
+ "updatedAt": 1792511066884
 };

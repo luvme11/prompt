@@ -10488,7 +10488,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgs70pi",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::gingham top::, flared jeans, red hair clip, cherry earrings, cherry bracelet, mary janes, platform shoes, chunky heels, bow, ribbon, denim, checkered, shoulder ribbons,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506660583
+ "updatedAt": 1792506678899
 };

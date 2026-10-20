@@ -9631,8 +9631,8 @@ window.PROMPT_DATA = {
      "text": "full body, full figure, head to toe visible, Hufflepuff Hogwarts school uniform, black wizard robe, deep yellow and black inner lining, wide loose sleeves, long flowing robe, Hufflepuff badger crest embroidered on chest, white collared dress shirt, yellow and black diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, pleated black skirt, knee-high socks or stockings, black leather school shoes, detailed fabric folds, neat magical academy outfit"
     }
    ],
-   "img": "img/look/mvgojkt0.jpg?v=1792500723168",
-   "pos": "50.0% 20.0%",
+   "img": "img/look/mvgojkt0.jpg?v=1792500732702",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -9650,5 +9650,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792500723659
+ "updatedAt": 1792500734083
 };

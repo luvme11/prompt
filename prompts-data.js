@@ -11062,7 +11062,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwodns",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pale yellow henley t shirt, v neck, short sleeves, button placket, fitted waist, white camisole, layered shirt, light blue denim mini skirt, ruffled hem, faded denim, low waist, white canvas sneakers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792514194990
+ "updatedAt": 1792514207652
 };

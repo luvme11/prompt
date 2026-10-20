@@ -11157,10 +11157,10 @@ window.PROMPT_DATA = {
      "text": "green gingham peplum blouse, square neckline, drawstring neckline, puffed short sleeves, fitted waist, olive green cotton blouse, 2::brown tiered maxi skirt::, gathered skirt, layered hem, brown cotton skirt, brown leather mary janes, block heels, buckle strap, beige newsboy cap, ribbon bow, green bead bracelet,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgx3ldl.jpg?v=1792515191803",
+   "pos": "50.0% 44.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792514916848
+ "updatedAt": 1792515192589
 };

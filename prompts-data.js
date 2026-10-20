@@ -9869,8 +9869,8 @@ window.PROMPT_DATA = {
      "text": "gray sleeveless turtleneck bodycon dress, dark blue cropped denim jacket, frayed hem, black leather newsboy cap, brown hoop earrings, bangles, black leather mid calf boots, wedge heels,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgq4mlx.jpg?v=1792503371509",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -9916,5 +9916,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503230084
+ "updatedAt": 1792503372150
 };

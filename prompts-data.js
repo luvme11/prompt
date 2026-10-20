@@ -10992,7 +10992,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwgygf",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::black furisode::, long sleeves, red inner kimono, white inner collar, red trim, camellia print, floral embroidery, gold pattern, black obi, red patterned obi, decorative obi cord, hanging tassels, lace obi trim, white lace underskirt, white tabi, black geta, red floral hair ornament, traditional japanese clothing,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792513850153
+ "updatedAt": 1792513861487
 };

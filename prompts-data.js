@@ -9844,7 +9844,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgpwx1e",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light blue double breasted jacket, rounded collar, long sleeves, white tiered skirt, layered ruffles, white lace up boots, wedge heels, wing hairpin,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792502839643
+ "updatedAt": 1792502848060
 };

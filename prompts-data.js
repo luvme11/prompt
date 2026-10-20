@@ -10068,7 +10068,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqoaac",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gray satin hair bow, black fitted mock turtleneck sweater, long sleeves, ribbed knit sweater, gray plaid pleated mini skirt, high waist skirt, dark grey thighhighs, chunky sole black loafers, silver cross necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792504118092
+ "updatedAt": 1792504125453
 };

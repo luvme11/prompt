@@ -9486,7 +9486,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvgm9d7t.jpg?v=1792496712150",
    "pos": "50.0% 52.0%",
    "soon": false
+  },
+  {
+   "id": "mvgnr0ey",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, solo,\n((full body)), ((head to toe)),\nfull body shot, long shot, wide shot,\nentire figure visible, feet visible,\ncamera pulled back, distant camera,\nstanding, eye level,\nsmall character in frame,\nspace around the character,\nground visible beneath both feet,\n\nSlytherin Hogwarts school uniform,\nblack wizard robe,\ndeep emerald green inner lining,\nwide loose sleeves,\nlong flowing open-front robe,\nSlytherin serpent crest embroidered on chest,\nwhite collared dress shirt,\ngreen and silver diagonal striped necktie,\nblack V-neck knitted sweater vest,\nblack pleated mini skirt,\nblack knee-high socks,\nblack leather loafers,\nlayered school uniform,\ndetailed fabric folds,\n\n1girl, full body, walking along the lakeside, robe swaying softly, looking ahead, black lake beside her, Hogwarts-inspired castle in the distance, cloudy sky, magical academy atmosphere, cinematic composition, Slytherin-inspired school uniform,"
+    },
+    {
+     "label": "의상",
+     "text": "Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, detailed fabric folds"
+    }
+   ],
+   "img": "img/comp/mvgnr0ey.jpg?v=1792499214937",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792499195849
+ "updatedAt": 1792499215725
 };

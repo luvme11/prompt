@@ -9746,7 +9746,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgp7t2h.jpg?v=1792501890102",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvgpcueq",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "navy blue oversized varsity jacket, white stripes on sleeves, poodle patch on chest, heart pins, 2::white ruffled mini skirt::, white slouchy leg warmers, white sneakers with red laces, 1.5::white lace head scarf::, red necklace with heart pendant, black barrel-shaped shoulder bag, red ribbon and bead charms hanging from bag,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792501891091
+ "updatedAt": 1792501911558
 };

@@ -10401,8 +10401,8 @@ window.PROMPT_DATA = {
      "text": "white short sleeve blouse, pointed collar, fitted blouse, burgundy necktie, black fitted vest, three button vest, deep v neckline, red plaid pleated mini skirt, black garter straps, black fishnet thighhighs, black mary janes, black studded belt, black cross earring,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgrtns9.jpg?v=1792506540510",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -10420,5 +10420,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792506369216
+ "updatedAt": 1792506541472
 };

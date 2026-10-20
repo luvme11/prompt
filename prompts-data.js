@@ -10135,10 +10135,10 @@ window.PROMPT_DATA = {
      "text": "green empire waist camisole, spaghetti straps, 2::lace trimmed neckline::, gathered bodice, lace hem, dark wash denim micro skirt, low rise skirt, ruffled hem, black opaque pantyhose, white loose leg warmers, brown leather oxford shoes, green ribbed arm warmers, tortoiseshell hair clips,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqozs8.jpg?v=1792504575392",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792504563910
+ "updatedAt": 1792504576680
 };

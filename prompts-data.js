@@ -10726,7 +10726,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvguq9lb",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white ringer t shirt, light blue trim, graphic t shirt, miffy, baggy jeans, light wash denim, wide leg jeans, panelled pants, high top sneakers, canvas shoes, light blue beanie, knit cap, star necklace, silver necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792510929903
+ "updatedAt": 1792510935978
 };

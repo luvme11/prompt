@@ -9564,7 +9564,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgo93x8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, ultra-detailed, solo, full body, 1.2::sitting on floor, side view::,\nluxurious oriental lingerie, Chinese-inspired design, ivory silk bralette, embroidered silk shorts, delicate lace trim, intricate floral embroidery, translucent silk sleeves, oversized silk bow, ornate waist ribbon, pearl ornaments, floral lace stockings, satin slippers, ivory white, pale blush pink, champagne gold accents, lustrous silk, fine fabric texture, intricate folds, layered silk drapes pooling around the legs,\nsitting gracefully, legs folded to one side, one leg slightly extended, crossed ankles, upper body slightly twisted, arched back, one hand resting on floor, other holding silk fabric, looking over shoulder, sultry expression, subtle seductive smile,\nminimal ivory and champagne gold curtains, floor-length draped curtains, fine woven fabric texture, natural folds, delicate hem stitching, subtle fabric sheen, soft shadows, warm diffused lighting, plain uncluttered background, vintage storybook illustration, vintage postage stamp illustration, ornate stamp frame, scalloped perforated edges, decorative gold border, delicate floral filigree around the frame, small ornamental postmark, cream parchment texture, botanical corner decorations, centered full-body character, balanced composition, elegant storybook illustration, 1.2::circular postmark, small denomination number, white and cream paper texture, centered illustration, large decorative stamps design::, mini envelope stickers, postal mark stickers, tiny postage labels, vintage numbers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792500014591
+ "updatedAt": 1792500058074
 };

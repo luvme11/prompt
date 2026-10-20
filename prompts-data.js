@@ -9897,8 +9897,8 @@ window.PROMPT_DATA = {
      "text": "yellow off shoulder graphic t shirt, short sleeves, cross necklace, dark red newsboy cap, dark gray denim shorts, frilled hem, dark red studded belt, yellow slouch socks, dark red platform mary janes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgq4ytt.jpg?v=1792503398126",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -9916,5 +9916,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503388518
+ "updatedAt": 1792503399418
 };

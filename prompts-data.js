@@ -10810,7 +10810,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgv1xd1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cream cardigan, knit cardigan, white dress, collared dress, shirt dress, neck white ribbon, tiered dress, frilled dress, white socks, platform sneakers, sneakers, \ncrossbody bag, brown bag, saddle bag,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511473542
+ "updatedAt": 1792511480424
 };

@@ -10541,10 +10541,10 @@ window.PROMPT_DATA = {
      "text": "1.4::oversized t-shirt::, 1.2::layered sleeves::, letter print, white shirt, pleated skirt, mini skirt, grey skirt, navy leg warmers, lace up, platform shoes, white footwear, arm warmers, white star necklace, navy backpack,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgtm7iv.jpg?v=1792509185020",
+   "pos": "50.0% 24.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792509067039
+ "updatedAt": 1792509186050
 };

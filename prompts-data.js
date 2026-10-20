@@ -9547,8 +9547,8 @@ window.PROMPT_DATA = {
      "text": "full shot, Queen of Hearts, extravagant chaotic baroque playing card, crimson corset gown, enormous layered ruffled skirt, black lace gloves, golden embroidery, ruby crown, pearl chains, lounging sideways on a golden throne, wicked ecstatic smile, holding a heart-shaped dagger, exploding roses, broken hearts, tangled ribbons, shattered chandeliers, surreal madness, overwhelming ornamental chaos, vertical playing card frame, red heart symbols and letter Q in top-left and bottom-right corners, crimson, black and gold palette, subtle frame-breaking composition, 2::hair and accessories slightly extending beyond the inner frame::, vertical 2:3 card ratio, white outer margins, rounded rectangular illustration frame, red heart suit symbols, card rank and heart symbol in top-left and bottom-right corners,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvgo7hfa.jpg?v=1792500197077",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -9580,5 +9580,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792500058074
+ "updatedAt": 1792500197763
 };

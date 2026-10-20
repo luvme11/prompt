@@ -11258,7 +11258,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvh99rpo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2people, hug from behind, standing, height difference, upper body, side view,\n\nstanding, looking back, looking another, hands in pockets\n\nhug from behind, face in another's back, arms around another's waist, blue eyes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792535331399
+ "updatedAt": 1792535360674
 };

@@ -11394,7 +11394,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvha43q2.jpg?v=1792536925425",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mvhaak03",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인 의상 X",
+     "text": "2people, 2face, 2body, couple, dominant and submissive, from above, looking down, looking up, dim lighting, intimate atmosphere, dark, shadowed, noir, point lighting, sexy face, upper body, close-up,"
+    },
+    {
+     "label": "남자",
+     "text": "kneeling, looking up at other, black shirt, unbuttoned shirt, 1.5::collar and leash::, leash held by other, blushing face, sweating, flushed cheeks, kiss marks on neck::, submissive pose"
+    },
+    {
+     "label": "여자",
+     "text": "standing, looking down at other, pulling leash, high heels, seductive smile, dominant expression, confident pose, holding leash tightly"
+    }
+   ],
+   "img": "img/comp/mvhaak03.jpg?v=1792537078422",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792536926527
+ "updatedAt": 1792537079064
 };

@@ -10894,7 +10894,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgvqbyl.jpg?v=1792513441391",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvgw8546",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::white nurse dress::, fit and flare dress, short puff sleeves, white frilled shoulder flaps, peter pan collar, front button closure, white necktie, gray necktie, cross emblem necktie, white nurse cap, frilled nurse cap, gray cross emblem, white opera gloves, white thighhighs, white platform shoes, lace up platform shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792513442346
+ "updatedAt": 1792513449563
 };

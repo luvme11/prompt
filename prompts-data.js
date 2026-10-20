@@ -11045,8 +11045,8 @@ window.PROMPT_DATA = {
      "text": "white fitted field jacket, high collar, front zipper, flap chest pockets, fitted waist, white ribbed hem, distressed black military cap, black aviator goggles, black leather fingerless gloves, black low rise short shorts, rolled hem, dangling belt straps, gray ribbed knit thighhighs, white slouch boots, wedge boots, black leather belt, rugged clothing, military fashion,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwnz5k.jpg?v=1792514428620",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -11078,5 +11078,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792514207652
+ "updatedAt": 1792514429123
 };

@@ -10625,8 +10625,8 @@ window.PROMPT_DATA = {
      "text": "white silk shirt, long sleeves, charcoal pencil skirt, side slit grey skirt, high waist, black wristwatch,  formal wear, high heels, grey coat, long coat, id card, neck card,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgts79c.jpg?v=1792509520885",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -10644,5 +10644,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792509510740
+ "updatedAt": 1792509522182
 };

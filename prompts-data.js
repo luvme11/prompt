@@ -10933,8 +10933,8 @@ window.PROMPT_DATA = {
      "text": "white empire waist dress, sleeveless dress, shirred bodice, black ruffled neckline, black layered ruffled hem, black lace trim, black lace underskirt, black satin waist ribbon, side waist bow, black lace choker, layered cross necklace, black cross pendant, black ribbon hair bows, black heart shaped crossbody bag, white ankle socks, black platform mary janes, gothic lolita,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwfqrd.jpg?v=1792514069179",
+   "pos": "50.0% 6.0%",
    "soon": false
   },
   {
@@ -11036,5 +11036,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792513875078
+ "updatedAt": 1792514070126
 };

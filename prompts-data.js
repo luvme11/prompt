@@ -10863,10 +10863,10 @@ window.PROMPT_DATA = {
      "text": "1.5::detective outfit::, capelet, beret, tan vest, double breasted, gold buttons, pleated skirt, high waist skirt, striped trim, white shirt, long sleeves, contrast cuffs, brown necktie, brown socks, dark brown shoes, loafers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgvd1yx.jpg?v=1792512088481",
+   "pos": "50.0% 30.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792511999350
+ "updatedAt": 1792512089690
 };

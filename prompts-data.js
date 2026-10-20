@@ -10376,7 +10376,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrtime",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white sleeveless blouse, pointed collar, vertical striped fabric, front ruffles, fitted blouse, button up, dark red  pleated micro skirt, low waist, pleated hem, black mary janes, ankle strap shoes, white socks, black rosary necklace, black cross pendant, black cord necklace, gothic accessory,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506041085
+ "updatedAt": 1792506049416
 };

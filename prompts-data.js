@@ -9715,8 +9715,8 @@ window.PROMPT_DATA = {
      "text": "light green cardigan, cream ruffled tunic top, blue flare denim jeans, white sneakers, pink polka-dot boston bag, blue star hair clip"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgp7b8e.jpg?v=1792501854543",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -9748,5 +9748,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792501841053
+ "updatedAt": 1792501855329
 };

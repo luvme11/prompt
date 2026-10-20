@@ -10866,7 +10866,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgvd1yx.jpg?v=1792512088481",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvgvq7w1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white shirt, short sleeves, collared shirt, black neck ribbon, high waist pleated skirt, black skirt, white socks, calf high socks, black loafers, \nhair ribbon, hair bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792512089690
+ "updatedAt": 1792512613562
 };

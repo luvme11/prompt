@@ -9914,7 +9914,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgq53k1.jpg?v=1792503411863",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvgqal7f",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "navy blue velvet track jacket, zip up jacket, oversized jacket, white button up shirt, dark red striped necktie, white tiered petticoat, lace trimmed skirt, black fishnet pantyhose, white leg warmers, black platform loafers, black studded belt, black shoulder bag, silver star earrings,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503412691
+ "updatedAt": 1792503485916
 };

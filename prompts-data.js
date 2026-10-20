@@ -11327,10 +11327,10 @@ window.PROMPT_DATA = {
      "text": "Princess carry, holding A, carrying A, standing, serious, suit, necktie, black leather gloves, looking at A"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvh9nr14.jpg?v=1792536187413",
+   "pos": "50.0% 14.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792536012976
+ "updatedAt": 1792536188685
 };

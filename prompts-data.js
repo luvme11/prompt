@@ -11020,7 +11020,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwh9jc",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white kimono, layered kimono, wide sleeves, black trim, white floral embroidery, black obi, decorative obi knot, red tassel ornament, red hakama, long pleated hakama, detached sleeves, hanging paper streamers, ribbon ornaments, white tabi, zori sandals,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792513868895
+ "updatedAt": 1792513875078
 };

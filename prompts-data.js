@@ -10583,8 +10583,8 @@ window.PROMPT_DATA = {
      "text": "forest green dress, white lace collar, puff sleeves, dark green ribbon, leaf hair ornament, white thighhighs, green mary janes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgtrihy.jpg?v=1792509485126",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -10644,5 +10644,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792509466312
+ "updatedAt": 1792509485709
 };

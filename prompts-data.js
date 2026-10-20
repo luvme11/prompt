@@ -11230,7 +11230,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvh97s5l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2people, couple, kiss, full body, standing,\n\nsitting, hand on another's cheek, head tilt\n\nleaning down, looking down at another, hand on another's cheek, eyes closed"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792535247533
+ "updatedAt": 1792535268442
 };

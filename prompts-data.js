@@ -9911,10 +9911,10 @@ window.PROMPT_DATA = {
      "text": "black pinstripe double breasted vest, high collar, sleeveless, black shorts, dark red belt, dark red beret, black ribbed leg warmers, black high heeled shoes, black handbag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgq53k1.jpg?v=1792503411863",
+   "pos": "50.0% 16.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792503399418
+ "updatedAt": 1792503412691
 };

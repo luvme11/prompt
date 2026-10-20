@@ -9603,7 +9603,7 @@ window.PROMPT_DATA = {
      "text": "full body, full figure, head to toe visible, Gryffindor Hogwarts school uniform, black wizard robe, deep scarlet red and gold inner lining, wide loose sleeves, long flowing robe, Gryffindor lion crest embroidered on chest, white collared dress shirt, red and gold diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, pleated black skirt, knee-high socks or stockings, black leather school shoes, detailed fabric folds, neat magical academy outfit"
     }
    ],
-   "img": "",
+   "img": "img/look/mvgojd3s.jpg?v=1792500700132",
    "pos": "50% 50%",
    "soon": false
   },
@@ -9650,5 +9650,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792500609544
+ "updatedAt": 1792500701093
 };

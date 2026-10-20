@@ -9827,8 +9827,8 @@ window.PROMPT_DATA = {
      "text": "pink long sleeved shirt, black graphic print, grey denim pleated miniskirt, front pockets, low waist skirt, silver bow earrings, pink heart pendant necklace, heart navel piercing, white printed socks, black patent leather mary janes, block heels, pink shoulder bag, studded bag, chain strap, heart shaped bag clasp,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgpwkck.jpg?v=1792503107878",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -9860,5 +9860,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503096188
+ "updatedAt": 1792503108826
 };

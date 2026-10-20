@@ -10177,8 +10177,8 @@ window.PROMPT_DATA = {
      "text": "light pink polka dot fit and flare dress, strapless dress, sweetheart neckline, brown ribbon shoulder strap, brown lace trim, flared skirt, brown cropped leather jacket, oversized jacket, dropped shoulders, zip up jacket, brown leather shoulder bag, brown leather knee boots, low heel boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgr6j0z.jpg?v=1792505150632",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -10196,5 +10196,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792505140380
+ "updatedAt": 1792505151299
 };

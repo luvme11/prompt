@@ -11452,7 +11452,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvhahf91",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2::holding bouquet under arm, bouquet tucked at side::, 2::one hand adjusting hair::, focused expression, slight smile, nervous gesture, casual posture, \n\nboy, solo, standing, leaning forward, front view, 3::through glass, behind glass, window between viewer and subject, glass surface, transparent surface::, 2::looking at viewer::, casual romantic mood, going on a date, 2::street, outside shop, storefront window::, urban setting, depth of field, perspective, reflection composition, soft lighting, natural lighting, cinematic lighting, candid moment, snapshot aesthetic"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792537304050
+ "updatedAt": 1792537397241
 };

@@ -11129,8 +11129,8 @@ window.PROMPT_DATA = {
      "text": "brown plaid babydoll dress, spaghetti straps, empire waist, lace trimmed neckline, ribbon bow, lace hem, brown bloomers, cream knit leg warmers, slouch socks, brown platform mary janes, double buckle straps, bow shoes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgwwfm4.jpg?v=1792514848086",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -11148,5 +11148,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792514731600
+ "updatedAt": 1792514848603
 };

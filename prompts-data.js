@@ -10306,7 +10306,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgrjd35.jpg?v=1792505808918",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvgrscwt",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::cream fitted vest::, front button vest, princess seams, white puff sleeve blouse, peter pan collar, embroidered collar, pintuck blouse, short puff sleeves, cream plaid pleated mini skirt, high waisted skirt, brown leather satchel, brown leather wristwatch, cream ankle socks, brown lace up ankle boots, platform boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792505810031
+ "updatedAt": 1792505995326
 };

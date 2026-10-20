@@ -10250,7 +10250,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrivew",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink fitted blouse, scoop neckline, white ruched inset, front button blouse, ruffled hem, 2::white lace tiered mini skirt::, layered ruffle skirt, lace fabric, white ankle socks, pink patent leather mary janes, double strap shoes, heart buckle shoes, bunny hair clips,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792505544107
+ "updatedAt": 1792505552028
 };

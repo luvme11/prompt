@@ -10919,10 +10919,10 @@ window.PROMPT_DATA = {
      "text": "2::pastel pink nurse dress::, fit and flare dress, high mandarin collar, short puff sleeves, white sleeve cuffs, asymmetrical button closure, decorative covered buttons, white nurse cap, pastel pink cross emblem, layered tulle underskirt, white sheer petticoat, white thighhighs, pastel pink high heels,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgw8h4a.jpg?v=1792513683494",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792513673865
+ "updatedAt": 1792513683992
 };

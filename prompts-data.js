@@ -10530,7 +10530,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgsi23l.jpg?v=1792509048559",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvgtm7iv",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.4::oversized t-shirt::, 1.2::layered sleeves::, letter print, white shirt, pleated skirt, mini skirt, grey skirt, navy leg warmers, lace up, platform shoes, white footwear, arm warmers, white star necklace, navy backpack,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792509049269
+ "updatedAt": 1792509067039
 };

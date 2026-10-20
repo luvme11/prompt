@@ -9925,8 +9925,8 @@ window.PROMPT_DATA = {
      "text": "navy blue velvet track jacket, zip up jacket, oversized jacket, white button up shirt, dark red striped necktie, white tiered petticoat, lace trimmed skirt, black fishnet pantyhose, white leg warmers, black platform loafers, black studded belt, black shoulder bag, silver star earrings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqal7f.jpg?v=1792503663725",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -9972,5 +9972,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503514513
+ "updatedAt": 1792503664724
 };

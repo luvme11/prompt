@@ -10950,7 +10950,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwgfzj",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::pink kimono blouse::, floral print, wide furisode sleeves, black trim, hanging ribbon ornaments, black ribbon bows, lace up sleeve edges, black high waist skirt, layered frilled skirt, white lace trim, lace underskirt, black obi, pink obi bow, floral obi ornament, lace waist sash, pink ribbon tails, white ankle socks, black platform mary janes, wa lolita, sweet lolita,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792513812118
+ "updatedAt": 1792513836922
 };

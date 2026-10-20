@@ -10138,7 +10138,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgqozs8.jpg?v=1792504575392",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvgr2r0t",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::gray off shoulder knit sweater::, -2::cardigan::, deep v neckline, long bishop sleeves, black lace camisole, lace trimmed camisole, black pleated mini skirt, black sheer thighhighs, lace top thighhighs, gray knit leg warmers, black platform loafers, black leather handbag, silver cross necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792504576680
+ "updatedAt": 1792504800266
 };

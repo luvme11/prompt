@@ -10163,8 +10163,8 @@ window.PROMPT_DATA = {
      "text": "2::black oversized hoodie::, lack pullover hoodie,  long sleeves, ribbed cuffs, kangaroo pocket, silver cross pendant necklace, black distressed denim micro shorts, low rise shorts, frayed hem, zipper details, black fishnet pantyhose, black platform knee boots, lace up boots, buckle boots, side zipper boots, black leather boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgr6dcx.jpg?v=1792505139234",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -10196,5 +10196,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792504983383
+ "updatedAt": 1792505140380
 };

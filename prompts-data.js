@@ -10149,10 +10149,10 @@ window.PROMPT_DATA = {
      "text": "2::gray off shoulder knit sweater::, -2::cardigan::, deep v neckline, long bishop sleeves, black lace camisole, lace trimmed camisole, black pleated mini skirt, black sheer thighhighs, lace top thighhighs, gray knit leg warmers, black platform loafers, black leather handbag, silver cross necklace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgr2r0t.jpg?v=1792504924047",
+   "pos": "50.0% 22.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792504800266
+ "updatedAt": 1792504924886
 };

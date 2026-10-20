@@ -9378,7 +9378,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvgl8epz.jpg?v=1792494987720",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvgldemi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, upper body, sitting sideways on wooden chair, body turned slightly away, looking back over shoulder at viewer, relaxed posture, sly smile, Hogwarts classroom, gothic stone walls, magical atmosphere,"
+    },
+    {
+     "label": "의상",
+     "text": "Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, detailed fabric folds"
+    }
+   ],
+   "img": "img/comp/mvgldemi.jpg?v=1792495220950",
+   "pos": "50.0% 0.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792494988833
+ "updatedAt": 1792495221596
 };

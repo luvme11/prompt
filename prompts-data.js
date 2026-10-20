@@ -11430,7 +11430,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvhab44q.jpg?v=1792537154889",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvhaffbl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인 의상 X",
+     "text": "2::couple, close distance::, 2::intimate, quiet moment::, 2::eye contact, upper body focus::, soft lighting, warm tones, subtle tension,"
+    },
+    {
+     "label": "안경 쓴 쪽",
+     "text": "glasses, looking at partner, slightly surprised, still posture, 2::leaning forward::,"
+    },
+    {
+     "label": "안경 벗기는 쪽",
+     "text": "2::removing other's glasses::, 2::hands near other's face, touching glasses::, careful movement, focused expression,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792537155672
+ "updatedAt": 1792537304050
 };

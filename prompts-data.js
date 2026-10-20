@@ -10362,7 +10362,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrtc79",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black and gray striped fitted top, short sleeves, scoop neckline, 2::lace trimmed neckline::, bow detail, button placket, fitted waist, 2::black layered ruffle mini skirt::, lace waistband, tiered skirt, side drawstrings, black thighhighs, black mary janes, black lace choker, dangling cross charm, chain choker,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506031251
+ "updatedAt": 1792506041085
 };

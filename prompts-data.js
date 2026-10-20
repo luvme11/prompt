@@ -11216,7 +11216,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvh949u4.jpg?v=1792535106005",
    "pos": "58.2% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvh97cdv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1boy, 1girl, two people, couple, trapped in a small box, cramped box, extremely cramped space, confined space, barely enough room, sitting close together, knees drawn up, legs bent, awkwardly folded legs, cramped pose, tangled legs, close proximity, almost touching, face to face, blushing, embarrassed, flushed cheeks,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792535106496
+ "updatedAt": 1792535247533
 };

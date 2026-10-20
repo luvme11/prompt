@@ -10205,8 +10205,8 @@ window.PROMPT_DATA = {
      "text": "black plaid halter dress, halter neckline, plaid scarf collar, smocked bodice, fit and flare dress, flared mini skirt, black floral lace pantyhose, black leather newsboy cap, black leather jacket, oversized jacket, black platform mary janes, ankle strap shoes, block heels, silver pendant necklace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgri46k.jpg?v=1792505683774",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -10308,5 +10308,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792505574915
+ "updatedAt": 1792505685065
 };

@@ -10233,8 +10233,8 @@ window.PROMPT_DATA = {
      "text": "2::black bodycon dress::, square neckline, white ruched bust, white bishop sleeves, long sheer sleeves, fitted mini dress, side slit, 2::lace trimmed slit::, bow, black sheer pantyhose, black over the knee boots, stiletto heel boots, black beret, birdcage veil,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgrijzh.jpg?v=1792505726988",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -10308,5 +10308,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792505703210
+ "updatedAt": 1792505727979
 };

@@ -9634,7 +9634,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgokim8",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink short-sleeved waitress uniform, white collar, double-breasted buttons, heart-shaped badge, pink and white striped mini skirt, ruffled white apron, lace trim, black belt with buckle, white leg warmers, black garter straps, white inline skates with pink wheels, buckle straps on skates, pink pillbox hat with black ribbons, white wings on hat, black wrist cuffs, bandage on knee, cherry hair ornament, heart-shaped belt accessory"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792500546841
+ "updatedAt": 1792500590394
 };

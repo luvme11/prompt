@@ -10485,8 +10485,8 @@ window.PROMPT_DATA = {
      "text": "1.3::cable knit cardigan::, panda bag, plush bag, loose socks, white beret, sailor collar, black neck ribbon, cream cardigan, long sleeves, buttons, black pleated skirt, mini skirt, white leg warmers, black platform footwear, black shoes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgs6mk6.jpg?v=1792506887633",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -10518,5 +10518,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792506878265
+ "updatedAt": 1792506888786
 };

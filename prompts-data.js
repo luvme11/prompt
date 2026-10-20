@@ -10082,7 +10082,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqoh5b",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light pink ribbed knit sweater, deep v neckline, layered sweater, white collared button up shirt, pointed collar, long sleeves, gray plaid pleated mini skirt, side button detail, low rise skirt, pearl necklace, white socks, light pink mary janes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792504125453
+ "updatedAt": 1792504134435
 };

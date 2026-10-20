@@ -10964,7 +10964,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgwgl3u",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black and white furisode, long sleeves, {gradient kimono}, black floral embroidery, plum blossom pattern, black obi, striped obi bow, layered obi cords, flower obi ornament, long tassels, pearl chains, lace sleeve trim, white tabi, white geta, monochrome clothing,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792513836922
+ "updatedAt": 1792513843431
 };

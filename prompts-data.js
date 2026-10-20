@@ -10180,7 +10180,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgr6oez",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "brown cable knit cardigan, open front cardigan, balloon sleeves, ribbed cuffs, brown plaid babydoll long camisole, empire waist, spaghetti straps, lace trimmed neckline, ribbon bow, lace hem, blue wide leg jeans, loose fit jeans, brown leather shoulder bag, pearl necklace, brown headband, chestnut platform boots, suede platform boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792504976747
+ "updatedAt": 1792504983383
 };

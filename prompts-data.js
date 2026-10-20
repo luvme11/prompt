@@ -9855,10 +9855,10 @@ window.PROMPT_DATA = {
      "text": "light blue double breasted jacket, rounded collar, long sleeves, white tiered skirt, layered ruffles, white lace up boots, wedge heels, wing hairpin,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgpwx1e.jpg?v=1792503137116",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792503128399
+ "updatedAt": 1792503137762
 };

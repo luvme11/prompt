@@ -10460,7 +10460,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgs6gqk",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::frog hoodie, green raincoat::, frog eyes, animal hood, yellow buttons, long sleeves, oversized fit, vinyl fabric, waterproof material, yellow trim, glossy surface, green shorts, yellow rain boots, shiny boots"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506644076
+ "updatedAt": 1792506653029
 };

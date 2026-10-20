@@ -11485,8 +11485,8 @@ window.PROMPT_DATA = {
      "text": "2::selfie::, playful, smile,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvhai6wm.jpg?v=1792537677799",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -11526,5 +11526,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792537642176
+ "updatedAt": 1792537678941
 };

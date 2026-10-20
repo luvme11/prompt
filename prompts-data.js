@@ -11146,7 +11146,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgwwlqp.jpg?v=1792514730931",
    "pos": "50.0% 42.0%",
    "soon": false
+  },
+  {
+   "id": "mvgx3ldl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "green gingham peplum blouse, square neckline, drawstring neckline, puffed short sleeves, fitted waist, olive green cotton blouse, 2::brown tiered maxi skirt::, gathered skirt, layered hem, brown cotton skirt, brown leather mary janes, block heels, buckle strap, beige newsboy cap, ribbon bow, green bead bracelet,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792514848603
+ "updatedAt": 1792514916848
 };

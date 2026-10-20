@@ -9342,7 +9342,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvflpzzo.jpg?v=1792435528388",
    "pos": "50.0% 54.0%",
    "soon": false
+  },
+  {
+   "id": "mvgl33xg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "upper body, 1girl, female student, sitting at a desk, resting her chin on one hand, elbow on the desk, slightly leaning forward, calm and slightly bored expression, looking at viewer, Slytherin-inspired school uniform, black wizard robe with deep emerald green lining, white dress shirt, green and silver striped tie, dark sweater vest, neat academic appearance, medium shot, upper body focus, desk visible in foreground, classroom composition, magical classroom background, Hogwarts-inspired classroom atmosphere, old wooden desk, books, parchment, potion bottles, candlelight, stone walls, arched windows, chalkboard, dark academia, fantasy school, warm moody lighting, detailed fabric folds, cinematic, highly detailed,"
+    },
+    {
+     "label": "의상",
+     "text": "Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, detailed fabric folds"
+    }
+   ],
+   "img": "img/comp/mvgl33xg.jpg?v=1792494740304",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792435529169
+ "updatedAt": 1792494741414
 };

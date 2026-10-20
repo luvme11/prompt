@@ -10054,7 +10054,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqo4wd",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white polka dot tiered pinafore dress, fit and flare, empire waist, gathered skirt, black polka dots, spaghetti straps, pale aqua ribbed turtleneck sweater, long sleeves, white knit beret, lace trim beret, pale aqua striped socks, white chunky sneakers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792504109388
+ "updatedAt": 1792504118092
 };

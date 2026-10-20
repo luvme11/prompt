@@ -10614,7 +10614,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgts79c",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white silk shirt, long sleeves, charcoal pencil skirt, side slit grey skirt, high waist, black wristwatch,  formal wear, high heels, grey coat, long coat, id card, neck card,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792509332601
+ "updatedAt": 1792509347252
 };

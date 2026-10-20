@@ -9561,8 +9561,8 @@ window.PROMPT_DATA = {
      "text": "King of Hearts, extravagant chaotic baroque, insane tyrant, crimson-black military uniform, gold embroidery, black gloves, velvet cape, small tilted ruby crown, reclining on a golden throne, legs crossed, head tilted back, sinister smirk, both hands resting on a vertical heart-shaped scepter, bloodstained swords embedded in the throne's backrest in a circular halo, blade tips inward, hilts outward, dark decadent Art Nouveau background, crimson roses, thorny vines, chaotic golden ornaments, classic poker card, vertical 2:3, white outer margins, rounded rectangular illustration frame, red letter K and heart symbols in opposite corners, bottom-right index upside down, subtle frame-breaking composition, 2::hair and accessories slightly extending beyond the inner frame::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvgo7ssb.jpg?v=1792500210089",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -9580,5 +9580,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792500197763
+ "updatedAt": 1792500210722
 };

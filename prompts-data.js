@@ -11507,10 +11507,10 @@ window.PROMPT_DATA = {
      "text": "casual prom dress, cocktail dress, oversized black jacket, boyfriend blazer, blazer on shoulders, holding burger, messy eating,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvhajsop.jpg?v=1792537733086",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792537690905
+ "updatedAt": 1792537734223
 };

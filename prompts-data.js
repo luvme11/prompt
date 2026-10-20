@@ -10838,7 +10838,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgv2k7t.jpg?v=1792511846612",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvgva41x",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "shearling jacket, tan coat, fur trim, fur cuffs, pleated skirt, brown skirt, mini skirt, plaid scarf, brown scarf, tassel scarf, shearling boots, tan boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792511847749
+ "updatedAt": 1792511862519
 };

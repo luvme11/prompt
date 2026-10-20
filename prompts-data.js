@@ -9928,7 +9928,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgqat2b",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::light pink off shoulder sweater::, long sleeves, white trim, gray polka dot miniskirt, white ribbed tights, white fur trimmed boots, platform boots, white knit beanie,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792503485916
+ "updatedAt": 1792503496889
 };

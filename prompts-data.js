@@ -9578,7 +9578,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvgo93x8.jpg?v=1792500228861",
    "pos": "90.4% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvgoitjv",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, full figure, head to toe visible, Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, long flowing robe, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, pleated black skirt, knee-high socks or stockings, black leather school shoes, detailed fabric folds, neat magical academy outfit"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792500230145
+ "updatedAt": 1792500510885
 };

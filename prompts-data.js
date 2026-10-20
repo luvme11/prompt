@@ -9788,7 +9788,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgpd1sm.jpg?v=1792502067293",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvgpvn0u",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black and dark red gothic lolita dress, heart shaped bodice, puff sleeves, sheer sleeves, black detached sleeves, layered ruffled skirt, dark red velvet skirt, black organza overskirt, black lace trim, black corset belt, large dark red chest bow, dark red neck ribbon, cross brooches, black and lace hair bow, long ribbon tails, gothic earrings, black lace topped thighhighs, black lace up ankle boots, platform boots, buckle straps,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792502068399
+ "updatedAt": 1792502788454
 };

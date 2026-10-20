@@ -11272,7 +11272,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvh99rpo.jpg?v=1792535512880",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvh9irwy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2 characters, slightly apart, space between A and B, 2::side view::, full body, simple background, white background,"
+    },
+    {
+     "label": "메이드",
+     "text": "standing, classic black-and-white maid outfit, white maid headband, frilled collar, frilled shoulder straps, black long sleeves, white apron, black ribbon, holding broom, sweeping floor, looking down, looking at B,"
+    },
+    {
+     "label": "도련님",
+     "text": "squatting, 3::lifting A’s skirt from behind::, looking under skirt, black suit,"
+    }
+   ],
+   "img": "img/comp/mvh9irwy.jpg?v=1792535782134",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792535513862
+ "updatedAt": 1792535782622
 };

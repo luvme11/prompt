@@ -10404,7 +10404,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgrtt1m",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dark red puffed sleeve blouse, floral lace fabric, peter pan collar, button up blouse, black fitted vest, double breasted vest, decorative buttons, front hook fastening, burgundy layered hem, 2::black lace layered skirt::, mini skirt, black floral lace pantyhose, dark red patent leather platform mary janes, block heels,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792506055956
+ "updatedAt": 1792506062925
 };

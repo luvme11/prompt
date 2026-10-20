@@ -11330,7 +11330,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvh9nr14.jpg?v=1792536187413",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvh9unjj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인 의상 X",
+     "text": "2people, embrace, hugging, sitting, lap hug, one person sitting, other person straddling lap, facing each other, upper body pressed together, arms around neck, one arm around waist, intimate pose, close embrace, leaning against each other,over the shoulder, 2::back view, upper body focus::, close shot,"
+    },
+    {
+     "label": "남자",
+     "text": "sitting, head tilted slightly, looking at partner, one arm supporting partner's back, one hand resting on partner's waist, broad shoulders,"
+    },
+    {
+     "label": "여자",
+     "text": "2::back view,back to viewer::, straddling lap, facing away from viewer, arms wrapped around neck, hugging tightly, head resting on shoulder, legs around waist,"
+    }
+   ],
+   "img": "img/comp/mvh9unjj.jpg?v=1792536337045",
+   "pos": "50.0% 12.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792536188685
+ "updatedAt": 1792536338328
 };

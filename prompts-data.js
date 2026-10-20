@@ -10639,10 +10639,10 @@ window.PROMPT_DATA = {
      "text": "1.5::black lace dress::, red ribbon, frills, black choker, heart cutout, detached sleeves, dark thighhighs, garter straps, black mary janes, black wings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgtsd4v.jpg?v=1792509537374",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792509522182
+ "updatedAt": 1792509538036
 };

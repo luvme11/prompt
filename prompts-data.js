@@ -9659,8 +9659,8 @@ window.PROMPT_DATA = {
      "text": "2::pink and brown argyle sweater::, off-shoulder, long sleeves, brown checkered mini skirt, pleated skirt, mismatched thigh-high socks, polka dot pattern on one leg, striped pattern on other leg, cream slouchy leg warmers, white leg warmers, pink heart choker, heart pendant necklace, pink and brown platform sandals, hair bands"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgp21b6.jpg?v=1792501551568",
+   "pos": "50.0% 8.0%",
    "soon": false
   },
   {
@@ -9692,5 +9692,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792501430447
+ "updatedAt": 1792501552368
 };

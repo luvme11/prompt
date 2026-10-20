@@ -10600,7 +10600,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgtrwaq",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black silk bodycon dress, deep neckline, lace trim, white fur coat, sheer black pantyhose, high heels, tight fit, sleeveless,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792509326377
+ "updatedAt": 1792509332601
 };

@@ -9785,10 +9785,10 @@ window.PROMPT_DATA = {
      "text": "white frilled blouse, peter pan collar, black neck bow, puffy long sleeves, detached sleeves, black ribbon armbands, black star print skirt, high waisted skirt, wide black belt, belt buckle, layered frilled skirt, white ruffled petticoat, black garter straps, mismatched thighhighs, star print thighhighs, frilled socks, black and white platform mary janes, shoe bows,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgpd1sm.jpg?v=1792502067293",
+   "pos": "50.0% 24.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792502052131
+ "updatedAt": 1792502068399
 };

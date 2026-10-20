@@ -11202,7 +11202,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvh05i2u.jpg?v=1792520046856",
    "pos": "20.0% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvh949u4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 characters, facing each other, close interaction, natural conversation, sitting at an outdoor cafe table, beachside cafe, cafe terrace, ocean view cafe, afternoon tea set on table, three tiered afternoon tea stand, sandwiches, scones, cakes, tea cups, elegant table setting,\n\nbeach in background, ocean visible behind them,\nblue sea, white sand beach, palm trees, summer vacation, clear sky, soft sunlight,\nupper body, medium shot, eye level, cinematic composition, warm atmosphere, slice of life, romantic mood, soft lighting,\n\nA: casual summer outfits, white shirts, linen clothes, holding B’s hand gently, hand kiss, kissing the back of B’s hand, bringing B’s hand close, gentle affectionate gesture, looking at B, fond gaze, warm smile, loving expression, resting chin on other hand, elbow on table,\n\nB: timid expression, natural eyes, angelic face, pure, white summer dress, laughing happily, bright smile, joyful expression"
+    }
+   ],
+   "img": "img/comp/mvh949u4.jpg?v=1792535106005",
+   "pos": "58.2% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792520055990
+ "updatedAt": 1792535106496
 };

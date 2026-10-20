@@ -11174,7 +11174,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvgx9t3q.jpg?v=1792515380637",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvgxdvzb",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black corset blouse, gray plaid peter pan collar, puffed short sleeves, front buttoning, fitted waist, ruffled hem, black pinstripe pleated mini skirt, low waist, black thighhighs, black patent platform oxfords, lace up shoes, black newsboy cap,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792515381438
+ "updatedAt": 1792515397591
 };

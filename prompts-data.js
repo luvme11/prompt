@@ -11195,7 +11195,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "의상 X",
      "text": "masterpiece, best quality, anime style,\n1.8::extreme wide shot::,\n1.8::cinematic landscape composition::,\n1.8::view from behind::,\n\n1.8::one lone girl standing on the beach in the foreground::,\n1.7::full body seen from behind::,\n1.8::facing the distant Going Merry ship::,\n1.9::raising one arm straight up toward the sky::,\n1.7::waving goodbye to the departing ship::,\nemotional farewell gesture,\nwhite triangle bikini top,\nlight blue ultra short denim shorts,\nlong hair flowing in the sea breeze,\n\n1.9::the entire Going Merry ship sailing away across the ocean::,\n1.8::complete ship visible from bow to stern::,\n1.8::iconic Going Merry pirate ship::,\nwhite sheep figurehead,\nwooden sailing ship,\nlarge white sails,\ncentral wooden mast,\nempty wooden deck,\nunoccupied ship,\nthree-quarter side view,\nship surrounded by open ocean,\n\n1.8::vast open sea separating the girl and the ship::,\n1.7::strong sense of distance::,\nwide ocean horizon,\nsparkling blue seawater,\nbright blue sky,\nsoft white clouds,\nwarm sunlight,\ngentle ocean waves,\n\n1.7::emotional nostalgic farewell atmosphere::,\nbittersweet goodbye,\npeaceful adventurous mood,\nbeautiful cinematic scenery,\nwide horizontal composition,\n16:9 aspect ratio,"
     }
    ],
@@ -11204,5 +11204,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792520047358
+ "updatedAt": 1792520055990
 };

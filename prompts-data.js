@@ -9504,7 +9504,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvgnr0ey.jpg?v=1792499214937",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvgnsztb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, solo, ((full body)), ((head to toe)), ((entire body visible)), long shot, wide shot, camera pulled back, full figure in frame, feet fully visible, ground visible beneath both feet, low angle, camera positioned slightly below waist level, standing on an ancient stone courtyard, body slightly turned sideways, looking toward the castle towers, robe fluttering gently,\n\nSlytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, long flowing open-front robe, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, black pleated mini skirt, black knee-high socks, black leather loafers, layered school uniform, detailed fabric folds,\n\n((Hogwarts Castle from the Harry Potter films)), iconic Hogwarts castle architecture, enormous medieval Gothic castle, tall pointed towers, multiple irregular stone turrets, steep slate rooftops, ancient stone walls, arched windows, massive castle courtyard, dramatic castle silhouette, Scottish Highlands, cloudy sky, cinematic fantasy environment, highly detailed architecture"
+    },
+    {
+     "label": "의상",
+     "text": "Slytherin Hogwarts school uniform, black wizard robe, deep emerald green inner lining, wide loose sleeves, Slytherin serpent crest embroidered on chest, white collared dress shirt, green and silver diagonal striped necktie, black V-neck knitted sweater vest, layered school uniform, detailed fabric folds"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792499215725
+ "updatedAt": 1792499306567
 };

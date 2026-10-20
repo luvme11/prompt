@@ -11391,10 +11391,10 @@ window.PROMPT_DATA = {
      "text": "1adult man, 1adult woman, couple, 2::back hug::, 2::man standing directly behind woman::, 2::man wrapping his arms around woman from behind::, 2::man's hands gently cupping woman's breasts over her clothes::, 1.5::hands resting on her chest::, woman leaning back against man's body, close physical contact, consensual intimate pose, side view, three-quarter angle, upper body shot, both characters clearly visible, fully clothed,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvha43q2.jpg?v=1792536925425",
+   "pos": "50.0% 10.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792536806358
+ "updatedAt": 1792536926527
 };

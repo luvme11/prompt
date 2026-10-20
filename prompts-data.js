@@ -10821,8 +10821,8 @@ window.PROMPT_DATA = {
      "text": "cream cardigan, knit cardigan, white dress, collared dress, shirt dress, neck white ribbon, tiered dress, frilled dress, white socks, platform sneakers, sneakers, \ncrossbody bag, brown bag, saddle bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgv1xd1.jpg?v=1792511672592",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -10840,5 +10840,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792511660367
+ "updatedAt": 1792511673579
 };

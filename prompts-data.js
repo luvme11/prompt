@@ -10513,10 +10513,10 @@ window.PROMPT_DATA = {
      "text": "flower hair clip, brown newsboy cap, \n1.3::white off-shoulder sweater::, knit sweater, long sleeves, folded collar, ribbed cuffs, brown pinstripe skirt, pleated skirt, mini skirt, side buttons, white leg warmers, brown slouchy boots, buckle boots, brown shoulder bag, leather bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgs7k0f.jpg?v=1792506921860",
+   "pos": "50.0% 36.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792506902978
+ "updatedAt": 1792506922817
 };

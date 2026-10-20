@@ -10051,8 +10051,8 @@ window.PROMPT_DATA = {
      "text": "brown corduroy newsboy cap, dark brown leather bomber jacket, fur collar, zip up jacket, ribbed cuffs, ribbed hem, oversized jacket, flap pockets, black ribbed halter knit top, high neck halter top, fitted top, brown pinstripe pleated mini skirt, low rise skirt, side button detail,  brown knee high boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqnxry.jpg?v=1792504484226",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -10140,5 +10140,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792504158157
+ "updatedAt": 1792504485519
 };

@@ -9771,8 +9771,8 @@ window.PROMPT_DATA = {
      "text": "navy and blue track jacket, white double stripes on sleeves, high neck collar, black pleated mini skirt, 2::dark gray wide-leg trousers, layered under skirt::, black and white chunky sneakers, dark brown backpack, decorated with small plush charms (white bunny, calico cat, brown bear), angel wing ornaments on backpack straps"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgpcydn.jpg?v=1792502051184",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -9790,5 +9790,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792502040848
+ "updatedAt": 1792502052131
 };

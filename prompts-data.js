@@ -11241,8 +11241,8 @@ window.PROMPT_DATA = {
      "text": "2people, couple, kiss, full body, standing,\n\nsitting, hand on another's cheek, head tilt\n\nleaning down, looking down at another, hand on another's cheek, eyes closed"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvh97s5l.jpg?v=1792535398461",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -11274,5 +11274,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792535360674
+ "updatedAt": 1792535399422
 };

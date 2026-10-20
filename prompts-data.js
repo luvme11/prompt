@@ -9883,8 +9883,8 @@ window.PROMPT_DATA = {
      "text": "black long sleeved turtleneck bodycon dress, black belt, gold buckle, leopard print newsboy cap, gold chain, leopard print thigh boots, high heel boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgq4svj.jpg?v=1792503387976",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -9916,5 +9916,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503372150
+ "updatedAt": 1792503388518
 };

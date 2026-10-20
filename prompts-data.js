@@ -10429,8 +10429,8 @@ window.PROMPT_DATA = {
      "text": "oversized leather jacket, black jacket, embroidery on jacket, white crop top, red plaid skirt, pleated skirt, belt, black beret, choker, chain, platform boots, black footwear,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgs5u85.jpg?v=1792506841235",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -10518,5 +10518,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792506704126
+ "updatedAt": 1792506842050
 };

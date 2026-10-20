@@ -9995,8 +9995,8 @@ window.PROMPT_DATA = {
      "text": "red gingham camisole, shoulder bows, spaghetti straps, lace trim, denim shorts, low rise shorts, lace trimmed shorts, heart earrings, red hair bow, white ribbed leg warmers, red high top sneakers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqgtel.jpg?v=1792503939735",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -10042,5 +10042,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503923813
+ "updatedAt": 1792503940754
 };

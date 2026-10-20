@@ -10009,8 +10009,8 @@ window.PROMPT_DATA = {
      "text": "teal polka dot babydoll dress, fit and flare, empire waist, gathered skirt, black polka dots, black lace trim, lace trimmed sweetheart neckline, black satin ribbon bow, black ribbon trim, black ruffled hem, black cropped cardigan, long sleeves,  white crew socks, black patent mary janes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvgqgxnc.jpg?v=1792503956256",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -10042,5 +10042,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792503940754
+ "updatedAt": 1792503956903
 };

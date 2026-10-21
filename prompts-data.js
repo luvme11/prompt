@@ -12041,8 +12041,8 @@ window.PROMPT_DATA = {
      "text": "white short sleeves shirt, turn down collar, pink ribbon bow, light pink knitted vest, buttoned vest, ribbed trim, oversized vest, blue layered denim mini skirt, tiered ruffle skir, light pink socks, white canvas sneakers, white over ear headphones, pink ribbon headphones, pink bag charm, hello kitty charm,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvibgoly.jpg?v=1792600294970",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -12102,5 +12102,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792600281520
+ "updatedAt": 1792600295487
 };

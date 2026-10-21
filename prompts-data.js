@@ -12324,7 +12324,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvielh7y",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pink raglan sleeves, grey pleated skirt, grey miniskirt, white cropped shirt, pink long sleeves, pink graphic print, midriff, dark grey loose socks, slouch socks, pink sneakers, low top sneakers, white laces, \npink duffel bag, shoulder bag, white cat hair clip,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792603213388
+ "updatedAt": 1792604771400
 };

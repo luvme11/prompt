@@ -11960,7 +11960,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mviadhih.jpg?v=1792597831419",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mviagzrm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, waist-up,\n\n4::elegant black tailored suit::,\nblack suit jacket, crisp white dress shirt,\nslightly loosened black tie,\nsharp formal styling,\n\n5::black fingerless gloves::,\n5::biting the edge of one fingerless glove with his teeth::,\n4::pulling the glove off with his mouth::,\ngloved hand raised near the lips,\nfabric stretched slightly between teeth and fingers,\nother hand relaxed,\n\ncalm confident gaze,\nslightly tilted head,\n\ndark luxurious lounge interior,\ndim warm lighting, blurred city lights,\ndark wood and leather furniture,\n\neditorial fashion photography,\ndramatic lighting, upper body composition,\n\n-4::full body, gloves completely removed, winter gloves, boxing gloves::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792597831928
+ "updatedAt": 1792597843862
 };

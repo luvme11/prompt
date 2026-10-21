@@ -11619,10 +11619,10 @@ window.PROMPT_DATA = {
      "text": "full body, front view, from slightly above, 1.4::sitting on chair, legs apart::, arms on armrests, head tilt slightly, looking at viewer, expressionless, half-lidded eyes, parted lips, barefoot,\n\n1.5::white eyepatch over one eye, medical eye cover::, 1.4::nasal cannula, oxygen tube, clear tube under nose, tube around ears::, 1.3::wearing mouth gag, mouth retractor::, 1.4::strapped to chair::, 1.3::strapped limbs::, restrained,\n\n1.4::hospital gown, patient gown, pale white gown, cross pattern::, v-neck, long sleeves, oversized, string ties on sleeves, tied cuffs, matching pajama pants, loose pants, string ties on pants,\n\n1.5::restrained, black restraint straps across chest and waist, wrist restraints on armrests, ankle cuffs, leather straps, buckles::, 1.4::black medical chair, black vinyl seat, padded headrest, armrests, swivel base, metal pole::,\n\nheart monitor, retro monitor, pixel smiley face, heart icon, number display, surgical lamp, operating light, iv stand, 1.3::translucent ghost sketch of another figure in background, faded duplicate, line art figure wearing mask::,\n\n1.4::poster, graphic design, technical drawing::, 1.5::blueprint, ui elements, hud, barcode, small text, english text, red stripes, red emblem, brain logo, circular hud, red corner label::, simple background, clear white background"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi8awba.jpg?v=1792594389807",
+   "pos": "50.0% 20.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792594306274
+ "updatedAt": 1792594390936
 };

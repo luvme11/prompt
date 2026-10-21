@@ -12647,10 +12647,10 @@ window.PROMPT_DATA = {
      "text": "black military lolita, black attached cape, silver embroidery, grey collared blouse, black necktie, white frilled cuffs, black double breasted jacket, silver chain belt, black skirt, white frilled hem, cross embroidery, silver stripe trim, silver cross hair clip, black pantyhose, black knee boots, lace-up boots, platform boots, holding cane"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvij4trc.jpg?v=1792612575936",
+   "pos": "50.0% 20.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792612566412
+ "updatedAt": 1792612576727
 };

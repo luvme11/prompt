@@ -12889,7 +12889,7 @@ window.PROMPT_DATA = {
      "text": "slight stubble, small cut on eyebrow, subtle bruises on cheek, wearing orange prison uniform over white shirt, holding booking board, cold and intimidating expression"
     },
     {
-     "label": "여자 의상",
+     "label": "여자",
      "text": "subtle dark circles, slightly messy hair, faint bruises or scratches on face, wearing an orange prison uniform loosely over a white inner shirt, holding booking board, calm but slightly defiant expression"
     }
    ],
@@ -12930,5 +12930,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792617713032
+ "updatedAt": 1792617729659
 };

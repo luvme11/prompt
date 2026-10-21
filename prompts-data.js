@@ -11658,7 +11658,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvi8g94r.jpg?v=1792594592599",
    "pos": "34.7% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvi8lt57",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people,2.5::intimate seated couple pose::, 2.5::rear view of B, B's back facing viewer::, vertical composition, 2::A sitting on a simple wooden chair, B standing between A's spread knees::, B leaning against A, bodies pressed close, height difference, overlapping figures, 2::A looking up at B, B looking down at A::, romantic tension, intimate eye contact, simple pale gray background, minimal furniture, quiet atmosphere"
+    },
+    {
+     "label": "A",
+     "text": "2.5::sitting on chair, leaning back slightly, legs apart::,\n2::looking up at B's face, head tilted upward::,2.5::one hand supporting the back of B's raised thigh::,2::palm placed underneath B's bent upper leg, fingers resting against the back of B's thigh::,holding B's lifted leg close to his body,other arm relaxed at side,dark navy dress shirt, rolled-up sleeves, dark tailored trousers"
+    },
+    {
+     "label": "B",
+     "text": "2.5::back facing viewer, rear view, standing close to A::,2.5::one knee bent and lifted toward A, raised thigh supported by A's hand::,2::one leg standing straight on the floor, other leg folded at the knee::, lower leg hanging downward, bent knee pointing toward A,2::leaning against A's chest and shoulder::,one arm resting around A's shoulder,head slightly lowered toward A,maid outfit, black Victorian maid dress,fitted bodice, white frilled apron, short pleated skirt,puff sleeves, white lace trim, white maid headdress,black ribbon collar, large apron bow at back,light gray thigh-high stockings, black loafers"
+    }
+   ],
+   "img": "img/comp/mvi8lt57.jpg?v=1792594711278",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792594593114
+ "updatedAt": 1792594712273
 };

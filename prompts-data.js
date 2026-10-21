@@ -12426,7 +12426,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mviicduw.jpg?v=1792611066876",
    "pos": "50.0% 58.0%",
    "soon": false
+  },
+  {
+   "id": "mviirl1f",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "one shoulder top, white top, cropped top, shirt around waist, plaid shirt, brown plaid, wide leg pants, jeans, denim, baseball cap, beige cap, bow, lace trim, handbag, brown bag, leather bag, sneakers, brown footwear,"
+    }
+   ],
+   "img": "img/look/mviirl1f.jpg?v=1792611776160",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792611067686
+ "updatedAt": 1792611776793
 };

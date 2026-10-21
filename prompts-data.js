@@ -12086,7 +12086,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvibhvbc",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light yellow ribbed henley t-shirt, light blue denim tiered mini skirt, short sleeves, button placket, scoop neckline, fitted t-shirt, layered denim skirt, low waist skirt, white fur earmuffs, white ribbon ankle socks, cream fur winter boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792599551549
+ "updatedAt": 1792599564344
 };

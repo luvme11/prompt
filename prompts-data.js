@@ -12510,7 +12510,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mviixsv3",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white cropped jacket, rolled up sleeves, chest pockets, black text print, silver chain necklace, black leather belt, silver buckle, belt chain, white oversized pants, white chunky sneakers, black choker"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612056532
+ "updatedAt": 1792612064413
 };

@@ -12352,7 +12352,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvielueg.jpg?v=1792605133454",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvig4dhd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::solo::, 1.9::adult character::, 1.8::upper body or cowboy shot::, 1.8::dynamic composition::, 1.7::varied camera angles::, 1.8::natural asymmetrical pose::, 1.8::expressive body language::, 1.8::character filling the frame::, tilted shoulders, natural body twist, confident rebellious attitude,\n\n2::black fitted cropped top::, 1.9::black top or cropped sleeveless top::, 1.8::oversized black leather jacket slipping off one shoulder::, black low-rise pants, exposed midriff, silver chains, layered necklaces, hoop earrings, multiple rings, edgy unisex fashion,\n\n2.3::round black sunglasses pushed up onto forehead::, 2.2::medium-sized perfectly circular dark lenses::, thin silver frames, 2::both eyes fully visible::, 2.2::one hand adjusting sunglasses on forehead::, 2.2::other hand holding a cigarette between two fingers::, curling cigarette smoke, confident smirk,\n\n2.4::massive traditional East Asian dragon tattoo::, 1.5::large blackwork dragon tattoo covering shoulder and arm::, 1.2::dragon tattoo extending across ribs and waist::, 1.9::one continuous coiling dragon design::, fierce dragon head, intricate scales, swirling clouds, bold black ink, elaborate irezumi details,\n\n2::deep crimson red background::, 1.9::dark burgundy backdrop::, 1.8::simple solid-color background::, subtle red gradient, drifting smoke, crimson rim lighting, metallic highlights, dramatic shadows, luxurious dark atmosphere, striking composition"
+    }
+   ],
+   "img": "img/comp/mvig4dhd.jpg?v=1792607334247",
+   "pos": "43.5% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792605732091
+ "updatedAt": 1792607335060
 };

@@ -12366,7 +12366,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvig4dhd.jpg?v=1792607334247",
    "pos": "43.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvig6hng",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, 2::dynamic low-angle frontal view::, 1.9::camera positioned below hip level, looking upward::, 1.8::10-degree clockwise dutch angle::, 2::strong diagonal composition::, 1.9::dramatic perspective foreshortening::, 1.8::character dominating the foreground::, 1.8::dynamic depth and perspective::, 2::body leaning forward toward the camera::, 1.9::one leg raised with knee bent::, 1.8::playful energetic body movement::, 1.8::asymmetrical body silhouette::, natural flowing movement, confident stylish pose, dynamic balance, wind-swept clothing, confident playful smile, looking at viewer,off-shoulder cardigan, slipping cardigan, black short sleeve t-shirt, white jeans, layered street-fashion styling, soft knit texture, oversized cardigan sleeves, subtle silver accessories, belt details, cool casual feminine styling,holding takeout coffee, wolf plush, fox plush, cute wolf mascot, cute fox mascot, animal keychains, star charms, ribbon accents, cool-cute sticker motifs,sparkling accents, fluffy decorative effects, floating graphic shapes, diagonal speed lines, energetic motion streaks, scattered tiny stars, playful graphic bursts,cityscape, crosswalk, ultramarine blue sky, yellow text background panels, vivid pink typography, dense monthly shoujo manga magazine cover layout, oversized masthead, packed cover lines, stacked side headlines, teaser blurbs, inset text blocks, burst captions, circular callouts, vertical and horizontal text composition, layered floating text, busy editorial composition, overlapping graphic elements, dynamic diagonal editorial layout, cute but cool mood, bright stylish urban atmosphere, holographic lighting, fake magazine cover, photoshoot"
+    }
+   ],
+   "img": "img/comp/mvig6hng.jpg?v=1792607432684",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792607335060
+ "updatedAt": 1792607433246
 };

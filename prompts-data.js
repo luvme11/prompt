@@ -11747,8 +11747,8 @@ window.PROMPT_DATA = {
      "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::, 2::one arm extended releasing luminous rose petals::, 1.8::other hand holding a radiant pearl::, 1.9::spiraling flowers and golden light surrounding the figure::, 1.8::translucent butterflies fluttering through the air::, 1.9::ancient Greek ceremonial robes::, 1.8::flowing ivory silk drapery::, 1.8::champagne-gold embroidery::, 1.8::soft blush-pink and peach accents::, 1.8::pearl chains and golden floral accessories::, 1.8::long translucent ribbons billowing in the breeze::, 1.9::enormous radiant floral halo behind the figure::, 1.8::heavenly rose garden and white marble palace::, 1.8::sparkling ocean beneath a brilliant clear sky::, 1.9::brilliant warm sunlight::, 1.9::soft champagne-gold divine radiance::, 1.8::pastel pink and ivory atmosphere::, 1.8::countless glittering particles and floating petals::, 1.9::joyful and majestic divine presence::, magnificent celestial beauty, enchanting spring atmosphere"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9rfun.jpg?v=1792596843938",
+   "pos": "60.9% 50.0%",
    "soon": false
   },
   {
@@ -11766,5 +11766,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792596829425
+ "updatedAt": 1792596844645
 };

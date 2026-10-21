@@ -12465,8 +12465,8 @@ window.PROMPT_DATA = {
      "text": "2::nurse dress::, light blue dress, puff sleeves, short sleeves, high neck, button front, cross print, lace trim, white gloves, armband, crossbody bag, pouch, knee highs, platform shoes, blue footwear, hair bow, striped bow, \nnurse hat,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviisbq7.jpg?v=1792612009999",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -12484,5 +12484,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792611986033
+ "updatedAt": 1792612010961
 };

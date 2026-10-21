@@ -12594,7 +12594,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvij4bnc",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cinnamoroll cosplay, sweet lolita, pastel blue theme, mini top hat with teacup ornament, headwear with small ears, blue vest, white blouse, large sheer bow, mini skirt, cloud-shaped hem, fur trim, sheer layered skirt, angel wings, knee-high socks, platform mary janes, white shoes, blue bow on shoes"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612360177
+ "updatedAt": 1792612368782
 };

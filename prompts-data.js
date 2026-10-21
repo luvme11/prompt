@@ -12044,7 +12044,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvibh5ql",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white fitted blouse, 1.5::black layered ruffle mini skirt::, puff short sleeves, square neckline, front button closure, textured fabric, black striped ribbon bow, black lace trim, {black lace top thighhighs, ribbon thighhighs}, black patent leather mary janes, block heels,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792599509025
+ "updatedAt": 1792599530874
 };

@@ -12566,7 +12566,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvij3xd3",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white short kimono, off shoulder, wide sleeves, pink floral print, pink trim, pink obi, black obi, small pink bow, tassel, pom pom ornament, black bike shorts, white tabi socks, pink geta, flower hair ornament"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612338999
+ "updatedAt": 1792612350400
 };

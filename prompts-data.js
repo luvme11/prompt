@@ -12552,7 +12552,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mviiy8y2.jpg?v=1792612326300",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvij3onz",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cat ear hood, pink cropped jacket, open jacket, cleavage cutout, black crop top, black pleated skirt, thigh strap, leg garter, pink leg warmers, black sneakers, bell collar, black cat tail, black paw gloves"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612327106
+ "updatedAt": 1792612338999
 };

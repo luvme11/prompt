@@ -11722,7 +11722,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvi9r47j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "에로스",
+     "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::, 2::one hand drawing an ornate divine bow::, 2::other hand pulling back a radiant love arrow aimed diagonally across the frame::, 1.9::glowing heart-piercing arrow made of divine light::, 1.9::multiple luminous arrows floating in midair around the figure::, 1.9::gigantic spiral of rose petals and golden light swirling behind the figure::, 1.9::ornate circular halo woven from roses, ribbons, pearls and celestial filigree::, 1.8::soft radiant wing motifs of light spreading behind the shoulders::, 1.8::ancient Greek ceremonial attire with elegant romantic detailing::, 1.8::flowing draped fabric and delicate layered garments::, 1.8::ornate gold accessories and heart-shaped ornaments::, 1.8::long silk ribbons whipping through the air::, 1.9::floating doves and fluttering feathers::, 1.9::luxurious celestial garden and marble terrace in the background::, 1.8::blooming roses climbing over marble columns::, 1.9::glowing clouds and warm sunset sky::, 1.9::pink, gold, and ivory divine illumination::, 1.8::sparkling magical particles everywhere::, 1.8::romantic energy vortex::, 1.8::graceful yet powerful divine presence::, opulent celestial beauty, passionate mythological atmosphere, cinematic depth"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792596612628
+ "updatedAt": 1792596636679
 };

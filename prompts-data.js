@@ -12689,8 +12689,8 @@ window.PROMPT_DATA = {
      "text": "white gothic lolita, white corset, lace-up corset, red cross stitch, off-shoulder, puffy sleeves, frilled sleeves, white frilled skirt, layered skirt, side long train, frilled train, pearl chain trim, white thighhighs, red ribbon thighhigh trim, white lace-up boots, white flower crown, white ribbon, pearl necklace, holding cross staff, white flag"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvijcbyi.jpg?v=1792612996054",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -12764,5 +12764,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612780516
+ "updatedAt": 1792612996624
 };

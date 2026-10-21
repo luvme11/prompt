@@ -13069,10 +13069,10 @@ window.PROMPT_DATA = {
      "text": "1.8::post-apocalyptic abandoned city::,\n1.8::ruined urban cityscape::,\n1.7::destroyed city buildings::,\n1.6::collapsed skyscrapers::,\n1.6::deserted city streets::,\ncrumbling concrete structures,\nbroken windows,\nabandoned vehicles,\ncracked roads,\nscattered rubble and debris,\novergrown vegetation,\ndust floating in the air,\nfoggy atmosphere,\ndesolate surroundings,\ngloomy atmosphere,\ncinematic lighting,\ndramatic shadows,\n\n2.0::man and woman embracing each other face-to-face::,\n1.9::standing close together in a tight embrace::,\n1.9::both characters facing each other::,\n1.8::man's arms wrapped around woman's back::,\n1.8::woman's arms wrapped around man's waist::,\n1.7::holding each other closely::,\n1.7::bodies pressed gently together::,\n1.6::intimate face-to-face embrace::,\n1.6::three-quarter side view::,\n1.6::both faces partially visible::,\n1.5::heads close together::,\nemotional reunion,\nprotective embrace,\ntender atmosphere,\nnatural hugging pose,\ncinematic composition,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvinub0q.jpg?v=1792621344828",
+   "pos": "50.0% 38.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792620299638
+ "updatedAt": 1792621345486
 };

@@ -12675,10 +12675,10 @@ window.PROMPT_DATA = {
      "text": "demon armor, silver metal bra, black hoodie, open hoodie, hood up, horned helmet, demon horns, demon wings, red membrane wings, silver chain harness, layered chains, silver ring accessories, black baggy pants, silver ring belt, black leg warmers, silver ring leg straps, black platform boots, red sole, long silver nail claws, spike earrings"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvij93w7.jpg?v=1792612712486",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792612592164
+ "updatedAt": 1792612713298
 };

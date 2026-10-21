@@ -11873,8 +11873,8 @@ window.PROMPT_DATA = {
      "text": "5::on motorcycle, strict side view composition::,\n4::tank top under open leather rider jacket::,\n\n5::one hand gripping motorcycle handlebar::,\n6::other hand firmly grabbing the bottom hem of the tank top::,\n6::pulling the tank top upward above the navel::,\n6::tank top visibly bunched up in one hand::,\n6::entire abdomen exposed, clearly visible six-pack abs::,\n5::bare muscular stomach, defined abdominal muscles::,\n\n4::glancing to the side::,\ndynamic riding pose, outdoor road, detailed clothing, \n\n-5::shirt covering abdomen, tank top hanging down,\nhands resting on stomach, both hands on handlebars,\nshirtless, closed jacket, hidden abs, extra arms::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvia6iyd.jpg?v=1792597495235",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -11934,5 +11934,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792597473607
+ "updatedAt": 1792597496341
 };

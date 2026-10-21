@@ -11577,8 +11577,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, doll-like face, porcelain skin, sparkling eyes, gentle smile, blush, rosy cheeks, soft curls, curled sidelocks, music box theme, wind-up doll, clockwork doll, ballerina, antique doll, whimsical, fairy tale, elegant, delicate, ivory and dusty pink color scheme, champagne gold accents, pearl white, ornate lace bonnet, miniature crown, rose hair ornament, pearl hairpins, satin ribbons, oversized hair bow, ballet dress, ornate tutu, layered tulle skirt, bell-shaped skirt, puff sleeves, off-shoulder dress, frilled collar, lace choker, corset bodice, golden embroidery, pearl buttons, scalloped lace trim, delicate ruffles, satin bows, rose embroidery, golden filigree, pearl chains, dangling crystal charms, golden wind-up key on back, clockwork key, small golden gears, music note accessories, tiny bells, ballet slippers, ribbon-wrapped ankles, white lace stockings, ballet pose, standing on tiptoes, one leg raised, arms gracefully extended, head tilt, gentle smile, full body, ornate music box, miniature music box stage, golden music box mechanism, floating musical notes, tiny golden gears, rose petals, sparkling particles, soft golden light,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi86aly.jpg?v=1792594142129",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -11610,5 +11610,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792594125543
+ "updatedAt": 1792594143451
 };

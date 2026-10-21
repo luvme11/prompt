@@ -11622,7 +11622,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvi8awba.jpg?v=1792594389807",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvi8flaq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, two adult, 1.5::medium wide shot, eye-level, straight-on view::, 2::stainless steel food counter physically separating the two men::, 1.5::A standing in the customer area in front of the counter, B standing in the staff area behind the counter::, A on the left, B on the right, different sides of the counter,  1990s Hong Kong takeaway food stall, white tiled walls, glass food display case, colorful sauce bottles lined up on the back counter, old beverage dispenser, fluorescent lighting, cool blue-green color grading, 35mm film grain, nostalgic cinematic still,"
+    },
+    {
+     "label": "A",
+     "text": "A: 1.5::standing on the left side of counter, drinking from a small paper cup::, one elbow resting casually on the counter, other arm relaxed, looking down at drink, calm expression,light blue short-sleeved police uniform shirt, dark necktie, black shoulder strap, black duty belt, dark trousers,"
+    },
+    {
+     "label": "B",
+     "text": "B: 1.5::standing behind the counter on the right, leaning forward with both forearms resting on countertop::, 1.4::head resting sideways on folded arms, gazing quietly at A::, relaxed posture, faint curious expression,plain white t-shirt, casual work clothes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792594390936
+ "updatedAt": 1792594419053
 };

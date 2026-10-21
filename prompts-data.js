@@ -12226,7 +12226,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvicak58.jpg?v=1792600904473",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mviceoip",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black choker, black leather corset, underbust corset, lace-up front, halter top, pleated skirt, black miniskirt, detached sleeves, black arm warmers, chunky boots, black trim on boots, fishnet pantyhose, fishnet stockings, thigh garter,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792600916954
+ "updatedAt": 1792601094732
 };

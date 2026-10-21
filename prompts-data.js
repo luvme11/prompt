@@ -12720,7 +12720,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvijcv87",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white sailor collar, red neckerchief, white long sleeves, black stripe cuffs, white cropped jacket, black pleated miniskirt, red trim, red underskirt, black belt, gold buckle, thigh strap, red tag, red armband, black pantyhose, white red sneakers, red laces, red triangle hair clip"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612759331
+ "updatedAt": 1792612767240
 };

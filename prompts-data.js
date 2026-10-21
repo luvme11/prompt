@@ -12072,7 +12072,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvibhlvl",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gray  cardigan, white collared blouse, ribbon necktie, long sleeves, buttoned cardigan, ribbed cuffs, ribbed hem, gray knit cardigan, black plaid pleated skirt, white ribbed thighhighs,  ivory knit leg warmers, bow shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792599541970
+ "updatedAt": 1792599551549
 };

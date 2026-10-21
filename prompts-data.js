@@ -12380,7 +12380,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvig6hng.jpg?v=1792607432684",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvigns90",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic low angle, dutch angle, cowboy shot, front view, body leaning forward, energetic asymmetrical composition, one leg raised, leg bent, lively stylish pose, confident playful smile, looking at viewer, off-shoulder cardigan, slipping cardigan, black short sleeve t-shirt, white jeans, layered street-fashion styling, soft knit texture, oversized cardigan sleeves, subtle silver accessories, belt details, cool casual feminine styling, holding takeout coffee, wolf plush, fox plush, cute wolf mascot, cute fox mascot, animal keychains, star charms, ribbon accents, cool-cute sticker motifs, sparkling accents, fluffy decorative effects, floating graphic shapes, cityscape, crosswalk, ultramarine blue sky, yellow text background panels, vivid pink typography, dense monthly shoujo manga magazine cover layout, oversized masthead, packed cover lines, stacked side headlines, teaser blurbs, inset text blocks, burst captions, circular callouts, vertical and horizontal text composition, layered floating text, busy editorial composition, cute but cool mood, bright stylish urban atmosphere, holographic lighting, fake magazine cover, photoshoot"
+    }
+   ],
+   "img": "img/comp/mvigns90.jpg?v=1792608239684",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792607433246
+ "updatedAt": 1792608240792
 };

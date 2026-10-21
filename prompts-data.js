@@ -11890,7 +11890,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvia7rvu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "5::lying on back, upper body only::,\n\n5::shirt hem lifted upward, exposing abdomen::,\n4::defined abs, exposed waist::,\n5::biting a black marker pen::,\n\n4::black marker held horizontally between the teeth::,\nrelaxed reclining pose,\n\nblack oversized pinstripe blazer,\nwhite dress shirt pulled up above the stomach,\nunbuttoned collar, loose fabric,\n\nblack studded leather gloves,\nnarrow black sunglasses,\nsilver cross necklace, black choker,\nblack suspenders,\n\n5::pure white background::, soft lighting, upper body close-up,\n\n-5::marker in hand, marker on floor, standing, sitting, full body, camera, stage, covered abdomen::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792597376345
+ "updatedAt": 1792597413261
 };

@@ -12995,10 +12995,10 @@ window.PROMPT_DATA = {
      "text": "solo, 2::side view, standing in profile::, 2::cowboy shot::, 1.5::body facing sideways, head turned slightly toward the offscreen hand::,\n\n2::a hand coming in from outside the frame, pinching pants band and pulling::, 1.5::pulled taut, only the hand and wrist visible, no other person visible,\n\n2::character glancing sideways toward the offscreen hand, slightly surprised and a little flustered expression::, \n\n2::wearing pants ::, [색] underwear, shirtless, simple white background,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvimpjxa.jpg?v=1792618507833",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792618492466
+ "updatedAt": 1792618508516
 };

@@ -11834,7 +11834,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvia2v5p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nude, naked, body tightly wrapped with red ribbon, red ribbon wrapping body, shibari, ribbon bondage, red ribbon bow on chest, holding ribbon ends with both hands, looking at viewer, ;p, playful expression, seductive, black background, simple background, solid black background, soft lighting, rim lighting, detailed skin, blush"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792597179872
+ "updatedAt": 1792597184525
 };

@@ -12521,8 +12521,8 @@ window.PROMPT_DATA = {
      "text": "white cropped jacket, rolled up sleeves, chest pockets, black text print, silver chain necklace, black leather belt, silver buckle, belt chain, white oversized pants, white chunky sneakers, black choker"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviixsv3.jpg?v=1792612301267",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -12554,5 +12554,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612283150
+ "updatedAt": 1792612301925
 };

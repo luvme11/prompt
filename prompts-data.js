@@ -12829,8 +12829,8 @@ window.PROMPT_DATA = {
      "text": "cosplay, mario (series) cosplay, mario cosplay, red shirt, overalls, blue overalls, white gloves, red cap, red headwear, hat, cabbie hat, brown shoes, gold buttons, short sleeves"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvik9pjo.jpg?v=1792614313542",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -12848,5 +12848,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792614304531
+ "updatedAt": 1792614314169
 };

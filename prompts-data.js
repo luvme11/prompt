@@ -12815,10 +12815,10 @@ window.PROMPT_DATA = {
      "text": "racing outfit, white crop top, midriff, white miniskirt, frilled skirt, red belt, black harness, strap, white jacket, short sleeves, off shoulder, white gloves, fingerless gloves, mismatched legwear, single thighhigh, black thighhigh, white thighhigh, knee boots, white boots, red trim, white beret, star hair ornament, gold star pin, checkered flag"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvik15rv.jpg?v=1792614030784",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792613900696
+ "updatedAt": 1792614031447
 };

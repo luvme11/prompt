@@ -11641,7 +11641,7 @@ window.PROMPT_DATA = {
      "text": "B: 1.5::standing behind the counter on the right, leaning forward with both forearms resting on countertop::, 1.4::head resting sideways on folded arms, gazing quietly at A::, relaxed posture, faint curious expression,plain white t-shirt, casual work clothes,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvi8flaq.jpg?v=1792594567863",
    "pos": "50% 50%",
    "soon": false
   },
@@ -11660,5 +11660,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792594449734
+ "updatedAt": 1792594568366
 };

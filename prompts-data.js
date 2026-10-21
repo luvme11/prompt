@@ -11789,8 +11789,8 @@ window.PROMPT_DATA = {
      "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::, ,2::one arm raised overhead wielding a colossal blazing lightning bolt::, 1.9::other arm extended outward commanding the storm::, 1.9::violent divine lightning erupting around the body::, 1.9::massive branching lightning arcs::, 1.8::thunderclouds spiraling into a gigantic vortex::, 1.8::ornate ancient Greek ceremonial robes::, 1.8::golden armor accents::, 1.8::flowing embroidered mantle whipping violently in the wind::, 1.8::floating golden laurel ornaments::, 1.9::gigantic celestial temple emerging through storm clouds::, 1.8::shattered marble columns suspended in midair::, 1.8::radiant golden divine halo::, 1.8::electric blue and brilliant gold lighting::, 1.8::explosive perspective::, 1.8::volumetric light rays piercing the storm::, magnificent sacred atmosphere, cinematic depth,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9ww4e.jpg?v=1792596998709",
+   "pos": "32.0% 50.0%",
    "soon": false
   },
   {
@@ -11822,5 +11822,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792596984465
+ "updatedAt": 1792596999244
 };

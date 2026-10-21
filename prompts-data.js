@@ -12100,7 +12100,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvibzbso",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black pintuck blouse, sleeveless blouse, front buttoning, lace trim, black cotton blouse, 2::grey plaid micro skirt::, low waist, pleated hem, side button detail, black thighhighs, ribbon trim thighhighs, black patent mary janes, layered pearl necklace, cross pendant,"
+    }
+   ],
+   "img": "img/look/mvibzbso.jpg?v=1792600380017",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792600295487
+ "updatedAt": 1792600380652
 };

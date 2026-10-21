@@ -11761,10 +11761,10 @@ window.PROMPT_DATA = {
      "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::,1.9::one arm raised toward a gigantic blazing sun::, 2::other hand holding an elaborately carved golden lyre::, 2::enormous golden solar disc radiating behind the figure::, 1.9::multiple concentric celestial rings rotating around the sun::, 1.9::countless brilliant sunbeams bursting outward::, 1.9::luminous musical strings stretching across the air::, 1.9::golden musical energy swirling around the body::, 1.8::ancient Greek solar ceremonial robes::, 1.8::gold embroidered drapery::, 1.8::long flowing golden ribbons::, 1.8::ornate laurel ornaments::, 1.9::gigantic marble temple of Delphi in the background::, 1.8::floating marble tablets covered in prophetic inscriptions::, 1.9::shimmering fragments of prophetic visions suspended in sunlight::, 1.9::gigantic radiant solar wings formed entirely from light::, 1.8::golden feathers scattering in the air::, magnificent divine radiance, grand sacred atmosphere"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9tkf7.jpg?v=1792596869999",
+   "pos": "41.8% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792596844645
+ "updatedAt": 1792596870680
 };

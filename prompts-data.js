@@ -12787,10 +12787,10 @@ window.PROMPT_DATA = {
      "text": "2::glaceon cosplay::, winter outfit, ice theme, light blue crop top, fur trim, white fur collar, bare midriff, navel, open fur jacket, white fur hood, ice blue crystal brooch, light blue miniskirt, white fur hem, white pantyhose, ice blue knee boots, fur-trimmed boots, diamond-shaped hair ornament, ice crystal earrings, light blue scarf, long scarf, breath"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvijmfpq.jpg?v=1792613319570",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792613301230
+ "updatedAt": 1792613320686
 };

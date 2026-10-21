@@ -13037,14 +13037,14 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "의상 X",
      "text": "1.8::abandoned building interior::,\n1.7::ruined concrete building::,\n1.6::crumbling walls::,\ncracked concrete walls,\nbroken windows,\nscattered debris,\ndusty atmosphere,\ndark abandoned interior,\ndim natural lighting,\ncinematic shadows,\ngloomy atmosphere,\n\n1.9::smoking a cigarette::,\n1.8::holding a lit cigarette between fingers::,\n1.8::one hand raised near mouth::,\n1.7::cigarette held close to lips::,\n1.6::exhaling cigarette smoke::,\n1.5::thin smoke curling around face::,\nrelaxed smoking pose,\nslightly parted lips,\ncalm expression, 1.9::one hand tucked into pants pocket::,\n1.8::one arm bent with hand inside trouser pocket::,\n1.8::other hand holding a cigarette near mouth::,\n1.7::standing with one hand in pocket::,\nrelaxed shoulders,\ncasual standing posture,\nasymmetrical arm pose,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvindyq2.jpg?v=1792619758331",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792619537040
+ "updatedAt": 1792619758976
 };

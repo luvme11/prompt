@@ -12282,7 +12282,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvicspnw.jpg?v=1792601855352",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvidcs9u",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::oversized shirt::, black oversized t-shirt, graphic print shirt, off-shoulder shirt, black camisole strap, grey pink leg warmers, black platform shoes, chunky boots, hair ribbons, black ribbons,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792602668587
+ "updatedAt": 1792602685855
 };

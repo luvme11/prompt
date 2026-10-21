@@ -11876,7 +11876,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvia6zaq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "jeogori open, front unbuttoned, exposed abs, exposed chest, sweaty, sweat running down,\nwiping sweat with the hem of jeogori, holding jeogori hem to wipe body,\naxe over shoulder,\nhanbok pants,\nhanok backyard, outdoor, firewood pile,\nsunlight, detailed muscles, wet skin, sensual, warm lighting,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792597355186
+ "updatedAt": 1792597376345
 };

@@ -11848,7 +11848,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvia4aiy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nsfw, shirtless, pants only, \nlying languidly on the sofa, relaxed pose, \nanother hand holding his hand, licking between the fingers with tongue, \nbite marks on the hand, visible teeth marks, \nfinger licking, sensual, \nsofa, indoor, soft warm lighting, detailed,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792597245968
+ "updatedAt": 1792597250623
 };

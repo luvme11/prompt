@@ -12251,10 +12251,10 @@ window.PROMPT_DATA = {
      "text": "Y2K sailor uniform, heavily frilled sailor blouse, oversized sailor collar, layered white ruffles along collar and sleeves, short puff sleeves with frilled cuffs, large sailor ribbon bow, fitted waist, cropped blouse, high-waisted pleated mini skirt, multiple layers of delicate ruffles along the skirt hem, flared silhouette, navy blue and white color palette, contrasting sailor collar stripes, crisp cotton fabric, soft fabric folds, clean garment construction, early 2000s Japanese school fashion, feminine silhouette, cohesive design, simple and refined, frills as the main feature, minimal decoration,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvici90k.jpg?v=1792601390243",
+   "pos": "50.0% 16.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792601261373
+ "updatedAt": 1792601390911
 };

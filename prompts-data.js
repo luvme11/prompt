@@ -12860,7 +12860,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvikc8j0.jpg?v=1792614576736",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvikfrsx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "my melody cosplay, ouji style, sweet ouji, pastel pink theme, white bunny ears, mini top hat with large pink bow, pink capelet with white fur trim, lace trim, many ribbons, white frilled blouse, jabot tie, pink vest, solid white puffy pumpkin shorts, clean silhouette, holding a small strawberry wand, tiny strawberry brooch on capelet, white socks, pink loafers"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792614577253
+ "updatedAt": 1792614582375
 };

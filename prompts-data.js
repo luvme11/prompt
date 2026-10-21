@@ -12451,8 +12451,8 @@ window.PROMPT_DATA = {
      "text": "sailor dress, grey blue dress, sailor collar, black stripes, puff sleeves, short sleeves, pleated skirt, ruffles, peaked cap, sailor hat, emblem, gold cord, waist belt, buckle, necktie, black necktie, white boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviirw8k.jpg?v=1792611985360",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -12484,5 +12484,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792611814163
+ "updatedAt": 1792611986033
 };

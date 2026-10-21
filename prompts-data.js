@@ -12454,7 +12454,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mviisbq7",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::nurse dress::, light blue dress, puff sleeves, short sleeves, high neck, button front, cross print, lace trim, white gloves, armband, crossbody bag, pouch, knee highs, platform shoes, blue footwear, hair bow, striped bow, \nnurse hat,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792611788923
+ "updatedAt": 1792611809182
 };

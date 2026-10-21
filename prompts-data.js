@@ -11594,7 +11594,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvi88pcp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.4::dynamic sitting pose, cowboy shot, centered character, one knee raised, leaning backward, playful smirk, looking at viewer::,  oversized black witch hat with purple lining, black gothic jacket, orange vest, striped necktie, black gloves, chunky boots, bat-shaped accessories, dangling pumpkin charms,  1.5::dense halloween decorations surrounding the character, chaotic layered composition::, grinning jack-o'-lanterns, floating cartoon ghosts, tiny bats, monster hands reaching from behind, crooked skulls, candy, spiderwebs, eyeball monsters, swirling purple ribbons, neon green ghost flames, floating pumpkin heads,  1.4::pure black background, colorful halloween typography at top, dripping slime letters::, small decorative stars, scattered halloween stickers, compact poster composition,  1.5::limited halloween color palette, neon lime green, pumpkin orange, lavender purple, coral pink, muted teal::, flat cel shading, thick clean outlines, bold black shadows, minimal gradients, retro cartoon illustration, playful spooky aesthetic, screen print style, highly detailed decorative composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792594011911
+ "updatedAt": 1792594098280
 };

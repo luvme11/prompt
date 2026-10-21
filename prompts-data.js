@@ -12170,7 +12170,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvic2l88",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black pinafore dress, black and white striped long sleeves, button front dress, black denim dress, sleeveless dress, above knee dress, fitted waist, black grommet belt, chain bracelet, black choker, skull hairclip, hair claw, white crew socks, black platform combat boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792600517602
+ "updatedAt": 1792600530585
 };

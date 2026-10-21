@@ -12818,7 +12818,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvik15rv.jpg?v=1792614030784",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvik9pjo",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cosplay, mario (series) cosplay, mario cosplay, red shirt, overalls, blue overalls, white gloves, red cap, red headwear, hat, cabbie hat, brown shoes, gold buttons, short sleeves"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792614031447
+ "updatedAt": 1792614299545
 };

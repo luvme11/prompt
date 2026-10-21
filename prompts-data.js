@@ -12857,10 +12857,10 @@ window.PROMPT_DATA = {
      "text": "pompompurin cosplay, ouji fashion, brown beret, floppy dog ears, yellow vest, brown bow, white blouse, jabot tie, bishop sleeves, frilled cuffs, yellow shorts, brown trim, pompompurin bag, white socks, brown loafers"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvikc8j0.jpg?v=1792614576736",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792614417743
+ "updatedAt": 1792614577253
 };

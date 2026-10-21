@@ -11831,8 +11831,8 @@ window.PROMPT_DATA = {
      "text": "1.7::reclining on thick twisted tree branches::, leaning against a tree trunk, relaxed sitting pose, one knee raised toward the viewer, elegant asymmetrical composition,\n\n1.7::luxurious deep burgundy floral kimono::, flowing wide sleeves, layered black and ivory fabric, loosely open collar, exposed collarbones, ornate black obi sash, red decorative cords, long draped fabric,\n\n1.8::holding a long traditional Japanese kiseru smoking pipe::, slender dark stem, golden metal mouthpiece, pipe held delicately between raised fingers, 1.7::thick white smoke curling from the pipe::, flowing smoke ribbons, elegant swirling trails,\n\nhalf-lidded eyes, faint seductive smile, languid expression, head slightly tilted, other hand resting on a tree branch,\n\n1.6::large pale pink lilies blooming around the branches::, fresh green leaves, dark twisted tree limbs, muted dusty rose background, distant tree silhouettes,\n\n1.6::dynamic medium close-up::, character filling most of the frame, raised knee in foreground, slightly low angle, crisp lineart, smooth gradient shading, defined shadows,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9zx09.jpg?v=1792597245302",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -11850,5 +11850,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792597184525
+ "updatedAt": 1792597245968
 };

@@ -12619,8 +12619,8 @@ window.PROMPT_DATA = {
      "text": "maid outfit, latex maid, white top, frilled shoulders, black latex corset, red lace-up corset, red bow at neck, white frilled headband, puffy short sleeves, black latex sleeves, white wrist cuffs, white frilled apron, black latex miniskirt, frilled skirt, black leather belt on waist, garter straps, black thighhighs, black pumps, high heels"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvij4huv.jpg?v=1792612545826",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -12652,5 +12652,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612520050
+ "updatedAt": 1792612546485
 };

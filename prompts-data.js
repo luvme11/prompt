@@ -12125,8 +12125,8 @@ window.PROMPT_DATA = {
      "text": "light pink double breasted peacoat, brown plaid pleated mini skirt, high collar, wool coat, cuff straps, pink plaid fringed scarf, cream shoulder bag, ribbon bag, cream knit leg warmers, black short ugg boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvic1ptw.jpg?v=1792600799305",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -12214,5 +12214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792600546822
+ "updatedAt": 1792600799973
 };

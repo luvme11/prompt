@@ -12967,8 +12967,8 @@ window.PROMPT_DATA = {
      "text": "low angle, 1.6::from behind, 1.9::back view::, reaching behind back,\n\n1.3::pulling out handgun from waistband::, 1.6::holding handgun behind back, hand in pocket::,\n\n0.9::black vest, white dress shirt with rolled sleeves, black suit pants, black leather belt::, 1.2::muscular body, tight suit pants::,\n\nsharp shadows, clean black background, spotlight, monochrome, smooth shading"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvimobgw.jpg?v=1792618467000",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -13000,5 +13000,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792618398614
+ "updatedAt": 1792618467799
 };

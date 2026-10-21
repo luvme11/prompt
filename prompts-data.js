@@ -12998,7 +12998,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvimpjxa.jpg?v=1792618507833",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvimvg7u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "배경, 구도",
+     "text": "1.5::outdoor swimming pool background::, clear blue swimming pool water, poolside tiles, bright natural daylight, realistic water reflections,\n\n1.8::standing with arms crossed over chest::, 1.7::both arms folded across chest::, confident standing pose, relaxed shoulders, facing viewer, full body view,"
+    },
+    {
+     "label": "의상",
+     "text": "1.8::wearing black men's swim trunks::, 1.7::shirtless::, 1.6::bare upper body::, 1.6::mid-thigh length swimming shorts::, elastic waistband, drawstring waist, bare chest, no shirt, no jacket"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792618508516
+ "updatedAt": 1792618673290
 };

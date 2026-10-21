@@ -11689,10 +11689,6 @@ window.PROMPT_DATA = {
     {
      "label": "마체테 버전",
      "text": "from side, upper body, 1.3::from below, low-angle shot, dutch angle, diagonal composition::, 1.3::looking down at viewer, chin slightly lowered::, faint unsettling smile, 1.2::lollipop in mouth::, visible breath, breath vapor,\n\n1.4::holding a bloodstained machete by its handle, blade resting across one shoulder, bent elbow::,\n\nJason Voorhees cosplay, 1.4::hockey mask shifted to the side of the head, overlapping only a small portion of one temple and the outer cheek, both eyes and mouth visible::, blood splatters on face, blood streak along cheek, weathered gray-green work jacket, pointed collar, two flap chest pockets, 1.3::torn clothing, ripped shoulder seams, frayed sleeves, ragged fabric edges::, worn coarse fabric, 1.3::blood-soaked patches and smeared blood across jacket chest, collar and sleeves::, mustard yellow work gloves stained with blood,\n\ndark secluded forest at night, Halloween, tree trunks framing the character, tangled branches, faint mist, 1.3::glowing jack-o'-lanterns nestled among the roots at the lower edges of the frame::, small bat silhouettes crossing the moonlit sky, delicate cobwebs between branches, \n\n1.4::cold moonlight streaming through gaps in the trees, illuminating the face, shoulder and machete::, faint orange pumpkin light illuminating the jacket from below, background fading into darkness,\n\n1.4::text reading \"Trick or treat\" across the bottom of the image, blood-red handwritten lettering, smeared bloody strokes, dripping letter edges::,\n\ndesaturated colors, deep shadows, cold moonlight contrasting with warm orange candlelight, cinematic horror lighting, ominous Halloween atmosphere, eerie stillness"
-    },
-    {
-     "label": "도끼 버전",
-     "text": "from side, full body, character-focused composition, 1.3::squatting low with knees apart, one elbow resting on knee, one hand resting against cheek::, other hand gripping a long axe handle, looking at viewer, faint mischievous smile,\n\nJason Voorhees cosplay, hockey mask tilted up on forehead, face fully visible, blood splatters on face, blood streaks along cheek and jaw, weathered gray-green work jacket, buttoned front, pointed collar, two flap chest pockets, long sleeves, 1.3::tattered clothing, ripped jacket shoulders, frayed cuffs, torn hem, ragged fabric edges::, worn coarse fabric, faded bloodstains, dark work trousers, torn knees, brown utility belt, olive canvas tool pouch attached at hip, mustard yellow work gloves stained with blood, dark work boots,\n\n1.3::bloodstained axe held beside the body, axe blade resting on the floor::, broken jack-o'-lantern beside the feet, cracked pumpkin shell with a large piece broken off, dark red blood pooled inside the pumpkin and spilling onto the floor, scattered pumpkin fragments, blood splatters on clothes,\n\nvivid orange background, Halloween theme, black bat silhouettes scattered around the character, yellow crescent moon at the top, twinkling stars, small sparkling star accents, sky-blue neon decorative accents, simple graphic composition,\n\n1.4::neon handwritten text reading \"TRICK OR TREAT!\"::, glowing violet and sky-blue lettering, soft neon halo, text beside the character, face unobstructed"
     }
    ],
    "img": "",
@@ -11700,5 +11696,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792596437215
+ "updatedAt": 1792596473685
 };

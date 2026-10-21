@@ -13013,10 +13013,10 @@ window.PROMPT_DATA = {
      "text": "1.8::wearing black men's swim trunks::, 1.7::shirtless::, 1.6::bare upper body::, 1.6::mid-thigh length swimming shorts::, elastic waistband, drawstring waist, bare chest, no shirt, no jacket"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvimvg7u.jpg?v=1792618755764",
+   "pos": "50.0% 18.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792618673290
+ "updatedAt": 1792618756280
 };

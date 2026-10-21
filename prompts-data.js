@@ -12650,7 +12650,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvij4trc.jpg?v=1792612575936",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvij904o",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black cloak, hooded cloak, hood up, layered cape, all black, double-breasted, long coat, black coat, silver buttons, buckle, black belt, white shirt, black necktie, collared shirt, white knee highs, black oxford shoes, black lining"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612576727
+ "updatedAt": 1792612586970
 };

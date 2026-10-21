@@ -12549,10 +12549,10 @@ window.PROMPT_DATA = {
      "text": "white high-cut bodysuit, sweetheart neckline, cleavage cutout, pink heart choker pendant, side lace-up, ribbon on hip, rabbit ear headband, long floppy ears, pink inner ears, white cross-laced choker, white puffy long sleeves, pink lacing on sleeves, frilled cuffs, white thighhighs, white fur-trimmed ankle boots, pink laces"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviiy8y2.jpg?v=1792612326300",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792612313442
+ "updatedAt": 1792612327106
 };

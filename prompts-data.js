@@ -13044,7 +13044,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvindyq2.jpg?v=1792619758331",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvinnw5t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.8::abandoned building interior::,\n1.7::ruined building background::,\n1.6::crumbling concrete walls::,\ncracked walls, broken windows,\nscattered debris, dusty floor,\ndark abandoned hallway,\ndim natural lighting,\ncinematic shadows,\ngloomy atmosphere,\n\n2.0::male character holding a woman's hand::,\n1.9::first-person female POV::,\n1.9::woman's hand clearly visible in foreground::,\n1.9::his hand firmly holding the viewer's hand::,\n1.8::looking back at the viewer over his shoulder::,\n1.8::turning his upper body slightly toward the viewer::,\n1.8::face clearly visible from the front::,\n1.7::three-quarter body angle::,\n1.7::one arm extended toward the camera::,\n1.7::gently pulling the viewer forward by the hand::,\n1.6::head turned toward camera::,\n1.6::direct eye contact::,\n1.5::natural hand-holding pose::,\ncinematic perspective,\nimmersive POV composition,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792619758976
+ "updatedAt": 1792620000285
 };

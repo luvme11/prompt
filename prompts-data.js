@@ -12874,7 +12874,29 @@ window.PROMPT_DATA = {
    "img": "img/look/mvikfrsx.jpg?v=1792614740781",
    "pos": "50.0% 44.0%",
    "soon": false
+  },
+  {
+   "id": "mvim9nt6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "masterpiece, best quality, ultra high detail, Korean manhwa style, semi-realistic, mugshot photo, police booking photo, front-facing, looking directly at camera, emotionless expression, slightly tired or cold gaze,\nholding a black booking board with ID numbers, chest-up composition, centered framing, height measurement lines background, plain wall, harsh overhead lighting, strong shadows, realistic lighting, cinematic tone, no smile, serious mood,"
+    },
+    {
+     "label": "남자",
+     "text": "slight stubble, small cut on eyebrow, subtle bruises on cheek, wearing orange prison uniform over white shirt, holding booking board, cold and intimidating expression"
+    },
+    {
+     "label": "여자 의상",
+     "text": "subtle dark circles, slightly messy hair, faint bruises or scratches on face, wearing an orange prison uniform loosely over a white inner shirt, holding booking board, calm but slightly defiant expression"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792614741586
+ "updatedAt": 1792617657337
 };

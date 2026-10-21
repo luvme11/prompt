@@ -11538,7 +11538,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvi835pi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, cheerful smile, bright eyes, blush, rosy cheeks, mushroom theme, mushroom motif, forest fairy, cottagecore, whimsical, fairy tale, red mushroom beret, white polka dots, mushroom-shaped hat, cream-colored blouse, puffy sleeves, frilled collar, short capelet, oversized bowtie, brown suspenders, red pleated skirt, layered skirt, white lace trim, mushroom-shaped buttons, acorn accessories, leaf-shaped brooch, striped thighhighs, brown ankle boots, leather satchel, oversized messenger bag, holding envelope, stack of letters, wax seals, tiny mushroom charms, acorn keychains, ribbons, tiny mushroom companions, skipping, one leg raised, waving, cheerful expression, dynamic pose, dynamic angle, enchanted forest, giant mushrooms, tiny mushroom houses, mossy path, clover, fallen leaves, floating spores, sparkling particles, warm sunlight, dappled sunlight,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792593795196
+ "updatedAt": 1792593839260
 };

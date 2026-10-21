@@ -11943,8 +11943,8 @@ window.PROMPT_DATA = {
      "text": "5::kneeling on both knees::,\n5::both wrists bound with vivid red chains::,\n5::both arms restrained and raised overhead::,\nchains pulled taut above,\n\n5::severely torn white dress shirt::,\n5::shirt ripped into ragged hanging strips::,\nfrayed edges, shredded fabric, disheveled open collar,\nscattered blood stains and irregular black marks across the shirt,\n\n4::dark trousers sagging below the waist::,\n4::waistband lowered slightly below the hips::,\n3::small portion of underwear waistband visible above the trousers::,\nloose sagging fit,\n\n5::black cloth blindfold tied securely over the eyes::,\n4::chin raised upward, head tilted back::,\n\n4::sweat beading across the skin::,\nsweat droplets on jaw, neck and collarbone,\n\ndark atmospheric interior,\ncold dramatic overhead lighting,\ndeep shadows, faint red reflections,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mviad2f6.jpg?v=1792597806027",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -11962,5 +11962,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792597779825
+ "updatedAt": 1792597806549
 };

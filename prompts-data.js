@@ -11552,7 +11552,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvi835pi.jpg?v=1792593948813",
    "pos": "56.0% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvi85v7q",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, cheerful smile, bright eyes, blush, rosy cheeks, goldfish theme, goldfish motif, japanese summer festival, matsuri, whimsical, playful design, red and orange color scheme, ivory accents, gold accents, short yukata, frilled yukata, layered kimono, wide sleeves, flowing sleeves, translucent sleeves, frilled collar, oversized obi bow, goldfish-patterned fabric, flowing ribbons, tail-shaped ribbons, layered ruffled skirt, scalloped hem, lace trim, decorative tassels, goldfish hair ornament, kanzashi, red hair ribbons, geta sandals, white lace socks, holding goldfish scoop, poi, goldfish bowl, small transparent water bag, tiny goldfish swimming inside, colorful water balloons, festival charms, decorative bells, playful pose, one leg raised, head tilt, smiling at viewer, dynamic pose, japanese summer festival, festival stalls, paper lanterns, goldfish scooping stall, floating bubbles, water ripples, sparkling particles, warm lantern light,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792593949312
+ "updatedAt": 1792593965667
 };

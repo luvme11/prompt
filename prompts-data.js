@@ -12843,10 +12843,10 @@ window.PROMPT_DATA = {
      "text": "hello kitty cosplay, sweet lolita, maid, red dress, large red hair bow, white frilled headdress, white apron, lace-up bodice, short puffy sleeves, frilled cuffs, layered frilled skirt, red frilled skirt, white lace trim, hello kitty bag, white knee-high socks, frilled socks, red mary jane shoes"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvik9tah.jpg?v=1792614405520",
+   "pos": "50.0% 10.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792614314169
+ "updatedAt": 1792614406015
 };

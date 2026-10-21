@@ -12237,10 +12237,10 @@ window.PROMPT_DATA = {
      "text": "black choker, black leather corset, underbust corset, lace-up front, halter top, pleated skirt, black miniskirt, detached sleeves, black arm warmers, chunky boots, black trim on boots, fishnet pantyhose, fishnet stockings, thigh garter,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviceoip.jpg?v=1792601217276",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792601094732
+ "updatedAt": 1792601218699
 };

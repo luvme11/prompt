@@ -12493,8 +12493,8 @@ window.PROMPT_DATA = {
      "text": "light blue hoodie, oversized hoodie, long sleeves, white stripe, neck ruffle, 2::white maid apron ::, apron over hoodie, white loose socks, white sneakers, lace headband, light blue ribbon, halo, angel wings, bandaid"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviixfol.jpg?v=1792612151847",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -12554,5 +12554,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612085518
+ "updatedAt": 1792612152858
 };

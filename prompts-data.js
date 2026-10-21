@@ -11929,10 +11929,10 @@ window.PROMPT_DATA = {
      "text": "5::strict side profile::,\n5::pressing the face closely against a closed door::,\ncheek resting against the door surface,\nbody leaning slightly toward the door,\n\n5::one hand repeatedly knocking on the door::,\nother arm hanging naturally,\nsubtle knocking motion, tense still posture,\n\n5::expressionless face::,\ncold vacant eyes, relaxed eyebrows,\n4::only the lips curved into a faint smile::,\nsubtle unsettling smile at the corners of the mouth,\nno emotion in the eyes,\n\ndark oversized jacket,\nblack shirt, loose dark trousers,\nslightly disheveled clothing,\n\ndark narrow hallway,\nold closed door,\ndim flickering ceiling light,\nfaint cold light leaking beneath the door,\ndeep shadows, claustrophobic,\n\n-5::smiling eyes, cheerful expression, exaggerated grin, angry face, front view, open door::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvia91yj.jpg?v=1792597591894",
+   "pos": "50.0% 38.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792597572039
+ "updatedAt": 1792597592687
 };

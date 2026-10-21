@@ -11524,7 +11524,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvhaqvjk.jpg?v=1792538247416",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvi82866",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, cheerful smile, bright eyes, blush, honeybee theme, bee motif, cute bee antennae, small translucent wings, yellow and black color scheme, puffy sleeves, short capelet, oversized bowtie, frilled blouse, pleated skirt, suspenders, striped thighhighs, brown ankle boots, yellow beret, bee-shaped buttons, honeycomb accessories, frills, ribbons, holding honey jar, honey dipper, small messenger bag, tiny bee companions, floating bees, flower meadow, oversized flowers, honeycomb, golden honey droplets, sparkling particles, warm sunlight, fantasy game illustration, whimsical, storybook aesthetic, vibrant colors, dynamic pose, full body,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792538248530
+ "updatedAt": 1792593795196
 };

@@ -11775,8 +11775,8 @@ window.PROMPT_DATA = {
      "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::,2::one hand swinging an enormous ornate war spear::, 1.9::other arm holding a massive battle shield::, 2::violent crimson divine energy erupting from the weapon::, 1.9::gigantic shockwave tearing across the battlefield::, 1.9::shattered marble pillars flying through the air::, 1.9::flaming debris and sparks exploding around the figure::, 1.9::ancient Greek war armor::, 1.8::heavy engraved breastplate::, 1.8::ornamental crimson battle mantle whipping violently behind::, 1.8::gold and iron armor details::, 1.9::gigantic spectral warriors rising from smoke in the background::, 1.8::broken weapons embedded across the battlefield::, 1.9::enormous blood-red eclipse in the sky::, 1.9::dark crimson storm clouds spiraling overhead::, 1.8::fiery red energy ribbons::, explosive motion, overwhelming battlefield presence, epic ancient warfare"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9wakd.jpg?v=1792596983853",
+   "pos": "54.9% 50.0%",
    "soon": false
   },
   {
@@ -11822,5 +11822,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792596959415
+ "updatedAt": 1792596984465
 };

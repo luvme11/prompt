@@ -12153,8 +12153,8 @@ window.PROMPT_DATA = {
      "text": "white sheer polka dot camisole, brown layered ruffle mini skirt, white cropped cardigan, long sleeves, buttoned cardigan, gathered neckline, lace trim, chiffon fabric, peplum hem, white choker, heart pendant necklace, brown crossbody bag, white crew socks, brown mid-calf boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvic2516.jpg?v=1792600821389",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -12214,5 +12214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792600811469
+ "updatedAt": 1792600822040
 };

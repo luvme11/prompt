@@ -12942,7 +12942,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvimfelw.jpg?v=1792618027994",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvimiu4q",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::slightly close-up, gun focusing, dark atmosphere::, 1.5::monochrome, pointing gun at viewer, extreme perspective, high contrast, dramatic shadows, cinematic lighting::, 1.4::western wild west aesthetic::, 1.3::action shot::, 1.4::blurred gun barrel in foreground::, 1.5::dynamic camera angle, slightly low angle view::,\n\ndesert background, cloudy sky, 1.2::wind blowing::, riding a horse, pointing revolver directly at viewer, 1.3::wearing cowboy hat, black loose face mask covering nose and mouth::, 1.1::wearing leather gloves, holding revolver with one hand, smoke coming from the gun, hair fluttering in the wind, leather jacket with leather belt::,\n\n1.1::intense sharp gaze::, 1.5::determined expression, look of grim determination, frowning::, leaning forward on saddle, horse in foreground, wind blowing horse's mane, leather bridle and reins, in motion galloping,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792618028501
+ "updatedAt": 1792618084743
 };

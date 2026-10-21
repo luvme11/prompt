@@ -12349,10 +12349,10 @@ window.PROMPT_DATA = {
      "text": "oversized cropped sweater, horizontal stripes, pink and blue and white stripes, long sleeves, denim shorts, short shorts, frayed shorts, loose socks, striped socks, sneakers, pink sneakers, \nwhite cat hat, animal hat, tassels, pompom, hat-heart badge,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvielueg.jpg?v=1792605133454",
+   "pos": "50.0% 18.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792605122041
+ "updatedAt": 1792605134127
 };

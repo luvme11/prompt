@@ -12265,8 +12265,8 @@ window.PROMPT_DATA = {
      "text": "red and navy track jacket, white track jacket, navy collared shirt, button up shirt, high waist skirt, red pleated skirt, high waist red skirt, double breasted skirt, striped bow tie, red and navy striped bow, navy blue socks, mid calf socks, white sneakers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvicogte.jpg?v=1792602667930",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -12284,5 +12284,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792601856193
+ "updatedAt": 1792602668587
 };

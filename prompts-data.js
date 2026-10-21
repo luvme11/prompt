@@ -12479,10 +12479,10 @@ window.PROMPT_DATA = {
      "text": "white dress, layered frilled short skirt, white frills, dark underskirt, off-shoulder, frilled off-shoulder trim, long sleeves, wide sleeves, waist ribbon, white capelet, white collar, white ribbon bow, white thighhighs, white heels, wing motif on shoes, 1.3::large white wings::, white theme"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviisfln.jpg?v=1792612040034",
+   "pos": "50.0% 8.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792612010961
+ "updatedAt": 1792612040721
 };

@@ -12910,7 +12910,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvimavep",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "배경",
+     "text": "indoors, background_indoors, 1.2::gloomy::, dark background, red fabric, red banner, red drapery, textured background, brick wall, graffiti, dramatic lighting, textured fabric, highres, highly detailed"
+    },
+    {
+     "label": "구도",
+     "text": "cell shading, upper body, perspective, leaning, sitting, head tilt downward, head in hand, looking at viewer,  torn clothing, ripped clothes, ragged edge,  pants with chains, chain on pants, 1.1::leather harness::, bondage cuffs, constraints, restraint gear, choker, leather strap, holding strap, belt, black belt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792617670459
+ "updatedAt": 1792617713032
 };

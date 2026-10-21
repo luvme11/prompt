@@ -12412,7 +12412,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvihuqpm.jpg?v=1792610243826",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mviicduw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "[ 공용 ]\n\n2people, couple, 5::inside train car, flooded with water up to ankles::, 4::sitting side by side on train seat, feet in water::, 4::leaning on each other's shoulders::, 4::surreal, dreamlike, underwater atmosphere inside train::, 3::small fish swimming around, floating bubbles, light caustics on walls and ceiling::, 3::water reflection on floor, ripples around feet::, 4::bright blue sky through train windows, white fluffy clouds::, 3::sunlight streaming through windows, light rays::, sky blue and white color scheme, mint and aqua tones, soft lighting, quiet, peaceful, full body, from front, refreshing, ethereal, masterpiece, very aesthetic\n\n[ 왼쪽 ]\n\n4::head resting on another's shoulder::, 4::eyes closed, gentle smile::, white shirt, rolled up pants, bare feet in water, hands resting on lap\n\n[ 오른쪽 ]\n\n4::head leaning on another's head::, 4::eyes closed, soft smile::, light blush, oversized linen shirt, shorts, bare feet in water, hand resting on seat"
+    }
+   ],
+   "img": "img/comp/mviicduw.jpg?v=1792611066876",
+   "pos": "50.0% 58.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792610244997
+ "updatedAt": 1792611067686
 };

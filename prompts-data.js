@@ -12706,7 +12706,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvijcoyx",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red off-shoulder dress, red ruffle collar, black leaf and red rose hair ornament, white feather boa, long feather boa, black leaf waist ornament, red rose waist ornament, gold chain belt, gold chain drape, red gem inlay, red choker, gold pendant necklace, red gloves, thigh strap, ring garter, tattered hem, high slit, black stiletto heels"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612750077
+ "updatedAt": 1792612759331
 };

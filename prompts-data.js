@@ -12748,7 +12748,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvijd5bt",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black latex babydoll, halterneck, see-through, cutout babydoll, bare midriff, navel, black elbow gloves, latex gloves, pearl belt, pearl chain, silver tiara, black string panties, sparkle, pink gemstone, heart gemstone, pearl necklace, pearl bracelet, black high heels, stiletto heels, ankle strap heels"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612775311
+ "updatedAt": 1792612780516
 };

@@ -12307,8 +12307,8 @@ window.PROMPT_DATA = {
      "text": "black lolita dress, red ribbon bows, black hair ribbon, red ribbon choker, white puffed sleeves, short sleeves, red corset lacing, red chest bow, black tiered skirt, vertical white frills, horizontal white frills, black socks, black platform mary janes, buckle,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvidnyjr.jpg?v=1792605716679",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -12354,5 +12354,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792605134127
+ "updatedAt": 1792605717337
 };

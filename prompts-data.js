@@ -12128,7 +12128,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvic20sm",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cream empire waist camisole, black layered ruffle mini skirt, cream cropped zip hoodie, hooded jacket, long sleeves, gathered bust, lace trim, chiffon fabric, black lace hem, cream knit leg warmers, cream fur boots, brown newsboy cap, black cross necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792600490180
+ "updatedAt": 1792600504092
 };

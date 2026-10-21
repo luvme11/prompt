@@ -12804,7 +12804,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvijvf9l.jpg?v=1792613839928",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvik15rv",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "racing outfit, white crop top, midriff, white miniskirt, frilled skirt, red belt, black harness, strap, white jacket, short sleeves, off shoulder, white gloves, fingerless gloves, mismatched legwear, single thighhigh, black thighhigh, white thighhigh, knee boots, white boots, red trim, white beret, star hair ornament, gold star pin, checkered flag"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792613841367
+ "updatedAt": 1792613900696
 };

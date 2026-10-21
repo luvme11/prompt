@@ -12482,7 +12482,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mviisfln.jpg?v=1792612040034",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mviixfol",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "light blue hoodie, oversized hoodie, long sleeves, white stripe, neck ruffle, 2::white maid apron ::, apron over hoodie, white loose socks, white sneakers, lace headband, light blue ribbon, halo, angel wings, bandaid"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612040721
+ "updatedAt": 1792612047546
 };

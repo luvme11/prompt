@@ -12893,7 +12893,7 @@ window.PROMPT_DATA = {
      "text": "subtle dark circles, slightly messy hair, faint bruises or scratches on face, wearing an orange prison uniform loosely over a white inner shirt, holding booking board, calm but slightly defiant expression"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvim9nt6.jpg?v=1792617899179",
    "pos": "50% 50%",
    "soon": false
   },
@@ -12930,5 +12930,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792617846922
+ "updatedAt": 1792617899863
 };

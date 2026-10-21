@@ -11999,10 +11999,10 @@ window.PROMPT_DATA = {
      "text": "5::torn Rapunzel-inspired purple princess dress::,\nlavender and violet corset dress, puff sleeves, lace details,\nfabric ripped and frayed in several places,\n4::black blood stains splattered across the dress::,\n\n5::holding a human skull on an open palm::,\n4::pressing cheek affectionately against the skull::,\nsmiling brightly beside the skull,\n\n5::thick black blood slowly dripping between the fingers::,\nblack blood running across the palm and down the wrist,\n\ndark ruined fairytale tower,\nbroken arched windows, tangled dead vines,\nfaded purple flowers, cracked stone floor,\nmoonlight streaming through shattered glass,\nblack liquid stains, drifting dust and dark petals,\neerie fairytale, gothic fantasy, haunting,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mviaob33.jpg?v=1792598416702",
+   "pos": "50.0% 44.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792598184510
+ "updatedAt": 1792598417834
 };

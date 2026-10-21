@@ -12013,8 +12013,8 @@ window.PROMPT_DATA = {
      "text": "white collared shirt, turn down collar, front buttoning, rolled up sleeves, black fitted cardigan, deep v neck, buttoned cardigan, gray plaid pleated mini skirt, black lace thighhighs, black patent platform mary janes, multiple buckle straps, silver cross pendant, chain necklace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvibg4ri.jpg?v=1792600261361",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -12102,5 +12102,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792599564344
+ "updatedAt": 1792600262344
 };

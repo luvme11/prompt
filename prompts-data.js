@@ -12633,8 +12633,8 @@ window.PROMPT_DATA = {
      "text": "light blue oversized hoodie, rabbit ear hood, hood up, long floppy rabbit ears, white pom pom hood ties, kangaroo pocket, long sleeves, vertical white stripes on sleeves, two stripes, elastic cuffs, elastic hem, white frilled underskirt, light blue and white striped thighhighs, light blue mary janes"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvij4oaj.jpg?v=1792612565616",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -12652,5 +12652,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612546485
+ "updatedAt": 1792612566412
 };

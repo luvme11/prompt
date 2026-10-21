@@ -12310,7 +12310,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvido3b3",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white frilled layered dress, 2::black corset lacing::, black ribbon choker, frilled neckline, white long sleeves, puffed sleeves, bell sleeves, ribbon trimmed sleeves, white waist cincher, white tiered skirt, white frilled skirt, black ribbon bows, vertical ruffles, white frilled socks, black mary janes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792603207240
+ "updatedAt": 1792603213388
 };

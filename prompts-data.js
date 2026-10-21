@@ -12703,8 +12703,8 @@ window.PROMPT_DATA = {
      "text": "nurse outfit, white nurse dress, short sleeves, puffy sleeves, collared dress, black bow tie, snap buttons, nurse cap, cross nurse cap, white tight miniskirt, side slit, white thighhighs, white boots, lace-up boots, holding syringe"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvijchzb.jpg?v=1792613017494",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -12764,5 +12764,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612996624
+ "updatedAt": 1792613018033
 };

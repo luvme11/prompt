@@ -12925,10 +12925,10 @@ window.PROMPT_DATA = {
      "text": "cell shading, upper body, perspective, leaning, sitting, head tilt downward, head in hand, looking at viewer,  torn clothing, ripped clothes, ragged edge,  pants with chains, chain on pants, 1.1::leather harness::, bondage cuffs, constraints, restraint gear, choker, leather strap, holding strap, belt, black belt,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvimavep.jpg?v=1792617846281",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792617738656
+ "updatedAt": 1792617846922
 };

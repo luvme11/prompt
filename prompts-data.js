@@ -11817,7 +11817,7 @@ window.PROMPT_DATA = {
      "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::, 2::one hand gripping an ornate dark divine bident::, 1.9::other hand extended outward commanding the underworld::, 1.9::swirling shadows and ghostly smoke coiling around the body::, 1.9::streams of spectral souls and pale blue underworld flames rising through the air::, 1.9::gigantic vortex of darkness and glowing embers behind the figure::, 1.9::ornate circular halo formed from black metal, bones, laurel motifs and underworld filigree::, 1.8::ancient Greek royal underworld ceremonial robes::, 1.8::luxurious dark layered drapery::, 1.8::ornate black-gold armor accents::, 1.8::heavy chains and gemstone ornaments::, 1.8::flowing mantle whipping dramatically in supernatural wind::, 1.9::massive obsidian gates of the underworld in the background::, 1.8::towering ruined marble pillars and shadowy palace architecture::, 1.9::river of souls winding through the distant underworld landscape::, 1.8::spectral cypress trees and ancient tomb structures::, 1.9::glowing blue flames burning along the ground and pillars::, 1.9::dark jewel-toned divine illumination::, 1.9::black, deep indigo, silver and ghostly blue atmosphere::, 1.8::countless drifting ash particles and luminous spirit fragments::, 1.8::mysterious regal authority::, 1.9::ominous yet majestic divine presence::, magnificent underworld spectacle, mythological gothic atmosphere, cinematic depth,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvi9y1of.jpg?v=1792597321849",
    "pos": "50% 50%",
    "soon": false
   },
@@ -11864,5 +11864,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792597296279
+ "updatedAt": 1792597322659
 };

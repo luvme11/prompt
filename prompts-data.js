@@ -12745,8 +12745,8 @@ window.PROMPT_DATA = {
      "text": "black halterneck dress, deep v-neck, cleavage, black choker, silver chain necklace, cross pendant, white gem pendant, silver layered necklaces, white fur stole, feather boa, black long skirt, high slit, silver chain belt, single leg garter strap, black stiletto heels, ankle strap heels, silver chain anklet, pearl earrings, sparkle"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvijd1c1.jpg?v=1792613081715",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -12764,5 +12764,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792613039777
+ "updatedAt": 1792613082721
 };

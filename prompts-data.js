@@ -11803,8 +11803,8 @@ window.PROMPT_DATA = {
      "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::, 2::both hands gripping an enormous ornate trident::, 1.9::trident angled diagonally across the composition::, 2::gigantic tidal waves exploding upward behind the figure::, 1.9::spiraling walls of seawater surrounding the body::, 1.9::translucent sea dragons emerging from the waves::, 1.8::swirling whirlpool energy beneath and behind::, 1.8::ancient Greek oceanic ceremonial robes::, 1.8::ornamental coral and seashell armor accents::, 1.8::flowing sea-green mantle::, 1.8::glowing turquoise runes on the trident::, 1.9::underwater ruins of an ancient marble kingdom::, 1.8::broken pillars rising from the sea::, 1.9::luminous blue water reflections::, 1.8::bioluminescent sea creatures::, 1.8::violent ocean spray and suspended droplets::, 1.8::dramatic storm sky::, magnificent aquatic spectacle, cinematic perspective,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9xg2z.jpg?v=1792597179040",
+   "pos": "45.1% 50.0%",
    "soon": false
   },
   {
@@ -11836,5 +11836,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792597047307
+ "updatedAt": 1792597179872
 };

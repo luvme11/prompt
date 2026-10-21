@@ -12058,7 +12058,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvibheeo",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "gray ribbed knit sweater, white pointed collar, collared sweater, v-neck, long sleeves, fitted sweater, white pleated skirt, black opaque pantyhose, black shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792599530874
+ "updatedAt": 1792599541970
 };

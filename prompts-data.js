@@ -12394,7 +12394,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvigns90.jpg?v=1792608239684",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvihuqpm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "남자 의상 X",
+     "text": "1boy, solo, upper body, cowboy shot,\nthree-quarter view, slightly low angle,\n1.5::smoking a cigarette::,\n1.5::holding a lit cigarette between fingers::,\n1.4::cigarette near lips::,\n1.4::exhaling thin cigarette smoke::,\n1.3::smoke curling around face::,\n1.3::one hand raised near mouth::,\nother hand relaxed,\nhead slightly tilted downward,\nhalf-lidded gaze, looking at viewer,\nrelaxed posture, casual smoking pose,\ncinematic lighting, subtle rim lighting,\ndramatic shadows, high contrast,\n1.5::solid black background::,\n1.5::pure black backdrop::,"
+    },
+    {
+     "label": "여자 의상 X",
+     "text": "1girl, solo, upper body, three-quarter view,\n1.5::smoking a cigarette::,\n1.5::holding a lit cigarette between fingers::,\n1.4::cigarette held near lips::,\n1.4::exhaling a thin stream of cigarette smoke::,\n1.3::smoke curling around face::,\none hand raised near mouth,\nother arm relaxed,\nhead slightly tilted downward,\nhalf-lidded gaze,\nlooking at viewer,\nrelaxed posture,\nsubtle melancholic atmosphere,\ndramatic side lighting,\nsoft rim lighting,\nhigh contrast,\n1.5::solid black background::,\n1.5::pure black backdrop::,\nminimalist composition,\nno background objects"
+    }
+   ],
+   "img": "img/comp/mvihuqpm.jpg?v=1792610243826",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792608240792
+ "updatedAt": 1792610244997
 };

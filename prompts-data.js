@@ -13016,7 +13016,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvimvg7u.jpg?v=1792618755764",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvin24uz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.7::abandoned building interior::,\n1.6::ruined building background::,\n1.5::crumbling concrete walls::,\ncracked walls, exposed concrete,\nbroken windows, scattered debris,\ndusty atmosphere, dark abandoned interior,\ncinematic lighting, gloomy atmosphere,\n\n1.9::leaning back against a wall::,\n1.8::back resting against the wall::,\n1.8::facing directly toward the viewer::,\n1.7::looking straight at camera::,\n1.6::standing with shoulders against the wall::,\nrelaxed standing pose,\nhead facing forward,\nboth arms relaxed at sides,\ncasual confident posture,\nfront view,"
+    }
+   ],
+   "img": "img/comp/mvin24uz.jpg?v=1792618986583",
+   "pos": "50.0% 48.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792618756280
+ "updatedAt": 1792618987103
 };

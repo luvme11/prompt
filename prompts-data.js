@@ -11934,20 +11934,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mviabz7q",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "nun, fallen nun, completely corrupted,\nblack veil, nun habit,\nopen clothes, completely nude,\nhabit pulled open,\nrosary, rosary between breasts,\nkneeling on altar,\nlegs spread apart,\nahegao, tongue out,\nhalf-closed eyes, blush,\ndrooling, sweat,\ncum on body,\ncum on breasts, thighs and stomach,\ndark church interior,\naltar, candlelight, stained glass,\nnight,\nlow angle, from below,\nlooking at viewer,"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
-  },
-  {
    "id": "mviad2f6",
    "tab": "comp",
    "name": "",
@@ -11976,5 +11962,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792597679726
+ "updatedAt": 1792597779825
 };

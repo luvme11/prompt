@@ -12907,7 +12907,7 @@ window.PROMPT_DATA = {
      "text": "4::rear view::, 4::back facing viewer::,\n3::taking off shirt::, 3::pulling shirt up over head::,\n3::both arms raised::, 2::shirt lifted above shoulders::,\n2::bare muscular back exposed::, defined back muscles, shoulder blades visible, slightly twisted torso, mid-action pose,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvim9xzc.jpg?v=1792617737989",
    "pos": "50% 50%",
    "soon": false
   },
@@ -12930,5 +12930,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792617729659
+ "updatedAt": 1792617738656
 };

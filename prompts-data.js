@@ -12939,10 +12939,10 @@ window.PROMPT_DATA = {
      "text": "1 adult, solo focus, black knit sweater, small black devil horns,\n\n[캐릭터 외모/외형]\n\nlying on their back in a scattered pile of colorful wrapped Halloween candy, head tilted slightly to one side, half-lidded eyes looking directly up at the viewer, soft blush across cheeks and ears, playful expression, lips slightly parted, tongue tip lightly touching the surface of an orange lollipop, both hands resting loosely beside their head, an unseen adult partner's hand entering from the foreground and holding the lollipop stick, candy positioned just in front of the character's mouth, only the partner's hand visible,\n\noverhead close-up, face and shoulders filling the center, strong foreshortening on the offered lollipop, tipped-over pumpkin candy bucket beside the character's head, colorful candy wrappers filling the edges of the frame, dark purple background, warm orange highlights, rich dark tones, cinematic lighting"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvimfelw.jpg?v=1792618027994",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792617925267
+ "updatedAt": 1792618028501
 };

@@ -11691,8 +11691,8 @@ window.PROMPT_DATA = {
      "text": "from side, upper body, 1.3::from below, low-angle shot, dutch angle, diagonal composition::, 1.3::looking down at viewer, chin slightly lowered::, faint unsettling smile, 1.2::lollipop in mouth::, visible breath, breath vapor,\n\n1.4::holding a bloodstained machete by its handle, blade resting across one shoulder, bent elbow::,\n\nJason Voorhees cosplay, 1.4::hockey mask shifted to the side of the head, overlapping only a small portion of one temple and the outer cheek, both eyes and mouth visible::, blood splatters on face, blood streak along cheek, weathered gray-green work jacket, pointed collar, two flap chest pockets, 1.3::torn clothing, ripped shoulder seams, frayed sleeves, ragged fabric edges::, worn coarse fabric, 1.3::blood-soaked patches and smeared blood across jacket chest, collar and sleeves::, mustard yellow work gloves stained with blood,\n\ndark secluded forest at night, Halloween, tree trunks framing the character, tangled branches, faint mist, 1.3::glowing jack-o'-lanterns nestled among the roots at the lower edges of the frame::, small bat silhouettes crossing the moonlit sky, delicate cobwebs between branches, \n\n1.4::cold moonlight streaming through gaps in the trees, illuminating the face, shoulder and machete::, faint orange pumpkin light illuminating the jacket from below, background fading into darkness,\n\n1.4::text reading \"Trick or treat\" across the bottom of the image, blood-red handwritten lettering, smeared bloody strokes, dripping letter edges::,\n\ndesaturated colors, deep shadows, cold moonlight contrasting with warm orange candlelight, cinematic horror lighting, ominous Halloween atmosphere, eerie stillness"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9murg.jpg?v=1792596611951",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -11724,5 +11724,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792596554156
+ "updatedAt": 1792596612628
 };

@@ -12661,8 +12661,8 @@ window.PROMPT_DATA = {
      "text": "black cloak, hooded cloak, hood up, layered cape, all black, double-breasted, long coat, black coat, silver buttons, buckle, black belt, white shirt, black necktie, collared shirt, white knee highs, black oxford shoes, black lining"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvij904o.jpg?v=1792612733888",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -12680,5 +12680,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612713298
+ "updatedAt": 1792612734862
 };

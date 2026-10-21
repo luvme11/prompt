@@ -11974,7 +11974,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mviaia09",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white taekwondo dobok,\n5::red and blue taekwondo belt::,\n\n5::proper textbook taekwondo side kick::,\n5::yop chagi, precise side kick technique::,\nsupporting foot firmly planted and pivoted outward,\nsupporting knee slightly bent,\n4::kicking leg fully extended horizontally from the hip::,\n5::heel driving straight into the target, toes pulled back::,\n4::kicking foot turned sideways, striking with the heel::,\nhips fully rotated and aligned with the kick,\nupper body slightly leaning away for balance,\nboth fists raised in a proper fighting guard,\nfocused posture, clean martial arts form,\n\npure black background,\n\n5::enormous roaring tiger behind the person::,\nmouth wide open, sharp fangs,\n4::thin glowing white line-art tiger::,\nwhite energy trails,\n\n-5::black belt, bent kicking leg, front kick, roundhouse kick, sloppy pose, crossed legs, extra limbs::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792597843862
+ "updatedAt": 1792597903161
 };

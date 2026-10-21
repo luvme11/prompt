@@ -12801,10 +12801,10 @@ window.PROMPT_DATA = {
      "text": "2::sylveon cosplay, lingerie, see-through::, babydoll, white bra, white frills, front bow, bare midriff, navel, lace detached sleeves, frilled white panties, 1.2::large back bow::, 2::long ribbon::, garter straps, white thighhighs, heart print, white lace-up boots, pink sole, ribbon choker, hair bow"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvijvf9l.jpg?v=1792613839928",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792613633050
+ "updatedAt": 1792613841367
 };

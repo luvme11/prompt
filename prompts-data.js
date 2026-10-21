@@ -12496,7 +12496,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mviixmlg",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white pinstripe shirt, 1.4::oversized shirt::, long sleeves, collared shirt, black necktie, loose necktie, safety pin, chain accessory, white frilled skirt, layered skirt, mini skirt, black platform boots, lace-up boots, black thighhighs"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612047546
+ "updatedAt": 1792612056532
 };

@@ -12167,8 +12167,8 @@ window.PROMPT_DATA = {
      "text": "black layered ruffle mini skirt, pink sheer polka dot blouse, black lace trim, scoop neckline, puff short sleeves, fitted bodice, transparent mesh fabric, black ribbon hair bow, pink and black handbag, black patent leather mary janes, black bracelet, black hair accessory,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvic2b7o.jpg?v=1792600839444",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -12214,5 +12214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792600822040
+ "updatedAt": 1792600839958
 };

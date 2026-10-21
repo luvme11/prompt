@@ -11915,8 +11915,8 @@ window.PROMPT_DATA = {
      "text": "fallen paladin, corrupted knight, mature male, muscular,\n\nplate armor, armor mostly removed, chestplate open, pauldrons loose, bare chest, abs, torn cape barely hanging, inverted cross necklace,\n\nbiting armor strap, leather strap in mouth, undoing armor with teeth,\n\nnude below waist, erection, spread legs,\nkneeling on broken altar, ruined cathedral, stained glass, candlelight, night,\n\nahegao, tongue out, half-closed eyes, blush, drool, sweat, cum, cum on chest, cum on armor,\ngothic, dark, cinematic lighting, detailed armor, detailed skin"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvia8ccm.jpg?v=1792597571536",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -11934,5 +11934,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792597539623
+ "updatedAt": 1792597572039
 };

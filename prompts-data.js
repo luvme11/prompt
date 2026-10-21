@@ -12268,7 +12268,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvicspnw",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cable knit cardigan, bear hair clip, beige oversized cardigan, buttoned open cardigan, pockets, white dress, frilled, ruffled, bear slippers, ribbed socks, loose socks, 3::bandage, medical bandage::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792601551173
+ "updatedAt": 1792601749519
 };

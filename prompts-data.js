@@ -12198,7 +12198,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvic2xrr",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black and white, casual goth, jirai kei, layered clothing, 2::oversized cardigan::, black cardigan, long sleeves, buttoned cardigan, beige dress, plaid dress, tartan dress, camisole dress, frilled hem, layered dress, black pantyhose, black tights, mary janes, chunky heels, heart belt buckle,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792600534998
+ "updatedAt": 1792600546822
 };

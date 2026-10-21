@@ -11719,8 +11719,8 @@ window.PROMPT_DATA = {
      "text": "2::solo::, 2::thigh-up composition::, 1.9::large foreground figure::, 1.9::character filling most of the frame::, 1.8::face clearly visible::, 1.8::detailed expressive face::, 1.8::dramatic upper-body action pose::, 1.8::dynamic three-quarter composition::, 1.7::slightly low angle::, 2::one hand gripping an ornate golden caduceus staff::, 1.9::other arm reaching forward through the wind::, 2::gigantic spiraling wind vortex surrounding the figure::, 1.9::luminous golden speed trails crossing the sky::, 1.9::winged sandals releasing brilliant celestial energy::, 1.8::small decorative wings visible near the lower frame::, 1.8::elaborate ancient Greek travel attire::, 1.8::layered tunic with fitted travel garments::, 1.8::ornate golden travel accessories::, 1.8::long flowing scarf whipping dramatically through the air::, 1.9::hundreds of glowing feathers scattering in the wind::, 1.9::enormous golden circular wind magic formation behind the figure::, 1.8::floating scrolls and sealed divine messages::, 1.9::ancient Greek city and majestic marble temples far below::, 1.8::clouds splitting apart along the flight path::, 1.9::radiant turquoise and golden atmospheric lighting::, breathtaking aerial movement, divine freedom"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9o32c.jpg?v=1792596725672",
+   "pos": "49.5% 50.0%",
    "soon": false
   },
   {
@@ -11752,5 +11752,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792596651460
+ "updatedAt": 1792596726192
 };

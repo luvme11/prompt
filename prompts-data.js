@@ -12195,8 +12195,8 @@ window.PROMPT_DATA = {
      "text": "black and grey, casual goth, y2k, 2::layered clothing::, grey shirt, collared shirt, short sleeves, black vest, sweater vest, v-neck vest, grey skirt, plaid skirt, pleated skirt, white legwarmers, loose socks, black shoes, loafers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvic2orx.jpg?v=1792600873362",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -12214,5 +12214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792600857791
+ "updatedAt": 1792600874000
 };

@@ -12440,7 +12440,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mviirl1f.jpg?v=1792611776160",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mviirw8k",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sailor dress, grey blue dress, sailor collar, black stripes, puff sleeves, short sleeves, pleated skirt, ruffles, peaked cap, sailor hat, emblem, gold cord, waist belt, buckle, necktie, black necktie, white boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792611776793
+ "updatedAt": 1792611788923
 };

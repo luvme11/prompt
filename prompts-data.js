@@ -11705,8 +11705,8 @@ window.PROMPT_DATA = {
      "text": "from side, full body, character-focused composition, 1.3::squatting low with knees apart, one elbow resting on knee, one hand resting against cheek::, other hand gripping a long axe handle, looking at viewer, faint mischievous smile,\n\nJason Voorhees cosplay, hockey mask tilted up on forehead, face fully visible, blood splatters on face, blood streaks along cheek and jaw, weathered gray-green work jacket, buttoned front, pointed collar, two flap chest pockets, long sleeves, 1.3::tattered clothing, ripped jacket shoulders, frayed cuffs, torn hem, ragged fabric edges::, worn coarse fabric, faded bloodstains, dark work trousers, torn knees, brown utility belt, olive canvas tool pouch attached at hip, mustard yellow work gloves stained with blood, dark work boots,\n\n1.3::bloodstained axe held beside the body, axe blade resting on the floor::, broken jack-o'-lantern beside the feet, cracked pumpkin shell with a large piece broken off, dark red blood pooled inside the pumpkin and spilling onto the floor, scattered pumpkin fragments, blood splatters on clothes,\n\nvivid orange background, Halloween theme, black bat silhouettes scattered around the character, yellow crescent moon at the top, twinkling stars, small sparkling star accents, sky-blue neon decorative accents, simple graphic composition,\n\n1.4::neon handwritten text reading \"TRICK OR TREAT!\"::, glowing violet and sky-blue lettering, soft neon halo, text beside the character, face unobstructed"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi9nt3c.jpg?v=1792596553356",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -11724,5 +11724,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792596494631
+ "updatedAt": 1792596554156
 };

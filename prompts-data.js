@@ -12212,7 +12212,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvicak58",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black and white, jirai kei, gyaru, white blouse, short sleeves, puff sleeves, ruffled collar, button up, giant bow, striped bow, corset top, black mini skirt, pleated skirt, tiered skirt, lace trim, black thighhighs, lace-topped socks, mary janes, platform shoes, bow hair-ornament,"
+    }
+   ],
+   "img": "img/look/mvicak58.jpg?v=1792600904473",
+   "pos": "50.0% 10.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792600874000
+ "updatedAt": 1792600905289
 };

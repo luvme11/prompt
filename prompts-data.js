@@ -12846,7 +12846,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvik9tah.jpg?v=1792614405520",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mvikc8j0",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pompompurin cosplay, ouji fashion, brown beret, floppy dog ears, yellow vest, brown bow, white blouse, jabot tie, bishop sleeves, frilled cuffs, yellow shorts, brown trim, pompompurin bag, white socks, brown loafers"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792614406015
+ "updatedAt": 1792614417743
 };

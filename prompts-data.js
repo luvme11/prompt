@@ -12535,8 +12535,8 @@ window.PROMPT_DATA = {
      "text": "beige duffle coat, brown fur collar, bear pin, toggle buttons, bear brooch, plaid bow tie, brown plaid frilled skirt, white thighhighs, brown knee boots, fur-trimmed boots, brown shoulder bag, bear pocket patch"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mviixzae.jpg?v=1792612312791",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -12554,5 +12554,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792612301925
+ "updatedAt": 1792612313442
 };

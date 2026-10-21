@@ -12731,8 +12731,8 @@ window.PROMPT_DATA = {
      "text": "white sailor collar, red neckerchief, white long sleeves, black stripe cuffs, white cropped jacket, black pleated miniskirt, red trim, red underskirt, black belt, gold buckle, thigh strap, red tag, red armband, black pantyhose, white red sneakers, red laces, red triangle hair clip"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvijcv87.jpg?v=1792613038787",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -12764,5 +12764,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792613029791
+ "updatedAt": 1792613039777
 };

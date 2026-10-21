@@ -11591,8 +11591,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, cheerful smile, bright eyes, blush, rosy cheeks, mischievous smile, star candy theme, konpeito, candy motif, star motif, fantasy apothecary, alchemist, potion maker, whimsical, fairy tale, pastel lavender and mint green color scheme, cream white accents, lemon yellow accents, gold trim, oversized witch hat, floppy witch hat, star-shaped hat ornaments, candy hair clips, pastel ribbons, oversized hair bow, frilled blouse, puffy sleeves, oversized sleeves, short hooded capelet, frilled collar, oversized bowtie, corset bodice, layered frilly skirt, scalloped hem, white lace trim, star embroidery, candy-shaped buttons, golden buckles, striped thighhighs, lace-up ankle boots, frilled apron, utility belt, potion bottle holsters, tiny glass vials, colorful potion bottles, star-shaped potion bottles, candy-filled pouches, oversized leather satchel, dangling star charms, colorful beads, ribbons, holding star-shaped potion bottle, colorful magical potion, floating konpeito candies, sparkling sugar crystals, tiny star candies, magical bubbles, floating potion bottles, golden sparkles, playful pose, one leg raised, head tilt, holding potion bottle up, looking at viewer, full body, cozy alchemy workshop, wooden shelves, colorful potion bottles, candy jars, magical cauldron, floating stars, sparkling particles, warm magical light,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvi86viq.jpg?v=1792594164516",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -11610,5 +11610,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792594143451
+ "updatedAt": 1792594165035
 };

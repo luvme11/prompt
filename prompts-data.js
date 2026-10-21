@@ -12773,8 +12773,8 @@ window.PROMPT_DATA = {
      "text": "black latex dress, halterneck, cutout dress, side cutout, bare midriff, navel, black elbow gloves, latex gloves, pearl belt, pearl chain, silver tiara, black satin skirt, high slit, skirt lift, black string panties, sparkle, pink gemstone, heart gemstone, pearl necklace, pearl bracelet, black high heels, stiletto heels, ankle strap heels"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvijljox.jpg?v=1792613300539",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -12792,5 +12792,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792613214820
+ "updatedAt": 1792613301230
 };

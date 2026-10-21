@@ -12580,7 +12580,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvij44wu",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white frilled bikini, frilled bra, ribbon bow bikini, white frilled thigh garter, micro bikini bottom, white see-through jacket, off shoulder, long sleeves, white backpack, white thighhighs, buckle garter, white platform sandals, white bear ear hair clip,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792612350400
+ "updatedAt": 1792612360177
 };

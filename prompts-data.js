@@ -12002,7 +12002,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mviaob33.jpg?v=1792598416702",
    "pos": "50.0% 44.0%",
    "soon": false
+  },
+  {
+   "id": "mvibg4ri",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white collared shirt, turn down collar, front buttoning, rolled up sleeves, black fitted cardigan, deep v neck, buttoned cardigan, gray plaid pleated mini skirt, black lace thighhighs, black patent platform mary janes, multiple buckle straps, silver cross pendant, chain necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792598417834
+ "updatedAt": 1792599483677
 };

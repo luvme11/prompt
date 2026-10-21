@@ -12016,7 +12016,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvibgf6z",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black babydoll dress, empire waist, gathered bust, puffed short sleeves, textured cotton dress, ribbon bow, sheer lace hem, dotted mesh hem, black choker, layered black bead necklace, silver cross pendant, gray striped tights, black patent ballet flats, bow flats,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792599483677
+ "updatedAt": 1792599496324
 };

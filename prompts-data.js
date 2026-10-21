@@ -12293,10 +12293,10 @@ window.PROMPT_DATA = {
      "text": "2::oversized shirt::, black oversized t-shirt, graphic print shirt, off-shoulder shirt, black camisole strap, grey pink leg warmers, black platform shoes, chunky boots, hair ribbons, black ribbons,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvidcs9u.jpg?v=1792603064149",
+   "pos": "50.0% 30.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792602685855
+ "updatedAt": 1792603064807
 };

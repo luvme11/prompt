@@ -11644,7 +11644,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvi8g94r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2people, two adult, 1.5::medium wide shot, eye-level, straight-on view::, 2::stainless steel food counter physically separating the two men::, 1.5::A standing in the customer area in front of the counter, B standing in the staff area behind the counter::, A on the left, B on the right, different sides of the counter,  1990s Hong Kong takeaway food stall, white tiled walls, glass food display case, colorful sauce bottles lined up on the back counter, old beverage dispenser, fluorescent lighting, cool blue-green color grading, 35mm film grain, nostalgic cinematic still,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792594419053
+ "updatedAt": 1792594449734
 };

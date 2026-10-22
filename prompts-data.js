@@ -13643,7 +13643,7 @@ window.PROMPT_DATA = {
      "text": "1.8::solo::,\n1.9::cowboy shot::,\n1.8::medium close-up::,\n1.8::front three-quarter view::,\n1.7::slightly low camera angle::,\n1.7::looking directly at viewer::,\n1.7::head tilted slightly to one side::,\n1.6::subtle relaxed smile::,\n\n2.0::sitting casually on a chair::,\n1.9::relaxed slouched sitting posture::,\n1.9::legs spread apart::,\n1.8::one knee raised prominently in the left foreground::,\n1.8::knees pointing outward::,\n1.7::upper body leaning slightly to one side::,\n1.7::asymmetrical seated pose::,\n\n2.0::one elbow resting on the chair's backrest::,\n1.9::one hand placed behind the head::,\n1.9::hand supporting the back of the neck::,\n1.8::elbow bent and pointing outward::,\n1.7::head leaning gently toward the raised hand::,\n\n2.0::other hand resting loosely between the thighs::,\n1.9::forearm extending diagonally across the lap::,\n1.8::relaxed fingers::,\n1.7::other elbow resting near the thigh::,\n\n2.0::post-apocalyptic abandoned classroom::,\n1.9::ruined school classroom interior::,\n1.9::broken wooden desks and chairs::,\n1.8::overturned school furniture::,\n1.8::cracked concrete walls::,\n1.8::shattered classroom windows::,\n1.7::damaged green chalkboard::,\n1.7::peeling paint on classroom walls::,\n1.7::scattered textbooks and papers::,\n1.6::collapsed ceiling panels::,\n1.6::dust and rubble scattered across the floor::,\n1.6::overgrown vines creeping through broken windows::,\n1.5::abandoned school atmosphere::,\n\n1.7::soft daylight entering through broken windows::,\n1.6::dust particles floating in the air::,\n1.6::cinematic shadows::,\n1.5::muted desaturated atmosphere::,\n1.5::vertical portrait composition::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjsg7j4.jpg?v=1792688877536",
    "pos": "50% 50%",
    "soon": false
   },
@@ -13662,5 +13662,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792688860749
+ "updatedAt": 1792688878178
 };

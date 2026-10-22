@@ -13391,7 +13391,7 @@ window.PROMPT_DATA = {
      "text": "chinese-inspired executioner costume, black high-collar uniform, black long pants, leather gloves, crimson trim,\nright hand gripping the shaft of a long-handled oversized red axe, axe held vertically beside his right shoulder, blade pointing upward,\nleft hand raised in front of his chest, gripping a dangling iron chain,\nthorned gothic iron arch, wrought iron gates on both sides, twisted branches overhead, red wax seals, raven feathers, dark rose petals, candles at the lower corners, blood-red sparkles,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjnfrc2.jpg?v=1792680296250",
    "pos": "50% 50%",
    "soon": false
   },
@@ -13410,5 +13410,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792680278271
+ "updatedAt": 1792680296933
 };

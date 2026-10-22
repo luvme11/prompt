@@ -15421,8 +15421,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::lying flat on back on rooftop floor::,\n1.9::one forearm resting across forehead::,\n1.9::other arm stretched loosely beside body::,\n1.8::one knee slightly bent::,\n1.8::legs positioned asymmetrically::,\n1.8::relaxed resting posture::,\n2.0::directly overhead camera angle::,\n1.9::bird's-eye view::,\n1.8::full body diagonal composition::,\n\n2.0::2004 university rooftop::,\n1.9::weathered concrete rooftop::,\n1.8::old water tank::,\n1.8::metal rooftop railing::,\n1.7::sunlit concrete surface::,\n1.7::quiet summer afternoon::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk64q4v.jpg?v=1792712209000",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -15482,5 +15482,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792712137108
+ "updatedAt": 1792712209964
 };

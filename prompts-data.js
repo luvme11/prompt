@@ -13965,8 +13965,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::bridal carry pose::,\n2.0::man carrying woman in his arms::,\n1.9::romantic couple composition::,\n1.9::medium full shot::,\n1.8::front three-quarter view::,\n1.8::eye-level camera angle::,\n1.7::vertical portrait composition::,\n1.7::centered composition::,\n\n2.0::man positioned on the right::,\n2.0::woman positioned on the left::,\n1.9::woman held horizontally in man's arms::,\n1.9::woman elevated above man's waist::,\n1.8::their upper bodies close together::,\n1.8::asymmetrical couple pose::,\n\n2.0::man holding woman securely in a bridal carry::,\n1.9::one arm supporting woman's upper back::,\n1.9::other arm supporting woman's bent knees and thighs::,\n1.8::man's hands visibly supporting her weight::,\n1.8::man standing upright::,\n1.8::man's head tilted upward toward woman::,\n1.9::man looking up at woman's face::,\n1.8::playful affectionate smile::,\n\n2.0::woman sitting sideways in man's arms::,\n1.9::woman's knees bent while being carried::,\n1.8::woman's legs hanging downward on the right::,\n1.8::woman's body slightly leaning backward::,\n1.8::woman holding a composed upright posture::,\n\n2.0::woman extending one hand toward man's chin::,\n2.0::woman's fingertips gently lifting man's chin::,\n1.9::woman touching the underside of man's jaw::,\n1.9::female hand positioned beneath male chin::,\n1.8::woman's arm extended diagonally across his chest::,\n1.8::gentle chin-lifting gesture::,\n\n2.0::woman bending her other arm near her own face::,\n1.9::woman resting her chin lightly on her other hand::,\n1.8::elbow bent with hand supporting her chin::,\n1.8::woman looking slightly away from man::,\n1.7::unimpressed playful expression::,\n1.7::slightly pouty expression::,\n1.7::man gazing affectionately at woman::,\n\n2.0::pure white background::,\n2.0::solid white backdrop::,\n1.9::completely blank white background::,\n1.8::minimalist composition::,\n1.7::soft diffused lighting::,\n1.6::subtle shadows::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjvkoeb.jpg?v=1792693904271",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -13984,5 +13984,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792693888347
+ "updatedAt": 1792693905723
 };

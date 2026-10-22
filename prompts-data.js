@@ -13475,10 +13475,10 @@ window.PROMPT_DATA = {
      "text": "slightly turning his head to the side while looking directly at the viewer, a masculine male hand reaching in from the foreground toward his chin, gently holding his chin between the thumb and fingers, one vivid red lipstick kiss mark on his cheek, one eye slightly squinted in a playful wink, the other eye looking at the viewer, heavily flushed red cheeks, deep blush spreading across his face, faint mischievous smile, slightly parted lips, flustered and bashful expression, high-angle shot, intimate close-up, natural perspective,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjo9kyv.jpg?v=1792681744544",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792681618684
+ "updatedAt": 1792681745993
 };

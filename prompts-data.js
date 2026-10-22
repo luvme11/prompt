@@ -14850,7 +14850,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjytntz.jpg?v=1792699345050",
    "pos": "50.0% 44.0%",
    "soon": false
+  },
+  {
+   "id": "mvjz7ws2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "A man is squatting low in the center of a laundry room with his legs spread wide.\n\nOne hand holds a piece of white underwear up to his face, while the other hand grips his erect penis and strokes it up and down in a clear masturbation motion. Thick white fluid drips and sprays from his hand and penis onto the floor.The camera is positioned at a low angle looking slightly upward.Background is a dimly lit laundry room: front-loading washing machines lined against the wall, a laundry basket to the side, soft red ambient lighting, floating water droplets and steam in the air, wet reflective floor,"
+    }
+   ],
+   "img": "img/comp/mvjz7ws2.jpg?v=1792699877794",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792699345928
+ "updatedAt": 1792699878588
 };

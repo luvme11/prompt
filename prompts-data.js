@@ -13926,7 +13926,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjva8hi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::extreme close-up::,\n2.0::intimate kissing composition::,\n2.0::side profile view::,\n1.9::extreme close-up of two faces::,\n1.9::tight portrait framing::,\n1.8::eye-level camera angle::,\n1.8::vertical composition::,\n\n2.0::man positioned on the left::,\n2.0::woman positioned on the right::,\n1.9::both characters facing each other::,\n1.9::faces pressed closely together::,\n\n2.0::man and woman kissing on the lips::,\n2.0::lips gently pressed together::,\n2.0::clear lip-to-lip contact::,\n1.9::romantic closed-mouth kiss::,\n1.9::both characters closing their eyes::,\n1.8::gentle intimate kiss::,\n1.8::natural overlapping facial profiles::,\n\n2.0::man leaning forward toward woman::,\n1.9::man's head tilted downward::,\n1.9::man's face angled toward woman's face::,\n1.9::man's nose positioned beside woman's nose::,\n1.8::man's lips pressed gently against woman's lips::,\n\n2.0::woman tilting her head backward::,\n1.9::woman lifting her chin toward man::,\n1.9::woman's face angled upward::,\n1.9::woman's neck gently extended::,\n1.8::woman leaning into the kiss::,\n\n2.0::man's hand gently cupping woman's jaw::,\n2.0::man's palm supporting woman's chin::,\n1.9::man's fingers spread along woman's cheek::,\n1.9::man's thumb resting beside woman's lower lip::,\n1.8::fingers following the curve of woman's jawline::,\n1.8::gentle face-cradling gesture::,\n1.8::man's hand prominently visible in foreground::,\n\n1.9::only faces, necks and hands prominently visible::,\n1.8::shoulders partially visible at the bottom::,\n1.8::extremely tight cropped composition::,\n\n2.0::pure white background::,\n2.0::solid white backdrop::,\n1.9::completely blank white background::,\n1.8::minimalist composition::,\n1.7::soft diffused lighting::,\n1.6::subtle facial shadows::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792693194675
+ "updatedAt": 1792693266861
 };

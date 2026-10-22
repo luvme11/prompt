@@ -14819,10 +14819,10 @@ window.PROMPT_DATA = {
      "text": "1male, 1female, male focus,\n2.0::extreme close-up upper body shot::,\n1.9::intimate hand-kissing composition::,\n1.9::side profile view::,\n1.8::eye-level camera angle::,\n1.8::tight framing::,\n1.7::vertical portrait composition::,\n\n2.0::man positioned on the left side of the frame::,\n2.0::man's face shown in left-side profile::,\n1.9::man leaning forward with his head lowered::,\n1.9::man's face angled downward toward a woman's hand::,\n1.8::man's shoulders slightly hunched forward::,\n\n2.0::woman's hand entering from the right side of the frame::,\n2.0::only woman's hand and forearm visible::,\n1.9::woman's face and body completely outside the frame::,\n1.9::delicate feminine hand::,\n1.9::slender female fingers::,\n1.8::pale female hand::,\n1.8::woman's wrist extending horizontally toward the man::,\n\n2.0::man gently kissing the back of woman's hand::,\n2.0::man's lips pressed against woman's knuckles::,\n1.9::clear lip-to-hand contact::,\n1.9::man holding woman's hand with both hands::,\n1.9::man's fingers gently wrapped around woman's hand::,\n1.8::one male hand supporting her palm from below::,\n1.8::other male hand gently holding her fingers::,\n1.8::woman's hand raised close to man's mouth::,\n1.7::tender romantic gesture::,\n\n2.0::post-apocalyptic ruined city background::,\n1.9::destroyed urban buildings::,\n1.8::collapsed skyscrapers in the distance::,\n1.8::abandoned city streets::,\n1.7::shattered windows::,\n1.7::crumbling concrete structures::,\n1.7::scattered rubble and debris::,\n1.6::dusty abandoned urban environment::,\n1.6::distant city ruins softly blurred::,\n\n1.8::soft natural daylight::,\n1.7::warm diffused lighting::,\n1.7::shallow depth of field::,\n1.6::soft background bokeh::,\n1.6::cinematic shadows::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjym978.jpg?v=1792699036114",
+   "pos": "50.0% 74.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792698892863
+ "updatedAt": 1792699036773
 };

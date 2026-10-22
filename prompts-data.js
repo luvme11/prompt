@@ -13097,10 +13097,10 @@ window.PROMPT_DATA = {
      "text": "1.5::medium shot, side profile, reclining backward in a dark wooden chair::, head tilted back, half-lidded eyes, languid expression, looking upward, relaxed slouched posture,  1.5::cigarette held between lips, thin smoke curling upward::, cigarette hanging loosely from mouth, hands resting casually on lap,  black tailored suit, white dress shirt, loosely knotted black necktie, slightly unbuttoned collar, relaxed formalwear,  1.4::brightly illuminated rectangular aquarium on the far left::, colorful tropical fish, vivid pink and yellow fish, turquoise aquarium lighting, small plush toys beside the aquarium,  dark cramped 1990s Hong Kong apartment, floral patterned curtains, dim interior, nostalgic clutter,  1.4::strong cyan aquarium light contrasting with warm amber lighting::, deep black shadows, reddish highlights on face, saturated colors, 35mm film grain, soft focus, cinematic still, melancholic Hong Kong noir atmosphere"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjhmoki.jpg?v=1792670987103",
+   "pos": "69.6% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792670959085
+ "updatedAt": 1792670988077
 };

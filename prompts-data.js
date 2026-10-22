@@ -14917,8 +14917,8 @@ window.PROMPT_DATA = {
      "text": "A woman is sitting on a man’s lap on a dark couch, her upper body exposed and legs spread open.\n\nThe man has one hand firmly cupping and squeezing her breast. Only the woman’s face is flushed red. Clear fluid is visible between her legs.Camera is positioned at a close frontal-side angle.Background is a dimly lit indoor space: dark couch and soft, focused lighting from above."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk02gc4.jpg?v=1792701522656",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -14936,5 +14936,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792701470243
+ "updatedAt": 1792701523925
 };

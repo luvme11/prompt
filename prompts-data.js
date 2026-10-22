@@ -14066,7 +14066,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwbbl1",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "racing outfit, white crop top, sports bra, white hotpants, asymmetrical legwear, pink thighhighs, polka dot thighhighs, white thighhighs, mismatched legwear, black shorts over hotpants, lace trim, checkered pattern, pink and black color scheme, white boots, platform boots, goggles on head, bear hair ornament, pink bear, pixel pattern, cross hair ornament, white jacket, off-shoulder jacket"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792694990408
+ "updatedAt": 1792694996318
 };

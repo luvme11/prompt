@@ -15323,7 +15323,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::lying on the floor of an empty swimming pool::,\n1.9::body stretched diagonally across the pool floor::,\n1.8::one arm bent behind the head::,\n1.8::other arm resting across the torso or beside the body::,\n1.8::one knee slightly bent::,\n1.9::bird's-eye view::,\n1.8::viewer looking down from above::,\n1.8::strong geometric composition::,\n\n2.0::post-apocalyptic abandoned swimming pool::,\n1.9::empty cracked pool basin::,\n1.8::broken lane markings::,\n1.8::fallen leaves and debris::,\n1.8::damaged poolside tiles::,\n1.7::bleached daylight and dry atmosphere::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk30ba7.jpg?v=1792706487879",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15370,5 +15370,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792706462814
+ "updatedAt": 1792706489154
 };

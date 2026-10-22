@@ -15326,7 +15326,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk30tft",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::leaning toward a small ticket booth window opening::,\n1.9::upper body partially framed by the booth window::,\n1.8::one hand resting on the lower ledge of the window::,\n1.8::head leaning slightly through the opening::,\n1.8::looking directly toward the viewer::,\n1.9::close-up composition::,\n1.8::framed shot through a small rectangular opening::,\n\n2.0::post-apocalyptic abandoned amusement park ticket booth::,\n1.9::faded signage::,\n1.8::rusted metal frame::,\n1.8::peeling paint::,\n1.8::broken carnival lights in the background::,\n1.7::overgrown weeds and empty pathways::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792706240019
+ "updatedAt": 1792706263852
 };

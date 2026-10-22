@@ -15412,20 +15412,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mvk64hkb",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "의상 X",
-     "text": "solo,\n2.0::walking ahead of the viewer::,\n2.0::turning back over shoulder::,\n2.0::one hand reaching toward the camera::,\n1.9::open hand dominating the foreground::,\n1.9::fingers gently extended toward viewer::,\n1.8::body facing away while head turns back::,\n1.8::strong hand foreshortening::,\n1.8::POV of someone walking behind::,\n\n2.0::2004 Korean university cherry blossom pathway::,\n1.9::cherry blossom trees lining campus road::,\n1.8::pink petals floating in the air::,\n1.8::old campus buildings in distance::,\n1.7::soft spring daylight::,\n1.7::romantic nostalgic atmosphere::"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
-  },
-  {
    "id": "mvk64q4v",
    "tab": "comp",
    "name": "",
@@ -15440,5 +15426,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792711485053
+ "updatedAt": 1792711648087
 };

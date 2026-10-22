@@ -14248,7 +14248,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwqzbv",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized grey hooded jacket, large fur-trimmed hood, multiple belt buckles, white collared shirt, red bow, tiered layered miniskirt, white lace and black ruffle, white ribbed knee socks, black fur leg warmers, brown fur platform snow boots, winter layered fashi"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695719140
+ "updatedAt": 1792695727080
 };

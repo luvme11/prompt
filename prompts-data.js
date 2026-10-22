@@ -13671,8 +13671,8 @@ window.PROMPT_DATA = {
      "text": "1.8::solo::,\n2.0::lying flat on back::,\n2.0::supine position::,\n1.9::lying face-up on a bed::,\n1.9::head resting on a large pillow::,\n1.8::body stretched out naturally::,\n1.8::relaxed reclining posture::,\n\n2.0::top-down view::,\n2.0::directly overhead camera angle::,\n1.9::bird's-eye view::,\n1.9::camera positioned directly above the body::,\n1.8::looking upward toward the camera::,\n1.8::face oriented toward the ceiling::,\n1.7::head slightly tilted to one side::,\n\n2.0::one arm bent and raised above the head::,\n1.9::one forearm resting behind the head::,\n1.8::elbow pointing outward beside the pillow::,\n1.8::upper arm positioned diagonally above the shoulder::,\n\n2.0::other arm bent with hand near the forehead::,\n1.9::hand resting loosely beside the temple::,\n1.8::fingers relaxed near the hairline::,\n1.7::other elbow pointing outward::,\n1.7::asymmetrical arm positioning::,\n\n1.9::body centered in the composition::,\n1.8::framing from head to upper thighs::,\n1.8::vertical portrait composition::,\n1.7::natural perspective::,\n1.6::relaxed intimate atmosphere::,\n\n2.0::white bed sheets::,\n2.0::large white pillow beneath the head::,\n1.9::rumpled white bedding::,\n1.8::soft fabric folds surrounding the body::,\n1.7::slightly wrinkled white bedsheets::,\n1.7::bed filling the entire background::,\n1.6::soft diffused indoor lighting::,\n1.6::subtle shadows across the bedding::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjsrdzw.jpg?v=1792689320731",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -13690,5 +13690,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792689063968
+ "updatedAt": 1792689321848
 };

@@ -14161,8 +14161,8 @@ window.PROMPT_DATA = {
      "text": "oversized brown coat, white shirt, brown vest, corset belt, multiple belts with gear and clock charms, brown short shorts, asymmetrical brown thighhigh, garter strap, brown lace-up knee boots, large brown ribbon hair ornament, tassel hairpin, steampunk, sepia tone"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwj5gu.jpg?v=1792695517117",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -14236,5 +14236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695491655
+ "updatedAt": 1792695517807
 };

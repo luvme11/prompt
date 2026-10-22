@@ -14581,8 +14581,8 @@ window.PROMPT_DATA = {
      "text": "burgundy velvet one-shoulder fitted crop top with draped gathers held by a metal ring detail, vintage-wash distressed low-rise denim mini skirt with frayed hem and side edge, metal ring chain belt with large ornate medallions hanging long on one side with a small metal tip, burgundy high-gloss patent knee-high boots with slouchy crinkles, pointed toe and thin stiletto heel, burgundy cracked leather hobo shoulder bag with two buckle straps and metal hardware, layered thin gold chain necklaces, small gold hoop earrings, thin rectangular brown frame glasses, thin gold ring, burgundy tone-on-tone with denim Y2K chic style"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxoig3.jpg?v=1792697555298",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697397497
+ "updatedAt": 1792697556410
 };

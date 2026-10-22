@@ -14441,8 +14441,8 @@ window.PROMPT_DATA = {
      "text": "white kimono dress, short kimono, long wide sleeves, black neck ribbon, black obi, wide obi, butterfly belt buckle, layered skirt, frilled hem, black lace, lace trim, black fingerless gloves, lace gloves, fishnet pantyhose, cross-laced footwear, black footwear, pointy footwear, high heels, japanese clothes, gothic, black hair ribbon, black hairband, lace hairband, butterfly hair ornament,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxf96d.jpg?v=1792697028802",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -14572,5 +14572,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792696938960
+ "updatedAt": 1792697029457
 };

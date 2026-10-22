@@ -13282,7 +13282,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjn6hy2.jpg?v=1792679656761",
    "pos": "50.0% 38.0%",
    "soon": false
+  },
+  {
+   "id": "mvjn8q6t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "incubus, demon horns, demon tail,  1.2::chest and hip strap harness, harness details, one hand extended toward the viewer in a beckoning gesture::, the other hand resting at his chest or hip,flirtatious pose, eyes looking at viewer, seductive smile, ornate baroque frame, dark curtain silhouette, candle silhouette, floating black bats, heart candies, wrapped sweets, purple flames, ribbon accents, black thorn heart motifs, sparkles, screentone texture, decorative composition, halloween illustration, filled background, detailed,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792679657811
+ "updatedAt": 1792679759260
 };

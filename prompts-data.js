@@ -15396,7 +15396,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk5xthg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::standing with one foot resting on a soccer ball::,\n1.9::one knee bent forward::,\n1.9::both hands resting on the raised knee::,\n1.8::upper body leaning slightly forward::,\n1.8::looking down toward viewer::,\n1.9::extreme low camera angle::,\n1.8::soccer ball prominent in foreground::,\n1.8::dynamic full body composition::,\n\n2.0::2004 South Korean university athletic field::,\n1.9::outdoor soccer field::,\n1.8::campus buildings surrounding the field::,\n1.7::old metal bleachers::,\n1.7::bright afternoon sunlight::,\n1.6::nostalgic college sports atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792711133459
+ "updatedAt": 1792711162832
 };

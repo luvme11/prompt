@@ -13576,7 +13576,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjs3szw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo, upper body, close-up, front view, slightly high angle,\nleaning slightly forward toward the viewer,\nhead slightly tilted down,\neyes looking at viewer,\n\none hand raised near one eye,\nfingers positioned beside the eye,\nhand posed as if adjusting eyewear,\ndelicate hand gesture near the face,\nthumb and index finger lightly pinching the air near the eye,\nother arm relaxed and mostly out of frame,\n\nasymmetrical pose,\nface partially framed by the raised hand,\nshoulders angled naturally,\ncasual composed expression,\nsimple background,\ndynamic portrait composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792687866951
+ "updatedAt": 1792687927384
 };

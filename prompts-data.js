@@ -14038,7 +14038,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwatn6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "tuxedosam cosplay, sailor style, preppy, sailor hat with blue ribbon, red bowtie, blue double-breasted blazer with gold buttons worn open, layered outfit with white cable-knit cricket vest over a collared white shirt, white shorts, striped socks, loafers"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792694965353
+ "updatedAt": 1792694973841
 };

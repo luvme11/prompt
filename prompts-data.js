@@ -14122,7 +14122,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvjwbyp2.jpg?v=1792695267629",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvjwipgv",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white shirt, black necktie, underbust corset, black plaid pleated miniskirt, oversized black hoodie, fishnet pantyhose, black leg warmers, black platform boots, chain necklace, jirai kei"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695268133
+ "updatedAt": 1792695340928
 };

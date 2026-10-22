@@ -14906,21 +14906,7 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjzvc7a.jpg?v=1792701094487",
    "pos": "50.0% 32.0%",
    "soon": false
-  },
-  {
-   "id": "mvjzyf8j",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "A man stands in a hotel room, pressing a woman against the wall while holding her up.\n\nHer legs are wrapped tightly around his waist as he thrusts into her. They are locked in a deep, open-mouthed kiss. Both of their faces are flushed red. Thick fluid drips down from where their bodies are joined.Camera is positioned at a close side angle.Background is a modern hotel room: plain wall, soft indoor lighting, minimal furniture visible,"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
   }
  ],
- "updatedAt": 1792701113335
+ "updatedAt": 1792701266481
 };

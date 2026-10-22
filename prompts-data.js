@@ -13909,8 +13909,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::close couple composition::,\n1.9::upper body shot::,\n1.9::medium close-up::,\n1.8::front view::,\n1.8::eye-level camera angle::,\n1.8::tight framing::,\n1.7::centered composition::,\n\n2.0::man positioned behind woman on the left::,\n2.0::woman positioned in front of man on the right::,\n1.9::both characters standing very close together::,\n1.9::shoulders touching::,\n1.8::overlapping silhouettes::,\n\n2.0::woman resting her head against man's shoulder::,\n1.9::woman leaning her head sideways toward man::,\n1.9::woman's temple pressed gently against man's upper chest::,\n1.8::woman tilting her face toward the viewer::,\n1.8::woman looking directly at viewer::,\n1.7::gentle relaxed expression::,\n\n2.0::man tilting his head slightly toward woman::,\n1.9::man's head positioned above woman's head::,\n1.8::man looking toward viewer::,\n1.8::man's upper body angled slightly toward woman::,\n1.7::calm affectionate posture::,\n\n2.0::man raising one hand beside woman's head::,\n2.0::man gently holding a small lock of woman's hair::,\n1.9::man's fingers lightly pinching a strand of hair::,\n1.9::hair strand stretched gently toward the right::,\n1.8::man's raised hand visible beside woman's head::,\n1.8::man's elbow bent outward::,\n1.7::other arm resting naturally in front of his body::,\n\n2.0::woman raising one hand near her lips::,\n1.9::woman's fingertips resting lightly beneath her chin::,\n1.9::index finger positioned near lower lip::,\n1.8::woman's elbow bent naturally::,\n1.8::delicate hand gesture::,\n\n2.0::solid light sky blue background::,\n2.0::plain pastel blue backdrop::,\n1.9::soft pale blue background::,\n1.8::clean minimalist composition::,\n1.7::soft diffused lighting::,\n1.6::subtle shadows::,\n1.6::gentle romantic atmosphere::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjv3jqy.jpg?v=1792693304654",
+   "pos": "48.9% 50.0%",
    "soon": false
   },
   {
@@ -13942,5 +13942,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792693266861
+ "updatedAt": 1792693305468
 };

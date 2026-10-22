@@ -15379,7 +15379,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting at a university classroom desk::,\n2.0::resting head sideways on folded arms::,\n1.9::cheek pressed against forearms::,\n1.9::looking directly toward viewer::,\n1.8::face positioned close to desk surface::,\n1.8::sleepy relaxed expression::,\n1.9::camera positioned at desk level::,\n1.8::intimate close-up perspective::,\n\n2.0::2004 South Korean university classroom::,\n1.9::wooden lecture desks::,\n1.8::open textbooks and handwritten notebooks::,\n1.8::chalkboard in background::,\n1.7::sunlight through classroom windows::,\n1.7::nostalgic early 2000s atmosphere::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk5wxpe.jpg?v=1792711227076",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15412,5 +15412,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792711162832
+ "updatedAt": 1792711228570
 };

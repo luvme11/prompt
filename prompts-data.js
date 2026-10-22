@@ -13881,10 +13881,10 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::intimate couple composition::,\n1.9::close-up upper body shot::,\n1.9::dramatic diagonal composition::,\n1.8::slightly high camera angle::,\n1.8::dynamic tilted perspective::,\n1.7::tight framing::,\n\n2.0::woman positioned in the left foreground::,\n2.0::man positioned behind and above the woman on the right::,\n1.9::both characters leaning diagonally together::,\n1.9::their bodies pressed closely together::,\n1.8::overlapping silhouettes::,\n\n2.0::man embracing woman from behind::,\n2.0::man's arm wrapped firmly around woman's waist::,\n1.9::man's hand resting against woman's side::,\n1.9::man leaning his upper body over woman's shoulder::,\n1.9::man's face positioned directly above woman's face::,\n1.8::man tilting his head toward the woman::,\n1.8::faces extremely close together::,\n\n2.0::woman leaning backward into man's embrace::,\n1.9::woman tilting her head upward toward the man::,\n1.9::woman looking up at man's face::,\n1.8::woman's upper body angled diagonally::,\n\n2.0::woman wrapping one arm around man's neck::,\n1.9::woman's hand resting behind man's head::,\n1.8::woman's elbow raised above her shoulder::,\n\n2.0::woman extending her other hand toward the camera::,\n2.0::large outstretched hand in extreme foreground::,\n1.9::strong foreshortening of the reaching hand::,\n1.9::hand reaching directly toward the viewer::,\n1.8::foreground hand partially blurred::,\n1.8::fingers loosely extended toward the lens::,\n\n1.9::dramatic overlapping body positioning::,\n1.8::intimate face-to-face proximity::,\n1.8::asymmetrical embracing pose::,\n1.7::strong foreground depth::,\n\n2.0::solid pure black background::,\n2.0::completely black backdrop::,\n1.9::featureless black background::,\n1.8::no visible environment::,\n1.8::isolated figures against black::,\n1.7::subtle directional lighting::,\n1.7::soft highlights on the characters::,\n1.6::deep surrounding shadows::,\n1.6::cinematic high contrast::,\n1.6::vertical portrait composition::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjuza2k.jpg?v=1792692913982",
+   "pos": "50.0% 16.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792692779948
+ "updatedAt": 1792692915433
 };

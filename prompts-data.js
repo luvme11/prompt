@@ -13422,7 +13422,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjnnf7q.jpg?v=1792680539984",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjnuoqa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{2 character}, character focus, 1.4::front view::, {facing viewer}, both looking at viewer, expressionless, straight-on, eye level,\nupper body, close-up, {cheek to cheek}, heads together, {{hug}}, arm around another's neck, hand on another's chest, {holding another's necktie}, height difference, centered, black formal suit, white dress shirt, black vest, grey necktie, light blue dress shirt, blue necktie, black jacket over shoulders, {{white background}}, simple background, studio lighting, soft lighting, front lighting, magazine photoshoot, detailed skin"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792680556085
+ "updatedAt": 1792680783420
 };

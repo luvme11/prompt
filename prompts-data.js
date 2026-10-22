@@ -15508,7 +15508,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk6uub1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::walking together beneath one umbrella::,\n2.0::man holding umbrella above both characters::,\n1.9::umbrella tilted slightly toward woman::,\n1.9::woman walking very close beside man::,\n1.8::their shoulders touching::,\n1.8::man looking slightly toward woman::,\n1.8::woman looking forward::,\n1.9::rear three-quarter view::,\n1.8::medium full shot::,\n\n2.0::2004 Korean university backstreet::,\n1.9::narrow wet neighborhood alley::,\n1.8::old shop signs::,\n1.8::rain falling steadily::,\n1.8::puddles reflecting streetlights::,\n1.7::nostalgic rainy evening atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792712673238
+ "updatedAt": 1792712703564
 };

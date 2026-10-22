@@ -13587,8 +13587,8 @@ window.PROMPT_DATA = {
      "text": "1.8::solo::,\n1.8::cowboy shot::,\n1.7::framing from head to upper thighs::,\n1.7::eye-level camera angle::,\n1.8::three-quarter body angle::,\n1.8::head turned toward the camera::,\n1.7::looking directly at viewer::,\n1.7::standing close to a chain-link fence::,\n1.8::leaning casually against the fence::,\n1.7::relaxed standing posture::,\n1.6::shoulders slightly angled::,\n1.6::arms resting naturally downward::,\n1.5::hands near pockets::,\n1.6::upper body slightly tilted::,\n\n2.0::lit cigarette held between lips::,\n1.9::cigarette dangling from mouth::,\n1.8::cigarette pointing diagonally downward::,\n1.8::thin cigarette smoke drifting sideways::,\n1.7::smoke curling toward the right side of the frame::,\n1.6::hands away from cigarette::,\n\n2.0::nighttime urban background::,\n2.0::metal chain-link fence directly behind subject::,\n1.9::diamond-patterned wire mesh fence::,\n1.8::tall vertical metal fence post on the right::,\n1.8::dark outdoor street at night::,\n1.7::black night sky::,\n1.7::distant warm orange streetlights::,\n1.6::faint city lights beyond the fence::,\n1.6::dimly visible road behind the fence::,\n1.6::subtle distant urban bokeh::,\n\n1.8::direct camera flash photography::,\n1.8::harsh frontal flash lighting::,\n1.7::brightly illuminated foreground::,\n1.7::dark nighttime background::,\n1.6::strong contrast between subject and background::,\n1.6::deep shadows::,\n1.5::vertical portrait composition::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjs8tf8.jpg?v=1792688341069",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -13620,5 +13620,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792688309735
+ "updatedAt": 1792688341591
 };

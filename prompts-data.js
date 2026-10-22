@@ -15001,8 +15001,8 @@ window.PROMPT_DATA = {
      "text": "solo, upper body shot, medium close-up, dynamic high-angle composition, selfie-like perspective, camera positioned above the subject, subject looking up toward the camera, body angled diagonally, torso slightly twisted, relaxed standing pose, one hand resting on the waist or hip, the other arm lowered naturally, shoulders slightly tilted, casual confident posture, standing in a narrow aisle beside a refrigerated display,\n\npost-apocalyptic ruined supermarket background, abandoned grocery store, collapsed convenience store aisle, damaged refrigerated shelves, broken glass cooler doors, empty and scattered product packaging, ruined food displays, flickering fluorescent lights, debris on the floor, cracked tiles, abandoned shopping area, dim urban ruin atmosphere, decayed market interior, damaged shelves extending into the background, eerie aisle perspective, destroyed store environment, subtle apocalyptic mood, cinematic lighting"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk0y093.jpg?v=1792702960604",
+   "pos": "50.0% 8.0%",
    "soon": false
   },
   {
@@ -15020,5 +15020,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792702899971
+ "updatedAt": 1792702961286
 };

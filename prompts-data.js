@@ -13800,7 +13800,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjujiba.jpg?v=1792692022224",
    "pos": "50.0% 12.0%",
    "soon": false
+  },
+  {
+   "id": "mvjukb82",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1man and 1woman,\n1.9::male focus::,\n1.8::partial female figure::,\n1.9::medium shot::,\n1.8::slightly low angle::,\n1.8::diagonal composition::,\n1.7::three-quarter side view::,\n\n2.0::man reclining on a black sofa::,\n1.9::leaning backward against the sofa::,\n1.8::relaxed slouched sitting posture::,\n1.8::upper body tilted backward::,\n1.8::one arm resting along the sofa::,\n1.7::other arm raised toward the woman::,\n\n2.0::man holding the woman's ankle with one hand::,\n1.9::fingers gently wrapped around her ankle::,\n1.8::man's hand supporting the woman's lower leg::,\n1.8::head turned toward the woman::,\n1.8::chin slightly raised::,\n1.9::looking upward at the woman::,\n1.7::subtle playful smile::,\n\n2.0::woman standing beside the sofa on the right::,\n1.9::woman positioned in the right foreground::,\n1.8::woman's upper body partially cropped::,\n1.8::woman's face outside the frame::,\n\n2.0::woman lifting one leg toward the man::,\n2.0::woman's foot clearly visible in the foreground::,\n2.0::entire female foot visible::,\n1.9::woman's raised foot positioned against the man's chest::,\n1.9::woman's ankle held gently by the man::,\n1.8::raised leg extending diagonally from the upper right::,\n1.8::foot pointing inward toward the man's torso::,\n1.8::clear separation between the woman's leg and the man's body::,\n1.8::female foot fully within the frame::,\n\n2.0::dark minimalist interior::,\n2.0::large circular white spotlight on the wall::,\n1.9::bright round spotlight behind the characters::,\n1.9::dark gray wall::,\n1.8::black leather sofa::,\n1.8::sharp silhouettes cast onto the wall::,\n1.8::dramatic character shadows::,\n1.7::high contrast black and white lighting::,\n1.7::strong directional spotlight::,\n1.6::dark cinematic atmosphere::,\n1.6::minimal background objects::,\n1.6::vertical portrait composition::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792692022893
+ "updatedAt": 1792692056854
 };

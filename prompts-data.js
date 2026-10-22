@@ -15309,7 +15309,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting beside a broken bus window::,\n1.9::one arm resting on the window frame::,\n1.8::upper body turned toward the outside::,\n1.8::head resting lightly near the arm::,\n1.8::looking out of the bus window::,\n1.9::side profile with partial face visible::,\n1.8::viewer positioned inside the bus aisle::,\n1.8::medium shot::,\n\n2.0::post-apocalyptic abandoned city bus::,\n1.9::cracked bus windows::,\n1.8::torn seats::,\n1.8::rusted handrails::,\n1.8::ruined streets outside::,\n1.7::dust and fading daylight::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk2zx1a.jpg?v=1792706462153",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15370,5 +15370,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792706443808
+ "updatedAt": 1792706462814
 };

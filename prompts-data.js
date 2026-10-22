@@ -13503,10 +13503,10 @@ window.PROMPT_DATA = {
      "text": "nude, naked, body tightly wrapped with red ribbon, red ribbon wrapping body, shibari, ribbon bondage, red ribbon bow on chest, holding ribbon ends with both hands, looking at viewer, ;p, playful expression, seductive, black background, simple background, solid black background, soft lighting, rim lighting, detailed skin, blush"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjrcp5n.jpg?v=1792686917294",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792686899791
+ "updatedAt": 1792686917968
 };

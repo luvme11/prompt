@@ -13125,7 +13125,7 @@ window.PROMPT_DATA = {
      "text": "solo, adult,4::standing facing directly toward the viewer::,5::both hands tucked into coat pockets::,relaxed yet imposing posture,cold intimidating gaze, head held upright,long coat billowing dramatically,5::gigantic shadow monster summoned directly above his head::,4::enormous humanoid creature made entirely of swirling black smoke::,\nmonster emerging from a vortex of dark smoke above the character,monstrous upper body looming overhead,long smoky arms, enormous clawed hands,glowing white eyes within a pitch-black face,lower body dissolving into twisting smoke,dark smoke tendrils curling around the summoner,slightly low-angle shot, camera near waist level,4::medium shot, character visible from mid-thigh upward::,character centered, face clearly visible and detailed,giant smoke monster hovering directly above the character,balanced vertical composition,pitch-black background,brilliant white rim lighting outlining the character,sharp icy blue highlights,thin luminous streaks cutting through the darkness,high contrast monochrome anime illustration,bold silhouettes, dramatic sharp lineart,cinematic supernatural atmosphere,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjidv89.jpg?v=1792671773169",
    "pos": "50% 50%",
    "soon": false
   },
@@ -13144,5 +13144,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792671716026
+ "updatedAt": 1792671774135
 };

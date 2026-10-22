@@ -14231,10 +14231,10 @@ window.PROMPT_DATA = {
      "text": "black military dress, light pink trim, double-breasted cross buttons, pleated midi skirt, light pink wide belt, light pink flower brooch, epaulettes with tassel, single-shoulder cape, asymmetrical shoulder cape, long light pink gradient cape, floral embroidered cape, cape over one shoulder, black beret, black knee socks, black platform mary janes, military gothic lolita"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwjyy7.jpg?v=1792695589272",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792695573852
+ "updatedAt": 1792695590085
 };

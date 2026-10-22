@@ -13139,7 +13139,7 @@ window.PROMPT_DATA = {
      "text": "[adult man] lying flat on the floor, dramatic low-angle composition, a third person's boot pressing firmly against his shoulder, pinning him down, his necktie being pulled tightly upward by the third person, creating visible tension in the fabric,\n\n[the man's] head turned slightly to the side after being struck across the cheek, disheveled hair, scowl, a small split at the corner of his mouth with a subtle trace of blood, slightly swollen cheek, rumpled formal suit, loosened collar, dramatic sense of confrontation,\n\nred background, only the third person's lower body and arm partially visible in the frame, emphasizing the power imbalance and threatening atmosphere without showing the full face, strong perspective from near floor level, cinematic framing, harsh directional lighting, deep shadows, gritty realistic atmosphere, detailed clothing folds, realistic skin texture, dynamic composition, dramatic action scene"
     }
    ],
-   "img": "img/comp/mvjigahj.jpg?v=1792671807948",
+   "img": "img/comp/mvjigahj.jpg?v=1792671983458",
    "pos": "50% 50%",
    "soon": false
   },
@@ -13158,5 +13158,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792671892871
+ "updatedAt": 1792671984131
 };

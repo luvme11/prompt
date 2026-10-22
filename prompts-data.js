@@ -14035,8 +14035,8 @@ window.PROMPT_DATA = {
      "text": "bad badtz-maru cosplay, punk, yellow sunglasses on head, spiked choker, silver necklace, black leather jacket, open jacket, white graphic shirt, black baggy pants, ripped jeans, wallet chain, belt, chain accessories, black platform boots"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwanka.jpg?v=1792695177006",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -14124,5 +14124,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695167481
+ "updatedAt": 1792695177505
 };

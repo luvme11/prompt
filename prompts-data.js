@@ -14735,8 +14735,8 @@ window.PROMPT_DATA = {
      "text": "Fitted white cropped blazer with deep V-neck lapels, silver buttons and rolled-up sleeves, light blue low-rise denim ultra-short shorts with frayed hems, wide white eyelet belt with silver buckle, light blue flared denim leg warmers with silver star buckles, chunky white platform sneakers, delicate silver star necklace and silver bracelet."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxqotu.jpg?v=1792697752264",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697702765
+ "updatedAt": 1792697753248
 };

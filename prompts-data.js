@@ -14304,7 +14304,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwrpeq",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "red and black gothic lolita halloween outfit, black cat-ear hooded cape, white frilled blouse, red bowtie, red corset with paw button suspenders, stitch and patchwork detail, asymmetrical argyle layered skirt, red and black striped thighhighs with garter, cat paw gloves, voodoo doll and sewing needle ornaments, black cat tail, cat-head slippers, yami kawaii"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695753489
+ "updatedAt": 1792695760868
 };

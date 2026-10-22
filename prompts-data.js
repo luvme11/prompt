@@ -15169,10 +15169,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing inside a tilted train doorway::,\n2.0::one hand gripping the upper door frame::,\n1.9::upper body leaning outward::,\n1.8::one foot positioned on the doorway step::,\n1.8::other leg supporting body inside train::,\n1.8::head tilted downward::,\n1.8::looking toward ground below::,\n1.9::dramatic dutch angle::,\n1.8::slightly low camera angle::,\n1.8::dynamic full body composition::,\n\n2.0::post-apocalyptic derailed train::,\n1.9::wrecked passenger train cars::,\n1.8::twisted metal train doors::,\n1.8::broken railway tracks::,\n1.8::shattered windows::,\n1.7::abandoned luggage scattered nearby::,\n1.7::overgrown vegetation along railway::,\n1.7::dense forest surrounding train wreck::,\n1.8::sunlight through drifting dust::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk2g8e6.jpg?v=1792705520393",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792705492278
+ "updatedAt": 1792705521804
 };

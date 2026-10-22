@@ -15424,7 +15424,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk64q4v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::lying flat on back on rooftop floor::,\n1.9::one forearm resting across forehead::,\n1.9::other arm stretched loosely beside body::,\n1.8::one knee slightly bent::,\n1.8::legs positioned asymmetrically::,\n1.8::relaxed resting posture::,\n2.0::directly overhead camera angle::,\n1.9::bird's-eye view::,\n1.8::full body diagonal composition::,\n\n2.0::2004 university rooftop::,\n1.9::weathered concrete rooftop::,\n1.8::old water tank::,\n1.8::metal rooftop railing::,\n1.7::sunlit concrete surface::,\n1.7::quiet summer afternoon::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792711474216
+ "updatedAt": 1792711485053
 };

@@ -15295,7 +15295,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::leaning forward over a damaged glass display counter::,\n1.9::both arms braced on the counter edge::,\n1.8::upper body lowered toward the viewer::,\n1.8::head slightly lowered while eyes face forward::,\n1.8::shoulders rolled slightly forward::,\n1.9::viewer positioned on the opposite side of the counter::,\n1.8::intimate close perspective::,\n1.8::medium close-up::,\n\n2.0::post-apocalyptic abandoned department store::,\n1.9::shattered display cases::,\n1.8::fallen ceiling panels::,\n1.8::dust-covered mannequins in distance::,\n1.7::dim indoor lighting with shafts of sunlight::,\n1.7::broken signage and debris::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk2zn4j.jpg?v=1792706442952",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15370,5 +15370,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792706425658
+ "updatedAt": 1792706443808
 };

@@ -14889,8 +14889,8 @@ window.PROMPT_DATA = {
      "text": "A woman is bent forward over a kitchen counter, supporting herself with both hands on the countertop, her face turned slightly to the side and visibly flushed red.\n\nA man stands directly behind her, gripping her hips with both hands while thrusting into her from behind in a standing doggy-style position. Clear fluid drips down their thighs onto the floor.Camera is positioned at a side-rear angle, slightly low.Background is a modern kitchen: dark upper and lower cabinets, a stainless-steel dishwasher, white tiled wall, and a clean countertop under soft indoor lighting,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjzpvqm.jpg?v=1792701082025",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -14908,5 +14908,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792700969409
+ "updatedAt": 1792701082998
 };

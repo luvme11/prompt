@@ -14105,8 +14105,8 @@ window.PROMPT_DATA = {
      "text": "pink shirt, collared shirt, long sleeves, shoulder cutout, bare shoulders, shoulder strap, o-ring, belt, chain, star print, front-tie top, lace-up, plaid necktie, black necktie, id card, lanyard, cuff buttons, black skirt, layered skirt, frilled skirt, plaid trim, plaid skirt, miniskirt, star embroidery, ribbon trim, black thighhighs, black socks, mary janes, black footwear"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwbt4j.jpg?v=1792695250728",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -14124,5 +14124,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695240131
+ "updatedAt": 1792695251386
 };

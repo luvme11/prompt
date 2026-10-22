@@ -13324,7 +13324,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjn93hq.jpg?v=1792679901716",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvjndmsj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dracula, vampire lord, black cape with red lining, formal vest, elegant aristocratic pose, one hand lifting the edge of his cape or touching his collar, body facing forward, chin slightly lowered, eyes looking at viewer, gothic castle silhouette, bats, red rose petals, moon silhouette, gothic arch frame, red mist accents, black ribbons, tiny cross sparkles, screentone texture, decorative composition, elegant halloween illustration, filled background, detailed halloween asset,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792679902793
+ "updatedAt": 1792679988819
 };

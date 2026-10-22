@@ -14343,10 +14343,10 @@ window.PROMPT_DATA = {
      "text": "cream off-shoulder sweater, cross and star ornament, chain accessory, layered frilled skirt, light blue polka dot skirt, plaid trim, brown ribbon lace-up, blue ribbon, baggy cream leg warmers, blue striped pattern, cross ornament, brown belt, lolita fashion, pastel color"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjws0fp.jpg?v=1792696151755",
+   "pos": "50.0% 20.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792696142718
+ "updatedAt": 1792696152404
 };

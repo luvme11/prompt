@@ -13674,7 +13674,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjss5w3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.8::solo::,\n1.9::upper body::,\n1.8::medium close-up::,\n1.8::front three-quarter view::,\n1.7::eye-level camera angle::,\n1.7::slightly low camera angle::,\n1.8::centered composition::,\n\n2.0::sitting in a chair behind a conference table::,\n1.9::leaning back casually in the chair::,\n1.9::relaxed reclining seated posture::,\n1.8::upper body slightly tilted to one side::,\n1.8::shoulders relaxed::,\n1.7::asymmetrical sitting posture::,\n\n2.0::one hand raised beneath the chin::,\n1.9::fingers resting lightly against the chin::,\n1.9::index finger gently touching the lower jaw::,\n1.8::knuckles positioned near the mouth::,\n1.8::elbow bent in front of the chest::,\n1.7::wrist relaxed::,\n1.7::other arm resting naturally on the chair armrest::,\n\n1.8::head tilted slightly to one side::,\n1.8::looking directly at viewer::,\n1.7::subtle confident smirk::,\n1.7::slightly narrowed eyes::,\n1.6::relaxed expression::,\n\n2.0::post-apocalyptic abandoned conference room::,\n1.9::ruined corporate meeting room::,\n1.9::old worn-out office chair::,\n1.9::damaged black leather conference chair::,\n1.8::cracked and peeling leather upholstery::,\n1.8::faded chair cushions::,\n1.7::rusted metal chair frame::,\n\n1.9::old dusty conference table in foreground::,\n1.8::scratched wooden tabletop::,\n1.8::broken office furniture::,\n1.8::cracked concrete walls::,\n1.7::peeling wallpaper::,\n1.7::shattered office windows::,\n1.7::damaged ceiling panels::,\n1.6::scattered debris and fallen plaster::,\n1.6::dust-covered abandoned furniture::,\n1.6::overgrown vines creeping through broken windows::,\n1.5::desolate abandoned atmosphere::,\n\n1.7::dim natural daylight filtering through broken windows::,\n1.6::dust particles floating in the air::,\n1.6::soft directional lighting::,\n1.6::cinematic shadows::,\n1.5::muted desaturated colors::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792689028469
+ "updatedAt": 1792689063968
 };

@@ -15183,8 +15183,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::kneeling beside overgrown plants::,\n1.9::one knee resting on ground::,\n1.9::one hand gently lifting a small flower::,\n1.8::other arm resting on bent knee::,\n1.8::head lowered toward flower::,\n1.8::upper body leaning slightly forward::,\n1.9::side three-quarter view::,\n1.8::camera positioned near plant level::,\n1.8::medium shot::,\n\n2.0::post-apocalyptic abandoned greenhouse::,\n1.9::enormous shattered glass greenhouse::,\n1.9::wild plants growing everywhere::,\n1.8::thick vines hanging from broken ceiling::,\n1.8::rusted metal frames::,\n1.8::broken glass scattered on floor::,\n1.7::abandoned gardening equipment::,\n1.7::plants growing through concrete cracks::,\n1.8::golden sunlight penetrating glass roof::,\n1.7::soft green atmospheric lighting::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk2pnim.jpg?v=1792705938305",
+   "pos": "50.0% 4.0%",
    "soon": false
   },
   {
@@ -15244,5 +15244,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792705830589
+ "updatedAt": 1792705938949
 };

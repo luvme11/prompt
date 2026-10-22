@@ -14007,10 +14007,10 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male and 1female,\ncouple composition, close two-person pose,\nmedium shot, upper body to upper thighs,\nthree-quarter back view, slight side view,\nvertical composition,\n\nmale on the left, female on the right,\nmale positioned slightly behind the female,\nfemale positioned slightly in front of the male,\ntheir bodies standing very close together,\nsubtle body contact,\n\nmale turning his face slightly to the right, side profile visible,\nfemale turning her face slightly to the left, partial side profile visible,\nfemale leaning her head gently toward the male's shoulder,\nintimate relaxed atmosphere,\n\nmale raising one hand upward while holding a cigarette,\ncigarette between male fingers,\nvisible smoke near the raised hand,\nmale is the one holding the cigarette,\nfemale is not holding a cigarette,\nfemale hands empty,\n\nmale's other hand resting on his hip or waist,\nfemale arms relaxed naturally by her sides,\n\nsolid red background,\npure red backdrop,\nminimalist background,\nclean composition,\nsoft dramatic lighting,\nstrong silhouette readability"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjvrnov.jpg?v=1792694234805",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792694194870
+ "updatedAt": 1792694235638
 };

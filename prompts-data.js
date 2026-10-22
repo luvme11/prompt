@@ -14651,8 +14651,8 @@ window.PROMPT_DATA = {
      "text": "Fitted pink-and-white pinstriped button-up shirt with long sleeves, deep open V-neckline, pink lace bra with black scalloped lace trim and a small black bow, gray pleated ultra-mini skirt, pink satin choker, silver cross necklace, oversized black square-frame glasses, white thigh-high socks, black chunky platform Mary Jane shoes with silver buckles."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxplnj.jpg?v=1792697634827",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697623828
+ "updatedAt": 1792697635735
 };

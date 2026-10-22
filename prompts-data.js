@@ -14416,7 +14416,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvjx4h29.jpg?v=1792696559108",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvjx8z5e",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white blazer, white ruffle blouse, high collar, white feather collar, pearl layered necklace, crystal pendant, white waist sash, large white waist bow, white cascade ruffle, layered pleated ruffle, silver buttons, silver fringe epaulette, white single shoulder cape, beaded fringe trim, white slim pants, side ruffle trim, floral applique, white gloves, white oxford shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696559911
+ "updatedAt": 1792696566660
 };

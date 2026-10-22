@@ -14553,8 +14553,8 @@ window.PROMPT_DATA = {
      "text": "black ribbed-knit cropped cardigan-style top with deep V-neckline and fitted long sleeves, white shirt collar and long white cuffs layered underneath, burgundy necktie with white diagonal stripes worn loosely and hanging long, washed black denim low-rise pleated mini skirt with double buckled belt straps and side belt loop details, black over-the-knee socks, black leather lace-up boots, thin silver ring, school uniform meets punk Y2K street style"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxgrip.jpg?v=1792697139618",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -14572,5 +14572,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697127407
+ "updatedAt": 1792697141269
 };

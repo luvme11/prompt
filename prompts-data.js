@@ -13548,7 +13548,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjrzbdc.jpg?v=1792687759146",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvjs1utm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1boy, solo focus, adult male,\nupper body, close-up, high angle, from above,\nlooking up at viewer,\nface tilted slightly upward,\nintense gaze, sharp eyes, slightly furrowed brows,\none feminine hand gently cupping his cheek,\nwoman's hand touching his face,\nslender female hand, delicate fingers, soft feminine hand,\npale female hand, smooth skin,\nthe female hand supporting one side of his jaw and cheek,\nman's own hands partially visible near foreground,\none hand loosely clasped,\n\nshirtless, bare shoulders, exposed collarbone, exposed upper chest,\nlean masculine build,\nsimple background, intimate atmosphere, dramatic perspective"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792687759968
+ "updatedAt": 1792687837271
 };

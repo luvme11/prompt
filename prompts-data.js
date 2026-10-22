@@ -13716,7 +13716,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjt4ma0.jpg?v=1792689809168",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mvjta3gu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo, upper body to thighs, medium shot, low angle, worm's-eye view,\nstanding pose, looking down at viewer,\narms crossed over chest,\nconfident stance, relaxed but intimidating posture,\nweight shifted slightly to one leg,\ntorso facing slightly to the side,\nhead slightly tilted downward,\nshoulders broad in perspective,\nbody appearing tall due to low-angle view,\ncentered composition,\ndramatic perspective,\n\npost-apocalyptic military background,\nruined military base,\nabandoned army outpost,\ndestroyed barricades,\ndamaged sandbags,\nbroken military fences,\nchain-link fence in background,\nwatchtower ruins,\nwrecked armored vehicles,\nscattered debris and rubble,\ncracked concrete ground,\nburned equipment,\ncollapsed structures,\ndusty desolate atmosphere,\nsmoke haze in the distance,\novergrown weeds among ruins,\nharsh daylight,\ncinematic shadows"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792689810344
+ "updatedAt": 1792689900525
 };

@@ -14217,8 +14217,8 @@ window.PROMPT_DATA = {
      "text": "gothic punk, black corset, lace-up corset, off-shoulder, short puffy sleeves, black frilled sleeves, black frilled skirt, red frilled trim, tattered red ribbons, red rose applique, thorns, red ribbon bows, devil horn headband, red horns, spiked choker, white fishnet pantyhose, black lace-up boots, combat boots"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwjuol.jpg?v=1792695573045",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -14236,5 +14236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695561793
+ "updatedAt": 1792695573852
 };

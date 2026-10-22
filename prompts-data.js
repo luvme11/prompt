@@ -14514,7 +14514,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxgh2o",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white ribbed cropped tank top with square neckline, oversized washed denim jacket sliding off the shoulders with metal buttons, vintage-wash low-rise denim micro shorts with unfastened zipper and button and small zip pocket detail, black chunky-sole leather knee-high boots with front lace-up detail and thick rubber platform sole, black leather buckle choker layered with a chunky silver chain necklace, Y2K street editorial style"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696908032
+ "updatedAt": 1792696916622
 };

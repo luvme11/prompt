@@ -13478,7 +13478,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjo9kyv.jpg?v=1792681744544",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjr9c3z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nude, completely naked, lying on back, on bed, bed sheets, bedroom, wrists handcuffed to headboard, arms raised above head, metal handcuffs, restrained, bondage, gagged, handkerchief gag, white handkerchief in mouth, cloth gag, mouth covered, red ribbon tied tightly around glans, ribbon on penis tip, detailed penis, erect penis, blush, sweat, half-closed eyes, flushed face, aroused expression, soft lighting, cinematic lighting, depth of field,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792681745993
+ "updatedAt": 1792686505720
 };

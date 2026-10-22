@@ -14150,7 +14150,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwj5gu",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized brown coat, white shirt, brown vest, corset belt, multiple belts with gear and clock charms, brown short shorts, asymmetrical brown thighhigh, garter strap, brown lace-up knee boots, large brown ribbon hair ornament, tassel hairpin, steampunk, sepia tone"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695347998
+ "updatedAt": 1792695362298
 };

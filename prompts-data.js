@@ -13517,10 +13517,10 @@ window.PROMPT_DATA = {
      "text": "1.3:: chest pink nipple::, lying flat on back on white bed, head on pillow, looking directly up at camera (pov), moonlight, dark bedroom, cinematic lighting, 1.4::flushed::, wearing black ribbed turtleneck sweater, lifting black sweater extremely high with both hands, pulled up to neck, 1.2::visible ads::, distinct V-line, sharp pelvic bones, taut tanned skin, very low waistband of dark trousers pushed down, underwear band slightly visible"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjrkyrb.jpg?v=1792687266978",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792687049568
+ "updatedAt": 1792687268458
 };

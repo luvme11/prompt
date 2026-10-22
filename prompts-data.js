@@ -15312,7 +15312,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk30ba7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::lying on the floor of an empty swimming pool::,\n1.9::body stretched diagonally across the pool floor::,\n1.8::one arm bent behind the head::,\n1.8::other arm resting across the torso or beside the body::,\n1.8::one knee slightly bent::,\n1.9::bird's-eye view::,\n1.8::viewer looking down from above::,\n1.8::strong geometric composition::,\n\n2.0::post-apocalyptic abandoned swimming pool::,\n1.9::empty cracked pool basin::,\n1.8::broken lane markings::,\n1.8::fallen leaves and debris::,\n1.8::damaged poolside tiles::,\n1.7::bleached daylight and dry atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792706222011
+ "updatedAt": 1792706240019
 };

@@ -14752,7 +14752,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvjxqscc.jpg?v=1792697763954",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvjy60yv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, adult male,\n1.9::cowboy shot::,\n1.8::upper body to hips::,\n1.9::three-quarter side view::,\n1.8::left-facing profile::,\n1.7::slightly high camera angle::,\n1.7::vertical portrait composition::,\n\n2.0::standing casually beside a seaside railing::,\n1.9::leaning lightly against the railing::,\n1.8::relaxed standing posture::,\n1.8::upper body slightly leaning forward::,\n1.7::shoulders relaxed::,\n1.7::body angled diagonally toward the camera::,\n\n2.0::head turned toward the left::,\n1.9::head slightly lowered::,\n1.9::chin tilted downward::,\n1.8::looking downward toward the sea::,\n1.8::eyes directed toward the lower left::,\n1.7::calm indifferent expression::,\n1.7::relaxed lips::,\n\n2.0::lit cigarette held between lips::,\n2.0::cigarette dangling from the corner of the mouth::,\n1.9::cigarette pointing diagonally downward::,\n1.9::smoking without using hands::,\n1.8::thin cigarette smoke drifting upward::,\n1.7::delicate wisps of smoke::,\n1.7::cigarette clearly visible in side profile::,\n\n1.9::oversized white short-sleeved t-shirt::,\n1.9::loose-fitting white crew neck t-shirt::,\n1.8::plain white cotton shirt::,\n1.8::wide short sleeves::,\n1.7::relaxed shoulder seams::,\n1.7::soft natural fabric folds::,\n1.6::slightly wrinkled fabric::,\n1.5::casual minimalist clothing::,\n\n2.0::bright seaside background::,\n1.9::calm blue ocean::,\n1.9::ocean stretching toward the horizon::,\n1.8::sunlight sparkling on the water::,\n1.8::soft ocean waves::,\n1.8::pale blue sky::,\n1.7::distant coastline::,\n1.7::blurred hills across the sea::,\n1.8::white seaside balcony railing::,\n1.8::weathered wooden railing in foreground::,\n1.7::open coastal atmosphere::,\n\n1.8::bright natural daylight::,\n1.7::soft sunlight illuminating the subject::,\n1.7::reflected light from the ocean::,\n1.6::gentle coastal breeze::,\n1.6::soft cinematic shadows::,\n1.5::peaceful summer atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792697764480
+ "updatedAt": 1792698108691
 };

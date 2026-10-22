@@ -15463,8 +15463,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting beside a bus window::,\n2.0::cheek resting against window glass::,\n1.9::head tilted sideways::,\n1.8::one hand resting near window frame::,\n1.8::looking outside through the glass::,\n1.9::camera positioned outside the bus::,\n1.9::close-up through window glass::,\n1.8::subtle glass reflections::,\n\n2.0::2004 South Korean city bus interior::,\n1.9::old bus window frames::,\n1.8::campus bus stop in background::,\n1.8::tree-lined university street::,\n1.7::late afternoon sunlight::,\n1.7::nostalgic early 2000s atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk6h670.jpg?v=1792712235465",
+   "pos": "50.0% 46.0%",
    "soon": false
   },
   {
@@ -15482,5 +15482,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792712209964
+ "updatedAt": 1792712236296
 };

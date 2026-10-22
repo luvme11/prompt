@@ -14021,8 +14021,8 @@ window.PROMPT_DATA = {
      "text": "kuromi cosplay, ouji fashion, gothic, black jester hat, pink skull ornament, bat wings, demon tail, purple shirt, short puffy sleeves, purple frilled cuffs, black underbust corset, lace-up front, black bow on chest, black shorts, purple coattails, heart choker, purple ribbon bows, heart thigh strap, fishnet thighhighs, black buckle boots, black platform boots"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwafd6.jpg?v=1792695166827",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -14124,5 +14124,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695026747
+ "updatedAt": 1792695167481
 };

@@ -13321,10 +13321,10 @@ window.PROMPT_DATA = {
      "text": "bloody nun, nun veil, black and white religious outfit, cross accessory, one hand holding a rosary or cross near his chest, the other hand touching the veil or collar, body facing forward, eyes looking at viewer, seductive blasphemous pose, cathedral window silhouette, altar silhouette, candle decorations, red roses, rosary beads, black feathers, blood-red brush accents, stained glass frame, sparkles, screentone texture, decorative composition, halloween illustration, filled background, detailed halloween asset"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjn93hq.jpg?v=1792679901716",
+   "pos": "50.0% 24.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792679884697
+ "updatedAt": 1792679902793
 };

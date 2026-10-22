@@ -13156,7 +13156,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjihuk4.jpg?v=1792671892069",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjima6u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{changpao}, chinese clothes, mandarin collar, frog buttons, long robe, layered clothes, open collar, jewelry, rings,\n{{kiseru}}, smoking pipe, holding pipe, smoke, exhaling smoke, parted lips,\n{{from below}}, looking at viewer, eye contact, looking down, smug, cowboy shot,\n{{kowloon walled city}}, cramped alleyway, dense signage, chinese neon signs, tangled wires, hanging laundry, dripping pipes, wet floor, air conditioner units, cluttered background,\n{{green and red lighting}}, neon lights, colored lighting, rim light, backlighting, high contrast, cinematic lighting, night, humid atmosphere,\nsemi-realistic, painterly, korean webtoon style, detailed background,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792671984131
+ "updatedAt": 1792671993257
 };

@@ -15071,10 +15071,10 @@ window.PROMPT_DATA = {
      "text": "1male, solo,\n2.0::extreme close-up portrait::,\n2.0::lying on stomach in bed::,\n1.9::lying partially on one side::,\n1.9::face resting sideways on a soft pillow::,\n1.9::one cheek pressed deeply into the pillow::,\n1.8::face partially buried in the pillow::,\n1.8::head turned sideways toward the viewer::,\n\n2.0::side of face pressed against a fluffy white pillow::,\n1.9::cheek gently squished against the pillow::,\n1.9::pillow slightly compressed beneath the face::,\n1.8::mouth positioned close to the pillow::,\n1.8::nose lightly touching the pillow::,\n1.7::head resting naturally on the pillow::,\n\n1.9::looking directly toward the camera::,\n1.8::relaxed half-lidded gaze::,\n1.8::subtle sleepy smile::,\n1.7::calm drowsy expression::,\n1.7::relaxed facial muscles::,\n\n2.0::one arm extended diagonally toward the bottom right foreground::,\n1.9::forearm prominently visible in foreground::,\n1.8::arm resting naturally on the mattress::,\n1.8::shoulder positioned close to the camera::,\n1.7::upper body angled diagonally across the bed::,\n1.7::asymmetrical reclining posture::,\n\n2.0::camera positioned close to pillow level::,\n1.9::intimate bedside camera angle::,\n1.9::face dominating the upper center of frame::,\n1.8::slightly diagonal close-up composition::,\n1.8::strong foreground depth::,\n1.7::vertical portrait composition::,\n\n2.0::soft white pillow::,\n2.0::rumpled white bedsheets::,\n1.9::white bedding filling most of the background::,\n1.9::plush pillow beneath the cheek::,\n1.8::soft fabric folds surrounding the face::,\n1.8::white bed beside a large window::,\n1.7::light curtains in the background::,\n1.7::sunlight filtering through sheer curtains::,\n1.7::soft blurred greenery visible outside the window::,\n\n1.9::warm morning sunlight::,\n1.8::soft golden daylight::,\n1.8::gentle sunlight illuminating the pillow::,\n1.7::delicate shadows across the bedding::,\n1.7::soft diffused lighting::,\n1.6::peaceful morning atmosphere::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk1h37m.jpg?v=1792703805375",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792703663622
+ "updatedAt": 1792703806805
 };

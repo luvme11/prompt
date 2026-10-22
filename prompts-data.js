@@ -13993,8 +13993,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::intimate couple embrace::,\n1.9::close body contact::,\n1.9::dynamic romantic pose::,\n1.8::medium shot::,\n1.8::three-quarter view::,\n1.7::vertical composition::,\n\n2.0::man lifting woman in his arms::,\n2.0::woman held closely against man's body::,\n1.9::man supporting woman's waist and thighs::,\n1.9::woman wrapping her legs around man's waist::,\n1.8::woman's knees bent around man's hips::,\n\n2.0::man burying his face against woman's neck::,\n2.0::man gently licking the side of woman's neck::,\n1.9::man's lips and tongue touching woman's neck::,\n1.9::man's head lowered against her neck::,\n1.8::man's face mostly hidden from viewer::,\n1.8::back and side view of man::,\n\n2.0::woman tilting her head backward::,\n1.9::woman exposing the side of her neck::,\n1.9::woman's eyes gently closed::,\n1.8::woman leaning backward slightly::,\n1.8::woman's upper body supported by man::,\n\n2.0::woman wrapping both arms around man's neck::,\n1.9::woman's hands gently gripping the back of man's head::,\n1.9::woman's fingers resting against man's nape::,\n1.8::woman holding man close to her::,\n\n1.9::overlapping body silhouettes::,\n1.8::asymmetrical embracing pose::,\n1.8::strong sense of physical closeness::,\n\n2.0::pure white background::,\n2.0::solid white backdrop::,\n1.9::completely blank background::,\n1.8::minimalist composition::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjvr191.jpg?v=1792694193875",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -14012,5 +14012,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792694079438
+ "updatedAt": 1792694194870
 };

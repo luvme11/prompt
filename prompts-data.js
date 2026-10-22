@@ -13783,10 +13783,10 @@ window.PROMPT_DATA = {
      "text": "2 subjects, one human and one horse,\nclose composition, upper body shot, medium close-up,\nhuman standing very close beside the horse,\nhorse positioned prominently in the foreground,\nhuman partially hidden behind the horse's head,\nhuman face visible beside the horse's face,\none hand gently resting on the horse's cheek or muzzle,\nintimate calm interaction between human and horse,\nboth facing generally toward the viewer,\nslight three-quarter view,\nhorse head lowered slightly,\nhuman leaning softly toward the horse,\nquiet protective atmosphere,\n\nsnowy forest background,\nwinter forest,\ntall bare trees covered in snow,\nsoft snowfall,\nfalling snowflakes,\ncold misty air,\nsnow-covered ground,\npale wintry background,\ncool blue-gray lighting,\nsoft diffused winter light,\nquiet serene atmosphere,\ncinematic composition,\nvertical composition"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjuevbv.jpg?v=1792691985681",
+   "pos": "50.0% 20.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792691974652
+ "updatedAt": 1792691986955
 };

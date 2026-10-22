@@ -14497,8 +14497,8 @@ window.PROMPT_DATA = {
      "text": "animal hat, bunny hat, floppy ears, striped headwear, striped hoodie, zebra print hoodie, cropped hoodie, midriff, navel, crossbody bag, messenger bag, fingerless gloves, baggy pants, cargo pants, low-rise pants, side stripe, track pants, black pants, sneakers"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxg3k7.jpg?v=1792697084672",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -14572,5 +14572,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697069084
+ "updatedAt": 1792697085498
 };

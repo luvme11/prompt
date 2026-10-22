@@ -14080,7 +14080,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwblcv",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "idol clothes, black crop top, pink bow tie, white collar, grey plaid skirt, layered skirt, black corset belt, turquoise accents, cat ear headphones, mechanical headphones, fingerless gloves, black gloves, arm strap, thigh strap, mismatched legwear, black thighhighs, grey thighhighs, polka dot legwear, black boots, platform boots, star print"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792694996318
+ "updatedAt": 1792695009933
 };

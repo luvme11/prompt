@@ -15242,7 +15242,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk2riw6.jpg?v=1792706016490",
    "pos": "50.0% 90.0%",
    "soon": false
+  },
+  {
+   "id": "mvk2vwgz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::standing in front of an opened convenience store refrigerator::,\n1.9::body mostly turned away from the viewer::,\n1.9::head turning back over the shoulder::,\n1.8::one hand holding the refrigerator door open::,\n1.8::other arm relaxed near the body::,\n1.8::slight twist in the torso::,\n1.9::medium shot::,\n1.8::framing through the refrigerator door::,\n1.8::viewer positioned slightly lower than eye level::,\n\n2.0::post-apocalyptic ruined convenience store::,\n1.9::broken refrigerator lights::,\n1.9::empty shelves and scattered products::,\n1.8::damaged tiled floor::,\n1.8::dust and debris::,\n1.7::cracked walls::,\n1.7::dim cold lighting mixed with outside daylight::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792706017001
+ "updatedAt": 1792706034364
 };

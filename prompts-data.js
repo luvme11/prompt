@@ -14346,7 +14346,21 @@ window.PROMPT_DATA = {
    "img": "img/look/mvjws0fp.jpg?v=1792696151755",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvjx15lg",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white kimono, japanese clothes, off shoulder, bare shoulders, wide sleeves, long sleeves, floral print, red flower print, anemone print, red obi, red ribbon, white frilled collar, ruffled collar, red rope, tassel, red flower hair ornament, anemone hair ornament, kanzashi, hair stick, snowflake pattern, folding fan, geta, oiran, traditional clothes"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696152404
+ "updatedAt": 1792696202237
 };

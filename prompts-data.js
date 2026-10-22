@@ -14287,8 +14287,8 @@ window.PROMPT_DATA = {
      "text": "white to black gradient wide-sleeve kimono, white floral and butterfly embroidery, white frilled collar, black bowtie, black wide obi, large red flower ornament, hanging red bead tassels, red kanzashi hair ornament, black tabi socks, black geta sandals, wa lolita"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwrd0e.jpg?v=1792696101352",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -14348,5 +14348,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792696090388
+ "updatedAt": 1792696102480
 };

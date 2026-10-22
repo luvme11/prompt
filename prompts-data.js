@@ -14920,7 +14920,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk062v1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 characters, 1male, 1female,\n2.0::intimate couple composition::,\n1.9::upper body close-up::,\n1.9::front three-quarter view::,\n1.8::eye-level camera angle::,\n1.8::tight portrait framing::,\n1.7::vertical composition::,\n\n2.0::woman positioned in the left foreground::,\n2.0::man positioned behind woman on the right::,\n1.9::man standing very close behind woman::,\n1.9::man's upper body leaning forward over woman's shoulder::,\n1.8::man's head positioned above woman's head::,\n1.8::overlapping body silhouettes::,\n\n2.0::man gently placing one hand on top of woman's head::,\n2.0::man's fingers resting against the crown of her head::,\n1.9::man gently playing with a small section of woman's hair::,\n1.9::man's raised elbow bent beside her head::,\n1.8::man leaning his face close to woman's head::,\n1.8::man looking downward toward woman::,\n1.7::subtle playful smile::,\n\n2.0::woman brushing her teeth::,\n2.0::woman holding a turquoise green toothbrush::,\n2.0::toothbrush positioned between woman's lips::,\n1.9::woman's hand holding toothbrush near her mouth::,\n1.9::woman looking directly at viewer::,\n1.8::woman standing calmly in front of man::,\n1.8::woman's elbow bent near her chest::,\n1.7::casual everyday interaction::,\n\n2.0::man wearing a fitted black short-sleeved polo shirt::,\n1.9::black collared shirt::,\n1.8::slightly open shirt collar::,\n1.8::short sleeves::,\n1.7::simple black casual clothing::,\n\n2.0::woman wearing a white lace-trimmed camisole::,\n1.9::delicate white ruffled neckline::,\n1.9::small ribbon bow at the center of neckline::,\n1.8::light blue loose outer cardigan::,\n1.8::soft lightweight fabric::,\n1.8::open front cardigan::,\n1.7::delicate frilled edges::,\n1.7::soft casual loungewear::,\n\n2.0::bright minimalist indoor background::,\n1.9::clean white interior::,\n1.9::pale blue-gray walls::,\n1.8::soft vertical wall panels::,\n1.8::large bright window in background::,\n1.7::soft white curtains::,\n1.7::quiet morning indoor atmosphere::,\n\n1.8::soft natural daylight::,\n1.7::gentle diffused lighting::,\n1.7::subtle shadows::,\n1.6::clean bright atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792701432424
+ "updatedAt": 1792701470243
 };

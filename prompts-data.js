@@ -13601,7 +13601,7 @@ window.PROMPT_DATA = {
      "text": "1.8::solo::,\n2.0::selfie composition::,\n1.9::close-up portrait::,\n1.8::upper body shot::,\n1.9::slightly low camera angle::,\n1.8::camera positioned below face level::,\n1.8::three-quarter face view::,\n1.7::head slightly tilted backward::,\n1.7::chin slightly raised::,\n1.7::face turned slightly to the side::,\n1.6::half-lidded gaze::,\n1.6::looking toward the camera::,\n1.6::relaxed expression::,\n\n2.0::one hand making a sideways V sign beneath the chin::,\n1.9::index and middle fingers extended in a V shape::,\n1.9::two fingers positioned diagonally across the lower face::,\n1.8::peace sign held close to the jawline::,\n1.8::fingertips pointing toward the cheek::,\n1.7::hand prominently visible in foreground::,\n1.7::other arm extended toward the camera::,\n1.6::casual selfie pose::,\n\n2.0::post-apocalyptic ruined city background::,\n1.9::destroyed urban cityscape::,\n1.8::collapsed skyscrapers::,\n1.8::abandoned city streets::,\n1.8::heavily damaged buildings::,\n1.7::shattered windows::,\n1.7::crumbling concrete structures::,\n1.7::rusted abandoned vehicles::,\n1.6::scattered rubble and debris::,\n1.6::broken streetlights::,\n1.6::overgrown vegetation::,\n1.6::dust floating in the air::,\n1.6::distant ruined buildings::,\n1.5::desolate abandoned atmosphere::,\n\n1.7::cinematic post-apocalyptic atmosphere::,\n1.6::overcast sky::,\n1.6::muted lighting::,\n1.5::dramatic shadows::,\n1.5::vertical portrait composition::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjs9bq0.jpg?v=1792688374857",
    "pos": "50% 50%",
    "soon": false
   },
@@ -13620,5 +13620,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792688341591
+ "updatedAt": 1792688376124
 };

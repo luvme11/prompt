@@ -15141,10 +15141,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::crouching beside a collapsed bookshelf::,\n1.9::one knee resting near the ground::,\n1.9::one hand reaching toward an old book::,\n1.8::other hand resting on raised knee::,\n1.8::head lowered toward the book::,\n1.8::slightly high camera angle::,\n1.8::diagonal composition::,\n1.7::medium full shot::,\n\n2.0::post-apocalyptic abandoned library::,\n1.9::towering broken wooden bookshelves::,\n1.9::hundreds of scattered books::,\n1.8::collapsed ceiling sections::,\n1.8::cracked marble floor::,\n1.7::dust-covered furniture::,\n1.7::overgrown vines climbing shelves::,\n1.8::dramatic sunlight through shattered skylight::,\n1.7::floating dust particles::,\n1.6::quiet abandoned atmosphere::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk294xn.jpg?v=1792705250118",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792704972112
+ "updatedAt": 1792705251567
 };

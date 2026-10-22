@@ -14413,10 +14413,10 @@ window.PROMPT_DATA = {
      "text": "cow print, white cow hood, hood up, cow ears, cow horns, ear tag, black choker, cowbell on choker, front tie bikini top, cow print shrug, fitted sleeves, wrist-length sleeves, bare hands, cow print micro bikini bottom, side-tie bikini bottom, string bikini, garter straps, white thighhighs, white lace-trimmed thighhighs, white combat boots, white lace-up boots"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjx4h29.jpg?v=1792696559108",
+   "pos": "50.0% 22.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792696543676
+ "updatedAt": 1792696559911
 };

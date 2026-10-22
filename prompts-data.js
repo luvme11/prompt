@@ -13825,10 +13825,10 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1man and 1woman,\n1.9::male focus::,\n1.8::female foreground silhouette::,\n1.9::dramatic close-up composition::,\n1.8::upper body shot::,\n1.8::three-quarter view::,\n1.7::slightly tilted camera angle::,\n\n2.0::woman slapping man's cheek::,\n2.0::female hand striking male cheek::,\n2.0::woman's open palm making contact with man's face::,\n1.9::clear physical contact between palm and cheek::,\n1.9::man's face turning sideways from the impact::,\n1.8::man's cheek slightly compressed by the slap::,\n1.8::dynamic slapping motion::,\n1.8::sudden impact moment::,\n\n2.0::woman positioned in the left foreground::,\n1.9::woman seen from behind::,\n1.9::back view of woman::,\n1.8::woman's face hidden from viewer::,\n1.8::short straight bob haircut on woman::,\n1.8::black short-sleeved t-shirt on woman::,\n1.7::woman's shoulder and back visible in foreground::,\n\n2.0::woman's arm extending from left foreground toward man's face::,\n1.9::woman's hand reaching across the composition::,\n1.9::female arm fully extended during slap::,\n1.8::fingers extended, open palm::,\n1.8::woman's upper body slightly leaning forward::,\n\n2.0::man positioned in the center-right::,\n1.9::man leaning forward toward the woman::,\n1.8::upper body bent forward::,\n1.8::face prominently visible::,\n1.8::head turned toward the left from impact::,\n1.7::surprised reaction::,\n1.7::tense shoulders::,\n1.7::one arm braced against the desk::,\n\n2.0::dimly lit interior background::,\n1.9::dark enclosed room::,\n1.9::desk covered with scattered photographs::,\n1.8::multiple printed photographs scattered across the tabletop::,\n1.8::overlapping photographs and papers::,\n1.7::shadowy walls::,\n1.7::subtle warm light illuminating the room::,\n1.7::strong directional lighting::,\n1.7::dramatic shadows across the characters::,\n1.6::high contrast cinematic lighting::,\n1.6::tense dramatic atmosphere::,\n1.6::shallow depth of field::,\n1.5::vertical composition::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjumwxj.jpg?v=1792692289419",
+   "pos": "50.0% 48.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792692177985
+ "updatedAt": 1792692290245
 };

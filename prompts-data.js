@@ -14962,7 +14962,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk0c3ej.jpg?v=1792702274044",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvk0u3au",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 characters, 1male, 1female,\n2.0::intimate couple composition::,\n1.9::close-up upper body shot::,\n1.9::seated embrace::,\n1.8::front three-quarter view::,\n1.8::slightly high camera angle::,\n1.8::tight portrait framing::,\n1.7::vertical composition::,\n\n2.0::woman sitting on man's lap::,\n2.0::man sitting directly behind woman::,\n2.0::woman positioned in the left foreground::,\n2.0::man positioned behind woman on the right::,\n1.9::woman leaning backward against man's chest::,\n1.9::man's body pressed closely against woman's back::,\n1.8::overlapping body silhouettes::,\n\n2.0::man embracing woman from behind::,\n2.0::one male hand firmly cupping woman's breast over clothing::,\n1.9::male fingers curved around woman's breast::,\n1.9::hand visibly gripping her breast through the camisole::,\n1.9::male hand positioned across woman's chest::,\n1.8::other arm wrapped around woman's waist::,\n1.8::man's hand clearly visible in foreground::,\n\n2.0::man lowering his face beside woman's neck::,\n1.9::man's lips close to woman's ear::,\n1.9::man leaning toward woman's shoulder::,\n1.8::man's head tilted toward woman::,\n1.8::man's face partially visible beside her head::,\n1.7::close physical proximity::,\n\n2.0::woman leaning backward into man's embrace::,\n1.9::woman's head tilted downward and slightly sideways::,\n1.8::woman's shoulders relaxed::,\n1.8::woman's upper body resting against man's chest::,\n1.9::woman's knees bent upward in foreground::,\n1.9::both thighs visible in lower foreground::,\n1.8::legs resting closely together::,\n1.8::woman sitting sideways across man's lap::,\n\n2.0::man wearing a fitted black short-sleeved t-shirt::,\n1.9::black crew-neck shirt::,\n1.8::simple black casual clothing::,\n\n2.0::woman wearing a white lace-trimmed camisole::,\n1.9::white fitted camisole::,\n1.9::delicate lace neckline::,\n1.9::soft pale gray oversized shirt::,\n1.9::loose open-front outer shirt::,\n1.8::outer shirt slipping off one shoulder::,\n1.8::visible camisole neckline::,\n1.8::soft draped fabric::,\n1.7::lightweight fabric folds::,\n\n2.0::bright minimalist indoor background::,\n1.9::soft white and pale gray interior::,\n1.9::dark sofa beneath the couple::,\n1.8::large softly lit window behind::,\n1.8::pale vertical curtains::,\n1.7::soft blurred indoor background::,\n1.7::green plant leaves in lower right foreground::,\n1.6::subtle depth of field::,\n\n1.8::soft natural daylight::,\n1.7::gentle diffused lighting::,\n1.7::subtle cinematic shadows::,\n1.6::quiet intimate atmosphere::"
+    }
+   ],
+   "img": "img/comp/mvk0u3au.jpg?v=1792702592493",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792702274714
+ "updatedAt": 1792702593627
 };

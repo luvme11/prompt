@@ -13436,7 +13436,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjnux2l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upside down, rappelling, rappel rope, legs hooked around rope, knees bent, one hand gripping rope, one hand aiming suppressed pistol, special forces, camouflage combat uniform, rolled-up sleeves, tactical vest, plate carrier, magazine pouch, tactical gloves, combat pants, combat boots, dynamic pose, foreshortening, full body, night combat, dark interior, dramatic lighting"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792680783420
+ "updatedAt": 1792680794761
 };

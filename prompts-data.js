@@ -14539,8 +14539,8 @@ window.PROMPT_DATA = {
      "text": "white cotton puff cropped camisole top with balloon silhouette and gathered hem, wide ribbon shoulder straps tied in bows, criss-cross straps at the back, white lace embroidery trim at the bust, white balloon bubble mini skirt with tucked hem and small ribbon detail at the waist, white floral lace pattern tights, white mary jane style heels with thin ankle strap and small ribbon detail and rounded toe, small white ribbon and pearl hair clip, stacked gold rings with a large pearl statement ring, all-white coquette style, romantic doll-like mood"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxgnmo.jpg?v=1792697126616",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -14572,5 +14572,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697115668
+ "updatedAt": 1792697127407
 };

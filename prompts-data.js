@@ -15435,8 +15435,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing beside an old vending machine::,\n2.0::one hand offering a canned drink toward viewer::,\n1.9::canned drink enlarged by foreground perspective::,\n1.9::other hand holding another drink near waist::,\n1.8::upper body leaning slightly toward camera::,\n1.8::looking directly toward viewer::,\n1.9::eye-level POV composition::,\n1.8::medium shot::,\n\n2.0::2004 South Korean university student lounge::,\n1.9::retro beverage vending machines::,\n1.8::wooden benches::,\n1.8::old campus bulletin board::,\n1.7::warm fluorescent lighting::,\n1.7::early 2000s everyday college atmosphere::"
     }
    ],
-   "img": "img/comp/mvk6fk1d.jpg?v=1792711991769",
-   "pos": "50.0% 20.0%",
+   "img": "img/comp/mvk6fk1d.jpg?v=1792712321943",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -15482,5 +15482,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792712236296
+ "updatedAt": 1792712322753
 };

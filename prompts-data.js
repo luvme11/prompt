@@ -14542,7 +14542,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxgrip",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black ribbed-knit cropped cardigan-style top with deep V-neckline and fitted long sleeves, white shirt collar and long white cuffs layered underneath, burgundy necktie with white diagonal stripes worn loosely and hanging long, washed black denim low-rise pleated mini skirt with double buckled belt straps and side belt loop details, black over-the-knee socks, black leather lace-up boots, thin silver ring, school uniform meets punk Y2K street style"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696925284
+ "updatedAt": 1792696930020
 };

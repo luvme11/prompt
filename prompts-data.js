@@ -15043,10 +15043,10 @@ window.PROMPT_DATA = {
      "text": "1male, solo,\n2.0::sitting on a high rooftop ledge::,\n2.0::relaxed asymmetrical seated pose::,\n1.9::one knee raised prominently in the foreground::,\n1.9::one leg bent upward toward the chest::,\n1.9::other leg hanging downward over the ledge::,\n1.8::legs positioned at different heights::,\n1.8::body leaning diagonally to one side::,\n\n2.0::one arm resting casually across the raised knee::,\n1.9::elbow extended outward beside the knee::,\n1.8::forearm stretching toward the left edge of the frame::,\n2.0::other hand gripping the rooftop railing behind the body::,\n1.9::arm extended backward to support the body::,\n1.8::shoulders slightly tilted::,\n1.8::torso leaning backward and sideways::,\n1.7::relaxed confident posture::,\n\n2.0::head tilted downward::,\n1.9::chin lowered toward the chest::,\n1.9::looking downward beneath the camera::,\n1.8::face angled slightly to the left::,\n1.8::subtle relaxed smirk::,\n\n2.0::dynamic high-angle composition::,\n1.9::camera positioned slightly above the subject::,\n1.9::three-quarter front view::,\n1.8::dramatic diagonal perspective::,\n1.8::strong foreshortening::,\n1.8::raised knee appearing larger in the foreground::,\n1.7::framing from head to lower legs::,\n1.7::vertical portrait composition::,\n\n2.0::post-apocalyptic rooftop background::,\n2.0::ruined city skyline far below the rooftop::,\n1.9::high-altitude rooftop overlooking a destroyed city::,\n1.9::damaged metal rooftop railings::,\n1.8::rusted steel guardrails::,\n1.8::cracked concrete rooftop::,\n1.8::broken rooftop structures::,\n1.7::scattered concrete rubble and debris::,\n\n2.0::collapsed skyscrapers in the distance::,\n1.9::shattered high-rise buildings::,\n1.9::abandoned urban cityscape::,\n1.8::broken windows across distant towers::,\n1.8::partially destroyed buildings::,\n1.7::dark empty streets far below::,\n1.7::distant ruined buildings illuminated by scattered lights::,\n1.6::desolate abandoned metropolis::,\n\n1.9::post-apocalyptic city at night::,\n1.8::deep blue nighttime atmosphere::,\n1.8::faint blue and violet city glow::,\n1.7::cold moonlight::,\n1.7::atmospheric haze between ruined skyscrapers::,\n1.7::dramatic cinematic lighting::,\n1.6::strong contrast::,\n1.6::moody urban atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk1adbo.jpg?v=1792703472610",
+   "pos": "50.0% 24.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792703350990
+ "updatedAt": 1792703473495
 };

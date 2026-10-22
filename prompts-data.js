@@ -15505,8 +15505,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::sitting across from each other at a small restaurant table::,\n2.0::man offering a piece of tteokbokki on a fork::,\n1.9::fork extended gently toward woman's lips::,\n1.9::woman leaning forward to take a bite::,\n1.8::woman's hands resting near the table::,\n1.8::man leaning across the table::,\n1.9::intimate table-level perspective::,\n1.8::medium close-up::,\n\n2.0::2004 Korean street food restaurant::,\n1.9::small neighborhood bunsik restaurant::,\n1.8::metal food plates::,\n1.8::tteokbokki and fish cakes on the table::,\n1.7::laminated restaurant menu on wall::,\n1.7::warm cozy fluorescent lighting::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk6prye.jpg?v=1792712798027",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -15538,5 +15538,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792712769052
+ "updatedAt": 1792712798860
 };

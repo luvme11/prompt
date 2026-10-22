@@ -14637,8 +14637,8 @@ window.PROMPT_DATA = {
      "text": "Fitted white short-sleeve button-up blouse with tiny red heart prints, subtle vertical stripes, open collar, deep V-neckline, white lace bralette underneath. Dark washed denim ultra-mini layered ruffle skirt with frayed edges, delicate silver necklace, white lace ankle socks, red patent leather Mary Jane platform heels."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxphiv.jpg?v=1792697623020",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697612211
+ "updatedAt": 1792697623828
 };

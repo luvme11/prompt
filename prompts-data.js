@@ -13450,7 +13450,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjny86a",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::solo::, 1.9::cowboy shot or upper body::, 2::dynamic close composition::, 2::riding a flower-vine swing high in the air::, 1.9::character filling the frame::, frontal three-quarter view, eye-level, tilted composition, 2::powerful swinging momentum::, leaning body, twisted torso, 2::radiant joyful laughter::, 1.9::both hands gripping flowering vine ropes::,\n\n2.2::strong spring wind::, 2::hair and clothing whipping dramatically::, 2.1::abundant flower petals swirling around and behind the character::, 1.9::spiraling trails of blossoms::, fluttering ribbons, 2::unobstructed face and upper body::, dynamic flowing motion,\n\n2::fantasy hanging garden in the sky::, 1.9::floating flower terraces and floral arches::, roses, daisies, cascading wisteria, ivy, wind-swept flowering branches, 1.9::petal vortex in the background::, glowing pollen, sparkling wind currents, billowing clouds, brilliant spring sky, radiant sunlight, shimmering highlights, vivid pastel colors, 1.9::magical cheerful atmosphere::, breathtaking freedom, luxurious composition,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792680915677
+ "updatedAt": 1792680948616
 };

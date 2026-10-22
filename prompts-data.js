@@ -15267,8 +15267,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting on the middle of a broken staircase::,\n1.9::one leg stretched down to a lower step::,\n1.9::other knee raised::,\n1.8::one elbow resting on the raised knee::,\n1.8::head angled downward::,\n1.8::looking toward the floor below::,\n1.9::high-to-low vertical composition::,\n1.8::viewer positioned slightly below the subject::,\n1.8::dynamic diagonal stair framing::,\n\n2.0::post-apocalyptic collapsed stairwell::,\n1.9::broken concrete steps::,\n1.9::exposed rebar::,\n1.8::damaged apartment interior::,\n1.8::dusty light coming through broken windows::,\n1.7::debris scattered across landings::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk2x0nq.jpg?v=1792706406945",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -15370,5 +15370,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792706377111
+ "updatedAt": 1792706407754
 };

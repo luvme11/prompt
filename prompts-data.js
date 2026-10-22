@@ -14654,7 +14654,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxpt6n",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "white strapless wedding dress, 1.3::layered tulle ballgown::, 1.3::cropped white adidas track jacket as bolero, silver three stripes on sleeves, adidas logo on chest::, pearl choker, short birdcage veil,peeking from under skirt, holding bouquet of baby's breath, spinning, skirt flaring out, garden wedding, white flower arch, string lights, golden hour, soft glow, dreamy, sweet, lovely"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792697342475
+ "updatedAt": 1792697352393
 };

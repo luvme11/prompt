@@ -13363,7 +13363,7 @@ window.PROMPT_DATA = {
      "text": "werewolf costume, wolf ears, fluffy tail, torn open shirt, both hands raised like paws near his face, bent wrists, claw-like hand pose, playful snarl, mouth slightly open showing fangs, looking at viewer, front view, centered composition, claw-mark frame, forest silhouette, full moon silhouette, fog, floating paw-print motifs, tiny bone candies, moon fragments, sparkles, screentone texture, filled decorative background, halloween asset"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjnexbm.jpg?v=1792680237344",
    "pos": "50% 50%",
    "soon": false
   },
@@ -13410,5 +13410,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792680223228
+ "updatedAt": 1792680237994
 };

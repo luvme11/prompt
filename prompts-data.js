@@ -13604,7 +13604,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjsc01h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.8::solo::,\n1.8::adult male::,\n2.0::shirtless::,\n1.9::bare upper body::,\n1.9::fully exposed chest and abdomen::,\n1.8::bare shoulders::,\n1.7::visible collarbones::,\n1.7::defined abdominal muscles::,\n\n1.9::loose green camouflage cargo pants::,\n1.8::military camouflage trousers::,\n1.7::baggy tactical pants::,\n1.7::green woodland camouflage pattern::,\n1.8::black military combat boots::,\n1.7::black lace-up boots::,\n1.6::thick rugged boot soles::,\n\n2.0::extreme low angle::,\n2.0::worm's-eye view::,\n2.0::camera positioned between the legs near floor level::,\n1.9::looking up at subject from below::,\n1.9::dramatic foreshortening::,\n1.8::exaggerated perspective::,\n\n2.0::sitting deeply in a chair::,\n1.9::legs spread wide apart::,\n1.9::knees bent and pointing outward::,\n1.8::both legs extending toward the foreground::,\n1.8::boots prominently visible in the foreground::,\n1.7::feet positioned on opposite sides of the frame::,\n1.8::leaning backward against the chair::,\n1.7::one arm resting casually over the chair back::,\n1.7::other arm relaxed beside the body::,\n1.7::relaxed dominant sitting pose::,\n\n1.8::head slightly tilted downward::,\n1.8::looking down directly at viewer::,\n1.7::chin slightly lowered::,\n1.7::confident relaxed expression::,\n\n2.0::solid light blue background::,\n1.9::plain pale blue backdrop::,\n1.8::clean pastel blue background::,\n1.7::minimalist background::,\n1.6::sharp directional lighting::,\n1.6::strong cast shadow on the blue background::,\n1.5::high contrast lighting::,\n1.5::vertical composition::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792688185548
+ "updatedAt": 1792688309735
 };

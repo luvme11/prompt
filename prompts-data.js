@@ -14791,10 +14791,10 @@ window.PROMPT_DATA = {
      "text": "1male, solo,\n2.0::shirtless::,\n2.0::bare upper body::,\n1.9::uncovered chest and shoulders::,\n\n2.0::low-angle selfie composition::,\n2.0::camera positioned below face level::,\n1.9::looking down toward the camera::,\n1.9::close-up upper body shot::,\n1.8::front three-quarter view::,\n1.8::leaning slightly forward toward the camera::,\n1.8::one arm extended toward the camera::,\n1.8::outstretched arm entering from the right side::,\n1.7::hand holding camera outside the frame::,\n1.7::dramatic upward perspective::,\n1.7::head slightly lowered::,\n1.6::vertical portrait composition::,\n\n2.0::sealed condom packet held between teeth::,\n2.0::small square silver foil condom wrapper in mouth::,\n2.0::biting the edge of a condom packet::,\n1.9::metallic foil packet dangling from lips::,\n1.9::unopened condom wrapper clearly visible::,\n1.8::silver square packet hanging downward from mouth::,\n1.8::hands away from mouth::,\n\n1.8::small sweat droplets on upper body::,\n1.7::subtle perspiration::,\n1.7::slightly damp skin surface::,\n\n2.0::bright indoor bedroom background::,\n1.9::pale cream-colored walls::,\n1.9::white ceiling with decorative molding::,\n1.8::large window behind subject::,\n1.8::soft white curtains beside the window::,\n1.8::daylight filtering through curtains::,\n1.7::light beige interior::,\n1.7::soft warm natural lighting::,\n1.6::gentle sunlight reflections::,\n1.6::subtle cinematic shadows::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjyhti9.jpg?v=1792698688535",
+   "pos": "50.0% 20.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792698659224
+ "updatedAt": 1792698689376
 };

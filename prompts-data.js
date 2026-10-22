@@ -14318,7 +14318,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwrvc9",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized white open trench coat, leather neck harness, black strapless tube top, black wide corset belt, black pencil miniskirt, leg harness with garter, black pantyhose, black pointed thigh boots, monochrome techwear"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695760868
+ "updatedAt": 1792695769064
 };

@@ -14556,7 +14556,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxgyel",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized black leather jacket with fluffy beige-brown faux fur trim along the collar and front, sliding off one shoulder with a long belt strap hanging at the waist, white off-shoulder cropped top with a large cross pattern made of dense silver studs on the chest and asymmetric neckline, black leather low-rise micro shorts with small studs and eyelet details along the edges, wide black leather belt with a large square silver buckle, black leather mid-calf boots with criss-cross buckle straps and eyelet details, slouchy folded-over shaft and pointed toe, silver star drop earrings, sunglasses resting on top of the head, thin ring, punk rock Y2K street style with black and white contrast and fur accent"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696930020
+ "updatedAt": 1792696938960
 };

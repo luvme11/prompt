@@ -15393,8 +15393,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::peeking through a narrow gap between bookshelves::,\n1.9::face partially visible between rows of books::,\n1.9::one hand resting against the bookshelf::,\n1.8::upper body hidden behind books::,\n1.8::head tilted slightly sideways::,\n1.8::looking toward viewer through the gap::,\n1.9::close-up framed through books::,\n\n2.0::2004 university library interior::,\n1.9::tall wooden bookshelves::,\n1.8::rows of old academic textbooks::,\n1.8::paper book labels::,\n1.7::warm fluorescent library lighting::,\n1.7::quiet nostalgic campus atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk5x6yi.jpg?v=1792711238349",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -15412,5 +15412,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792711228570
+ "updatedAt": 1792711239200
 };

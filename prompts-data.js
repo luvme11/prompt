@@ -14609,8 +14609,8 @@ window.PROMPT_DATA = {
      "text": "A fitted white ultra-mini camisole dress with thin black spaghetti straps, a black lace-trimmed V-shaped sweetheart neckline, delicate black lace detailing along the bust, a body-hugging silhouette, and a slightly flared mini-length hem with black lace trim. Black cursive \"Urban Style\" lettering across the upper chest and a large bold black \"74\" graphic printed vertically across the front, outlined in white and gray. Thin black piping along the sides of the dress. Multiple layered silver metal chain belts draped loosely around the low waist and hips, featuring a large circular metal ring on one side, delicate interlocking chains, and asymmetrical dangling chain details. Black thigh-high leg warmers with intricate floral lace cuffs, sheer black mesh panels around the upper thighs, crisscrossing black ribbon lace-up details, and long fitted fabric extending down the legs, gradually widening into dramatic flared, slouchy bell-bottom shapes with gathered folds around the ankles. Chunky black platform shoes with rounded toes, thick elevated soles, and a smooth black leather finish."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxoyyu.jpg?v=1792697584866",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697570863
+ "updatedAt": 1792697585716
 };

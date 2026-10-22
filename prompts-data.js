@@ -15004,7 +15004,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk103pf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, medium shot, upper body visible, reclining in a bathtub, body submerged in bathwater, seated and leaning back comfortably inside the tub, one arm resting along the rim of the bathtub, the other arm relaxed near the body, shoulders and upper chest above the water, head turned slightly toward the camera, relaxed bathing pose, calm intimate bathroom composition, water droplets on the body, wet skin, bathwater surface visible, overflowing water running over the bathtub edge,\n\npost-apocalyptic ruined bathroom background, abandoned bathroom, damaged tiled walls, teal bathroom tiles, old bathtub, worn metal faucet, broken or aged shower fixtures, torn dark curtain beside a large window, cracked window glass, ruined city skyline visible outside the window, abandoned urban atmosphere, decayed interior, peeling surfaces, damp room, water-stained walls, neglected bathroom, subtle debris, apocalyptic hotel bathroom mood, soft daylight entering through the window, cinematic lighting"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792702773476
+ "updatedAt": 1792702871184
 };

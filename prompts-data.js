@@ -13153,10 +13153,10 @@ window.PROMPT_DATA = {
      "text": "[adult woman] lying flat on the floor, dramatic low-angle composition, a third person's boot pressing firmly against her shoulder, pinning her down, her hair being pulled tightly upward by the third person, creating visible tension in the fabric,\n\n[the woman's] head turned slightly to the side after being struck across the cheek, disheveled hair, scowl, a small split at the corner of his mouth with a subtle trace of blood, slightly swollen cheek, rumpled formal suit, loosened collar, dramatic sense of confrontation,\n\nred background, only the third person's lower body and arm partially visible in the frame, emphasizing the power imbalance and threatening atmosphere without showing the full face, strong perspective from near floor level, cinematic framing, harsh directional lighting, deep shadows, gritty realistic atmosphere, detailed clothing folds, realistic skin texture, dynamic composition, dramatic action scene, no text, no speech bubbles"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjihuk4.jpg?v=1792671892069",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792671809120
+ "updatedAt": 1792671892871
 };

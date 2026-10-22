@@ -14721,8 +14721,8 @@ window.PROMPT_DATA = {
      "text": "White off-shoulder blouse with puffed long sleeves, ruffled neckline and sweetheart bust, burgundy red lace-up leather waist corset, white ultra-short denim shorts, layered burgundy leather hip belts with silver buckles, burgundy leather newsboy cap, silver heart pendant necklace, burgundy faux-fur knee-high leg warmers with black buckle straps, chunky black platform boots."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxqfq9.jpg?v=1792697701605",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697692910
+ "updatedAt": 1792697702765
 };

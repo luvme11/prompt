@@ -13405,10 +13405,10 @@ window.PROMPT_DATA = {
      "text": "jiangshi, chinese vampire costume, \nqing dynasty official hat, traditional jiangshi hat, \nyellow talisman attached to the hat, \ntalisman hanging over the forehead, \ndark traditional chinese robe, frog closures, \nchinese knot details, stiff upright posture, \nboth arms raised forward like a jiangshi, \nelbows slightly bent, rigid fingers, \neyes looking at viewer, eerie stillness, ornate chinese frame, dark shrine roof silhouette, twisted tree branches, floating talisman papers, \nblue spirit flames, red seal marks, black butterflies, \nold paper texture, decorative composition, \nscreentone texture, elegant halloween illustration, \nfilled background, detailed halloween asset,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjng6to.jpg?v=1792680343140",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792680296933
+ "updatedAt": 1792680343979
 };

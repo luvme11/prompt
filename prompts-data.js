@@ -13702,7 +13702,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjt4ma0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.8::solo::,\n1.9::cowboy shot::,\n1.8::framing from head to upper thighs::,\n1.8::front three-quarter view::,\n1.7::slightly high camera angle::,\n1.7::centered composition::,\n1.7::looking directly at viewer::,\n\n2.0::standing casually while leaning against stacked televisions::,\n1.9::upper body leaning slightly forward::,\n1.9::torso tilted diagonally to one side::,\n1.8::weight shifted onto one leg::,\n1.8::asymmetrical standing posture::,\n1.7::relaxed confident body language::,\n\n2.0::one hand resting on top of the head::,\n1.9::fingers spread across the crown of the head::,\n1.9::one arm raised with elbow bent outward::,\n1.8::raised elbow pointing toward the upper left corner::,\n1.8::forearm positioned diagonally above the head::,\n\n2.0::other hand tucked into pants pocket::,\n1.9::other elbow bent outward near the hip::,\n1.8::one shoulder slightly raised::,\n1.7::hips tilted slightly to one side::,\n\n1.8::head slightly lowered::,\n1.8::eyes looking upward toward the viewer::,\n1.7::subtle confident smirk::,\n1.6::relaxed facial expression::,\n\n2.0::wall of stacked vintage CRT televisions::,\n2.0::multiple old-fashioned box televisions::,\n1.9::retro cathode-ray tube TV monitors::,\n1.9::televisions stacked vertically on both sides::,\n1.8::large television screens surrounding the subject::,\n1.8::glowing yellow-green television screens::,\n1.8::flickering green static on CRT monitors::,\n1.7::distorted analog video signals::,\n1.7::grainy television screen texture::,\n1.7::old rectangular television frames::,\n1.6::visible television buttons and dials::,\n1.6::slightly dusty and worn television sets::,\n\n1.8::aged beige wall behind the televisions::,\n1.7::cracked plaster wall::,\n1.7::peeling wallpaper::,\n1.6::faint stains and scratches on the wall::,\n\n1.8::warm directional lighting::,\n1.7::greenish glow from television screens::,\n1.7::dramatic cast shadows on the wall::,\n1.6::strong contrast::,\n1.6::cinematic atmosphere::,\n1.5::vertical portrait composition::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792689538681
+ "updatedAt": 1792689644945
 };

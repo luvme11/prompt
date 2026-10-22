@@ -15225,8 +15225,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::kneeling on one knee::,\n1.9::one knee planted on ground::,\n1.9::other knee raised forward::,\n1.9::one palm pressed against concrete ground::,\n1.8::other forearm resting on raised knee::,\n1.8::upper body leaning forward::,\n1.8::head slightly lowered::,\n1.8::looking toward the horizon::,\n1.9::dramatic low-angle perspective::,\n1.8::dynamic diagonal composition::,\n1.8::medium full shot::,\n\n2.0::post-apocalyptic rooftop helipad::,\n1.9::abandoned helicopter landing platform::,\n1.9::faded helipad markings::,\n1.8::cracked concrete surface::,\n1.8::destroyed rooftop communication antennas::,\n1.8::broken metal railings::,\n1.7::distant collapsed city skyscrapers::,\n1.7::dark storm clouds gathering above::,\n1.7::strong wind sweeping across rooftop::,\n1.7::cinematic dramatic lighting::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk2r9tr.jpg?v=1792706003044",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -15244,5 +15244,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792705989320
+ "updatedAt": 1792706003695
 };

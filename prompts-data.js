@@ -13758,7 +13758,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjudmy9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo, full body, crouching pose, squatting in front of an open refrigerator,\nside-facing three-quarter view,\nbody turned slightly sideways,\nhead turned toward the open fridge,\none knee raised higher, one leg folded close to the body,\nbalanced in a low squat,\none hand holding a plastic food tray near the floor,\nother hand resting naturally near the knee or supporting the squat,\n\njuice box held in the mouth,\ndrink carton hanging from the lips,\nstraw in mouth,\ncasual late-night snacking pose,\n\nopen refrigerator background,\nbright refrigerator light illuminating the subject,\ncool blue-white fridge light,\ndark room surrounding the fridge,\nnighttime indoor atmosphere,\nrefrigerator shelves visible,\nbottles and containers inside the fridge,\nrefrigerator door open wide,\nsoft glow spilling onto the floor,\nmoody cinematic lighting,\nstrong contrast between the bright fridge interior and the dark room,\nintimate quiet midnight kitchen atmosphere,\ndramatic shadows,\nvertical composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792691681561
+ "updatedAt": 1792691745311
 };

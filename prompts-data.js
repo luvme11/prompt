@@ -15116,7 +15116,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk22p64.jpg?v=1792704673423",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvk28n5k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::leaning against a concrete pillar::,\n1.9::one shoulder pressed against pillar::,\n1.8::head slightly lowered::,\n1.8::one hand resting against the pillar::,\n1.7::other arm hanging naturally::,\n1.9::camera positioned near water level::,\n1.8::slightly low angle::,\n1.8::three-quarter side view::,\n1.7::cowboy shot::,\n\n2.0::post-apocalyptic flooded subway station::,\n1.9::abandoned underground train platform::,\n1.9::dark water covering the station floor::,\n1.8::partially submerged subway train::,\n1.8::broken fluorescent ceiling lights::,\n1.8::cracked concrete pillars::,\n1.7::water reflections across walls::,\n1.7::flickering emergency lights::,\n1.6::distant dark railway tunnel::,\n1.6::cold blue-green lighting::"
+    }
+   ],
+   "img": "img/comp/mvk28n5k.jpg?v=1792704950874",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792704781312
+ "updatedAt": 1792704951431
 };

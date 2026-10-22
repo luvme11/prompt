@@ -13520,7 +13520,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjrkyrb.jpg?v=1792687266978",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvjryph7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.5::solo::,\n1.8::cowboy shot::,\n1.7::front view::,\n1.6::facing viewer::,\n1.5::eye-level view::,\n1.6::relaxed standing pose::,\n1.5::slightly leaning body::,\n1.5::subtle hip tilt::,\n1.6::asymmetrical posture::,\n\n2.0::one arm raised with hand resting behind head::,\n1.9::hand touching the back of the head::,\n1.8::elbow bent and pointing outward::,\n1.7::raised elbow beside head::,\n1.6::forearm positioned beside the face::,\n\n2.0::other hand tucked into pants pocket::,\n1.8::one arm hanging naturally downward::,\n1.7::elbow slightly bent::,\n1.6::relaxed shoulder position::,\n\n1.5::head slightly tilted::,\n1.5::relaxed neck and shoulders::,\n1.5::casual confident body language::,\n1.5::natural weight shift onto one leg::,\n\n1.6::framing from head to upper thighs::,\n1.5::centered composition::,\n1.5::simple white background::"
+    }
+   ],
+   "img": "img/comp/mvjryph7.jpg?v=1792687692341",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792687268458
+ "updatedAt": 1792687693182
 };

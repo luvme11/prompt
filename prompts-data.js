@@ -13828,7 +13828,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjumwxj.jpg?v=1792692289419",
    "pos": "50.0% 48.0%",
    "soon": false
+  },
+  {
+   "id": "mvjuuoc6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 characters, 1male, 1female,\n2.0::intimate two-person composition::,\n1.9::medium shot::,\n1.8::three-quarter side view::,\n1.8::slightly high camera angle::,\n1.7::diagonal composition::,\n1.7::vertical portrait composition::,\n\n2.0::man positioned on the left side::,\n2.0::woman positioned on the right side::,\n2.0::man leaning forward toward the woman::,\n1.9::man's upper body bending toward her::,\n1.9::man's face very close to woman's face::,\n1.8::man lowering his head toward her::,\n1.8::man looking directly into woman's eyes::,\n1.7::man's shoulders angled forward::,\n1.7::man's body leaning diagonally across the frame::,\n\n2.0::woman leaning backward against a wall::,\n1.9::woman's back pressed against the wall::,\n1.9::woman tilting her upper body backward::,\n1.8::woman looking up toward the man::,\n1.8::woman's head slightly tilted::,\n1.7::woman's body positioned diagonally::,\n\n2.0::woman reaching one arm around man's neck::,\n2.0::woman's hand gripping the back of man's neck::,\n1.9::woman's fingers resting against man's nape::,\n1.9::female hand positioned behind man's ear::,\n1.8::woman gently pulling man closer by the neck::,\n1.8::woman's elbow bent between their bodies::,\n1.7::other arm relaxed beside her body::,\n\n1.9::faces inches apart::,\n1.8::close face-to-face positioning::,\n1.8::intense eye contact::,\n1.7::romantic tension::,\n1.7::asymmetrical body positioning::,\n1.7::natural overlapping silhouettes::,\n\n2.0::post-apocalyptic abandoned alleyway::,\n2.0::narrow ruined urban alley::,\n1.9::destroyed buildings on both sides::,\n1.9::cracked concrete walls::,\n1.8::woman leaning against a damaged alley wall::,\n1.8::crumbling brick walls::,\n1.8::broken windows::,\n1.7::peeling paint and exposed concrete::,\n1.7::scattered rubble and debris::,\n1.7::abandoned urban ruins::,\n1.6::rusted metal pipes::,\n1.6::overgrown vines climbing damaged walls::,\n1.6::dust floating through the alley::,\n1.6::deserted post-apocalyptic atmosphere::,\n\n1.8::strong sunlight entering from above::,\n1.8::diagonal beams of sunlight::,\n1.7::dramatic shadows cast onto the wall::,\n1.7::warm natural daylight::,\n1.6::cinematic lighting::,\n1.6::high contrast shadows::,\n1.5::atmospheric depth::"
+    }
+   ],
+   "img": "img/comp/mvjuuoc6.jpg?v=1792692542171",
+   "pos": "50.0% 54.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792692435271
+ "updatedAt": 1792692543021
 };

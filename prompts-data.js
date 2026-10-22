@@ -14766,7 +14766,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjy60yv.jpg?v=1792698228613",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvjyg9gc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo,\n2.0::side profile::,\n1.9::upper body close-up::,\n1.9::head lowered::,\n1.8::looking downward::,\n1.8::leaning slightly forward::,\n1.7::body angled diagonally::,\n1.7::relaxed shoulders::,\n1.6::left-facing side view::,\n1.6::vertical portrait composition::,\n\n1.9::oversized white short-sleeved t-shirt::,\n1.8::loose white crew-neck shirt::,\n1.7::lightweight cotton fabric::,\n1.7::natural fabric folds::,\n1.6::relaxed neckline::,\n\n1.8::wired earphones in ears::,\n1.7::earphone cords hanging down::,\n\n2.0::post-apocalyptic rooftop background::,\n1.9::abandoned rooftop::,\n1.9::damaged rooftop railing::,\n1.8::distant destroyed city skyline::,\n1.8::collapsed buildings in the distance::,\n1.7::ruined skyscrapers::,\n1.7::cracked concrete rooftop::,\n1.6::scattered rubble and debris::,\n1.6::distant urban ruins slightly blurred::,\n\n1.8::bright blue sky::,\n1.7::natural daylight::,\n1.7::soft sunlight::,\n1.6::gentle breeze::,\n1.6::cinematic lighting::"
+    }
+   ],
+   "img": "img/comp/mvjyg9gc.jpg?v=1792698588006",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792698229579
+ "updatedAt": 1792698589414
 };

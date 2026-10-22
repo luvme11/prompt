@@ -14707,8 +14707,8 @@ window.PROMPT_DATA = {
      "text": "White short-sleeve collared shirt, glossy burgundy red strapless leather corset with fitted waist and flared hem, black pleated denim ultra-mini skirt, burgundy red large-hole fishnet tights, black beret with silver metal eyelets, black knee-high leather biker boots with multiple silver buckle straps and chunky soles."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxqbw7.jpg?v=1792697692274",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697680860
+ "updatedAt": 1792697692910
 };

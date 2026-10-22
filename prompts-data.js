@@ -14892,7 +14892,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjzvc7a",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "A woman is on all fours on a bed, upper body lowered with her face turned to the side and flushed red.\n\nA man kneels behind her on the bed, gripping her hips with both hands while thrusting into her from behind. His face is also flushed red. Thick white fluid is visible at the point of penetration and dripping onto the sheets.Camera is positioned at a side angle, slightly elevated.Background is a bright bedroom: large window with green curtains letting in natural light, patterned wallpaper, a framed painting on the wall, and rumpled white bed sheets,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792700715554
+ "updatedAt": 1792700969409
 };

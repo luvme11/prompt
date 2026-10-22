@@ -13422,7 +13422,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjnnkig",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1male, mafia, gangster, black suit, black shirt, confident expression, 1.2::looking at viewer::, holding a submachine gun , submachine gun resting on his shoulder , shallow depth of field, slightly from below, solid burgundy background, dramatic studio lighting, high-contrast lighting, hard directional light, bright highlights, deep shadows, cinematic composition, Japanese fashion magazine photography"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792680445303
+ "updatedAt": 1792680451364
 };

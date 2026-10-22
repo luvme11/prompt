@@ -13072,7 +13072,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvinub0q.jpg?v=1792621344828",
    "pos": "50.0% 38.0%",
    "soon": false
+  },
+  {
+   "id": "mvjhm3c3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, adult male,\n\n3::black tailored suit::,\nblack dress shirt,\nloosened black necktie,\ntop buttons undone,\nslightly disheveled clothing,\n\n4::slouching deeply in a dark leather armchair::,\n3::body sprawled carelessly across the chair::,\n3::legs spread apart::,\n3::head resting against the backrest::,\none arm hanging loosely over the armrest,\n3::holding a lit cigarette near lips::,\nthin smoke curling upward,\ntired, indifferent expression,\n\n4::side three-quarter view::,\n3::camera positioned 60 degrees to the side::,\n3::face partially visible in profile::,\n3::medium full shot::,\n2::slightly low camera angle::,\ndiagonal composition,\nchair visible from the side,\n\n4::dark minimalist interior::,\ndeep charcoal background,\n3::single dim overhead spotlight::,\nsubtle amber rim lighting,\n3::cigarette smoke drifting across his profile::,\ndeep cinematic shadows,\nlow-key lighting,\n\n3::dark noir atmosphere::,\ndecadent elegance,\nquiet exhaustion,\ncinematic film still"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792621345486
+ "updatedAt": 1792670304635
 };

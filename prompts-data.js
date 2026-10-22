@@ -13688,7 +13688,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjss5w3.jpg?v=1792689346081",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvjt2cbc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.8::solo::,\n2.0::selfie composition::,\n2.0::high-angle selfie::,\n1.9::selfie taken from above::,\n1.9::camera held above head level::,\n1.8::camera angled diagonally downward::,\n1.8::close-up upper body::,\n1.8::diagonal composition::,\n1.7::dynamic perspective::,\n\n2.0::one arm extended toward the camera::,\n1.9::one arm reaching diagonally toward the upper foreground::,\n1.8::outstretched arm partially visible along the right edge of the frame::,\n1.8::hand holding the camera outside the frame::,\n1.7::other arm relaxed beside the body::,\n\n1.9::body positioned at a three-quarter angle::,\n1.9::upper body leaning slightly toward the camera::,\n1.8::shoulders angled diagonally::,\n1.8::head tilted downward::,\n1.8::chin slightly lowered::,\n1.9::eyes looking upward toward the camera::,\n1.7::face turned slightly sideways::,\n1.7::subtle relaxed smile::,\n1.7::asymmetrical posture::,\n\n1.8::strong perspective depth::,\n1.7::head appearing larger due to camera proximity::,\n1.7::torso receding diagonally toward the bottom of the frame::,\n1.7::vertical portrait composition::,\n\n2.0::post-apocalyptic ruined city background::,\n1.9::destroyed urban cityscape::,\n1.9::abandoned city streets::,\n1.8::collapsed skyscrapers::,\n1.8::heavily damaged concrete buildings::,\n1.7::shattered windows::,\n1.7::crumbling building facades::,\n1.7::rubble and debris scattered across the streets::,\n1.6::abandoned damaged vehicles::,\n1.6::overgrown vegetation among the ruins::,\n1.6::dusty desolate atmosphere::,\n1.7::ruined city visible below and behind the subject::,\n\n1.7::natural daylight::,\n1.6::dramatic directional lighting::,\n1.6::cinematic shadows::,\n1.5::muted desaturated atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792689346897
+ "updatedAt": 1792689538681
 };

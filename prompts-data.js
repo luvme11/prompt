@@ -14245,8 +14245,8 @@ window.PROMPT_DATA = {
      "text": "white puffy-sleeve frilled blouse, blue denim lace-up suspender dress, heart buckle, tiered ruffled miniskirt, frayed star patches, distressed denim leg warmers with belt straps, black heart choker, white platform sneakers, denim bag, y2k jirai kei"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwqt38.jpg?v=1792696064439",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -14348,5 +14348,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695775163
+ "updatedAt": 1792696065727
 };

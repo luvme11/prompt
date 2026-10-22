@@ -13170,7 +13170,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjin860",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, solo, highly detailed anime illustration, 1.5::immersive full scenery::, 1.4::environment fills the entire frame::, 1.3::edge-to-edge composition::, immortal realm pavilion above the clouds, 1.4::one large main character waist-up::, 1.3::eye level::, sitting in a pavilion, pouring tea, calm faint smile, looking at viewer, flowing white hanfu, jade hairpin, long sleeves, sea of clouds, distant mountain peaks, cranes flying, peach blossom trees, floating stone steps, waterfalls falling into clouds, incense burner, guqin on table, jade green and cloud white color scheme, peach pink accents, soft ethereal daylight, elegant ink linework, soft watercolor shading, 1.2::dense decorative layout::, 1.3::rich environmental details::, 1.2::layered foreground objects::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792671993257
+ "updatedAt": 1792672037476
 };

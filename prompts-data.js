@@ -13786,7 +13786,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjuevbv.jpg?v=1792691985681",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvjujiba",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.8::solo focus::,\n1.9::full body shot::,\n1.8::front three-quarter view::,\n1.7::eye-level camera angle::,\n1.7::vertical composition::,\n1.7::centered composition::,\n\n2.0::walking slowly toward the viewer::,\n1.9::head lowered::,\n1.9::looking downward at the ground::,\n1.8::chin tucked slightly toward the chest::,\n1.8::shoulders slightly slumped::,\n1.8::one leg stepping forward::,\n1.7::slow walking motion::,\n1.7::melancholic body language::,\n\n2.0::one hand holding a bouquet of deep red roses::,\n1.9::bouquet hanging downward beside the thigh::,\n1.9::arm extended naturally downward::,\n1.8::loosely gripping the flower stems::,\n1.8::red roses wrapped in translucent white paper::,\n1.7::flower bouquet tilted toward the ground::,\n1.7::loose rose petals falling onto the wet pavement::,\n\n2.0::other hand tucked into pants pocket::,\n1.8::relaxed asymmetrical arm positioning::,\n\n1.9::long black overcoat::,\n1.9::black tailored coat::,\n1.8::open front coat::,\n1.8::black inner shirt::,\n1.8::black fitted trousers::,\n1.7::black leather belt with silver buckle::,\n1.7::black leather shoes::,\n1.6::silver pendant necklace::,\n1.6::subtle silver chain accessories::,\n1.7::coat hem hanging loosely::,\n1.7::slightly wet clothing fabric::,\n\n2.0::rainy city street background::,\n2.0::multiple pedestrians walking behind the main subject::,\n2.0::crowd of people carrying black umbrellas::,\n1.9::several people holding open black umbrellas::,\n1.9::background pedestrians facing away from the camera::,\n1.8::people walking in different directions::,\n1.8::crowded rainy sidewalk::,\n1.8::background figures partially obscured by umbrellas::,\n1.7::silhouettes of pedestrians fading into the distance::,\n1.7::main subject clearly separated from the crowd::,\n1.7::main subject walking without an umbrella::,\n\n1.9::heavy overcast sky::,\n1.8::steady rainfall::,\n1.8::wet reflective pavement::,\n1.7::rain puddles on the ground::,\n1.7::reflections of umbrellas on wet pavement::,\n1.7::scattered red rose petals on the ground::,\n1.6::distant buildings obscured by rain and mist::,\n1.6::gloomy urban atmosphere::,\n\n1.9::monochromatic black and gray color palette::,\n1.9::vivid deep red roses as the main color accent::,\n1.8::desaturated background::,\n1.7::soft diffused overcast lighting::,\n1.7::cinematic rainy atmosphere::,\n1.6::dramatic contrast::,\n1.6::atmospheric depth::,\n1.5::emotional melancholic mood::"
+    }
+   ],
+   "img": "img/comp/mvjujiba.jpg?v=1792692022224",
+   "pos": "50.0% 12.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792691986955
+ "updatedAt": 1792692022893
 };

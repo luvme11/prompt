@@ -13968,7 +13968,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjvmwjs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male and 1female,\n2.0::intimate embrace::,\n2.0::man holding woman in his arms::,\n1.9::affectionate seated cuddle pose::,\n1.9::full body shot::,\n1.8::front three-quarter view::,\n1.8::vertical composition::,\n1.7::centered composition::,\n\n2.0::man positioned lower in the composition::,\n2.0::man seen mostly from the back::,\n2.0::male face not visible::,\n1.9::back view of the man's head and upper body::,\n1.9::man's back facing the viewer::,\n1.8::man kneeling or crouching on one knee::,\n1.8::man leaning forward slightly while embracing the woman::,\n\n2.0::woman seated in the man's arms::,\n1.9::woman elevated above the man's lap::,\n1.9::woman facing slightly toward the viewer::,\n1.8::woman leaning comfortably into the embrace::,\n1.8::relaxed affectionate posture::,\n\n2.0::woman wrapping both arms around the man's neck and shoulders::,\n1.9::one arm draped around the back of his neck::,\n1.9::other hand resting gently on top of his head::,\n1.8::gentle head-patting gesture::,\n1.8::woman's forearms visible around his upper body::,\n\n2.0::man's arms wrapped around the woman's waist and thighs::,\n1.9::one arm supporting her lower back or waist::,\n1.9::other arm supporting beneath her thighs::,\n1.8::secure lifting embrace::,\n\n2.0::woman's legs draped down across the man's lap::,\n1.9::one leg bent and resting across his body::,\n1.9::other leg extending downward::,\n1.8::one foot clearly visible in the foreground::,\n1.8::natural relaxed leg placement::,\n1.8::ankles loosely crossed or overlapping::,\n\n1.8::gentle loving atmosphere::,\n1.7::soft body language::,\n1.7::quiet comforting intimacy::,\n\n2.0::pure white background::,\n2.0::solid white backdrop::,\n1.9::clean blank white background::,\n1.8::minimalist composition::,\n1.7::soft diffused lighting::,\n1.6::subtle soft shadows::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792693753367
+ "updatedAt": 1792693857411
 };

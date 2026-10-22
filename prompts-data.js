@@ -14612,7 +14612,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxp6yo",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "A fitted ivory-white satin camisole top with a glossy silky finish, delicate white floral lace shoulder straps connected to small silver metal rings, a deep V-shaped sweetheart neckline decorated with exposed silver zipper detailing along both sides, meeting at the center of the bust with a small silver zipper pull and a dangling gothic silver cross charm. A structured, body-hugging corset-inspired silhouette with subtle ruching along the sides, gathered fabric around the waist, and a slightly flared lower hem.\n\nA black ultra-mini low-rise pleated skirt with multiple asymmetrical layered ruffles, contrasting white stitching, distressed raw-cut frayed edges, and a wide black fabric belt with silver metal eyelets, a large rectangular silver buckle, and long hanging belt details. The skirt features a flared, voluminous silhouette with uneven layered pleats and a distressed gothic punk aesthetic.\n\nMultiple layered silver gothic necklaces featuring delicate chains, pearl beads, miniature crosses, dangling silver charms, safety pin details, a large silver angel wings pendant, and an ornate hanging gothic cross pendant. A small black leather shoulder bag with a wide black studded strap, silver metal rivets, oversized O-ring hardware, decorative silver chains, and a textured black crocodile-patterned finish.\n\nBlack chunky platform Mary Jane shoes with rounded toes, thick elevated soles, silver metal buckle straps, and a glossy black leather finish, paired with black sheer lace-trimmed knee-high socks featuring delicate floral lace patterns and subtle ruffled edges."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792697312928
+ "updatedAt": 1792697323752
 };

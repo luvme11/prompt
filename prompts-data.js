@@ -13167,7 +13167,7 @@ window.PROMPT_DATA = {
      "text": "{changpao}, chinese clothes, mandarin collar, frog buttons, long robe, layered clothes, open collar, jewelry, rings,\n{{kiseru}}, smoking pipe, holding pipe, smoke, exhaling smoke, parted lips,\n{{from below}}, looking at viewer, eye contact, looking down, smug, cowboy shot,\n{{kowloon walled city}}, cramped alleyway, dense signage, chinese neon signs, tangled wires, hanging laundry, dripping pipes, wet floor, air conditioner units, cluttered background,\n{{green and red lighting}}, neon lights, colored lighting, rim light, backlighting, high contrast, cinematic lighting, night, humid atmosphere,\nsemi-realistic, painterly, korean webtoon style, detailed background,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjima6u.jpg?v=1792672200252",
    "pos": "50% 50%",
    "soon": false
   },
@@ -13200,5 +13200,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792672129351
+ "updatedAt": 1792672201718
 };

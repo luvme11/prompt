@@ -15368,7 +15368,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk31qly.jpg?v=1792706561396",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvk5wxpe",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::sitting at a university classroom desk::,\n2.0::resting head sideways on folded arms::,\n1.9::cheek pressed against forearms::,\n1.9::looking directly toward viewer::,\n1.8::face positioned close to desk surface::,\n1.8::sleepy relaxed expression::,\n1.9::camera positioned at desk level::,\n1.8::intimate close-up perspective::,\n\n2.0::2004 South Korean university classroom::,\n1.9::wooden lecture desks::,\n1.8::open textbooks and handwritten notebooks::,\n1.8::chalkboard in background::,\n1.7::sunlight through classroom windows::,\n1.7::nostalgic early 2000s atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792706562069
+ "updatedAt": 1792711121582
 };

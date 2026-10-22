@@ -13940,7 +13940,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjvby3u.jpg?v=1792693553503",
    "pos": "33.7% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvjvitn7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::piggyback ride::,\n2.0::man carrying woman on his back::,\n1.9::playful affectionate couple pose::,\n1.9::front three-quarter view::,\n1.8::slightly high camera angle::,\n1.8::medium full shot::,\n1.8::vertical composition::,\n1.7::centered composition::,\n\n2.0::man positioned in front::,\n2.0::woman riding on man's back::,\n1.9::woman positioned directly behind and above man::,\n1.9::both characters facing generally toward the viewer::,\n1.8::overlapping body silhouettes::,\n\n2.0::man leaning forward slightly while carrying woman::,\n1.9::man's upper body bent forward::,\n1.8::man's knees slightly bent::,\n1.8::man supporting woman's weight on his back::,\n1.7::man's head slightly lowered::,\n1.7::man looking forward with a gentle smile::,\n\n2.0::woman leaning forward over man's shoulders::,\n2.0::woman's chest resting against man's upper back::,\n1.9::woman's head positioned directly above man's head::,\n1.9::woman smiling happily with eyes closed::,\n1.8::woman's upper body leaning closely against man::,\n\n2.0::woman wrapping one arm around man's shoulders::,\n1.9::woman's forearm resting across man's upper chest::,\n1.8::woman hugging man from behind::,\n1.8::woman's elbow bent around his shoulder::,\n\n2.0::woman placing her other hand on top of man's head::,\n2.0::woman gently patting man's head::,\n1.9::woman's fingers spread across the crown of his head::,\n1.8::affectionate head-patting gesture::,\n\n2.0::woman's legs bent around man's sides::,\n1.9::woman's thighs resting against man's hips::,\n1.9::woman's lower legs hanging downward in front::,\n1.8::both of woman's legs clearly visible::,\n1.8::natural piggyback leg positioning::,\n\n2.0::pure white background::,\n2.0::solid white backdrop::,\n1.9::completely blank white background::,\n1.8::minimalist composition::,\n1.7::soft diffused lighting::,\n1.6::gentle shadows::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792693554342
+ "updatedAt": 1792693666879
 };

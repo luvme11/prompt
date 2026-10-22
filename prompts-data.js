@@ -15109,7 +15109,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "의상 X",
      "text": "solo,\n2.0::sitting on top of an abandoned car::,\n1.9::one knee raised toward chest::,\n1.8::other leg hanging over the edge::,\n1.8::one arm resting casually on raised knee::,\n1.7::other hand supporting body behind::,\n1.8::looking toward distant city ruins::,\n1.9::side three-quarter view::,\n1.9::dramatic low angle::,\n1.8::medium full shot::,\n\n2.0::post-apocalyptic destroyed highway::,\n1.9::abandoned cars scattered across broken asphalt::,\n1.8::collapsed elevated highway sections::,\n1.8::rusted vehicles::,\n1.7::overgrown weeds breaking through road::,\n1.7::ruined skyscrapers in distance::,\n1.7::orange sunset filtering through dust::,\n1.6::cinematic atmospheric perspective::"
     }
    ],
@@ -15118,5 +15118,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792704674689
+ "updatedAt": 1792704781312
 };

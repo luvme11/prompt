@@ -14385,8 +14385,8 @@ window.PROMPT_DATA = {
      "text": "red racing jacket, oversized jacket, varsity jacket, black and white trim, star print, checkered pattern, embroidered patch, letter patch, white shirt, collared shirt, red striped necktie, black pleated skirt, star print skirt, helmet, racing helmet, goggles on head, grey socks, black combat boots, lace-up boots, platform boots, racer outfit, streetwear"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjx1so5.jpg?v=1792696533612",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -14418,5 +14418,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792696523572
+ "updatedAt": 1792696534130
 };

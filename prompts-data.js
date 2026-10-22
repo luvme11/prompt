@@ -15466,7 +15466,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk6hm2e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::standing inside a public telephone booth::,\n2.0::holding a telephone receiver against ear::,\n1.9::one hand holding the receiver::,\n1.8::other hand resting against telephone booth frame::,\n1.9::body facing telephone while head turns toward viewer::,\n1.8::over-the-shoulder glance::,\n1.9::three-quarter back view::,\n1.8::medium shot::,\n\n2.0::2004 South Korean university street::,\n1.9::old coin-operated public telephone booth::,\n1.8::retro street signs::,\n1.8::campus entrance nearby::,\n1.7::warm evening streetlights::,\n1.7::nostalgic early 2000s city atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792712066065
+ "updatedAt": 1792712086341
 };

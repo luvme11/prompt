@@ -13895,8 +13895,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::romantic couple composition::,\n1.9::medium close-up::,\n1.9::upper body to thighs::,\n1.8::front three-quarter view::,\n1.8::eye-level camera angle::,\n1.8::intimate seated pose::,\n1.7::vertical portrait composition::,\n\n2.0::man positioned on the left::,\n2.0::woman positioned on the right::,\n1.9::both sitting closely together::,\n1.9::shoulders nearly touching::,\n1.8::bodies angled toward each other::,\n\n2.0::man gently feeding woman a piece of strawberry cake::,\n2.0::man holding a small bite of cake near woman's lips::,\n1.9::man's hand raised between their faces::,\n1.9::fingers delicately holding a small piece of cream cake::,\n1.9::strawberry and whipped cream on the cake::,\n1.8::man's upper body leaning toward woman::,\n1.8::man's face close to woman's face::,\n1.8::man looking affectionately at woman::,\n1.7::gentle teasing smile::,\n\n2.0::woman sitting beside man::,\n1.9::woman tilting her head slightly upward::,\n1.9::woman looking up at man's face::,\n1.9::woman's lips slightly parted::,\n1.9::woman about to take a bite of cake::,\n1.8::woman holding a small dessert plate with both hands::,\n1.9::plate resting above woman's lap::,\n1.9::slice of strawberry shortcake on the plate::,\n1.8::white whipped cream and fresh strawberries::,\n1.7::delicate romantic interaction::,\n\n2.0::man wearing a black formal suit::,\n1.9::elegant black tailored suit jacket::,\n1.9::black dress shirt::,\n1.8::black necktie::,\n1.8::black fitted waistcoat::,\n1.7::black formal trousers::,\n1.7::monochromatic black formalwear::,\n\n2.0::woman wearing an elegant black wedding dress::,\n1.9::black sleeveless bridal gown::,\n1.9::black sweetheart neckline::,\n1.9::fitted black lace bodice::,\n1.8::delicate black floral embroidery::,\n1.8::black satin fabric::,\n1.8::voluminous black layered skirt::,\n1.7::soft flowing black dress folds::,\n1.7::elegant gothic bridal fashion::,\n\n2.0::pure white background::,\n2.0::solid white backdrop::,\n1.9::clean seamless white background::,\n1.8::minimalist composition::,\n1.8::soft diffused lighting::,\n1.7::gentle shadows::,\n1.7::romantic atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjv2xwx.jpg?v=1792693053455",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -13914,5 +13914,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792692954548
+ "updatedAt": 1792693054888
 };

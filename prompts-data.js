@@ -14595,8 +14595,8 @@ window.PROMPT_DATA = {
      "text": "A red ultra-cropped zip-up track jacket with an ivory high-neck stand collar, a central white zipper, small white logos and lettering on the chest, three ivory stripes running down both sleeves, ivory ribbed cuffs, and a thick ivory elastic hem band. A black low-rise ultra-mini pleated skirt with widely flared pleats, multiple layered black leather belts wrapping around the waist and hips, silver metal eyelets and buckle details. Black sheer floral lace patterned tights covering the entire legs, featuring intricate and delicate floral lace textures. Black open-toe platform stiletto high-heel sandals with thick front platforms, extremely tall thin stiletto heels, black straps, and red outsoles."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxotdf.jpg?v=1792697570228",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697556410
+ "updatedAt": 1792697570863
 };

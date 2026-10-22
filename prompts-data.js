@@ -14794,7 +14794,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjyhti9.jpg?v=1792698688535",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvjyj8at",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male and 1female,\n1.9::post-apocalyptic rooftop background::,\n1.8::ruined rooftop::,\n1.8::destroyed urban skyline::,\n1.7::collapsed buildings in the distance::,\n1.7::abandoned city atmosphere::,\n1.7::cracked concrete rooftop::,\n1.6::weathered rooftop ledge::,\n1.6::apocalyptic ruins::,\n\n2.0::man sitting on the rooftop in front of the viewer::,\n1.9::man seated with legs spread apart::,\n1.8::man leaning slightly forward::,\n1.8::man using both hands to tie a shoelace::,\n1.8::man looking downward toward the shoe::,\n\n2.0::female leg extending toward the man from the foreground::,\n2.0::one visible foot wearing a white sneaker::,\n1.9::white sneaker clearly visible in the center foreground::,\n1.9::man tying the shoelaces of the woman's white sneaker::,\n1.8::shoelaces stretched between the man's fingers::,\n1.8::female foot resting between the man's legs::,\n1.7::POV-like composition from the woman's perspective::,\n1.7::close interaction focused on the shoelace-tying pose::,\n\n1.8::upper body to knees framing for the man::,\n1.7::foreground leg prominently visible::,\n1.7::slight top-down angle::,\n1.7::natural intimate composition::,\n1.6::soft daylight::,\n1.6::subtle atmospheric haze::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792698689376
+ "updatedAt": 1792698724857
 };

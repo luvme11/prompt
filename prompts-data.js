@@ -14987,7 +14987,7 @@ window.PROMPT_DATA = {
      "text": "solo, upper body shot, medium close-up, dynamic forward-leaning pose, character leaning toward the viewer across a table, direct front-facing composition, eye-level view, slightly close perspective, one hand extended forward holding food with chopsticks, chopsticks lifting a piece of food above a plate, food presented toward the viewer, the other hand open and extended below as if offering or presenting the dish, expressive hand gestures, arms reaching toward the foreground, interactive serving pose, lively restaurant scene,\n\nrestaurant interior background, casual dining place, open kitchen atmosphere, indoor food shop, counter area, warm ambient lighting, menu posters or food posters on the wall, shelves and kitchen equipment in the background, glass containers and utensils, busy restaurant setting, table in the foreground, plate of food on the table, multiple dishes visible in the foreground, appetizing meal presentation, cozy eatery atmosphere, warm colors, bright indoor lighting, slight depth of field"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk0xqzq.jpg?v=1792702899272",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15020,5 +15020,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792702871184
+ "updatedAt": 1792702899971
 };

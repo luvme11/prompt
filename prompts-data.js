@@ -14472,7 +14472,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxfwru",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black hooded cloak, red hood, layered cloak, petal-like layers, white dress, long dress, flowing dress, wide sleeves, hime cut, gothic fashion, dark fantasy, black high heels, black ankle boots"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696884669
+ "updatedAt": 1792696890186
 };

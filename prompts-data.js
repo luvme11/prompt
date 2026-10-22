@@ -13338,7 +13338,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjnekrz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "franken doctor costume, open white lab coat, bare chest, 1.2::stethoscope around neck, syringe held upright near his face::, floating medicine vials, blue electric sparks, 2.3::stitched scars on cheek and neck, calm unsettling expression::, right hand holding a large syringe upright beside his cheek, left hand gripping the open lapel of his lab coat, looking at viewer, front view, eye-level view, centered composition, upper body focus, laboratory background, black lineart, bold outlines, variable line weight, inked manga style, sharp shadows, screentone texture, decorative halloween asset,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792680012217
+ "updatedAt": 1792680031804
 };

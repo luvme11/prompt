@@ -15340,7 +15340,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk3159t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::crouching on the center of railway tracks::,\n1.9::both feet balanced low to the ground::,\n1.8::one elbow resting on one knee::,\n1.8::other hand hanging loosely forward::,\n1.8::head slightly lowered::,\n1.8::looking straight ahead::,\n1.9::strong one-point perspective::,\n1.8::viewer positioned at track level::,\n1.8::full body shot::,\n\n2.0::post-apocalyptic abandoned railway::,\n1.9::long rusted train tracks stretching into distance::,\n1.8::collapsed signal poles::,\n1.8::weeds growing through sleepers::,\n1.8::foggy ruined industrial district::,\n1.7::gray desolate sky::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792706263852
+ "updatedAt": 1792706279667
 };

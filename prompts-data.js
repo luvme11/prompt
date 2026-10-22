@@ -13730,7 +13730,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjtbcw5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, upper body, close-up, seated pose, relaxed posture,\nleaning back against a seat or sofa,\nslightly reclined position,\none hand holding a whiskey glass near the mouth,\nglass touching the lips,\nfingers loosely wrapped around the tumbler,\ndrinking pose, casual alcohol-drinking gesture,\nother arm relaxed out of frame or resting naturally,\n\nshirtless, bare upper body, exposed chest, exposed abdomen, exposed collarbone,\ndefined torso, visible upper body muscles,\nhead tilted slightly to the side,\neyes directed toward the viewer,\nsubtle relaxed expression,\n\npost-apocalyptic hotel background,\nruined luxury hotel suite,\ndamaged hotel room interior,\nlarge broken window behind,\nshattered glass,\ncollapsed wall panels,\ncracked floor and walls,\nabandoned furniture,\nworn sofa or lounge chair,\ndust in the air,\ndim warm ambient lighting,\ncity ruins visible outside the hotel window,\ndestroyed urban skyline,\ndesolate atmosphere,\ncinematic lighting,\nmoody shadows,\nvertical composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792689900525
+ "updatedAt": 1792689959842
 };

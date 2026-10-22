@@ -13184,7 +13184,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjip76a",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.8::extravagant dark punk Y2K character collage::,\n1.8::one large beautiful full-proportion anime character::,\n1.8::dynamic chest-up portrait, dramatic three-quarter angle::,\nleaning sideways toward viewer,\none hand gripping a dangling chain,\nother hand forming a V-sign beside face,\n1.5::provocative playful expression, slightly sticking out tongue::,\nhalf-lidded eyes, mischievous grin,\nbeautiful detailed face, strong facial clarity,\n\n1.5::two highly detailed chibi versions of the same character::,\none chibi angrily stomping,\none chibi laughing with tiny devil wings,\nconsistent character appearance, expressive chibi faces,\n\nblack feather stickers, chrome angel wings,\nred holographic hearts, safety pins,\nsilver chains, razor-shaped charms,\ncross-shaped metallic decorations,\ncheckerboard patches, gothic butterfly stickers,\ntorn black lace, spiked bracelets,\ntiny skull keychains, broken heart motifs,\nlayered ripped magazine scraps,\njet black, vivid [color], chrome silver palette,\nstrong saturated colors, dramatic shadows,\ndense chaotic but readable Y2K collage,\nno text, no typography"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792672037476
+ "updatedAt": 1792672129351
 };

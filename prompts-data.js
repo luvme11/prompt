@@ -15074,7 +15074,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk1h37m.jpg?v=1792703805375",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk1m6x0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1male, solo,\n2.0::extreme low angle::,\n2.0::worm's-eye view::,\n1.9::camera positioned below waist level::,\n1.9::looking down toward the viewer::,\n1.8::front three-quarter view::,\n1.8::head slightly lowered::,\n1.8::chin slightly tucked::,\n1.7::upper body slightly turned to one side::,\n1.7::vertical portrait composition::,\n\n2.0::standing among gigantic ice crystals::,\n1.9::upright standing pose::,\n1.9::body positioned diagonally::,\n1.8::one shoulder slightly raised::,\n1.8::asymmetrical standing posture::,\n\n2.0::one arm raised beside the head::,\n2.0::one hand resting against a massive vertical ice pillar::,\n1.9::raised arm bent at the elbow::,\n1.9::hand braced against the icy surface above shoulder level::,\n1.8::elbow positioned outward::,\n1.8::other arm hanging naturally beside the body::,\n1.7::relaxed but imposing posture::,\n\n2.0::towering translucent blue ice crystals::,\n2.0::massive jagged ice formations surrounding the subject::,\n1.9::gigantic crystalline ice pillars on both sides::,\n1.9::sharp angular ice shards in the foreground::,\n1.8::long vertical frozen structures::,\n1.8::transparent blue crystalline surfaces::,\n1.8::frost-covered ice formations::,\n1.7::light refracting through the ice::,\n1.7::glowing icy blue edges::,\n\n2.0::frozen post-apocalyptic city background::,\n2.0::snow-covered ruined skyscrapers::,\n1.9::destroyed urban cityscape buried in snow::,\n1.9::collapsed buildings covered in thick frost::,\n1.8::abandoned frozen city streets::,\n1.8::partially destroyed high-rise buildings::,\n1.8::shattered windows covered in ice::,\n1.7::frozen concrete ruins::,\n1.7::distant ruined buildings visible between ice pillars::,\n1.7::snow and ice covering urban structures::,\n\n1.9::soft falling snowflakes::,\n1.8::cold winter atmosphere::,\n1.8::pale icy blue sky::,\n1.8::blue-white atmospheric lighting::,\n1.7::soft diffused winter daylight::,\n1.7::subtle icy reflections::,\n1.6::cinematic shadows::,\n1.6::dramatic frozen apocalypse atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792703806805
+ "updatedAt": 1792703902522
 };

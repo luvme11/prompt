@@ -13478,7 +13478,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjo9kyv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "slightly turning his head to the side while looking directly at the viewer, a masculine male hand reaching in from the foreground toward his chin, gently holding his chin between the thumb and fingers, one vivid red lipstick kiss mark on his cheek, one eye slightly squinted in a playful wink, the other eye looking at the viewer, heavily flushed red cheeks, deep blush spreading across his face, faint mischievous smile, slightly parted lips, flustered and bashful expression, high-angle shot, intimate close-up, natural perspective,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792681338426
+ "updatedAt": 1792681478429
 };

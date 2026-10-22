@@ -15211,7 +15211,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting on top of a concrete barricade::,\n1.9::legs spread apart casually::,\n1.8::one elbow resting on raised knee::,\n1.8::other arm resting beside the hip::,\n1.8::torso leaning slightly forward::,\n1.9::head lowered while looking at viewer::,\n1.9::dramatic low angle::,\n1.8::front three-quarter view::,\n1.8::cowboy shot::,\n\n2.0::post-apocalyptic abandoned military checkpoint::,\n1.9::damaged concrete roadblocks::,\n1.9::broken chain-link security fences::,\n1.8::collapsed military watchtower::,\n1.8::rusted abandoned armored vehicles::,\n1.8::scattered sandbags::,\n1.7::cracked checkpoint road::,\n1.7::broken warning signs::,\n1.7::dusty ruined military compound::,\n1.8::dramatic overcast sky::,\n1.7::harsh cinematic shadows::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk2qxbl.jpg?v=1792705988509",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15244,5 +15244,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792705957875
+ "updatedAt": 1792705989320
 };

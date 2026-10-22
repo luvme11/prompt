@@ -13254,7 +13254,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjmf9iv.jpg?v=1792678386730",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvjmrqku",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "POV, first-person perspective, dynamic close-up, dramatic diagonal angle, lying on his back against a pillow, head tilted backward, white shaving cream thickly covering his cheeks, jawline and chin, one POV hand entering from above and firmly gripping a fistful of his hair at the crown, fingers tangled through his hair, holding his head still against the pillow, second POV hand entering from the lower foreground holding a traditional safety razor, razor pressed against the shaving-cream-covered lower cheek, shaving along the jawline, chin raised, throat exposed, neck tense, unable to turn his head away, lips slightly parted, subtly furrowed brows, restrained irritation mixed with discomfort, tense gaze, rumpled dark dress shirt, loosened collar, red pillow and bedding, strong foreshortening, cropped POV wrists, both hands entering from outside the frame, hands and razor clearly visible, tense intimate atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvjmrqku.jpg?v=1792678968031",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792678387280
+ "updatedAt": 1792678969175
 };

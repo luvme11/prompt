@@ -13853,8 +13853,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n1.9::two-person composition::,\n1.9::side view::,\n1.8::three-quarter side view::,\n1.8::cowboy shot::,\n1.8::framing from head to upper thighs::,\n1.7::eye-level camera angle::,\n1.7::vertical composition::,\n\n2.0::man standing in front of woman::,\n2.0::woman standing directly behind man::,\n1.9::both characters facing toward the left::,\n1.9::man positioned in the left foreground::,\n1.9::woman positioned slightly behind him on the right::,\n1.8::their bodies standing very close together::,\n1.8::overlapping silhouettes::,\n\n2.0::man standing upright with relaxed posture::,\n1.9::man's body facing left::,\n1.9::man looking forward toward the left::,\n1.8::man's head slightly lowered::,\n1.8::one hand tucked into pants pocket::,\n1.8::other arm hanging naturally beside his body::,\n1.7::relaxed shoulders::,\n\n2.0::woman gently holding man's arm from behind::,\n2.0::woman wrapping both hands around man's upper arm::,\n1.9::woman's fingers gripping his arm::,\n1.9::woman leaning her head against man's upper back::,\n1.9::woman resting her forehead against his shoulder::,\n1.8::woman's face partially hidden behind man's shoulder::,\n1.8::woman looking downward::,\n1.8::woman leaning her upper body toward him::,\n1.7::quiet affectionate body language::,\n1.7::gentle intimate atmosphere::,\n\n2.0::post-apocalyptic abandoned parking garage::,\n1.9::ruined underground parking lot::,\n1.9::deserted concrete parking structure::,\n1.8::cracked concrete pillars::,\n1.8::collapsed ceiling sections::,\n1.8::damaged concrete walls::,\n1.7::abandoned rusted cars::,\n1.7::wrecked vehicles covered in dust::,\n1.7::scattered rubble and debris::,\n1.7::broken fluorescent ceiling lights::,\n1.6::faded parking space markings::,\n1.6::exposed pipes and hanging electrical wires::,\n1.6::water puddles on cracked concrete floor::,\n1.6::overgrown weeds emerging through cracks::,\n1.6::dust floating in the air::,\n1.5::desolate abandoned atmosphere::,\n\n1.7::dim natural light filtering through damaged openings::,\n1.7::soft directional lighting::,\n1.6::cinematic shadows::,\n1.6::muted desaturated color palette::,\n1.5::quiet melancholic atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjuvfvo.jpg?v=1792692639507",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -13872,5 +13872,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792692613238
+ "updatedAt": 1792692640637
 };

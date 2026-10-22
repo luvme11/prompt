@@ -13100,7 +13100,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjhmoki.jpg?v=1792670987103",
    "pos": "69.6% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvji6is7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, solo, highly detailed anime illustration, mixed media character collage, underground live house concert aesthetic, 1.5::one large main character waist-up portrait::, 1.3::slightly from below::, playing electric guitar, 1.5::head tilted down::, 1.5::looking at viewer::, 1.4::looking up through bangs::, 1.3::smirk::, sweat dripping, ripped band tee, studded belt, wristbands, guitar picks, setlist papers, amplifiers, speaker stacks, flyers stapled to wall, backstage passes, cables, stage lights, crowd hands silhouettes, scrawled marker typography, electric red and black color scheme, white flash highlights, stage spotlight glare, raw energetic linework, gritty contrasty shading, dense decorative layout,"
+    }
+   ],
+   "img": "img/comp/mvji6is7.jpg?v=1792671259703",
+   "pos": "51.6% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792670988077
+ "updatedAt": 1792671260353
 };

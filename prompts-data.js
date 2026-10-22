@@ -14136,7 +14136,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwiu0k",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black wide-sleeve kimono, white floral and music note print, white polka dot frilled maid apron, large back bow, piano key trim, wa maid, white socks, black ankle strap mary janes"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695340928
+ "updatedAt": 1792695347998
 };

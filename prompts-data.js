@@ -14693,8 +14693,8 @@ window.PROMPT_DATA = {
      "text": "Black cropped fitted leather jacket, dark purple floral lace camisole with scalloped V-neckline, high-waisted black flared jeans, chunky black platform ankle boots, black choker, layered silver cross necklaces, long silver cross earrings, black leather shoulder bag with silver buckle."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxq68m.jpg?v=1792697680057",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -14754,5 +14754,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697661692
+ "updatedAt": 1792697680860
 };

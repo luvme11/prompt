@@ -14500,7 +14500,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxgak6",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "fur-trimmed hood, black cropped hoodie, open jacket, zebra print crop top, midriff, navel, black choker, fishnets, black belt, black miniskirt, asymmetrical legwear, black and white striped thighhighs, fur-trimmed leg warmers, black boots, fingerless gloves"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696899737
+ "updatedAt": 1792696908032
 };

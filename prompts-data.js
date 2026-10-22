@@ -13466,20 +13466,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mvjo6kyh",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "의상 X",
-     "text": "2people, duo, 1.7::flat overhead composition::, 1.6::top-down view::, 1.5::orthographic perspective::, 1.6::two characters tightly crammed together inside a small rectangular space::, 1.5::box-like composition::, 1.5::compressed tangled bodies::, camera looking directly down from above, flat two-dimensional spatial arrangement, both characters squeezed into the same confined rectangular frame, bodies folded awkwardly to fit inside the limited space, knees bent sharply, legs overlapping and crossing each other, one bent leg extending vertically along the left edge, another leg folded diagonally across the lower portion, overlapping arms and shoulders, heads positioned close together near the upper right area, one character leaning sideways over the other, asymmetrical intertwined poses, tightly packed silhouettes, minimal negative space, limbs arranged along the edges of the composition, bodies filling almost the entire rectangular canvas, flattened depth, minimal perspective distortion, parallel projection, visually compressed arrangement, playful chaotic pose, clean readable silhouettes, simple background, invisible rectangular boundaries, no visible box,"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
-  },
-  {
    "id": "mvjo9kyv",
    "tab": "comp",
    "name": "",
@@ -13494,5 +13480,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792681478429
+ "updatedAt": 1792681618684
 };

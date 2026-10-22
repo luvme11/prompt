@@ -13618,7 +13618,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjsc01h.jpg?v=1792688447484",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjsftex",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.8::solo::,\n2.0::sitting on the edge of a bed::,\n1.9::relaxed seated pose::,\n1.9::legs spread wide apart::,\n1.8::knees pointing outward::,\n1.8::one knee raised prominently in the foreground::,\n1.7::one leg bent upward toward the camera::,\n1.7::other leg extended diagonally toward the foreground::,\n\n2.0::both hands placed behind the body on the bed::,\n1.9::leaning backward supported by both arms::,\n1.8::arms extended backward::,\n1.7::hands pressing against the mattress::,\n1.7::shoulders slightly pulled back::,\n1.6::relaxed upper body posture::,\n\n1.9::front view::,\n1.8::slightly low camera angle::,\n1.8::camera positioned near knee level::,\n1.7::looking down slightly toward the viewer::,\n1.7::head facing forward::,\n1.6::direct eye contact::,\n1.6::subtle relaxed smile::,\n\n1.9::dramatic foreshortening::,\n1.8::foreground legs appearing larger due to perspective::,\n1.7::upper body appearing smaller in the background::,\n1.7::centered composition::,\n1.6::framing from head to lower legs::,\n\n2.0::pure white background::,\n1.9::solid white backdrop::,\n1.8::minimalist white environment::,\n1.6::simple white bedding::,\n1.5::soft even lighting::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792688448150
+ "updatedAt": 1792688488235
 };

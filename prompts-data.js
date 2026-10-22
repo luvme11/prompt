@@ -15088,7 +15088,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk1q33g",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1male, solo,\n2.0::upper body shot::,\n1.9::medium close-up::,\n1.9::front three-quarter view::,\n1.8::slightly high camera angle::,\n1.8::dynamic diagonal composition::,\n1.7::vertical portrait composition::,\n\n2.0::leaning against a damaged concrete wall::,\n1.9::upper body slightly hunched forward::,\n1.9::back and shoulder pressed against the wall::,\n1.8::body positioned diagonally::,\n1.8::shoulders slightly turned::,\n1.7::tense defensive posture::,\n\n2.0::holding a tactical assault rifle with both hands::,\n2.0::rifle positioned diagonally across the chest::,\n1.9::rifle barrel pointing diagonally upward::,\n1.9::weapon held close to the upper body::,\n1.8::one hand gripping the rifle near the trigger area::,\n1.8::other hand supporting the rifle's handguard::,\n1.8::rifle clearly visible in the foreground::,\n1.7::weapon angled across the torso::,\n\n2.0::head turned toward the right side::,\n1.9::looking sharply toward the right::,\n1.9::face angled downward slightly::,\n1.8::eyes focused on something outside the frame::,\n1.8::chin slightly lowered::,\n1.7::alert expression::,\n1.7::cautious body language::,\n\n2.0::post-apocalyptic abandoned building interior::,\n1.9::ruined concrete building::,\n1.9::damaged concrete walls::,\n1.8::cracked plaster surfaces::,\n1.8::broken wall corners::,\n1.8::exposed concrete structures::,\n1.7::bullet holes in the walls::,\n1.7::peeling paint::,\n1.7::scattered rubble and debris::,\n1.6::broken windows::,\n1.6::partially collapsed interior::,\n1.6::dust floating in the air::,\n1.6::desolate abandoned atmosphere::,\n\n1.9::strong directional sunlight entering through broken windows::,\n1.8::dramatic light and shadow contrast::,\n1.8::harsh sunlight illuminating one side::,\n1.7::deep shadows across the background::,\n1.7::cinematic lighting::,\n1.6::tense post-apocalyptic atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792703902522
+ "updatedAt": 1792704084009
 };

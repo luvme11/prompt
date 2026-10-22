@@ -13562,7 +13562,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjs2ihu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo, upper body, close-up, dramatic perspective, strong foreshortening,\nfront view, slightly high angle,\nreaching toward the viewer,\none arm extended forward,\nhand thrust toward camera,\nopen hand in foreground,\nfingers spread,\nlarge foreground hand,\nface positioned behind the hand,\nhead slightly lowered,\nlooking at viewer,\ncentered composition,\ndynamic pose,\nshoulders slightly hunched forward,\ntorso leaning toward viewer,\nintense depth, simple background"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792687837271
+ "updatedAt": 1792687866951
 };

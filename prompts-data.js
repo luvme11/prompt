@@ -13198,7 +13198,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjixiz1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "(외형 추가), 1.3::looking away::, 1.2::calm impassive expression::, heavy eyelids, suppressed emotion, parted lips, wet lips, quiet restrained heat,\n\n1.1::disheveled three-piece suit::, 1.1::unbuttoned dark vest::, open vest, dark silk dress shirt, unbuttoned collar, open shirt, 1.2::exposed clavicle::, exposed upper chest, loosened black necktie, undone tie, single ring on finger, textured dark fabric,\n\n1.2::receiving implicit pleasure::, 1.2::upper panel looking down with calm gaze::, downward glance, heavy-lidded eyes, 1.2::middle panel head tilted back::, 1.2::hand on back of neck::, 1.2::clutching nape::, arched neck, exposed throat, adam's apple, suppressed breath, 1.2::lower panel licking lips::, lowering head, tongue on lip, subtle decadent smirk, quiet shiver, motionless composure,\n\n1.3::solo::, male focus, 1.4::3koma::, 1.3::vertical comic strip::, 1.2::thick panel borders::, 1.2::gutters::, 1.2::panel division::, 1.3::strict side view profile::, 1.2::facing right::, 1.2::bust shot closeup::, 1.3::strictly cropped below chest::, no lower body, no partner visible, dark minimalist background, uniform camera angle,\n\n1.0::cinematic lighting::, 1.2::dimly lit::, 1.2::warm directional lighting across skin::, soft rim light on neck, deep chiaroscuro, faint sweat sheen, restrained erotic tension, quiet sultry atmosphere, high contrast shadows"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792672256236
+ "updatedAt": 1792672517833
 };

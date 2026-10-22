@@ -13240,7 +13240,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjm9wx7.jpg?v=1792678136367",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvjmf9iv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, boxing gym, shirtless, black boxing gloves, leaning backward against the boxing ring ropes, boxing ropes behind his torso, back supported by the ropes, both arms stretched wide behind him and resting along the ropes, chest naturally open, relaxed dominant posture, low angle from below, slightly pulled-back camera, medium-long shot, from head to upper thighs, three-quarter front view, looking down toward the camera, spacious composition, clear negative space around the body, boxing ring and gym interior clearly visible around him, small cuts and bruises on the face, small white adhesive bandages on cheek and eyebrow, empty boxing gym, dim industrial ceiling lights, cinematic indoor lighting"
+    }
+   ],
+   "img": "img/comp/mvjmf9iv.jpg?v=1792678386730",
+   "pos": "50.0% 36.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792678218756
+ "updatedAt": 1792678387280
 };

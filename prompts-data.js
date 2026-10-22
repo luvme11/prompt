@@ -15046,7 +15046,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk1adbo.jpg?v=1792703472610",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvk1dvsp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1male, solo,\n2.0::medium shot::,\n1.9::cowboy shot::,\n1.8::framing from head to upper thighs::,\n1.8::front three-quarter view::,\n1.7::eye-level camera angle::,\n1.7::vertical portrait composition::,\n\n2.0::standing while holding a huge bouquet of dark red roses::,\n2.0::oversized bouquet covering much of the torso::,\n1.9::large dense arrangement of crimson roses::,\n1.9::dozens of deep burgundy roses::,\n1.8::bouquet wrapped in pale gray translucent paper::,\n1.8::flower heads prominently visible in foreground::,\n1.8::bouquet positioned on the left side of the chest::,\n\n2.0::one hand supporting the bouquet from underneath::,\n1.9::fingers gently holding the wrapped flower stems::,\n1.9::other hand tucked into pants pocket::,\n1.8::relaxed asymmetrical standing pose::,\n1.8::shoulders slightly angled::,\n1.7::upper body leaning subtly forward::,\n\n2.0::head tilted downward toward the bouquet::,\n1.9::chin slightly lowered::,\n1.9::looking down at the roses::,\n1.8::gentle relaxed smile::,\n1.7::quiet affectionate expression::,\n\n2.0::post-apocalyptic ruined seaside background::,\n2.0::destroyed coastal city::,\n1.9::abandoned seaside promenade::,\n1.9::ruined waterfront buildings::,\n1.8::collapsed seaside structures::,\n1.8::damaged wooden piers::,\n1.8::broken coastal railings::,\n1.8::partially submerged building ruins::,\n1.7::abandoned boats near the shoreline::,\n1.7::scattered concrete rubble along the beach::,\n1.7::rusted metal debris::,\n1.7::cracked seaside pavement::,\n1.6::overgrown vegetation among the ruins::,\n\n2.0::vast ocean stretching toward the horizon::,\n1.9::ocean waves washing against the ruined shore::,\n1.8::sea foam around scattered debris::,\n1.8::distant collapsed buildings along the coastline::,\n1.7::desolate abandoned seaside atmosphere::,\n\n1.9::post-apocalyptic sunset::,\n1.8::soft orange and pink sunset sky::,\n1.8::golden sunlight reflecting across the ocean::,\n1.7::muted warm atmospheric lighting::,\n1.7::soft cinematic shadows::,\n1.6::subtle sea mist::,\n1.6::melancholic romantic atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792703473495
+ "updatedAt": 1792703514841
 };

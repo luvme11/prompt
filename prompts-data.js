@@ -15228,7 +15228,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk2riw6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::reclining in an old cinema seat::,\n1.9::body leaning diagonally across seat::,\n1.9::one hand supporting the chin::,\n1.8::other arm stretched over adjacent seat::,\n1.8::legs resting loosely forward::,\n1.8::head tilted slightly toward supporting hand::,\n1.8::looking directly at viewer::,\n1.9::slightly high camera angle::,\n1.8::front three-quarter view::,\n1.7::medium shot::,\n\n2.0::post-apocalyptic abandoned movie theater::,\n1.9::rows of torn red velvet cinema seats::,\n1.9::collapsed ceiling panels::,\n1.8::damaged giant cinema screen::,\n1.8::scattered debris between seats::,\n1.7::broken projector equipment::,\n1.7::faded movie posters::,\n1.7::dust-filled atmosphere::,\n1.7::soft sunlight entering through collapsed roof::,\n1.6::eerie deserted cinema::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792705818710
+ "updatedAt": 1792705830589
 };

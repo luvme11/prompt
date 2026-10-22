@@ -15491,8 +15491,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::sitting closely together on a wooden bench::,\n2.0::woman sleeping with head resting on man's shoulder::,\n1.9::woman leaning sideways against man::,\n1.9::man turning head to look down at woman::,\n1.8::man's hands resting loosely on lap::,\n1.8::woman's hands folded on her lap::,\n1.9::intimate side-view composition::,\n1.8::medium shot::,\n\n2.0::2004 university campus garden::,\n1.9::wooden bench beneath trees::,\n1.8::fallen autumn leaves::,\n1.8::old campus buildings in distance::,\n1.7::warm afternoon sunlight::,\n1.7::soft nostalgic romantic atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk6pl1z.jpg?v=1792712768070",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -15538,5 +15538,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792712744546
+ "updatedAt": 1792712769052
 };

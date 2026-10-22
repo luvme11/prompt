@@ -14220,7 +14220,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwjyy7",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black military dress, light pink trim, double-breasted cross buttons, pleated midi skirt, light pink wide belt, light pink flower brooch, epaulettes with tassel, single-shoulder cape, asymmetrical shoulder cape, long light pink gradient cape, floral embroidered cape, cape over one shoulder, black beret, black knee socks, black platform mary janes, military gothic lolita"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695395120
+ "updatedAt": 1792695400021
 };

@@ -13408,7 +13408,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjng6to.jpg?v=1792680343140",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvjnnf7q",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic low-angle shot, upper body, dramatic tilted composition, dark cinematic atmosphere, dim industrial interior, deep shadows, low-key lighting, harsh rim light, motion blur, blood splatter in the air, small blood stains on clothes and face, intense action scene,  wearing a black formal suit, white dress shirt, black necktie, suit jacket and necktie whipping dramatically in motion, jacket flaring open,  raising a large axe high overhead with one hand, arm bent above the head, gripping the axe handle tightly, axe blade visible beside the head, poised to swing downward, torso twisted, leaning backward slightly, powerful dynamic posture,  wild intense eyes, tense brows, unhinged expression, restrained manic grin, slightly open mouth, looking downward at someone off-screen,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792680343979
+ "updatedAt": 1792680445303
 };

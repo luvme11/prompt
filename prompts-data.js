@@ -14360,7 +14360,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjx1hca",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "black hooded robe, demon horns hood, off shoulder, wide sleeves, purple rose ornament, cross ornament, silver chain, black purple corset, cleavage cutout, strappy layered skirt, black thighhighs, cross print, black high heel boots, purple bat wings, gothic succubus"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792696202237
+ "updatedAt": 1792696217617
 };

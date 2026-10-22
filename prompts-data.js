@@ -14301,8 +14301,8 @@ window.PROMPT_DATA = {
      "text": "black and white off-shoulder wide-sleeve kimono, black sakura floral print, gold accent, white frilled underskirt, scalloped black wide obi, large bow with pearl tassel, black lace-up ankle boots with bow, wa lolita"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwrj79.jpg?v=1792696110613",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -14348,5 +14348,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792696102480
+ "updatedAt": 1792696111266
 };

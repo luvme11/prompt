@@ -13573,10 +13573,10 @@ window.PROMPT_DATA = {
      "text": "solo, upper body, close-up, front view, slightly high angle,\nleaning slightly forward toward the viewer,\nhead slightly tilted down,\neyes looking at viewer,\n\none hand raised near one eye,\nfingers positioned beside the eye,\nhand posed as if adjusting eyewear,\ndelicate hand gesture near the face,\nthumb and index finger lightly pinching the air near the eye,\nother arm relaxed and mostly out of frame,\n\nasymmetrical pose,\nface partially framed by the raised hand,\nshoulders angled naturally,\ncasual composed expression,\nsimple background,\ndynamic portrait composition"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvjs3szw.jpg?v=1792688099238",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792688041494
+ "updatedAt": 1792688100070
 };

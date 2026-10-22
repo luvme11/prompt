@@ -15281,8 +15281,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting sideways on a broken escalator handrail::,\n1.9::one hand resting behind the body for balance::,\n1.8::one leg bent up slightly::,\n1.8::other leg hanging downward::,\n1.8::head angled toward the lower floor::,\n1.9::diagonal composition::,\n1.8::viewer positioned below the escalator::,\n1.8::medium full shot::,\n\n2.0::post-apocalyptic abandoned underground shopping mall::,\n1.9::broken escalators::,\n1.8::collapsed storefront signs::,\n1.8::dark empty corridors::,\n1.7::shattered glass display windows::,\n1.7::scattered debris and posters::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk2zahf.jpg?v=1792706423608",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -15370,5 +15370,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792706407754
+ "updatedAt": 1792706425658
 };

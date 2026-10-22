@@ -13545,10 +13545,10 @@ window.PROMPT_DATA = {
      "text": "1boy, solo, adult male,\n2.0::shirtless::,\n1.9::bare upper body::,\n1.8::naked torso::,\n1.7::exposed chest and abdomen::,\n\n1.8::upper body shot::,\n1.7::framing from head to hips::,\n1.6::front three-quarter view::,\n1.5::eye-level view::,\n1.5::slightly tilted head::,\n1.5::looking at viewer::,\n1.5::relaxed standing posture::,\n\n2.0::long towel draped around the back of his neck::,\n1.9::both hands gripping the ends of the towel near his shoulders::,\n1.8::holding a towel with both hands::,\n1.7::towel hanging vertically along his chest::,\n\n1.9::one arm raised outward to the side::,\n1.8::elbow bent and extended sideways::,\n1.8::other arm bent with hand near shoulder::,\n1.7::asymmetrical arm positioning::,\n1.6::relaxed shoulders::,\n\n1.6::lean muscular physique::,\n1.5::defined collarbones::,\n1.5::subtle chest muscles::,\n1.5::toned abdomen::,\n1.5::slim waist::,\n\n1.5::simple white background::,\n1.5::centered composition::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjrzbdc.jpg?v=1792687759146",
+   "pos": "50.0% 22.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792687717735
+ "updatedAt": 1792687759968
 };

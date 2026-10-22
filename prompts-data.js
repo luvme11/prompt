@@ -14133,8 +14133,8 @@ window.PROMPT_DATA = {
      "text": "white shirt, black necktie, underbust corset, black plaid pleated miniskirt, oversized black hoodie, fishnet pantyhose, black leg warmers, black platform boots, chain necklace, jirai kei"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwipgv.jpg?v=1792695470946",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -14236,5 +14236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695400021
+ "updatedAt": 1792695471472
 };

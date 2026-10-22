@@ -13755,8 +13755,8 @@ window.PROMPT_DATA = {
      "text": "solo, upper body to thighs, low angle, worm's-eye view,\nstanding pose, looking down toward the viewer,\nhead slightly tilted downward,\nconfident teasing expression,\nslightly parted lips,\none arm raised while holding a black flogger,\nblack leather flogger hanging downward from one hand,\nother arm relaxed by the side,\n\nwhite dress shirt, oversized white button-up shirt,\nshirt partially unbuttoned,\nopen collar, wide open neckline,\nloose shirt exposing the upper chest,\nslightly rumpled fabric,\nlong sleeves,\nblack slacks, high-waisted black trousers, black belt,\n\nindoor room background,\ndim moody interior,\nblue-green ambient lighting,\ncool cyan lighting,\ncinematic neon-blue glow,\nsoft shadows,\ncurtains in the background,\nwindow curtains, indoor drapery,\ndark room atmosphere,\nsubtle light reflecting on skin,\nslightly sweaty skin,\ndramatic perspective,\nvertical composition,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjuc9gj.jpg?v=1792691960256",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -13788,5 +13788,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792691802833
+ "updatedAt": 1792691961363
 };

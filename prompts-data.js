@@ -15102,7 +15102,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk1q33g.jpg?v=1792704408050",
    "pos": "50.0% 46.0%",
    "soon": false
+  },
+  {
+   "id": "mvk22p64",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting on top of an abandoned car::,\n1.9::one knee raised toward chest::,\n1.8::other leg hanging over the edge::,\n1.8::one arm resting casually on raised knee::,\n1.7::other hand supporting body behind::,\n1.8::looking toward distant city ruins::,\n1.9::side three-quarter view::,\n1.9::dramatic low angle::,\n1.8::medium full shot::,\n\n2.0::post-apocalyptic destroyed highway::,\n1.9::abandoned cars scattered across broken asphalt::,\n1.8::collapsed elevated highway sections::,\n1.8::rusted vehicles::,\n1.7::overgrown weeds breaking through road::,\n1.7::ruined skyscrapers in distance::,\n1.7::orange sunset filtering through dust::,\n1.6::cinematic atmospheric perspective::"
+    }
+   ],
+   "img": "img/comp/mvk22p64.jpg?v=1792704673423",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792704408992
+ "updatedAt": 1792704674689
 };

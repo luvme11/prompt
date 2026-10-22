@@ -14836,7 +14836,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjyqnog.jpg?v=1792699186793",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjytntz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1male, solo,\n1.9::upper body shot::,\n1.9::medium close-up::,\n1.9::slightly high camera angle::,\n1.8::camera looking diagonally downward::,\n1.8::front three-quarter view::,\n1.8::seated portrait composition::,\n1.7::vertical composition::,\n\n2.0::sitting at a restaurant table::,\n1.9::leaning slightly forward over the table::,\n1.9::upper body facing the viewer::,\n1.8::shoulders slightly angled::,\n1.8::relaxed seated posture::,\n\n2.0::one arm folded horizontally across the torso::,\n2.0::other elbow resting on the folded arm::,\n2.0::resting chin on one hand::,\n1.9::cheek supported by a loosely closed fist::,\n1.9::knuckles pressing gently against the cheek::,\n1.8::wrist bent naturally beneath the chin::,\n1.8::head leaning slightly into the supporting hand::,\n1.7::asymmetrical arm positioning::,\n\n1.9::looking up toward the camera::,\n1.8::head slightly tilted::,\n1.8::direct eye contact::,\n1.7::subtle relaxed smile::,\n1.7::calm casual expression::,\n\n2.0::post-apocalyptic abandoned restaurant::,\n1.9::ruined restaurant interior::,\n1.9::old wooden restaurant table::,\n1.9::damaged wooden lattice partition behind the subject::,\n1.8::broken wooden window frames::,\n1.8::cracked plaster walls::,\n1.8::peeling wallpaper::,\n1.7::dust-covered restaurant furniture::,\n1.7::overturned chairs in the background::,\n1.7::scattered debris and broken dishes::,\n1.6::shattered glass windows::,\n1.6::overgrown vegetation visible through broken windows::,\n1.6::abandoned dining area::,\n\n1.8::restaurant table visible in the lower foreground::,\n1.8::plate of food partially visible at bottom left::,\n1.8::drinking glass partially visible at bottom right::,\n1.7::table edge crossing the bottom of the frame::,\n\n1.8::soft daylight entering through broken windows::,\n1.7::warm diffused lighting::,\n1.7::subtle cinematic shadows::,\n1.6::dust particles floating in the air::,\n1.6::slightly blurred background::,\n1.6::quiet abandoned atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792699187740
+ "updatedAt": 1792699211592
 };

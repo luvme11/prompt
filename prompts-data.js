@@ -14189,8 +14189,8 @@ window.PROMPT_DATA = {
      "text": "angel theme, white corset, lace-up corset, white frilled dress, off-shoulder, short puffy sleeves, frilled sleeves, layered frilled skirt, pink ribbon bows, pink lacing, frilled choker, angel wings, white feathered wings, halo, white pantyhose, white mary jane shoes, pink bow on shoes"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwjgig.jpg?v=1792695547754",
+   "pos": "50.0% 4.0%",
    "soon": false
   },
   {
@@ -14236,5 +14236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695531889
+ "updatedAt": 1792695548579
 };

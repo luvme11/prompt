@@ -13646,7 +13646,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjshobz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.8::solo::,\n1.9::seated pose::,\n1.8::front three-quarter view::,\n1.7::slightly low camera angle::,\n1.8::dramatic perspective::,\n1.7::vertical composition::,\n\n2.0::sitting on the floor while leaning backward::,\n1.9::back resting against stacked gym mats::,\n1.9::relaxed reclining seated posture::,\n1.8::upper body leaning diagonally backward::,\n1.8::shoulders resting against the support behind::,\n1.7::asymmetrical body positioning::,\n\n2.0::one arm raised while drinking from a bottle::,\n2.0::holding a clear glass bottle to the lips::,\n1.9::drinking directly from the bottle::,\n1.9::bottle tilted upward toward the mouth::,\n1.9::head tilted backward while drinking::,\n1.8::face turned slightly sideways::,\n1.8::chin raised::,\n1.7::neck extended::,\n1.8::raised elbow bent outward::,\n1.7::forearm angled diagonally toward the face::,\n\n1.9::other arm resting downward beside the body::,\n1.8::one hand supporting the body against the floor::,\n1.7::relaxed arm positioning::,\n\n2.0::legs spread apart in a relaxed seated position::,\n1.9::both knees bent::,\n1.9::one knee raised on the right side of the frame::,\n1.8::other leg extending diagonally across the foreground::,\n1.8::one thigh prominently visible in the lower foreground::,\n1.7::legs appearing larger due to perspective::,\n1.7::natural asymmetrical leg positioning::,\n\n2.0::old school gym equipment storage room::,\n1.9::indoor sports equipment storage room::,\n1.9::large stacked gymnasium mats::,\n1.8::thick padded exercise mats leaning against the wall::,\n1.8::metal storage shelves::,\n1.7::basketballs stored on shelves::,\n1.7::scattered sports equipment::,\n1.6::old wooden storage cabinets::,\n1.6::folded gym mats::,\n1.5::slightly cluttered storage room::,\n\n1.8::warm afternoon sunlight entering the room::,\n1.7::golden ambient lighting::,\n1.7::soft dramatic shadows::,\n1.6::cinematic lighting::,\n1.6::intimate relaxed atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792688506428
+ "updatedAt": 1792688574808
 };

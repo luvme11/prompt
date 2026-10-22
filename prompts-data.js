@@ -13856,7 +13856,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjuw8n5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 characters, 1male, 1female,\n2.0::high-angle selfie composition::,\n2.0::camera positioned high above both characters::,\n1.9::steep downward camera angle::,\n1.9::looking up toward the camera::,\n1.8::overhead three-quarter view::,\n1.8::close overhead perspective::,\n1.7::vertical portrait composition::,\n\n2.0::woman positioned in the left foreground::,\n2.0::man positioned behind her on the right::,\n1.9::both characters standing close together::,\n1.9::woman closer to the camera::,\n1.8::man leaning forward beside the woman::,\n1.8::both faces looking upward at viewer::,\n1.8::asymmetrical two-person composition::,\n\n2.0::woman standing with one hand raised near her lips::,\n1.9::woman's index finger lightly touching her lower lip::,\n1.8::woman's elbow bent in front of her chest::,\n1.8::other arm resting naturally downward::,\n1.7::woman's body slightly angled toward the right::,\n1.7::woman tilting her head upward::,\n\n2.0::man bending forward toward the camera::,\n1.9::man's upper body leaning forward::,\n1.9::man's head raised toward the camera::,\n1.8::man looking directly up at viewer::,\n1.8::man's shoulders slightly hunched forward::,\n1.7::man's arms positioned behind his body::,\n1.7::man standing slightly farther from the camera::,\n\n2.0::woman wearing a pale sage green puffer jacket::,\n1.9::thick padded winter jacket::,\n1.9::fluffy white faux fur trimmed hood::,\n1.8::oversized quilted winter jacket::,\n1.8::dark ribbed turtleneck sweater::,\n1.8::short dark pleated skirt::,\n1.7::black winter ankle boots::,\n1.7::cozy layered winter outfit::,\n\n2.0::man wearing a dark olive green military winter jacket::,\n1.9::dark military-style tactical jacket::,\n1.8::high standing collar::,\n1.8::half-zip front closure::,\n1.7::black high-neck inner layer::,\n1.8::dark olive tactical cargo pants::,\n1.7::black utility belt::,\n1.7::dark military boots::,\n1.7::practical winter military outfit::,\n\n2.0::post-apocalyptic snowy city background::,\n2.0::snow-covered abandoned urban ruins::,\n1.9::destroyed city streets covered in thick snow::,\n1.9::heavy snowfall::,\n1.8::falling snowflakes around both characters::,\n1.8::white snow-covered ground::,\n1.8::partially buried rubble and debris::,\n1.7::collapsed buildings in the distance::,\n1.7::abandoned vehicles buried beneath snow::,\n1.7::damaged concrete structures::,\n1.6::broken streetlights::,\n1.6::frozen abandoned streets::,\n1.6::distant ruined skyscrapers obscured by snowfall::,\n1.6::cold winter fog::,\n1.6::desolate post-apocalyptic atmosphere::,\n\n1.8::soft overcast winter daylight::,\n1.8::bright snowy surroundings::,\n1.7::cool blue-gray ambient lighting::,\n1.7::diffused natural light::,\n1.6::soft shadows on snow::,\n1.6::cinematic winter atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792692576234
+ "updatedAt": 1792692613238
 };

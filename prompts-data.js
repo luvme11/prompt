@@ -14119,10 +14119,10 @@ window.PROMPT_DATA = {
      "text": "cropped jacket, white jacket, black collar, hooded jacket, long sleeves, checkered sleeves, zipper, open jacket, heart zipper pull, ribbon, white shirt, crop top, black miniskirt, high-waist skirt, button details, white socks, ankle socks, sneakers, white sneakers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwbyp2.jpg?v=1792695267629",
+   "pos": "50.0% 14.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792695251386
+ "updatedAt": 1792695268133
 };

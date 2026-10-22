@@ -13937,10 +13937,10 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::extreme close-up::,\n2.0::intimate face-to-face composition::,\n1.9::tight framing of two faces and hands::,\n1.9::three-quarter side view::,\n1.8::dramatic diagonal composition::,\n1.8::horizontal composition::,\n\n2.0::woman positioned on the left::,\n2.0::man positioned on the right::,\n1.9::woman's face clearly visible::,\n1.9::man's face mostly seen from the side::,\n1.8::man's back and shoulder in foreground::,\n1.8::overlapping silhouettes::,\n\n2.0::man leaning closely toward woman's face::,\n1.9::man's head lowered toward woman::,\n1.9::man's face inches away from woman's face::,\n1.8::man tilting his head toward her::,\n1.8::man's shoulder partially blocking the right side::,\n\n2.0::woman tilting her face upward toward man::,\n1.9::woman looking toward man's face::,\n1.9::woman's lips slightly parted::,\n1.8::woman leaning toward him::,\n\n2.0::man's hand gently cupping woman's cheek::,\n2.0::man's thumb resting between woman's lips::,\n1.9::woman gently holding man's thumb between her lips::,\n1.9::clear finger-to-lip contact::,\n1.8::man's fingers supporting woman's jawline::,\n1.8::hand prominently visible between their faces::,\n\n2.0::woman's hand gripping man's neck::,\n1.9::woman's fingers gently curled around man's nape::,\n1.9::female hand resting against male neck::,\n1.8::woman's elbow bent close to her body::,\n\n1.9::faces extremely close together::,\n1.8::intense eye contact::,\n1.8::intimate tension::,\n1.7::asymmetrical pose::,\n1.7::natural overlapping hands::,\n\n2.0::pure white background::,\n2.0::solid white backdrop::,\n1.9::completely blank white background::,\n1.8::minimalist composition::,\n1.7::soft diffused lighting::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvjvby3u.jpg?v=1792693553503",
+   "pos": "33.7% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792693485218
+ "updatedAt": 1792693554342
 };

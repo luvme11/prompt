@@ -14668,7 +14668,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxpx7q",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Burgundy red fitted corset top with puff sleeves, black lace-trimmed sweetheart neckline and front zipper, black layered lace ruffle ultra-mini skirt, black sheer thigh-high stockings with floral lace tops, chunky black platform ankle boots, black velvet heart choker, black gothic dangling earrings, black leather shoulder bag with silver hardware."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792697352393
+ "updatedAt": 1792697357489
 };

@@ -14455,8 +14455,8 @@ window.PROMPT_DATA = {
      "text": "hello kitty cosplay, ouji fashion, red waistcoat, lace-up bodice, white shirt, collared shirt, bishop sleeves, frilled cuffs, red bow, cat ears, white cat ear hair ornament, red hair bow, red capelet, white fur trim, red shorts, hello kitty bag, white knee-high socks, red oxford shoes"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjxfhbb.jpg?v=1792697039827",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -14572,5 +14572,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792697029457
+ "updatedAt": 1792697040633
 };

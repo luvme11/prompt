@@ -13296,7 +13296,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjn8u5c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "fallen angel, black feathered wings, halo motif, elegant dark holy outfit, one hand lightly touching his chest or collarbone, the other hand slightly extended outward, wings subtly spread, eyes looking at viewer, graceful dangerous pose, ruined cathedral silhouette, moonlit sky silhouette, feather ornaments, floating black feathers, golden fragments, broken halo pieces, blue-violet particles, statue frame, sparkles, screentone texture, decorative composition, halloween illustration, filled background"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792679759260
+ "updatedAt": 1792679764186
 };

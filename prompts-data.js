@@ -14399,8 +14399,8 @@ window.PROMPT_DATA = {
      "text": "black crop top, off shoulder, asymmetrical neckline, halterneck, halter strap, short sleeves, gothic print, white print shirt, black baggy jeans, wide-leg pants, distressed jeans, ripped jeans, cargo pants, multiple pockets, grommet belt, studded belt, spider belt buckle, low-rise jeans, navel, black platform shoes, y2k fashion, grunge fashion"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjx22f6.jpg?v=1792696542727",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -14418,5 +14418,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792696534130
+ "updatedAt": 1792696543676
 };

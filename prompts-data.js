@@ -15354,7 +15354,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk31qly",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::sitting on a stainless steel kitchen counter::,\n1.9::one leg hanging freely::,\n1.8::other leg bent on the counter surface::,\n1.8::one hand resting beside the thigh::,\n1.8::other hand lightly touching the counter or sink edge::,\n1.8::head lowered slightly toward the viewer::,\n1.9::viewer positioned below counter height::,\n1.8::three-quarter front view::,\n1.8::medium full shot::,\n\n2.0::post-apocalyptic ruined restaurant kitchen::,\n1.9::stainless counters and sinks::,\n1.8::broken cabinets::,\n1.8::scattered kitchen tools::,\n1.8::flickering ceiling light::,\n1.7::dirty tiled walls::,\n1.7::abandoned food storage area::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792706279667
+ "updatedAt": 1792706307344
 };

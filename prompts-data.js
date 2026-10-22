@@ -15186,7 +15186,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk2q3mm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::sitting sideways on an abandoned carousel horse::,\n1.9::one hand gripping the carousel pole::,\n1.8::upper body twisted slightly toward camera::,\n1.8::head turned over shoulder::,\n1.8::looking toward viewer::,\n1.8::other hand resting beside body::,\n1.9::three-quarter side view::,\n1.8::slightly low camera angle::,\n1.7::medium full shot::,\n\n2.0::post-apocalyptic abandoned amusement park::,\n1.9::rusted broken carousel::,\n1.9::enormous abandoned ferris wheel in distance::,\n1.8::damaged amusement rides::,\n1.8::overgrown weeds between cracked pavement::,\n1.7::faded colorful decorations::,\n1.7::torn amusement park banners::,\n1.7::abandoned ticket booths::,\n1.8::purple-orange twilight sky::,\n1.7::cinematic melancholic atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792705743555
+ "updatedAt": 1792705764295
 };

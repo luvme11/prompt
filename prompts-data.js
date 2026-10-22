@@ -13268,7 +13268,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjmrqku.jpg?v=1792678968031",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjn6hy2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "holding a jack-o-lantern candy bucket by the handle at waist level and slightly in front of the body, bucket clearly visible, the bucket tilted slightly toward the viewer, candy visible inside, overflowing colorful wrapped candies, lollipops, chocolates, decorative halloween candy prop"
+    }
+   ],
+   "img": "img/comp/mvjn6hy2.jpg?v=1792679656761",
+   "pos": "50.0% 38.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792678969175
+ "updatedAt": 1792679657811
 };

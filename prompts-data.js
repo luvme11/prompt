@@ -15144,7 +15144,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk294xn.jpg?v=1792705250118",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk2fi8h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::sitting sideways on a wide window ledge::,\n1.9::back three-quarter view::,\n1.9::one knee bent toward chest::,\n1.8::other leg hanging downward::,\n1.9::one hand resting against window frame::,\n1.8::head turned toward distant horizon::,\n1.8::upper body slightly leaning backward::,\n1.7::medium full shot::,\n1.7::cinematic wide perspective::,\n\n2.0::post-apocalyptic abandoned hotel penthouse::,\n1.9::massive shattered panoramic window::,\n1.9::destroyed city skyline outside::,\n1.8::collapsed skyscrapers::,\n1.8::broken furniture scattered across floor::,\n1.7::torn curtains moving in wind::,\n1.7::cracked walls::,\n1.7::distant atmospheric fog::,\n1.8::pale sunrise illuminating ruined buildings::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792705251567
+ "updatedAt": 1792705269840
 };

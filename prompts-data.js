@@ -14164,7 +14164,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwj9tj",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "0.6::hakurei reimu (cosplay)::, miko, japanese clothes, red hakama skirt, white kimono, 1.2::yellow bow on chest::, detached sleeves, exposed armpits, large red hair bow, frills, holding gohei"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792695362298
+ "updatedAt": 1792695367405
 };

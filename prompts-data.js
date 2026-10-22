@@ -14738,7 +14738,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjxqscc",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Black fitted sleeveless V-neck buttoned vest, dark blue low-rise flared bell-bottom jeans, black newsboy cap with silver buckle, black satin ribbon bow choker, silver cross earrings, silver bracelets, oversized black slouchy shoulder bag, black chunky platform Mary Jane heels with ankle straps."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792697393087
+ "updatedAt": 1792697397497
 };

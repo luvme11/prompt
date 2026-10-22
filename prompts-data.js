@@ -14259,8 +14259,8 @@ window.PROMPT_DATA = {
      "text": "oversized grey hooded jacket, large fur-trimmed hood, multiple belt buckles, white collared shirt, red bow, tiered layered miniskirt, white lace and black ruffle, white ribbed knee socks, black fur leg warmers, brown fur platform snow boots, winter layered fashi"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwqzbv.jpg?v=1792696076307",
+   "pos": "50.0% 42.0%",
    "soon": false
   },
   {
@@ -14348,5 +14348,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792696065727
+ "updatedAt": 1792696077103
 };

@@ -14052,7 +14052,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvjwb6ao",
+   "tab": "look",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cinnamoroll cosplay, ouji fashion, pastel blue vest, mini top hat, teacup hair ornament, large neck bow, white shirt, button-up shirt, white shorts, white capelet, fur trim, angel wings, white socks, white platform shoes, blue bow on shoes"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792694973841
+ "updatedAt": 1792694990408
 };

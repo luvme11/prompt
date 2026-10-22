@@ -14427,10 +14427,10 @@ window.PROMPT_DATA = {
      "text": "white blazer, white ruffle blouse, high collar, white feather collar, pearl layered necklace, crystal pendant, white waist sash, large white waist bow, white cascade ruffle, layered pleated ruffle, silver buttons, silver fringe epaulette, white single shoulder cape, beaded fringe trim, white slim pants, side ruffle trim, floral applique, white gloves, white oxford shoes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjx8z5e.jpg?v=1792696690944",
+   "pos": "50.0% 22.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792696566660
+ "updatedAt": 1792696692409
 };

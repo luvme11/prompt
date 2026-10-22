@@ -15438,7 +15438,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk6fk1d.jpg?v=1792711991769",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvk6gla3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::sitting diagonally across university stairs::,\n1.9::back leaning against higher steps::,\n1.9::head tilted backward toward viewer::,\n1.8::one arm resting on upper step::,\n1.8::other hand resting beside hip::,\n1.8::one leg stretched down the stairs::,\n1.8::other knee bent upward::,\n1.9::high-angle diagonal composition::,\n1.8::camera looking downward from upper staircase::,\n\n2.0::2004 university stairwell::,\n1.9::old terrazzo stairs::,\n1.8::metal handrails::,\n1.8::large stairwell windows::,\n1.7::bright afternoon sunlight::,\n1.7::nostalgic campus atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792711992579
+ "updatedAt": 1792712039269
 };

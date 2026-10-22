@@ -14273,8 +14273,8 @@ window.PROMPT_DATA = {
      "text": "white cropped kimono jacket, wide flared sleeves, red high collar, red and white geometric print, chest zipper, diagonal black strap, white pleated miniskirt with red trim, black underskirt, black pantyhose, black combat boots, sci-fi techwear wafuku"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwr62n.jpg?v=1792696089538",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -14348,5 +14348,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792696077103
+ "updatedAt": 1792696090388
 };

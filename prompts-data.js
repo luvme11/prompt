@@ -15018,7 +15018,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk103pf.jpg?v=1792703068927",
    "pos": "50.0% 76.0%",
    "soon": false
+  },
+  {
+   "id": "mvk158ak",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1male, solo,\n2.0::extreme low angle::,\n2.0::worm's-eye view::,\n1.9::camera positioned far below face level::,\n1.9::looking down at viewer::,\n1.8::head slightly tilted downward::,\n1.8::chin slightly lowered::,\n1.8::three-quarter front view::,\n1.8::upper body close-up::,\n1.8::framing from head to waist::,\n1.7::body angled slightly to one side::,\n1.7::shoulders turned diagonally::,\n1.7::subtle confident smile::,\n1.7::direct eye contact::,\n1.8::dramatic upward perspective::,\n1.7::subject dominating the foreground::,\n1.7::vertical portrait composition::,\n\n2.0::post-apocalyptic sky background::,\n2.0::ominous green-tinted sky::,\n1.9::eerie turquoise green atmosphere::,\n1.9::unnatural greenish-blue sky::,\n1.8::toxic emerald atmospheric glow::,\n1.8::apocalyptic green haze::,\n1.8::dramatic green-tinted clouds::,\n1.7::massive swirling storm clouds::,\n1.7::pale green sunlight filtering through clouds::,\n1.7::desolate end-of-the-world atmosphere::,\n\n2.0::tall utility pole behind subject::,\n1.9::weathered electrical power pole::,\n1.9::multiple tangled overhead power lines::,\n1.8::black electrical wires crossing the sky::,\n1.8::power lines stretching diagonally across the frame::,\n1.7::damaged electrical transformers::,\n1.7::rusted metal utility fixtures::,\n\n2.0::flock of black birds flying across the sky::,\n1.9::numerous black bird silhouettes::,\n1.8::birds scattered at different distances::,\n1.8::birds circling beneath ominous clouds::,\n1.7::distant birds fading into the atmosphere::,\n\n1.8::dramatic directional sunlight::,\n1.8::greenish atmospheric lighting::,\n1.7::strong contrast between subject and sky::,\n1.7::cinematic shadows::,\n1.6::subtle rim lighting::,\n1.6::dramatic apocalyptic atmosphere::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792703069891
+ "updatedAt": 1792703110720
 };

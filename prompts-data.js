@@ -13226,7 +13226,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjm943b.jpg?v=1792678098777",
    "pos": "41.3% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvjm9wx7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sprawled inside an open car trunk, upper body reclining inside the trunk, both legs extending far out of the trunk, legs comfortably apart, long relaxed legs hanging loosely outward, knees mostly straight, low angle from outside, one hand resting between his thighs, relaxed seductive pose, provocative gaze, subtle smirk, loosened suit, jacket slipping off one shoulder, loose necktie, trunk lid fully raised, dark night"
+    }
+   ],
+   "img": "img/comp/mvjm9wx7.jpg?v=1792678136367",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792678099596
+ "updatedAt": 1792678137341
 };

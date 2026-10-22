@@ -14822,7 +14822,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvjym978.jpg?v=1792699036114",
    "pos": "50.0% 74.0%",
    "soon": false
+  },
+  {
+   "id": "mvjyqnog",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1male, solo male focus,\n2.0::close-up upper body shot::,\n1.9::front three-quarter view::,\n1.9::slightly high camera angle::,\n1.8::camera positioned just above face level::,\n1.8::intimate POV composition::,\n1.8::centered composition::,\n\n2.0::man leaning forward toward the viewer::,\n1.9::man's upper body bent slightly forward::,\n1.9::man's face positioned close to the camera::,\n1.8::man's shoulders slightly hunched forward::,\n1.8::man's head slightly lowered::,\n1.9::man looking directly at viewer::,\n1.7::soft relaxed expression::,\n1.7::slightly parted lips::,\n\n2.0::woman's hand gently cupping man's cheek::,\n2.0::female hand entering from the bottom foreground::,\n2.0::woman's palm pressed against the side of man's face::,\n1.9::woman's fingers resting vertically along man's cheek::,\n1.9::fingertips extending toward his temple::,\n1.9::woman's thumb positioned near his jawline::,\n1.8::man leaning his cheek gently into woman's palm::,\n1.8::clear hand-to-cheek contact::,\n\n2.0::only woman's hand and forearm visible::,\n1.9::woman's arm extending upward from the bottom of the frame::,\n1.9::woman's face completely outside the frame::,\n1.8::female POV interaction::,\n1.8::woman standing directly in front of man::,\n\n2.0::post-apocalyptic abandoned hotel room::,\n1.9::ruined luxury hotel suite::,\n1.9::damaged hotel room interior::,\n1.8::cracked plaster walls::,\n1.8::peeling wallpaper::,\n1.8::broken hotel windows::,\n1.7::torn curtains hanging beside the window::,\n1.7::dust-covered abandoned furniture::,\n1.7::damaged bedside table::,\n1.7::partially collapsed ceiling::,\n1.6::scattered rubble and debris::,\n1.6::overgrown vines creeping through broken windows::,\n1.6::destroyed city skyline visible through the window::,\n1.6::desolate abandoned atmosphere::,\n\n1.8::soft daylight filtering through broken windows::,\n1.7::gentle directional lighting::,\n1.7::subtle cinematic shadows::,\n1.6::shallow depth of field::,\n1.6::ruined hotel background softly blurred::,\n1.6::vertical portrait composition::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792699036773
+ "updatedAt": 1792699071103
 };

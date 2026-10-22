@@ -14203,8 +14203,8 @@ window.PROMPT_DATA = {
      "text": "school uniform, y2k, cropped sailor top, white and pink, sailor collar, pink neckerchief, heart cutout, pink plaid pleated skirt, low-rise skirt, chain belt, heart belt, pink bomber jacket, off-shoulder jacket, star choker, white legwarmers, star patch legwarmers, black platform loafers, stuffed animal charm"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/look/mvjwjok7.jpg?v=1792695561146",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -14236,5 +14236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792695548579
+ "updatedAt": 1792695561793
 };

@@ -15550,7 +15550,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk7jfzc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::sitting together on the back seat of a bus::,\n2.0::both sleeping with heads resting against each other::,\n1.9::woman's head leaning against man's shoulder::,\n1.9::man's head tilted gently toward woman's head::,\n1.8::both eyes closed::,\n1.8::arms resting loosely on laps::,\n1.9::camera positioned across the bus aisle::,\n1.8::front three-quarter medium shot::,\n1.8::window reflections framing their faces::,\n\n2.0::2004 Korean city bus interior::,\n1.9::old upholstered bus seats::,\n1.8::large bus windows::,\n1.8::sunset light entering the bus::,\n1.7::quiet nostalgic atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792713828615
+ "updatedAt": 1792713851220
 };

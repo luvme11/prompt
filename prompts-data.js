@@ -16820,7 +16820,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfn77n",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::woman holding a wrapped flower bouquet with both hands at chest level::,\n2.0::man leaning in from beside her to kiss her cheek::,\n1.9::man resting one hand gently on her upper back::,\n1.8::woman turning slightly toward him::,\n1.9::front three-quarter medium close-up::,\n1.8::flower bouquet filling the lower foreground::,\n\n2.0::small flower shop on a rainy afternoon::,\n1.8::buckets of fresh flowers and hanging dried bouquets::,\n1.8::raindrops on the shop window::,\n1.7::soft window light mixed with warm indoor lighting::,\n\n1.9::man wearing a pale blue button-up shirt with rolled sleeves and beige chinos::,\n1.9::woman wearing a white blouse beneath a dusty pink sleeveless dress with a tied waist::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787918549
+ "updatedAt": 1792787930040
 };

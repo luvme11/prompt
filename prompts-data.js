@@ -15662,7 +15662,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl3t5ur.jpg?v=1792768054145",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvl4c60e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2people, couple, side view, three-quarter view, 3/4 view, side by side, 2::heads facing left ::, upper body, upper body shot, portrait, 2::medium long shot, wide shot, environmental portrait ::, 1.5::off-center composition, characters on the right, asymmetrical composition ::, 2::heads facing left ::, New York City, Manhattan street, winter in New York, American cityscape, urban architecture, skyscrapers, tall buildings, brownstone buildings, street intersection, crosswalk, road markings, traffic lights, pedestrian signal, cars, yellow taxis, overcast sky, windy, hair blowing in wind, fluttering hair, snowfall, snowflakes, falling snow, snow-covered road, winter atmosphere, cold atmosphere, refreshing atmosphere, muted colors, soft sunlight, natural lighting, cinematic lighting, depth of field, shallow depth of field."
+    },
+    {
+     "label": "캐릭터 A",
+     "text": "2::standing, standing next to Character B ::, body slightly twisted, leaning forward slightly, cold blush, gentle smile, soft smile, energetic expression, relaxed expression, 1.5::looking at Character B ::."
+    },
+    {
+     "label": "캐릭터 B",
+     "text": "2::standing, standing next to Character A ::, head tilted slightly, 0.7::half-lidded eyes ::, cold blush, slight smile, calm expression, relaxed expression, 1.5::looking at Character A ::."
+    }
+   ],
+   "img": "img/comp/mvl4c60e.jpg?v=1792768940650",
+   "pos": "50.0% 100.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792768054967
+ "updatedAt": 1792768941468
 };

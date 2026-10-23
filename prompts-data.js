@@ -16500,7 +16500,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlar6t8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in a frozen warehouse::,\n2.0::one hand thrust forward toward the camera::,\n1.9::ice crystals spreading outward from the fingertips::,\n1.8::upper body leaning slightly forward::,\n1.8::other arm held slightly behind the body::,\n1.9::dramatic hand-foreground composition::,\n1.8::medium full shot::,\n\n2.0::large industrial warehouse interior::,\n1.9::frost-covered floor and walls::,\n1.8::metal storage doors and containers::,\n1.8::cold blue lighting::,\n1.7::visible icy mist in the air::,\n\n2.0::dark long coat::,\n1.9::high-neck knit top::,\n1.8::dark fitted trousers::,\n1.8::heavy boots::,\n1.7::gloves::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779707424
+ "updatedAt": 1792779718406
 };

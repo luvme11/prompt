@@ -15709,8 +15709,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::running together toward a bus stop shelter::,\n2.0::man gently holding woman's wrist while running::,\n1.9::man positioned slightly ahead of woman::,\n1.9::woman following closely behind::,\n1.8::both upper bodies leaning forward::,\n1.8::one leg lifted mid-step::,\n1.8::dynamic synchronized movement::,\n1.9::diagonal action composition::,\n1.8::slightly low camera angle::,\n1.8::medium full shot::,\n\n2.0::2004 Korean university bus stop::,\n1.9::old metal bus shelter::,\n1.8::heavy rain falling outside::,\n1.8::wet reflective pavement::,\n1.8::university road in background::,\n1.7::gray rainy afternoon lighting::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl4kaow.jpg?v=1792769449212",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -15742,5 +15742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792769342030
+ "updatedAt": 1792769449870
 };

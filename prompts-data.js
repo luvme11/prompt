@@ -16638,7 +16638,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlf3q59.jpg?v=1792787022807",
    "pos": "50.0% 86.0%",
    "soon": false
+  },
+  {
+   "id": "mvlf7kyl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::man standing directly behind the woman and hugging her waist::,\n1.9::woman stirring a pot with a wooden spoon::,\n1.8::man resting his chin near her shoulder::,\n1.9::side three-quarter medium shot::,\n1.8::both upper bodies and hands visible::,\n\n2.0::cozy apartment kitchen in the evening::,\n1.8::gently steaming pot on the stove::,\n1.8::wooden countertop and warm pendant lights::,\n\n1.9::man wearing a plain white short-sleeved t-shirt and gray sweatpants::,\n1.9::woman wearing a pale yellow short-sleeved blouse, a cream apron, and blue jeans::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787023629
+ "updatedAt": 1792787201061
 };

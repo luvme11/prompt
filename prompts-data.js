@@ -17013,8 +17013,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing beside a record store listening station::,\n1.9::one elbow resting on the counter::,\n1.9::one hand pressing a headphone earcup against the ear::,\n1.8::other hand holding a vinyl record sleeve at waist level::,\n1.9::eye-level three-quarter medium shot::,\n\n2.0::small vintage record shop::,\n1.8::wooden bins filled with vinyl records::,\n1.8::turntable and stacked speakers::,\n1.7::warm amber lighting::,\n\n1.9::burgundy varsity jacket over a cream graphic t-shirt::,\n1.8::dark blue wide-leg jeans::,\n1.7::silver chain bracelet::"
     }
    ],
-   "img": "img/comp/mvlgerx8.jpg?v=1792789411596",
-   "pos": "50.0% 26.0%",
+   "img": "img/comp/mvlgerx8.jpg?v=1792789882205",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -17074,5 +17074,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792789860005
+ "updatedAt": 1792789882999
 };

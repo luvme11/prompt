@@ -16399,8 +16399,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing on the edge of a rooftop::,\n2.0::one arm raised toward the stormy sky::,\n1.9::lightning gathering around the raised hand::,\n1.8::other arm lowered beside the body::,\n1.8::long coat fluttering in the wind::,\n1.9::dramatic low-angle composition::,\n1.8::full body shot::,\n\n2.0::modern city rooftop at night::,\n1.9::dense city skyline with neon lights::,\n1.8::storm clouds overhead::,\n1.8::rooftop railings and industrial structures::,\n1.7::electric glow illuminating the scene::,\n\n2.0::black high-neck fitted top::,\n1.9::long dark coat::,\n1.8::slim black tactical trousers::,\n1.8::heavy combat boots::,\n1.7::insulated gloves::,\n1.7::minimal metallic belt details::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlair0c.jpg?v=1792779553104",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -16432,5 +16432,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792779351738
+ "updatedAt": 1792779553808
 };

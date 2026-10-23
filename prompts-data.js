@@ -17111,10 +17111,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::reclining in a swivel chair at a cluttered workstation::,\n1.9::one hand holding a small data chip at eye level::,\n1.8::other hand resting on a keyboard::,\n1.8::one boot propped on a low equipment case::,\n1.9::three-quarter medium shot through foreground monitors::,\n\n2.0::cramped cyberpunk hacker room::,\n1.9::stacked monitors displaying abstract code patterns::,\n1.8::exposed circuit boards, hanging cables, and electronic components::,\n1.7::green screen glow mixed with purple accent lighting::,\n\n2.0::oversized charcoal hoodie with acid-green seam details::,\n1.9::black sleeveless inner top::,\n1.8::loose gray cargo trousers::,\n1.7::worn high-top sneakers and fabric wrist wraps::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlgyrpf.jpg?v=1792790456351",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792790283904
+ "updatedAt": 1792790457337
 };

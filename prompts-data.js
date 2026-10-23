@@ -16164,7 +16164,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl8pifc.jpg?v=1792776453020",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8xkyi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::reclining sideways on an ancient marble bench::,\n1.9::one elbow resting on the bench armrest::,\n2.0::raising a golden goblet with one hand::,\n1.9::other arm draped across the bench::,\n1.8::legs positioned diagonally::,\n1.9::slightly high three-quarter camera angle::,\n1.8::medium full shot::,\n\n2.0::ancient Greek vineyard garden::,\n1.9::lush grapevines overhead::,\n1.9::clusters of purple grapes hanging from vines::,\n1.8::marble garden columns::,\n1.8::warm afternoon sunlight::,\n\n2.0::Dionysus-inspired Greek attire::,\n1.9::deep violet chiton::,\n1.9::wine-red draped himation::,\n1.8::golden grapevine embroidery::,\n1.8::decorative leaf-patterned waist chain::,\n1.7::loosely flowing fabric::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792776454494
+ "updatedAt": 1792776657459
 };

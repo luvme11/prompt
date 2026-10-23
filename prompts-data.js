@@ -16999,10 +16999,10 @@ window.PROMPT_DATA = {
      "text": "2people, 1boy and 1girl,\n2.0::close-up couple selfie composition::,\n2.0::high-angle selfie perspective::,\n1.9::camera held by the male character::,\n1.9::male extending one arm toward the camera::,\n1.9::male occupying the right foreground::,\n1.9::female positioned on the left side::,\n2.0::female grabbing and pulling the male's necktie::,\n1.9::female firmly gripping his necktie with one hand::,\n1.8::necktie stretched diagonally between them::,\n1.9::female leaning forward toward the male::,\n1.8::both characters standing extremely close::,\n1.8::female bending slightly forward at the waist::,\n1.8::male upper body dominating the foreground::,\n1.8::female body partially visible behind him::,\n1.7::dynamic tilted composition::,\n1.7::wide-angle selfie lens::,\n1.7::strong perspective foreshortening::,\n\n2.0::modern South Korean high school interior::,\n1.9::bright school hallway::,\n1.8::large glass windows::,\n1.8::glass classroom doors::,\n1.7::light gray tiled flooring::,\n1.7::school desks and chairs visible through glass::,\n1.7::soft natural daylight entering through windows::,\n1.6::subtle sunlight reflections on the floor::,\n1.6::bright indoor daytime atmosphere::,\n1.6::realistic everyday Korean school setting::,\n\n2.0::matching Korean high school uniforms::,\n1.9::charcoal gray school blazers::,\n1.9::white collared dress shirts::,\n1.9::red and dark gray diagonal striped neckties::,\n\n2.0::female wearing a fitted charcoal gray school blazer::,\n1.9::white button-up shirt::,\n1.8::red striped school necktie::,\n1.9::short charcoal gray pleated school skirt::,\n1.7::white crew socks::,\n1.7::white lace-up sneakers::,\n\n2.0::male wearing a charcoal gray school blazer::,\n1.9::white button-up dress shirt::,\n1.9::loosely worn red striped necktie::,\n1.8::matching charcoal gray school trousers::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlg7qea.jpg?v=1792789172172",
+   "pos": "50.0% 2.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792788936254
+ "updatedAt": 1792789172990
 };

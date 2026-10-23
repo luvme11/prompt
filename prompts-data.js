@@ -16694,7 +16694,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlf99pc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::couple standing face to face with foreheads gently touching::,\n1.9::holding both hands between their bodies at waist level::,\n1.8::bodies angled slightly toward each other::,\n1.9::side-view medium full shot::,\n1.8::both profiles clearly visible::,\n\n2.0::elegant wedding hall::,\n1.8::white floral arch behind the couple::,\n1.8::crystal chandeliers and softly glowing candles::,\n1.7::warm ivory and gold lighting::,\n\n1.9::man wearing a black tuxedo, a white dress shirt, and a black bow tie::,\n1.9::woman wearing a white off-the-shoulder wedding gown with a fitted bodice and a full tulle skirt::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787264711
+ "updatedAt": 1792787280367
 };

@@ -16848,7 +16848,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfnlxz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::woman sitting astride a carousel horse::,\n1.9::woman holding the brass carousel pole with one hand::,\n1.9::man standing on the carousel platform beside her::,\n1.9::their free hands joined beside the saddle::,\n1.8::looking toward each other::,\n1.9::slightly low-angle medium full shot::,\n\n2.0::illuminated vintage carousel at dusk::,\n1.8::painted carousel horses and ornate gold trim::,\n1.8::rows of warm round light bulbs::,\n1.7::softly blurred amusement park lights::,\n\n1.9::man wearing a cream denim jacket, a striped t-shirt, and brown trousers::,\n1.9::woman wearing a light blue denim pinafore dress over a white puff-sleeved blouse and white sneakers::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787938674
+ "updatedAt": 1792787949438
 };

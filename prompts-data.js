@@ -17184,7 +17184,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlh6g29.jpg?v=1792790764050",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvlhc7lh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing on a narrow exterior maintenance walkway::,\n1.9::both hands resting on a metal safety railing::,\n1.8::upper body leaning slightly forward while looking down::,\n1.9::high rear three-quarter medium wide shot::,\n1.8::deep vertical perspective toward the streets below::,\n\n2.0::exterior of a colossal cyberpunk residential tower::,\n1.9::stacked balconies, air-conditioning units, and illuminated windows::,\n1.8::traffic far below between densely packed buildings::,\n1.7::humid night haze and scattered neon light::,\n\n2.0::long charcoal hooded technical coat::,\n1.9::layered black utility clothing::,\n1.8::tapered dark cargo trousers::,\n1.7::heavy boots and a compact messenger bag::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792790765049
+ "updatedAt": 1792790776101
 };

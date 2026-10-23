@@ -15856,7 +15856,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl6xwvx.jpg?v=1792773694762",
    "pos": "50.0% 66.0%",
    "soon": false
+  },
+  {
+   "id": "mvl76n6q",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing beneath a celestial star-filled ceiling::,\n2.0::one arm extended toward the foreground::,\n1.9::index finger tracing glowing constellations in the air::,\n1.9::luminous star lines following the fingertip::,\n1.8::other hand resting behind the body::,\n1.8::head turned toward the glowing stars::,\n1.9::close-up three-quarter composition::,\n1.9::strong hand foreshortening::,\n1.8::glowing fingertip in foreground::,\n\n2.0::celestial Greek divine attire::,\n1.9::deep midnight blue flowing chiton::,\n1.9::long navy ceremonial himation::,\n2.0::intricate golden constellation embroidery::,\n1.9::tiny golden stars decorating the fabric::,\n1.8::wide ornamental golden waist belt::,\n1.8::golden arm cuffs::,\n1.8::long flowing celestial cloak::,\n1.7::dark translucent layered fabric::,\n1.7::golden Greek sandals::,\n1.8::ethereal astronomical deity outfit::,\n\n2.0::celestial observatory on Mount Olympus::,\n1.9::gigantic open marble dome::,\n1.9::endless star-filled night sky::,\n1.8::golden astronomical rings::,\n1.8::ancient Greek celestial carvings::,\n1.7::floating points of starlight::,\n1.7::deep blue and golden illumination::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792773696532
+ "updatedAt": 1792773720601
 };

@@ -16052,7 +16052,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8dc0t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in a golden field::,\n2.0::holding a long bow lowered beside the body::,\n1.9::one hand lightly holding a single arrow::,\n1.9::upper body facing forward::,\n1.8::one leg relaxed slightly ahead::,\n1.8::chin angled toward the sunlight::,\n1.8::calm noble posture::,\n1.9::front three-quarter composition::,\n1.8::medium full shot::,\n\n2.0::sunlit laurel field::,\n1.9::golden grass moving in the breeze::,\n1.8::laurel trees in the background::,\n1.8::bright clear sky::,\n1.8::warm late-afternoon sunlight::,\n1.7::radiant pastoral atmosphere::,\n\n2.0::Apollo-inspired Greek divine attire::,\n1.9::white knee-length chiton::,\n1.9::gold-trimmed draped himation::,\n1.8::ornamental golden waist belt::,\n1.8::laurel-themed embroidery along the hem::,\n1.8::golden arm cuff::,\n1.7::decorative Greek sandals::,\n1.7::elegant flowing fabric::,\n1.7::subtle sun-symbol ornaments::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792775697582
+ "updatedAt": 1792775712171
 };

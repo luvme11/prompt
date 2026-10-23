@@ -15578,7 +15578,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvk7nlj6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::man and woman sitting side by side at lecture desks::,\n2.0::secretly holding hands beneath the desk::,\n1.9::fingers gently intertwined::,\n1.9::hands clearly visible in lower foreground::,\n1.8::both upper bodies facing forward::,\n1.8::woman glancing sideways toward man::,\n1.8::man looking forward while holding her hand::,\n1.9::low side-angle composition beneath desk level::,\n1.8::medium seated shot::,\n\n2.0::2004 university lecture classroom::,\n1.9::old wooden desks::,\n1.8::green chalkboard::,\n1.8::handwritten lecture notebooks::,\n1.7::warm daytime classroom lighting::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792714023259
+ "updatedAt": 1792714044870
 };

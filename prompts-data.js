@@ -16862,7 +16862,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfny93",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::couple lying on their stomachs side by side on a picnic blanket::,\n1.9::both propped up on their elbows::,\n1.9::woman pointing to a location on an unfolded paper map::,\n1.8::man looking down at the same spot on the map::,\n1.9::high-angle diagonal medium shot from above their heads::,\n1.8::map clearly visible between their forearms::,\n\n2.0::grassy riverside park in spring::,\n1.8::checkered picnic blanket and a wicker basket::,\n1.8::sandwich containers and bottled lemonade beside them::,\n1.7::dappled sunlight beneath a leafy tree::,\n\n1.9::man wearing a navy-and-white striped long-sleeved shirt and beige shorts::,\n1.9::woman wearing a pale green short-sleeved polo shirt and white denim shorts::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787949438
+ "updatedAt": 1792787965052
 };

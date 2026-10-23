@@ -15620,7 +15620,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl2mkx5.jpg?v=1792766356625",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvl3ghiy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 people, full body, head to toe visible,\n\n2.0::two people standing face to face::,\n2.0::side view composition::,\n1.9::one person standing on the left, the other on the right::,\n1.9::looking at each other::,\n1.9::left person tilting head upward::,\n1.9::right person looking downward::,\n1.8::standing close together without touching::,\n1.8::right person with both hands in trouser pockets::,\n1.8::left person holding the side of a flowing dress::,\n1.8::slightly low camera angle::,\n1.9::vertical full body composition::,\n1.8::both pairs of shoes visible::,\n\n2.0::left person wearing a pale blue flowing maxi dress::,\n1.9::fitted strapless bodice::,\n1.9::cinched waist with a large fabric bow::,\n1.8::layered flowing skirt::,\n1.8::delicate ruffled hems::,\n1.8::high side slit::,\n1.9::long dress billowing dramatically toward the left::,\n1.8::pale blue pointed-toe high heels::,\n\n2.0::right person wearing a pale blue oversized button-up shirt::,\n1.9::long loose sleeves::,\n1.8::small embroidered chest emblem::,\n1.8::untucked shirt::,\n1.9::loose black straight-leg trousers::,\n1.8::black low-top sneakers with white soles::,\n\n2.0::vast brilliant cobalt blue summer sky::,\n2.0::deep saturated azure sky::,\n1.9::large fluffy white cumulus clouds::,\n1.9::sunny Mediterranean seaside scenery::,\n1.9::calm shimmering blue sea::,\n1.8::distant white European coastal town::,\n1.8::terracotta rooftops::,\n1.8::distant white church bell tower::,\n1.8::stone waterfront promenade::,\n1.9::standing on a stone ledge beside the water::,\n1.8::strong summer sea breeze::,\n1.8::bright sunlight reflecting across the sea::,\n1.7::dramatic cloud formations::,\n1.7::clear summer afternoon::,\n1.7::cinematic natural lighting::,\n1.8::vast blue sky occupying most of the upper composition::"
+    }
+   ],
+   "img": "img/comp/mvl3ghiy.jpg?v=1792767462511",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792766357817
+ "updatedAt": 1792767463170
 };

@@ -15954,7 +15954,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl7f7vw.jpg?v=1792774335850",
    "pos": "50.0% 70.0%",
    "soon": false
+  },
+  {
+   "id": "mvl7sed6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing inside a gigantic temple doorway::,\n2.0::both arms extended outward::,\n1.9::both palms resting against opposite door frames::,\n1.9::body centered between enormous pillars::,\n1.8::head slightly lowered::,\n1.8::looking forward toward the camera::,\n1.9::perfectly symmetrical front view::,\n1.9::dramatic low camera angle::,\n1.8::full body silhouette composition::,\n\n2.0::majestic Olympian divine ceremonial attire::,\n1.9::pure white flowing ceremonial chiton::,\n2.0::elaborate gold embroidery along the entire garment::,\n1.9::long flowing white and gold ceremonial cape::,\n1.8::ornate golden shoulder ornaments::,\n1.8::wide engraved gold waist belt::,\n1.8::layered ivory ceremonial fabric::,\n1.8::golden wrist cuffs::,\n1.7::decorative golden Greek sandals::,\n1.8::regal heavenly clothing::,\n\n2.0::monumental entrance of Mount Olympus palace::,\n1.9::gigantic golden temple doors::,\n1.9::towering carved marble doorway::,\n1.8::brilliant sunlight pouring through the entrance::,\n1.8::thick white clouds outside::,\n1.8::long dramatic shadows across marble floor::,\n1.7::epic celestial atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792774337152
+ "updatedAt": 1792774735233
 };

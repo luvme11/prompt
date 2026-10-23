@@ -16108,7 +16108,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8opin",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting sideways among blooming red poppies::,\n1.9::one knee bent beside the body::,\n1.9::holding a ripe pomegranate on the lap::,\n1.8::other hand gently touching flower petals::,\n1.8::upper body leaning slightly forward::,\n1.9::high-angle three-quarter composition::,\n1.8::medium full shot::,\n\n2.0::vast field of red poppies::,\n1.9::wildflowers surrounding the subject::,\n1.8::ancient marble ruins in the distance::,\n1.8::soft purple-orange twilight::,\n\n2.0::Persephone-inspired Greek attire::,\n1.9::flowing ivory chiton::,\n1.9::deep burgundy draped himation::,\n1.8::golden pomegranate embroidery::,\n1.8::delicate gold waist chain::,\n1.7::layered flowing fabric::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792776238357
+ "updatedAt": 1792776242646
 };

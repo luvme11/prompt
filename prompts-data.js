@@ -16430,7 +16430,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlajc4c.jpg?v=1792779610967",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvlapuqn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing alone on an empty subway platform::,\n2.0::one hand holding a small pocket watch::,\n1.9::watch held near the chest::,\n1.8::other hand near the coat pocket::,\n1.8::still composed posture::,\n2.0::symmetrical front-facing composition::,\n1.8::medium full shot::,\n\n2.0::empty subway station at night::,\n1.9::long platform with overhead fluorescent lights::,\n1.8::subway tracks::,\n1.8::electronic signboards::,\n1.7::cold urban atmosphere::,\n\n2.0::long black coat::,\n1.9::dark vest over a collared shirt::,\n1.8::slim dark trousers::,\n1.8::polished boots::,\n1.7::black leather gloves::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779611959
+ "updatedAt": 1792779655455
 };

@@ -15547,8 +15547,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::woman sitting in front of a computer::,\n2.0::man standing directly behind woman::,\n1.9::man leaning forward over woman's shoulder::,\n1.9::one male hand pointing toward computer screen::,\n1.8::other male hand resting on desk edge::,\n1.8::woman holding computer mouse::,\n1.8::woman turning her head toward man::,\n1.9::camera positioned beside CRT monitor::,\n1.8::over-the-monitor perspective::,\n1.8::close upper body composition::,\n\n2.0::2004 Korean PC bang::,\n1.9::bulky CRT computer monitors::,\n1.8::wired keyboards and computer mice::,\n1.8::computer desks and old desktop towers::,\n1.7::dim fluorescent lighting::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk7iyfz.jpg?v=1792713985623",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -15566,5 +15566,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792713962890
+ "updatedAt": 1792713986476
 };

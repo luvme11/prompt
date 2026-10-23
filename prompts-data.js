@@ -16486,7 +16486,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlaqyu1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in front of an abandoned carousel::,\n1.9::one arm extended slightly to the side::,\n1.8::fingers posed as if controlling an illusion::,\n1.8::still theatrical posture::,\n1.9::wide full body composition::,\n1.8::slightly low cinematic angle::,\n\n2.0::abandoned amusement park at dusk::,\n1.9::rusted carousel horses::,\n1.8::fog drifting across the ground::,\n1.8::broken lights and worn amusement structures::,\n1.7::unsettling carnival atmosphere::,\n\n2.0::black fitted shirt::,\n1.9::long wine-colored coat::,\n1.8::dark belted trousers::,\n1.8::black boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779697133
+ "updatedAt": 1792779707424
 };

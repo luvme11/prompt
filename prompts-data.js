@@ -16985,10 +16985,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing on tiptoe and lifting a flowerpot from a high shelf with both hands::,\n1.9::both arms raised above shoulder level::,\n1.8::body angled slightly sideways::,\n1.9::low-angle medium full shot through foreground leaves::,\n1.8::flowerpot and hands clearly visible::,\n\n2.0::lush glass greenhouse in the morning::,\n1.8::wooden plant shelves and hanging fern baskets::,\n1.8::condensation on glass panels::,\n1.7::soft sunlight filtering through dense foliage::,\n\n1.9::cream short-sleeved blouse::,\n1.8::olive-green canvas gardening apron::,\n1.8::brown wide-leg trousers::,\n1.7::yellow gardening gloves and rubber ankle boots::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlg4f79.jpg?v=1792788838359",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792788733868
+ "updatedAt": 1792788839792
 };

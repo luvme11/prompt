@@ -16542,7 +16542,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlb70lj.jpg?v=1792780599703",
    "pos": "50.0% 44.0%",
    "soon": false
+  },
+  {
+   "id": "mvlca1ld",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, adult woman,\n2.0::soaking in a bathtub::,\n1.9::shoulders visible above thick bath foam::,\n2.0::opaque foam completely covering the chest and lower body::,\n1.8::both forearms resting along the bathtub rim::,\n1.8::relaxed reclining posture::,\n1.9::eye-level three-quarter medium shot::,\n1.8::bathtub rim blocking the view below the shoulders::,\n\n2.0::cozy apartment bathroom at night::,\n1.9::white ceramic bathtub::,\n1.8::warm bathroom lighting::,\n1.8::soft steam drifting through the room::,\n1.7::shampoo bottles on a small wall shelf::,\n1.7::quiet relaxing atmosphere::"
+    }
+   ],
+   "img": "img/comp/mvlca1ld.jpg?v=1792782278525",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792781795434
+ "updatedAt": 1792782279491
 };

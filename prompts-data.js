@@ -16514,7 +16514,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlarjgl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing at the center of a grand ruined hall::,\n2.0::both arms spread wide::,\n1.8::long coat falling heavily around the body::,\n1.8::still commanding posture::,\n2.0::symmetrical frontal composition::,\n1.9::wide shot emphasizing the surrounding space::,\n\n2.0::ruined cathedral-like hall::,\n1.9::long central aisle::,\n1.8::broken stained glass windows::,\n1.8::dust floating in shafts of light::,\n1.8::collapsed pews and worn stone floor::,\n1.7::ominous sacred atmosphere::,\n\n2.0::long black ceremonial coat::,\n1.9::dark high-neck inner layer::,\n1.8::ornamental belt details::,\n1.8::long dark gloves::,\n1.7::heavy black boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779718406
+ "updatedAt": 1792779734727
 };

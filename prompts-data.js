@@ -16427,10 +16427,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing in the center of an abandoned factory::,\n2.0::one arm extended toward the foreground::,\n1.9::metal fragments levitating around the body::,\n1.9::large foreground hand with strong foreshortening::,\n1.8::other arm slightly spread for balance::,\n1.8::dynamic three-quarter stance::,\n1.9::dramatic medium full shot::,\n\n2.0::abandoned industrial factory interior::,\n1.9::rusted beams and broken machinery::,\n1.8::shattered windows::,\n1.8::floating dust in dim light::,\n1.8::scattered debris across the floor::,\n\n2.0::dark gray fitted shirt::,\n1.9::black tactical vest or harness::,\n1.8::black utility trousers::,\n1.8::heavy boots::,\n1.7::forearm guards::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlajc4c.jpg?v=1792779610967",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792779566376
+ "updatedAt": 1792779611959
 };

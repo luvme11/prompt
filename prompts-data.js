@@ -17181,10 +17181,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting in a futuristic medical examination chair::,\n1.9::one forearm resting palm-up on an illuminated arm support::,\n1.9::other hand holding a diagnostic scanner above that forearm::,\n1.8::looking down toward the scanner::,\n1.9::slightly high-angle three-quarter medium shot::,\n\n2.0::automated cyberpunk medical clinic::,\n1.9::translucent medical screens and sealed equipment cabinets::,\n1.8::white wall panels with pale turquoise light strips::,\n1.7::clean clinical lighting::,\n\n2.0::white technical jumpsuit with the sleeves rolled to the elbows::,\n1.9::gray reinforced seams and turquoise zipper details::,\n1.8::black utility belt::,\n1.7::white technical boots::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlh6g29.jpg?v=1792790764050",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792790747776
+ "updatedAt": 1792790765049
 };

@@ -15740,7 +15740,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl4ksz4.jpg?v=1792769489393",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvl4vksv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::man and woman crouching face to face::,\n2.0::both reaching toward the same sheet of paper::,\n1.9::their fingertips almost touching::,\n1.9::scattered papers surrounding their hands::,\n1.8::man balancing on one knee::,\n1.8::woman kneeling close to the floor::,\n1.8::both looking down at the same paper::,\n1.9::extreme low camera angle::,\n1.8::hands prominently visible in foreground::,\n1.8::intimate diagonal composition::,\n\n2.0::2004 South Korean university copy room::,\n1.9::large old photocopy machine::,\n1.8::stacks of printed lecture notes::,\n1.8::wooden worktables::,\n1.7::fluorescent ceiling lights::,\n1.7::nostalgic campus atmosphere::"
+    }
+   ],
+   "img": "img/comp/mvl4vksv.jpg?v=1792769846965",
+   "pos": "50.0% 52.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792769490092
+ "updatedAt": 1792769872707
 };

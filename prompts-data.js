@@ -16107,8 +16107,8 @@ window.PROMPT_DATA = {
    ],
    "img": "",
    "pos": "50% 50%",
-   "soon": true
+   "soon": false
   }
  ],
- "updatedAt": 1792776112848
+ "updatedAt": 1792776125267
 };

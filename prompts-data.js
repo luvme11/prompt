@@ -16733,8 +16733,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::man pausing mid-step and turning back toward the woman::,\n1.9::woman standing one step behind him and holding his jacket sleeve::,\n1.9::man carrying a small suitcase in his other hand::,\n1.8::space between their bodies bridged by her extended arm::,\n1.9::eye-level medium wide shot::,\n\n2.0::quiet railway platform in the early morning::,\n1.8::stationary passenger train beside the platform::,\n1.8::pale morning mist and long platform shadows::,\n1.7::soft golden light beneath the station canopy::,\n\n1.9::man wearing a brown corduroy jacket, a cream sweater, and dark straight-leg trousers::,\n1.9::woman wearing a navy duffle coat, a red plaid scarf, and a gray midi skirt::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlffq1e.jpg?v=1792787813283",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -16780,5 +16780,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792787789492
+ "updatedAt": 1792787814252
 };

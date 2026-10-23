@@ -17114,7 +17114,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlgyrpf.jpg?v=1792790456351",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlh5k53",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting on a stool at a street food counter::,\n1.9::lifting noodles from a steaming bowl with chopsticks::,\n1.8::other hand resting beside the bowl::,\n1.8::upper body leaning slightly toward the food::,\n1.9::counter-level frontal medium shot::,\n\n2.0::cyberpunk noodle stall beneath an elevated highway at night::,\n1.9::glowing menu panels and hanging red lanterns::,\n1.8::steam rising beneath a patched metal awning::,\n1.8::rain and blurred neon lights beyond the counter::,\n1.7::warm stall lighting against a cold blue street::,\n\n2.0::mustard yellow cropped puffer jacket::,\n1.9::black ribbed high-neck top::,\n1.8::dark brown utility trousers::,\n1.7::black fingerless gloves tucked into a jacket pocket::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792790457337
+ "updatedAt": 1792790466364
 };

@@ -17156,7 +17156,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlh68bo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::reclining sideways along a curved lounge sofa::,\n1.9::upper body supported on one elbow::,\n1.8::other arm resting loosely over the sofa edge::,\n1.8::legs extended along the cushions::,\n1.9::eye-level medium wide shot::,\n\n2.0::luxurious cyberpunk penthouse at night::,\n1.9::floor-to-ceiling windows overlooking an enormous illuminated city::,\n1.8::minimalist black furniture and a low glass table::,\n1.7::soft violet interior lighting and distant neon glow::,\n\n2.0::silver satin asymmetrical evening dress::,\n1.9::one-shoulder neckline::,\n1.8::draped waist and ankle-length skirt with a side slit::,\n1.7::metallic heeled sandals and a wide silver bracelet::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792790490552
+ "updatedAt": 1792790497464
 };

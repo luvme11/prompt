@@ -15754,7 +15754,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl4vksv.jpg?v=1792769846965",
    "pos": "50.0% 52.0%",
    "soon": false
+  },
+  {
+   "id": "mvl6b5o3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo,\n2.0::sitting on an enormous divine throne::,\n1.9::relaxed asymmetrical seated pose::,\n1.9::one elbow resting on the throne armrest::,\n1.9::chin supported by one hand::,\n1.8::other arm resting loosely on opposite armrest::,\n1.8::one leg extended forward::,\n1.8::other knee slightly bent::,\n1.9::looking down toward viewer::,\n2.0::extreme low angle::,\n1.9::worm's-eye view::,\n1.8::centered majestic composition::,\n\n2.0::ancient Greek throne room on Mount Olympus::,\n1.9::gigantic golden throne::,\n1.9::towering white marble columns::,\n1.8::golden architectural ornaments::,\n1.8::enormous temple hall above the clouds::,\n1.7::clouds drifting between pillars::,\n1.8::dramatic divine sunlight::,\n1.7::heavenly golden atmosphere::,"
+    },
+    {
+     "label": "의상",
+     "text": "white Greek goddess dress, deep V-neckline, very large bust, fitted bust, empire waist, flowing white chiffon, gold cords beneath bust, sleeveless, sheer shoulder drapes, gold upper arm cuffs"
+    }
+   ],
+   "img": "img/comp/mvl6b5o3.jpg?v=1792772252551",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792769872707
+ "updatedAt": 1792772253313
 };

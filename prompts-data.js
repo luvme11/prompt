@@ -16357,7 +16357,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::crouching in front of a front-loading washing machine::,\n1.9::one palm resting against the round glass door::,\n1.9::other arm resting across a bent knee::,\n1.8::upper body leaning toward the washing machine::,\n2.0::camera positioned behind the washing machine window::,\n1.9::circular glass framing the subject::,\n1.8::close-up frontal composition::,\n\n2.0::small Korean self-service laundromat::,\n1.9::rows of coin-operated washing machines::,\n1.8::plastic laundry baskets::,\n1.8::old tiled floor::,\n1.7::cool fluorescent indoor lighting::,\n\n2.0::oversized gray zip-up hoodie::,\n1.9::black athletic shorts::,\n1.8::white casual sneakers::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl9x5z9.jpg?v=1792778548977",
    "pos": "50% 50%",
    "soon": false
   },
@@ -16376,5 +16376,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792778539128
+ "updatedAt": 1792778549649
 };

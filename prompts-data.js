@@ -16747,8 +16747,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::couple facing each other on an ice rink and holding both hands::,\n1.9::man skating backward while gently guiding the woman forward::,\n1.9::woman bending her knees slightly to keep her balance::,\n1.8::their joined arms extended between them::,\n1.9::diagonal full body composition::,\n1.8::both pairs of skates visible::,\n\n2.0::outdoor ice rink on a winter evening::,\n1.8::festive string lights above the ice::,\n1.8::snow gathered along the rink barriers::,\n1.7::soft reflections across the ice surface::,\n\n1.9::man wearing a forest green puffer jacket, beige trousers, and black ice skates::,\n1.9::woman wearing a cream fleece jacket, burgundy trousers, and white ice skates::,\n1.7::both wearing knitted gloves::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlffywu.jpg?v=1792787829132",
+   "pos": "50.0% 50.0%",
    "soon": false
   },
   {
@@ -16780,5 +16780,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792787814252
+ "updatedAt": 1792787829798
 };

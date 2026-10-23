@@ -16946,7 +16946,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfyelk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing on a small stage and leaning toward a microphone::,\n1.9::one hand gripping the microphone at the top of the stand::,\n1.9::other hand holding the microphone stand lower down::,\n1.8::one foot positioned slightly forward::,\n1.9::low-angle medium full shot from the stage edge::,\n\n2.0::underground live music venue::,\n1.8::dark stage with amplifiers and coiled cables::,\n1.8::red spotlights and blue rim lighting::,\n1.7::light stage haze::,\n\n1.9::black sleeveless high-neck top::,\n1.8::red tartan trousers with silver chain details::,\n1.8::black lace-up combat boots::,\n1.7::black wristbands::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792788440557
+ "updatedAt": 1792788452538
 };

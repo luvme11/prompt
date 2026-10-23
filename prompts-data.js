@@ -16677,8 +16677,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::couple standing face to face beside a bathroom sink::,\n2.0::woman adjusting the man's necktie with both hands::,\n1.9::man lowering his head slightly toward her::,\n1.8::man's arms relaxed at his sides::,\n1.9::side three-quarter medium close-up::,\n1.8::hands and necktie clearly visible between them::,\n\n2.0::elegant apartment washroom in the morning::,\n1.8::white ceramic sink and marble countertop::,\n1.8::soft daylight from a frosted window::,\n1.7::warm wall lighting::,\n\n1.9::man wearing a white dress shirt, a loosely tied black necktie, and black suit trousers::,\n1.9::woman wearing a pale pink satin blouse and a cream high-waisted skirt::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlf8pkn.jpg?v=1792787419834",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -16710,5 +16710,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792787406982
+ "updatedAt": 1792787420510
 };

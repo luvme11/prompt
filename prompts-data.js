@@ -16514,7 +16514,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlar6t8.jpg?v=1792779913509",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvlb4dxt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "extreme close-up, face filling the frame, tilted head, slightly low camera angle, diagonal composition, both eyes visible,\n\nannoyed expression, half-lidded eyes, furrowed eyebrows, displeased pout, flushed cheeks, looking sideways at viewer,\n\nmultiple colorful smiley face stickers and tiny pink heart stickers scattered across both cheeks, yellow and green round stickers,\n\nfirst-person POV, only viewer's hand visible, large hand entering from the bottom right, thumb pressing a yellow smiley sticker onto the character's cheek, cheek slightly squished beneath the thumb, remaining fingers supporting the chin, natural hand anatomy,\n\ndramatic foreshortening, dark simple background, playful teasing atmosphere"
+    }
+   ],
+   "img": "img/comp/mvlb4dxt.jpg?v=1792780334784",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779919802
+ "updatedAt": 1792780335637
 };

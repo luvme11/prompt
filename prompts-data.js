@@ -16620,7 +16620,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlezlur.jpg?v=1792786830486",
    "pos": "32.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvlf3q59",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo,\n2.0::leaning back against a wall::,\n2.0::arms folded tightly across the torso::,\n1.9::one hand gripping the opposite upper arm::,\n1.8::shoulders slightly hunched::,\n1.8::head tilted slightly to one side::,\n2.0::cigarette held between the lips::,\n1.9::cigarette angled downward from the mouth::,\n1.8::both hands remaining tucked against the arms::,\n1.8::looking toward the viewer::,\n1.9::eye-level upper body shot::,\n1.8::framing from head to waist::,\n1.8::vertical composition::,\n\n2.0::narrow urban alley at night::,\n1.9::weathered concrete wall directly behind the subject::,\n1.8::dim streetlights::,\n1.8::exposed pipes and utility cables::,\n1.8::faint distant neon glow::,\n1.7::deep shadows along the alley::,\n1.7::hard frontal lighting illuminating the subject::,\n1.7::quiet late-night atmosphere::,"
+    },
+    {
+     "label": "의상",
+     "text": "2.0::fitted black short-sleeved crop top::,\n1.9::plain black fabric::,\n1.8::round neckline::,\n1.8::short hem exposing the midriff::,\n1.8::silver chain necklace::"
+    }
+   ],
+   "img": "img/comp/mvlf3q59.jpg?v=1792787022807",
+   "pos": "50.0% 86.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792786831973
+ "updatedAt": 1792787023629
 };

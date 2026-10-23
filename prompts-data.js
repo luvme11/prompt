@@ -16360,7 +16360,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl9xbk6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting alone at a small dining table::,\n2.0::eating instant noodles from a cooking pot::,\n1.9::one hand holding chopsticks with lifted noodles::,\n1.9::noodles hanging above the steaming pot::,\n1.8::other hand resting beside the pot::,\n1.8::upper body leaning toward the food::,\n1.9::intimate table-level camera perspective::,\n1.8::front three-quarter medium close-up::,\n\n2.0::small Korean studio apartment at night::,\n1.9::low wooden dining table::,\n1.8::steaming pot of instant ramen::,\n1.8::glass of water beside the pot::,\n1.8::dim apartment interior::,\n1.7::single warm kitchen light::,\n1.7::quiet midnight atmosphere::,\n\n2.0::oversized white short-sleeved t-shirt::,\n1.9::light gray checkered pajama shorts::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792778316993
+ "updatedAt": 1792778323912
 };

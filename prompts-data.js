@@ -16220,7 +16220,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8ylwd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::kneeling among dew-covered wildflowers::,\n1.9::one knee resting on the grass::,\n2.0::holding a small golden bowl beneath a flower::,\n1.9::other hand gently touching a flower stem::,\n1.8::upper body leaning toward the blossoms::,\n1.9::camera positioned among foreground flowers::,\n1.8::close three-quarter perspective::,\n1.8::medium shot::,\n\n2.0::misty meadow at sunrise::,\n1.9::countless dew-covered wildflowers::,\n1.9::soft pink and peach sunrise sky::,\n1.8::gentle morning fog::,\n1.8::rolling green hills in the distance::,\n\n2.0::Eos-inspired Greek dawn attire::,\n1.9::pale pink and apricot flowing chiton::,\n1.9::translucent peach-colored himation::,\n1.8::delicate golden embroidered borders::,\n1.8::thin decorative gold waist cord::,\n1.7::long flowing ceremonial fabric::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792776695608
+ "updatedAt": 1792776704805
 };

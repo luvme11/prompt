@@ -16444,7 +16444,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlaq0z1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in a tense low stance::,\n1.9::both arms slightly spread from the body::,\n1.9::energy radiating from both hands::,\n1.8::knees slightly bent::,\n1.8::body leaning forward as if power is surging::,\n1.9::dramatic low-angle view::,\n1.8::medium full shot::,\n\n2.0::sterile research laboratory::,\n1.9::broken glass containment chamber::,\n1.8::medical monitors and lab equipment::,\n1.8::flashing red warning lights::,\n1.7::cold white laboratory lighting::,\n\n2.0::white experimental patient-style top::,\n1.9::dark jogger pants::,\n1.8::restraint bands around the wrists::,\n1.7::light indoor footwear::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779655455
+ "updatedAt": 1792779663403
 };

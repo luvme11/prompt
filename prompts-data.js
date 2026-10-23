@@ -15726,7 +15726,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl4ksz4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::man sitting on a wooden campus bench::,\n2.0::woman sitting sideways on man's lap::,\n1.9::woman wrapping one arm around man's neck::,\n1.9::man wrapping one arm around woman's waist::,\n1.8::woman's legs extending sideways across the bench::,\n1.8::man looking upward toward woman's face::,\n1.8::woman leaning slightly toward man::,\n1.8::faces positioned close together::,\n1.9::intimate side three-quarter view::,\n1.8::medium full shot::,\n\n2.0::2004 Korean university campus at dawn::,\n1.9::old wooden campus bench::,\n1.8::empty campus courtyard::,\n1.8::quiet university buildings::,\n1.7::pale pink early morning sky::,\n1.7::soft nostalgic dawn lighting::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792769329379
+ "updatedAt": 1792769342030
 };

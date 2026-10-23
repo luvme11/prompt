@@ -15592,7 +15592,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvk7nlj6.jpg?v=1792714172177",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvl2m6o5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying on back on a bed, overhead view, waist-up composition, diagonally framed,one arm raised above the head, hand resting near the hair, other hand lightly touching the glasses frame, looking at viewer, relaxed expression, slightly parted lips,black rectangular glasses, white button-up shirt, open collar, loosely buttoned shirt, shirt hem slightly lifted, partially exposed midriff, loosely knotted black necktie draped across the chest, blue lanyard with an office ID badge, black trousers,silver-gray pillows, rumpled gray bedding, muted mauve upholstered headboard,soft indoor lighting, gentle shadows, muted colors, intimate casual snapshot atmosphere"
+    }
+   ],
+   "img": "img/comp/mvl2m6o5.jpg?v=1792766049948",
+   "pos": "50.0% 0.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792714624624
+ "updatedAt": 1792766050655
 };

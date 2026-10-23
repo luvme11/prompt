@@ -16332,7 +16332,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl9wy5d",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::arranging freshly baked bread in a bakery display::,\n2.0::holding a wooden bread tray with both hands::,\n1.9::upper body leaning forward over the display counter::,\n1.9::carefully sliding the tray onto a shelf::,\n1.9::camera positioned inside the bakery display case::,\n1.8::fresh bread dominating the foreground::,\n1.8::close three-quarter composition::,\n\n2.0::small Korean neighborhood bakery::,\n1.9::glass pastry display counter::,\n1.9::wooden bread shelves::,\n1.8::fresh croissants and soft bread rolls::,\n1.8::warm golden bakery lighting::,\n\n2.0::white short-sleeved collared shirt::,\n1.9::olive-green work apron::,\n1.8::brown cotton trousers::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792778287371
+ "updatedAt": 1792778307144
 };

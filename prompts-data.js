@@ -15853,10 +15853,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::kneeling beside a sacred reflecting pool::,\n1.9::one knee resting on the marble floor::,\n1.9::upper body leaning toward the water::,\n2.0::one hand hovering above the water surface::,\n1.9::fingertips almost touching the water::,\n1.8::other hand resting on raised knee::,\n1.8::looking downward at the reflection::,\n1.9::high-angle three-quarter view::,\n1.8::face and hand reflected in water::,\n\n2.0::ancient Greek oracle sanctuary::,\n1.9::sacred circular reflecting pool::,\n1.9::white marble floor::,\n1.8::golden ceremonial braziers::,\n1.8::mysterious glowing water::,\n1.8::ancient stone columns::,\n1.7::soft blue and gold magical lighting::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl6xwvx.jpg?v=1792773694762",
+   "pos": "50.0% 66.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792773678152
+ "updatedAt": 1792773696532
 };

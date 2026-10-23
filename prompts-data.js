@@ -15783,8 +15783,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::walking slowly down enormous marble stairs::,\n1.9::one foot stepping onto a lower step::,\n1.8::body facing slightly diagonally::,\n1.8::head tilted downward::,\n1.9::looking down toward viewer::,\n1.8::arms resting naturally beside body::,\n1.9::dramatic low-angle perspective::,\n1.8::full body shot::,\n1.8::long staircase leading lines::,\n\n2.0::grand staircase of Mount Olympus::,\n1.9::endless white marble steps::,\n1.9::ancient Greek temple above the clouds::,\n1.8::gigantic marble pillars::,\n1.8::golden statues along staircase::,\n1.8::thick clouds surrounding the steps::,\n1.7::bright heavenly sunlight::,\n1.7::epic mythological atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl6c4gs.jpg?v=1792772516754",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -15802,5 +15802,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792772309514
+ "updatedAt": 1792772517398
 };

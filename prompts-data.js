@@ -16789,8 +16789,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::couple standing side by side and holding hands in front of a giant aquarium window::,\n1.9::man facing the aquarium::,\n1.9::woman turning her head toward the man::,\n1.8::their joined hands resting between them::,\n1.9::rear three-quarter medium wide shot::,\n\n2.0::dark aquarium observation hall::,\n1.8::enormous blue aquarium window filling the background::,\n1.8::schools of fish and a ray swimming overhead::,\n1.7::rippling blue light reflected across the floor::,\n\n1.9::man wearing a light gray bomber jacket over a black t-shirt and navy trousers::,\n1.9::woman wearing a lavender long-sleeved blouse, a white A-line midi skirt, and a small crossbody bag::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlfmgmx.jpg?v=1792788093947",
+   "pos": "50.0% 42.0%",
    "soon": false
   },
   {
@@ -16906,5 +16906,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792787985199
+ "updatedAt": 1792788094455
 };

@@ -16136,7 +16136,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8pb8d",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting sideways on a large fallen tree trunk::,\n1.9::one knee raised on the trunk::,\n1.9::other leg hanging toward the forest floor::,\n1.8::one forearm resting across the raised knee::,\n1.8::other hand supporting the body on the trunk::,\n1.9::side three-quarter view::,\n1.8::slightly low camera angle::,\n1.8::medium full shot::,\n\n2.0::ancient moonlit Greek forest::,\n1.9::towering woodland trees::,\n1.9::dense ferns and wild herbs::,\n1.8::tiny fireflies among the leaves::,\n1.8::silver moonlight filtering through branches::,\n\n2.0::Artemis-inspired Greek attire::,\n1.9::short silver-white chiton::,\n1.9::dark forest-green shoulder mantle::,\n1.8::thin leather waist belt::,\n1.8::leather arm bracers::,\n1.7::strapped ancient Greek sandals::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792776260260
+ "updatedAt": 1792776271935
 };

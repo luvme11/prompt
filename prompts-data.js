@@ -16234,7 +16234,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl8ylwd.jpg?v=1792776927656",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvl9j7cp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::convenience store cashier standing behind the checkout counter::,\n2.0::front view of the cashier from the customer's perspective::,\n2.0::viewer standing directly in front of the checkout counter::,\n1.9::cashier facing the viewer across the counter::,\n1.9::both forearms resting on the checkout counter::,\n1.8::upper body leaning slightly forward::,\n1.9::looking directly at the customer::,\n1.9::eye-level customer POV::,\n1.8::front-facing medium shot::,\n1.8::checkout counter separating cashier and viewer::,\n1.8::cash register and card payment terminal on the counter::,\n\n2.0::typical South Korean neighborhood convenience store interior::,\n2.0::large cigarette display shelves directly behind the cashier::,\n2.0::rows of cigarette packs displayed on the wall behind the counter::,\n1.9::Korean convenience store tobacco display wall::,\n1.9::rectangular cigarette pack compartments arranged in neat rows::,\n1.8::cigarette brands and price labels behind the cashier::,\n1.7::small candy and gum displays beside the register::,\n1.7::bright white fluorescent ceiling lighting::,\n1.6::realistic Korean convenience store checkout area::,\n\n2.0::light blue short-sleeved convenience store uniform::,\n1.9::navy blue work apron::,\n1.8::small rectangular name tag::,\n1.7::simple dark work trousers::"
+    }
+   ],
+   "img": "img/comp/mvl9j7cp.jpg?v=1792777666873",
+   "pos": "50.0% 36.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792776928489
+ "updatedAt": 1792777668161
 };

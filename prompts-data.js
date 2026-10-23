@@ -16458,7 +16458,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlaqd1s",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting sideways on top of a classroom desk::,\n1.9::one leg hanging down::,\n1.8::other leg bent on the desk::,\n2.0::one hand holding a glowing sphere of energy::,\n1.8::other hand braced behind the body::,\n1.9::three-quarter classroom composition::,\n1.8::medium full shot::,\n\n2.0::empty classroom at night::,\n1.9::rows of desks and chairs::,\n1.8::dark chalkboard::,\n1.8::large classroom windows showing the night sky::,\n1.7::dim indoor lighting::,\n\n2.0::dark school blazer::,\n1.9::white collared shirt::,\n1.8::loosely worn necktie::,\n1.8::dark slacks::,\n1.7::black formal school shoes::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779663403
+ "updatedAt": 1792779679198
 };

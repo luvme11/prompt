@@ -16971,10 +16971,10 @@ window.PROMPT_DATA = {
      "text": "solo, adult,\n2.0::standing beneath an outdoor beach shower::,\n1.9::one hand holding the shower valve::,\n1.8::head tilted slightly upward into the falling water::,\n1.8::other arm relaxed beside the body::,\n1.9::side-view medium shot::,\n1.8::water droplets catching the sunlight::,\n\n2.0::open-air shower area beside a sandy beach::,\n1.8::weathered wooden privacy partitions::,\n1.8::ocean visible beyond the shower area::,\n1.7::bright late-afternoon sunlight::,\n\n1.9::opaque black short-sleeved rash guard::,\n1.8::blue drawstring board shorts::,\n1.7::waterproof sports watch::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlfz3eb.jpg?v=1792788714451",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792788538613
+ "updatedAt": 1792788715136
 };

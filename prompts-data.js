@@ -17027,10 +17027,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::leaning forward over a billiard table to line up a shot::,\n1.9::one hand forming a bridge on the table felt::,\n1.9::other hand gripping the rear of the pool cue::,\n1.8::pool cue aligned toward a white cue ball::,\n1.9::table-level three-quarter medium shot::,\n1.8::cue ball prominent in the foreground::,\n\n2.0::old-fashioned billiard hall at night::,\n1.8::green felt table beneath hanging brass lamps::,\n1.8::dark wooden walls and cue racks::,\n1.7::focused overhead lighting::,\n\n1.9::fitted black button-up shirt with rolled sleeves::,\n1.8::gray checked waistcoat::,\n1.8::black tailored trousers::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlghwjy.jpg?v=1792789500975",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792789412441
+ "updatedAt": 1792789502116
 };

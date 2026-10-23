@@ -16750,7 +16750,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfg7lv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::woman using both hands to position a festival fox mask on top of the man's head::,\n1.9::man bending forward slightly toward her::,\n1.8::man holding a paper fan loosely at his side::,\n1.9::side three-quarter medium shot::,\n1.8::raised hands and festival mask clearly visible::,\n\n2.0::Japanese summer festival at night::,\n1.8::rows of glowing paper lanterns::,\n1.8::wooden festival stalls softly blurred behind the couple::,\n1.7::warm lantern light against the dark evening sky::,\n\n1.9::man wearing a dark navy yukata with a gray obi and wooden geta sandals::,\n1.9::woman wearing a pale yellow yukata with small floral patterns, a coral obi, and wooden geta sandals::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787592247
+ "updatedAt": 1792787603318
 };

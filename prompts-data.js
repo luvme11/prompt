@@ -16248,7 +16248,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl9j7cp.jpg?v=1792777666873",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvl9lt7u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::crouching in front of an open beverage refrigerator::,\n1.9::one hand holding the refrigerator door::,\n1.9::other hand placing a canned drink on the lower shelf::,\n1.8::upper body leaning toward the refrigerator::,\n2.0::camera positioned inside the refrigerator::,\n1.9::POV through rows of beverage cans::,\n1.8::slightly low close-up perspective::,\n\n2.0::Korean convenience store beverage section::,\n1.9::glass-door drink refrigerators::,\n1.8::neatly arranged canned beverages::,\n1.8::cool white refrigerator lighting::,\n1.7::small water droplets on glass::,\n\n2.0::light gray short-sleeved work uniform::,\n1.9::blue waist apron::,\n1.8::black cotton trousers::,\n1.7::simple sneakers::"
+    }
+   ],
+   "img": "img/comp/mvl9lt7u.jpg?v=1792777788613",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792777668161
+ "updatedAt": 1792777789276
 };

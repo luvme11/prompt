@@ -16472,7 +16472,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlaqqq7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting on a concrete stair landing::,\n1.9::one elbow resting on a raised knee::,\n1.8::other hand hanging loosely beside the body::,\n1.8::head angled slightly downward::,\n1.9::diagonal stair composition::,\n1.8::slightly low camera angle::,\n1.8::medium full shot::,\n\n2.0::industrial emergency stairwell::,\n1.9::cold concrete walls::,\n1.8::metal railings::,\n1.8::harsh fluorescent ceiling lights::,\n1.7::gritty urban atmosphere::,\n\n2.0::rolled-sleeve dark shirt::,\n1.9::black suspenders or tactical harness::,\n1.8::dark straight trousers::,\n1.8::heavy work boots::,\n1.7::dark gloves::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792779679198
+ "updatedAt": 1792779697133
 };

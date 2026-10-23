@@ -16091,10 +16091,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing in a blooming rose field::,\n2.0::holding a small ornate bow toward the side::,\n1.9::one hand lifting a single arrow near the chest::,\n1.9::body angled lightly toward the viewer::,\n1.8::one foot stepping forward through the flowers::,\n1.8::playful elegant pose::,\n1.9::slightly low camera angle::,\n1.8::medium shot::,\n\n2.0::lush rose meadow::,\n1.9::pink and red roses blooming across the field::,\n1.8::soft drifting petals in the air::,\n1.8::bright spring sky::,\n1.7::gentle romantic sunlight::,\n1.7::dreamlike mythological garden atmosphere::,\n\n2.0::Greek divine romantic attire::,\n1.9::soft white short chiton::,\n1.9::rose-pink draped shoulder cloth::,\n1.8::golden ribbon-like waist belt::,\n1.8::ornamental floral embroidery::,\n1.8::small quiver with decorative arrows::,\n1.7::delicate sandals::,\n1.7::light airy fabric layers::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl8e5av.jpg?v=1792775956134",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792775936393
+ "updatedAt": 1792775957299
 };

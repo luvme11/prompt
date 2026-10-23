@@ -15909,7 +15909,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::reclining sideways on an ancient Greek banquet couch::,\n1.9::upper body supported by one bent elbow::,\n1.9::one hand holding a golden goblet::,\n1.9::goblet raised slightly toward the viewer::,\n1.8::legs stretched diagonally along the couch::,\n1.8::head slightly tilted toward camera::,\n1.9::three-quarter side view::,\n1.8::slightly high camera angle::,\n1.8::medium full shot::,\n\n2.0::luxurious ancient Greek banquet attire::,\n1.9::soft cream-colored linen chiton::,\n1.9::deep burgundy draped himation::,\n1.9::gold-trimmed fabric edges::,\n1.8::loosely draped layered cloth::,\n1.8::ornate golden shoulder brooch::,\n1.8::delicate gold waist chain::,\n1.7::golden bracelets::,\n1.7::ancient Greek decorative sandals::,\n1.8::elegant relaxed divine clothing::,\n\n2.0::divine banquet hall on Mount Olympus::,\n1.9::ancient Greek marble banquet couches::,\n1.9::golden drinking vessels::,\n1.8::low marble tables with grapes and figs::,\n1.8::open arches overlooking the clouds::,\n1.8::towering ivory-colored columns::,\n1.7::warm golden evening sunlight::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl7ejjb.jpg?v=1792774281695",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15956,5 +15956,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792774254425
+ "updatedAt": 1792774282662
 };

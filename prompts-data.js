@@ -16262,7 +16262,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl9lt7u.jpg?v=1792777788613",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvl9mfua",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing behind a supermarket shopping cart::,\n1.9::both forearms folded over the cart handle::,\n1.9::chin resting lightly on folded arms::,\n1.8::shopping cart positioned between camera and subject::,\n1.9::camera positioned inside the shopping cart::,\n1.9::low-angle POV composition::,\n1.8::medium close-up::,\n\n2.0::large Korean supermarket interior::,\n1.9::long grocery aisles::,\n1.8::shelves filled with snacks and instant noodles::,\n1.8::bright supermarket fluorescent lights::,\n1.7::colorful food packaging::,\n\n2.0::oversized cream short-sleeved t-shirt::,\n1.9::light blue denim shorts::,\n1.8::white casual sneakers::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792777789276
+ "updatedAt": 1792777816388
 };

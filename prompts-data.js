@@ -16024,7 +16024,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl7t92z.jpg?v=1792775035123",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8cv6k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in a wide flower-filled meadow::,\n2.0::holding a bow in one hand::,\n1.9::the other hand drawing an arrow from a quiver::,\n1.9::body turned in a three-quarter stance::,\n1.8::one foot slightly forward in the grass::,\n1.8::head angled toward the distant horizon::,\n1.8::light breeze moving the fabric::,\n1.9::medium full shot::,\n1.8::slightly low camera angle::,\n\n2.0::vast spring meadow::,\n1.9::wildflowers scattered across the field::,\n1.8::distant forest edge::,\n1.8::soft golden afternoon sunlight::,\n1.7::clear open sky::,\n1.7::gentle natural atmosphere::,\n\n2.0::ancient Greek huntress attire::,\n1.9::short white chiton designed for movement::,\n1.9::soft sage-green draped shoulder mantle::,\n1.8::brown leather waist belt::,\n1.8::quiver strapped at the back::,\n1.8::leather forearm bracers::,\n1.7::strapped Greek sandals::,\n1.7::light flowing fabric::,\n1.7::subtle silver crescent ornament::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792775036091
+ "updatedAt": 1792775690750
 };

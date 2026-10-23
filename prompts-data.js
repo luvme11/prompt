@@ -17030,7 +17030,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlghwjy.jpg?v=1792789500975",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlgmpzc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::leaning against the side of a parked car::,\n1.9::one hand raising a glass soda bottle to the lips::,\n1.8::other hand tucked into a trouser pocket::,\n1.8::one knee loosely bent::,\n1.9::slightly low-angle medium full shot::,\n\n2.0::isolated roadside gas station in a desert::,\n1.8::old fuel pumps beneath a weathered canopy::,\n1.8::empty highway and distant rocky hills::,\n1.7::harsh late-afternoon sunlight and long shadows::,\n\n1.9::faded red short-sleeved work shirt worn open over a white tank top::,\n1.8::black straight-leg jeans::,\n1.7::worn brown boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792789502116
+ "updatedAt": 1792789586850
 };

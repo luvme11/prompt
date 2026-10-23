@@ -16806,7 +16806,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfmypw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::man raising their joined hands above the woman's head::,\n2.0::woman twirling beneath their joined hands::,\n1.9::woman's skirt flaring outward with the turn::,\n1.8::their free arms extended slightly for balance::,\n1.9::dynamic full body shot::,\n1.8::three-quarter camera angle::,\n\n2.0::grand European ballroom at night::,\n1.8::crystal chandeliers and tall arched windows::,\n1.8::polished parquet dance floor::,\n1.7::warm golden lighting and subtle motion blur at the skirt hem::,\n\n1.9::man wearing a black tailcoat, a white waistcoat, black formal trousers, and polished dress shoes::,\n1.9::woman wearing an emerald green off-the-shoulder evening gown with a full flowing skirt and matching heels::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787912816
+ "updatedAt": 1792787918549
 };

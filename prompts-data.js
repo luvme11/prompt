@@ -16290,7 +16290,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl9t0ni.jpg?v=1792778255652",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl9w2ha",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::walking along a quiet residential street::,\n2.0::carrying heavy grocery bags in both hands::,\n1.9::arms hanging downward from the weight of the bags::,\n1.9::upper body leaning slightly to one side::,\n1.8::one foot stepping forward::,\n1.9::slightly low frontal camera angle::,\n1.8::dynamic full body shot::,\n\n2.0::early 2000s Korean residential neighborhood::,\n1.9::narrow neighborhood alley::,\n1.8::old brick walls::,\n1.8::utility poles and small local shops::,\n1.7::warm late afternoon sunlight::,\n\n2.0::soft pink short-sleeved t-shirt::,\n1.9::ivory cotton maxi skirt::,\n1.8::comfortable flat sandals::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792778256929
+ "updatedAt": 1792778265970
 };

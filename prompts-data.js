@@ -14877,7 +14877,7 @@ window.PROMPT_DATA = {
    ],
    "img": "img/comp/mvjzfwyd.jpg?v=1792700251409",
    "pos": "50.0% 16.0%",
-   "soon": false
+   "soon": true
   },
   {
    "id": "mvjzpvqm",
@@ -15594,5 +15594,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792714585692
+ "updatedAt": 1792714594611
 };

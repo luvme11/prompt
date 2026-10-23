@@ -17153,7 +17153,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing behind an electronics stall::,\n1.9::one hand extending a small glowing device toward the camera::,\n1.8::other hand resting on the counter::,\n1.8::upper body leaning forward::,\n1.9::customer POV medium close-up::,\n1.8::strong foreshortening on the offered device::,\n\n2.0::underground cyberpunk black market::,\n1.9::counter covered with memory chips and dismantled electronics::,\n1.8::wire mesh partitions and patched fabric canopies::,\n1.7::violet ultraviolet lighting and small amber work lamps::,\n\n2.0::dark olive sleeveless utility vest with numerous pockets::,\n1.9::black long-sleeved compression shirt::,\n1.8::weathered brown cargo trousers::,\n1.7::layered utility belts and reinforced gloves::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlh631w.jpg?v=1792790728229",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17186,5 +17186,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792790711201
+ "updatedAt": 1792790729021
 };

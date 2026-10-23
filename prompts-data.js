@@ -16574,7 +16574,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlcgj37.jpg?v=1792782581320",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvlcj01c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo,\n2.0::sitting on a chair with the upper body leaning forward::,\n2.0::fingertips of one hand lightly touching the chin::,\n1.9::raised elbow supported on the knee::,\n1.9::other forearm resting diagonally across the lap::,\n1.8::head turned slightly to the side::,\n1.8::looking off to the side::,\n1.9::slightly high-angle medium shot::,\n1.8::framing from head to knees::,\n1.8::vertical composition::,\n\n2.0::elegant indoor wedding hall::,\n1.9::crystal chandeliers::,\n1.8::white floral arrangements along the wedding aisle::,\n1.8::ivory upholstered chairs::,\n1.8::soft golden ambient lighting::,\n1.7::warm light filtering through tall curtains::,\n1.7::softly blurred background::,"
+    },
+    {
+     "label": "의상",
+     "text": "2.0::white wedding dress::,\n1.9::thin shoulder straps::,\n1.9::fitted floral lace bodice::,\n1.8::full layered white tulle skirt spreading across the lap::,\n1.8::white satin fingerless bridal gloves::,\n1.7::floral appliques and small ribbon details on the gloves::"
+    }
+   ],
+   "img": "img/comp/mvlcj01c.jpg?v=1792782696241",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792782582481
+ "updatedAt": 1792782696916
 };

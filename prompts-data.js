@@ -15951,10 +15951,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::kneeling beside a sacred marble spring::,\n1.9::one knee planted on the ground::,\n1.9::other knee bent forward::,\n2.0::holding a large ancient Greek amphora::,\n1.9::tilting the amphora with both hands::,\n1.9::water pouring into a marble basin::,\n1.8::upper body leaning forward::,\n1.8::head lowered toward the flowing water::,\n1.9::slightly high diagonal camera angle::,\n1.8::medium full shot::,\n\n2.0::ancient Greek sacred spring attire::,\n1.9::flowing turquoise and white linen chiton::,\n1.9::silver embroidered wave patterns::,\n1.8::lightweight draped shoulder mantle::,\n1.8::ornamental silver waist belt::,\n1.8::layered flowing fabric::,\n1.7::silver arm cuffs::,\n1.7::delicate silver decorative sandals::,\n1.8::elegant aquatic ceremonial clothing::,\n\n2.0::sacred spring sanctuary on Mount Olympus::,\n1.9::ancient marble water basin::,\n1.8::intricate Greek mosaic flooring::,\n1.8::small waterfalls flowing between rocks::,\n1.8::olive trees beside marble columns::,\n1.7::gentle daylight and soft mist::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl7f7vw.jpg?v=1792774335850",
+   "pos": "50.0% 70.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792774311238
+ "updatedAt": 1792774337152
 };

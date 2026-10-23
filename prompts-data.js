@@ -15979,8 +15979,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::levitating above a marble temple floor::,\n1.9::both feet floating above the ground::,\n1.9::body suspended vertically in midair::,\n1.8::one arm hanging downward::,\n1.8::other hand raised near the chest::,\n1.8::head tilted downward toward viewer::,\n1.9::dramatic worm's-eye view::,\n1.9::full body floating composition::,\n\n2.0::celestial Olympian deity attire::,\n1.9::deep midnight blue flowing ceremonial robe::,\n1.9::long layered cosmic himation::,\n2.0::intricate silver and gold star embroidery::,\n1.9::translucent celestial fabric floating in midair::,\n1.8::long trailing ethereal fabric panels::,\n1.8::ornamental golden waist belt::,\n1.8::silver celestial armlets::,\n1.8::floating decorative cloak::,\n1.7::golden Greek sandals::,\n1.9::weightless flowing divine garments::,\n\n2.0::celestial sanctuary above Mount Olympus::,\n1.9::enormous circular marble platform below::,\n1.9::floating golden celestial rings::,\n1.8::thousands of glowing stars::,\n1.8::swirling white clouds::,\n1.8::ancient Greek columns surrounding the platform::,\n1.7::blue and golden magical illumination::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl7skcz.jpg?v=1792774993310",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -16026,5 +16026,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792774982562
+ "updatedAt": 1792774994784
 };

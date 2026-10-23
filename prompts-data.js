@@ -15575,7 +15575,7 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::man carrying woman on his back::,\n2.0::piggyback ride::,\n1.9::man walking forward slowly::,\n1.9::woman wrapping both arms around man's shoulders::,\n1.9::woman's legs hanging along man's sides::,\n1.8::man supporting woman's thighs::,\n1.8::woman peeking over man's shoulder::,\n1.8::woman looking toward viewer::,\n1.9::rear three-quarter view::,\n1.8::slightly low camera angle::,\n1.8::medium full shot::,\n\n2.0::2004 Korean university campus at night::,\n1.9::quiet tree-lined campus pathway::,\n1.8::old streetlights::,\n1.8::empty campus buildings::,\n1.7::warm yellow streetlight glow::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvk7n49q.jpg?v=1792714142570",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15594,5 +15594,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792714044870
+ "updatedAt": 1792714143089
 };

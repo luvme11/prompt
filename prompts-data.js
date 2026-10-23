@@ -16161,10 +16161,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting sideways on ancient marble steps::,\n2.0::holding an unfolded parchment scroll::,\n1.9::both hands supporting the open scroll::,\n1.8::upper body leaning slightly toward the parchment::,\n1.9::over-the-shoulder camera composition::,\n1.8::scroll visible in the foreground::,\n1.8::medium shot::,\n\n2.0::ancient sacred olive grove::,\n1.9::silver-green olive trees::,\n1.9::weathered marble temple ruins::,\n1.8::broken Greek columns::,\n1.8::sunlight filtering through olive branches::,\n\n2.0::Athena-inspired Greek ceremonial attire::,\n1.9::white pleated chiton::,\n1.9::slate-blue draped himation::,\n1.8::golden geometric embroidery::,\n1.8::ornamental metallic shoulder clasps::,\n1.7::decorative waist belt::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl8pifc.jpg?v=1792776453020",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792776440636
+ "updatedAt": 1792776454494
 };

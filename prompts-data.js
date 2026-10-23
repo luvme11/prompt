@@ -16077,8 +16077,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting on a marble stone in a sacred grove::,\n1.9::one leg bent upward::,\n1.9::other leg extended naturally::,\n1.9::bow resting across the lap::,\n1.8::one hand holding several arrows loosely::,\n1.8::other hand resting behind the body for support::,\n1.8::relaxed divine resting pose::,\n1.9::three-quarter side view::,\n1.8::medium full shot::,\n\n2.0::ancient laurel grove::,\n1.9::sun-dappled grass and wild herbs::,\n1.8::white marble ruins partially hidden among trees::,\n1.8::soft golden sunlight filtering through leaves::,\n1.7::peaceful mythological forest atmosphere::,\n\n2.0::classical Greek divine clothing::,\n1.9::soft ivory chiton::,\n1.9::warm gold himation draped loosely over the shoulders::,\n1.8::ornamental waist sash::,\n1.8::quiver placed at the side::,\n1.8::golden trim along the fabric edges::,\n1.7::simple Greek sandals::,\n1.7::light layered cloth::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl8dgsw.jpg?v=1792775935429",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -16096,5 +16096,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792775925109
+ "updatedAt": 1792775936393
 };

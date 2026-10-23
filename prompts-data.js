@@ -16876,7 +16876,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfo5qk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::couple standing on opposite sides of a laundry folding table::,\n1.9::each holding two corners of the same large quilt::,\n1.9::bringing the quilt edges together to fold it in half::,\n1.8::both leaning slightly forward over the table::,\n1.9::three-quarter medium wide shot::,\n\n2.0::quiet laundromat late at night::,\n1.8::rows of round dryer doors behind them::,\n1.8::plastic laundry baskets beside the folding table::,\n1.7::cool fluorescent light mixed with warm vending machine glow::,\n\n1.9::man wearing a washed black sweatshirt, gray joggers, and white sneakers::,\n1.9::woman wearing an oversized lavender hoodie, cream sweatpants, and canvas slip-on shoes::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787965052
+ "updatedAt": 1792787974671
 };

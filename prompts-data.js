@@ -16273,10 +16273,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing beside an open supermarket freezer::,\n1.9::one hand pulling the glass freezer door open::,\n1.9::other hand reaching toward a box of ice cream::,\n1.8::upper body leaning slightly into the freezer::,\n1.9::side three-quarter view::,\n1.8::medium shot::,\n1.8::subtle reflection in freezer glass::,\n\n2.0::supermarket frozen food aisle::,\n1.9::large glass-door freezers::,\n1.8::colorful ice cream packaging::,\n1.8::cool fluorescent lighting::,\n1.7::rows of frozen desserts::,\n\n2.0::white sleeveless top::,\n1.9::soft pink knit cardigan::,\n1.9::beige pleated skirt::,\n1.8::simple casual shoes::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl9mk7b.jpg?v=1792778110749",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792778081448
+ "updatedAt": 1792778112084
 };

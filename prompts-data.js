@@ -16606,7 +16606,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlepu1g.jpg?v=1792786374433",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvlezlur",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2::solo::, 2::upper body shot::, 1.9::intimate close-up::, eye-level, frontal three-quarter view, 2::looking at viewer::, 2.3::genuinely happy warm smile::, 2::eyes gently crinkling::, soft smiling eyes, slightly parted lips, natural joyful laughter, relaxed shoulders, slight head tilt, leaning toward viewer, 1.9::tender affectionate gaze::,\n\n2::precious memory of a former lover::, 2::nostalgic romantic atmosphere::, 1.9::bittersweet fleeting memory::, 2.2::warm golden afternoon sunlight::, 2::soft backlighting::, sunlight illuminating face, glowing highlights, floating dust motes, gentle breeze, subtle lens flare, 2::dreamy soft focus::, 1.9::faded analog film photograph::, fine film grain, blurred background, soft vignette,\n\n2.2::top and bottom black film-strip borders::, 2::visible film perforations::, vintage film photograph, captured memory snapshot,"
+    }
+   ],
+   "img": "img/comp/mvlezlur.jpg?v=1792786830486",
+   "pos": "32.5% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792786375280
+ "updatedAt": 1792786831973
 };

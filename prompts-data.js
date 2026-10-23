@@ -16385,10 +16385,10 @@ window.PROMPT_DATA = {
      "text": "ethereal swan angel, empty expression, asymmetrical white swan feather hair ornaments attached to both sides of the head at different heights and angles, slender curved feathers extending diagonally inward from opposite temples, overlapping in a staggered crisscross arrangement across the forehead, one narrow feather sweeping diagonally over only one eye, other eye and most of the face clearly visible, delicate feather tips, one hand resting naturally against the upper chest near the collarbone, other arm lowered loosely at the side, enormous majestic white angel wings spreading behind the back, luxurious pure white halterneck sleeveless organza gown, bare shoulders and arms, voluminous layered translucent fabric, airy sheer organza ruffles, ornate silver crystal brooch at the center of the bust, delicate white feather cuffs around both wrists, flowing cloud-like silhouette, dark minimal background, deep black backdrop, intense directional sunlight streaming from one side, dramatic chiaroscuro, strong contrast between illuminated skin and deep shadows, luminous white feathers, dreamy overexposed highlights, soft glowing bloom, diffused light scattering, ethereal hazy atmosphere, upper body to waist shot, three-quarter view"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvla5a07.jpg?v=1792778869119",
+   "pos": "50.0% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792778695486
+ "updatedAt": 1792778869946
 };

@@ -16792,7 +16792,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfmu1h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::couple sitting close together in two adjacent camping chairs::,\n1.9::one large blanket draped across both of their shoulders::,\n1.9::each holding an enamel mug near their lap::,\n1.8::both leaning slightly toward each other::,\n1.9::front three-quarter medium wide shot::,\n1.8::small campfire in the foreground::,\n\n2.0::forest campsite at night::,\n1.8::canvas tent and a warm camping lantern behind the couple::,\n1.8::small campfire surrounded by stones::,\n1.7::dark pine trees and a starry sky::,\n\n1.9::man wearing a rust-orange fleece pullover, olive cargo trousers, and hiking boots::,\n1.9::woman wearing a cream cable-knit sweater, brown corduroy trousers, and hiking boots::,\n1.8::shared dark green plaid blanket::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787895274
+ "updatedAt": 1792787912816
 };

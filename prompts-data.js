@@ -15648,7 +15648,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl3mwem.jpg?v=1792767761804",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvl3t5ur",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 people, full body, head to toe visible,\n\n2.0::inside an old public phone booth::,\n2.0::retro phone booth interior::,\n1.9::curved glass panels surrounding the scene::,\n1.9::narrow enclosed booth space::,\n1.8::weathered metal frame::,\n1.8::tiled floor::,\n1.8::plants growing around and into the booth::,\n1.8::stacked boxes and shelves in the background::,\n1.8::urban outdoor setting visible through the glass::,\n1.8::soft sunlight streaming into the booth::,\n1.8::dramatic light and shadow::,\n1.7::slightly overgrown nostalgic atmosphere::,\n\n2.0::high-angle view::,\n2.0::overhead perspective::,\n1.9::full body vertical composition::,\n1.9::two people standing very close together inside the booth::,\n1.9::one person on the left, one person on the right::,\n1.8::the left person facing slightly toward the right person::,\n1.8::the right person facing slightly toward the left person::,\n1.8::intimate close standing pose::,\n1.8::the right person wrapping one arm around the left person's waist::,\n1.8::the left person raising one arm upward against the booth interior::,\n1.8::the left person lowering the other hand beside the body::,\n1.8::the two people looking toward each other::,\n1.7::cinematic framing::,\n\n2.0::left person wearing a white long-sleeved button-up shirt::,\n1.9::shirt worn loosely with the top buttons open::,\n1.8::sleeves rolled up::,\n1.8::light beige straight-leg trousers::,\n1.8::dark formal shoes::,\n1.7::glasses hanging from the shirt neckline::,\n\n2.0::right person wearing a black sleeveless top::,\n1.9::fitted black camisole-style top::,\n1.8::white off-shoulder outer layer slipping down the arms::,\n1.8::light beige short shorts::,\n1.8::white sandals::"
+    }
+   ],
+   "img": "img/comp/mvl3t5ur.jpg?v=1792768054145",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792767762481
+ "updatedAt": 1792768054967
 };

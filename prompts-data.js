@@ -15895,8 +15895,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing above the viewer on a temple staircase::,\n2.0::one arm extended directly toward the camera::,\n2.0::index finger pointing straight at viewer::,\n1.9::large foreground hand::,\n1.9::strong dramatic foreshortening::,\n1.8::head slightly lowered::,\n1.8::looking directly down at viewer::,\n1.8::other arm resting beside body::,\n2.0::extreme low-angle POV::,\n1.8::intense centered composition::,\n\n2.0::imperial Greek divine ceremonial outfit::,\n1.9::black and gold ceremonial chiton::,\n1.9::long flowing black himation::,\n1.9::intricate metallic gold embroidery::,\n1.8::ornate golden shoulder clasps::,\n1.8::wide engraved golden waist belt::,\n1.8::layered heavy ceremonial fabric::,\n1.8::golden wrist cuffs::,\n1.7::long dramatic black and gold cloak::,\n1.7::golden Greek sandals::,\n1.8::majestic divine judgment attire::,\n\n2.0::grand divine judgment hall of Mount Olympus::,\n1.9::gigantic marble staircase::,\n1.9::towering golden statues::,\n1.8::enormous Greek columns::,\n1.8::clouds entering the temple hall::,\n1.7::powerful golden backlighting::,\n1.7::dramatic divine atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl7dgwv.jpg?v=1792774253729",
+   "pos": "50.0% 48.0%",
    "soon": false
   },
   {
@@ -15956,5 +15956,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792774144836
+ "updatedAt": 1792774254425
 };

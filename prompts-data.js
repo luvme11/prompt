@@ -16010,7 +16010,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl7t92z",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing beside a gigantic ancient hourglass::,\n2.0::both hands gripping the hourglass frame::,\n1.9::upper body leaning diagonally toward the object::,\n1.9::turning the hourglass slowly::,\n1.8::head tilted toward the falling sand::,\n1.8::one foot stepping backward for balance::,\n1.9::camera positioned behind the hourglass::,\n1.8::hourglass dominating the foreground::,\n1.8::dramatic three-quarter view::,\n\n2.0::ancient Greek deity of fate ceremonial attire::,\n1.9::deep purple and dark burgundy ceremonial robe::,\n1.9::luxurious flowing Greek himation::,\n1.9::intricate golden hourglass and spiral embroidery::,\n1.8::layered dark violet fabric::,\n1.8::ornamental golden waist chain::,\n1.8::long decorative fabric panels hanging from the waist::,\n1.8::golden wrist cuffs::,\n1.7::antique gold shoulder clasps::,\n1.7::dark Greek leather sandals::,\n1.8::mysterious divine fate clothing::,\n\n2.0::ancient Greek chamber of fate::,\n1.9::gigantic golden hourglass::,\n1.9::glowing sand flowing inside transparent glass::,\n1.8::circular marble sanctuary::,\n1.8::ancient Greek engravings on the floor::,\n1.8::towering shadowy columns::,\n1.7::mysterious golden atmospheric lighting::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792774762115
+ "updatedAt": 1792774774841
 };

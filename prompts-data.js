@@ -15786,7 +15786,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl6ceka",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::standing on a heavenly marble balcony::,\n1.9::both forearms resting on the balustrade::,\n1.9::leaning slightly forward over the railing::,\n1.8::head angled downward::,\n1.8::looking toward the distant world below::,\n1.9::back three-quarter view::,\n1.8::medium full shot::,\n1.8::wide cinematic composition::,\n\n2.0::Mount Olympus palace balcony::,\n1.9::ornate white marble balustrade::,\n1.9::vast ocean of clouds below::,\n1.8::ancient Greek city far beneath the clouds::,\n1.8::distant mountains visible through mist::,\n1.8::gigantic marble columns on both sides::,\n1.7::soft golden sunrise::,\n1.7::dreamlike divine atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792772297046
+ "updatedAt": 1792772309514
 };

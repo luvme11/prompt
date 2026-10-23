@@ -16890,7 +16890,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfoe02",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::woman sitting on the passenger seat of a parked scooter::,\n1.9::man standing beside her and fastening her helmet chin strap with both hands::,\n1.8::woman keeping both hands on the seat beside her::,\n1.8::woman lifting her chin slightly::,\n1.9::side three-quarter medium shot::,\n1.8::helmet strap and the man's hands clearly visible::,\n\n2.0::coastal road beside a concrete breakwater::,\n1.8::parked vintage scooter and a wide ocean horizon::,\n1.8::late afternoon sunlight reflecting on the sea::,\n1.7::quiet summer atmosphere::,\n\n1.9::man wearing a faded denim jacket, a plain white t-shirt, and black jeans::,\n1.9::woman wearing a red gingham short-sleeved blouse, high-waisted denim shorts, and a cream open-face helmet::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787974671
+ "updatedAt": 1792787985199
 };

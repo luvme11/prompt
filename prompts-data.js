@@ -17223,7 +17223,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::leaping over a puddle while running through an alley::,\n1.9::one leg extended forward and the other bent behind::,\n1.9::arms moving naturally with the running stride::,\n1.8::jacket flaring backward with the motion::,\n1.9::dynamic low-angle full body shot::,\n1.8::foreground water splashes and strong perspective::,\n\n2.0::rain-soaked cyberpunk backstreet at night::,\n1.9::bright neon storefronts and overhead utility bridges::,\n1.8::steam vents and scattered reflections on wet pavement::,\n1.7::motion blur in the background::,\n\n2.0::electric blue cropped running jacket with reflective panels::,\n1.9::black high-neck athletic top::,\n1.8::black fitted technical trousers with articulated knees::,\n1.7::lightweight running boots and a compact chest bag::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlhcr8c.jpg?v=1792791243235",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17242,5 +17242,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792790813779
+ "updatedAt": 1792791244665
 };

@@ -16203,7 +16203,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::kneeling beside a sacred marble brazier::,\n1.9::both hands extended toward the gentle flames::,\n1.9::palms facing the fire::,\n1.8::upper body leaning slightly forward::,\n1.9::camera positioned behind the brazier::,\n1.9::sacred flame visible in foreground::,\n1.8::medium close-up::,\n\n2.0::open-air Greek sanctuary in an olive grove::,\n1.9::circular marble hearth::,\n1.8::ancient olive trees surrounding the altar::,\n1.8::stone pathways covered in fallen leaves::,\n1.8::warm firelight illuminating marble::,\n\n2.0::Hestia-inspired Greek attire::,\n1.9::soft cream-colored long chiton::,\n1.9::terracotta draped shoulder mantle::,\n1.8::subtle golden embroidered borders::,\n1.8::simple ornamental waist cord::,\n1.7::flowing linen layers::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl8y6ae.jpg?v=1792776898690",
    "pos": "50% 50%",
    "soon": false
   },
@@ -16236,5 +16236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792776890138
+ "updatedAt": 1792776899540
 };

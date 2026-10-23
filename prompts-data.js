@@ -15606,7 +15606,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl2m6o5.jpg?v=1792766049948",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvl2mkx5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting in a chair, waist-up composition, leaning back slightly, body angled sideways, head tilted, looking at viewer, playful confident expression, one eyebrow raised, slightly parted lips,one hand making a finger gun pointed toward the camera, foreshortened hand in the foreground, other forearm held horizontally across the torso,light blue button-up shirt, open collar, loosely knotted red and dark green patterned necktie, gray tailored trousers, dark striped blazer casually draped over one shoulder, black leather wristwatch, beige adhesive bandage on one cheek,solid teal studio background, directional studio lighting, soft cast shadows, editorial fashion pose, dynamic diagonal composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792766050655
+ "updatedAt": 1792766066461
 };

@@ -16764,7 +16764,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfgci2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::couple standing beside a car with its hood open::,\n1.9::woman gently wiping a grease smudge from the man's cheek with a handkerchief::,\n1.9::man leaning slightly toward her with a wrench lowered at his side::,\n1.8::woman's other hand resting on his shoulder::,\n1.9::eye-level medium shot::,\n\n2.0::old neighborhood auto repair garage::,\n1.8::open car hood framing one side of the image::,\n1.8::tool cabinets, hanging work lights, and stacked tires::,\n1.7::late afternoon sunlight entering through the garage door::,\n\n1.9::man wearing charcoal mechanic coveralls with rolled-up sleeves and black work boots::,\n1.9::woman wearing a white ringer t-shirt with red trim, blue denim overalls, and canvas sneakers::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787603318
+ "updatedAt": 1792787609868
 };

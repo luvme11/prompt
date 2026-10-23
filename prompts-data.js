@@ -16413,8 +16413,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing in the middle of a dark alley::,\n2.0::one hand raised near the chest::,\n1.9::a vivid flame hovering above the open palm::,\n1.8::upper body slightly turned::,\n1.8::other hand resting near the side::,\n1.9::eye-level three-quarter composition::,\n1.8::medium shot::,\n\n2.0::narrow city alley at night::,\n1.9::wet pavement reflecting neon lights::,\n1.8::graffiti-covered walls::,\n1.8::faint smoke drifting through the alley::,\n1.7::flickering sign lights::,\n\n2.0::black sleeveless inner top::,\n1.9::dark red hooded jacket::,\n1.8::black cargo pants::,\n1.8::leather combat boots::,\n1.7::fingerless gloves::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlaj3vz.jpg?v=1792779565690",
+   "pos": "50.0% 2.0%",
    "soon": false
   },
   {
@@ -16432,5 +16432,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792779553808
+ "updatedAt": 1792779566376
 };

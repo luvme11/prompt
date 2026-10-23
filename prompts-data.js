@@ -16315,8 +16315,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing in front of a kitchen stove::,\n2.0::cooking food in a frying pan::,\n1.9::one hand gripping the frying pan handle::,\n1.9::other hand stirring food with a wooden spatula::,\n1.8::upper body leaning slightly toward the stove::,\n1.9::side three-quarter camera angle::,\n1.8::medium shot::,\n1.8::frying pan clearly visible in foreground::,\n\n2.0::small cozy Korean apartment kitchen::,\n1.9::two-burner gas stove::,\n1.8::compact kitchen countertops::,\n1.8::hanging cooking utensils::,\n1.8::small window beside the sink::,\n1.7::warm morning sunlight::,\n\n2.0::plain white short-sleeved t-shirt::,\n1.9::beige checkered kitchen apron::,\n1.8::comfortable cotton trousers::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl9wbgo.jpg?v=1792778511423",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -16376,5 +16376,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792778499675
+ "updatedAt": 1792778512090
 };

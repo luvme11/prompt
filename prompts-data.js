@@ -16108,7 +16108,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8oxuk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::kneeling beside the Mediterranean shoreline::,\n1.9::one knee resting on wet sand::,\n2.0::reaching down to pick up a seashell::,\n1.9::one hand holding a delicate seashell::,\n1.8::other hand resting against the sand::,\n1.8::body leaning toward the shallow water::,\n1.9::water-level close perspective::,\n1.8::side three-quarter view::,\n\n2.0::ancient Greek Mediterranean coast::,\n1.9::clear turquoise seawater::,\n1.9::gentle white sea foam::,\n1.8::white marble cliffs::,\n1.8::sunlight reflecting across the waves::,\n\n2.0::Aphrodite-inspired Greek attire::,\n1.9::soft rose-pink flowing chiton::,\n1.9::translucent white shoulder drapery::,\n1.8::pearl-decorated waist cord::,\n1.8::delicate golden fabric embroidery::,\n1.7::lightweight flowing linen::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792776247733
+ "updatedAt": 1792776253299
 };

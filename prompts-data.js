@@ -17198,7 +17198,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlhce2k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing among holographic flowers::,\n1.9::one hand extended palm-up beneath a floating luminous blossom::,\n1.8::other hand lightly gathering the side of the skirt::,\n1.8::looking toward the floating flower::,\n1.9::three-quarter medium full shot through translucent foreground petals::,\n\n2.0::futuristic indoor botanical dome at night::,\n1.9::holographic flowers mixed with living plants::,\n1.8::curved glass ceiling revealing distant skyscrapers::,\n1.7::soft lavender and turquoise light with floating digital particles::,\n\n2.0::pearl-white structured dress with a high collar::,\n1.9::fitted sleeveless bodice and pleated midi skirt::,\n1.8::iridescent translucent capelet::,\n1.7::white ankle boots with metallic heel details::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792790776101
+ "updatedAt": 1792790784665
 };

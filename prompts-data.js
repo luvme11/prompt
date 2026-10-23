@@ -15926,7 +15926,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl7ew3v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting sideways on ancient marble steps::,\n2.0::holding an ancient Greek lyre::,\n1.9::lyre resting against the lap::,\n1.9::one hand gently plucking the strings::,\n1.8::other hand supporting the instrument::,\n1.8::head lowered toward the lyre::,\n1.8::upper body leaning slightly forward::,\n1.9::side three-quarter composition::,\n1.8::medium shot::,\n1.8::hands and musical instrument clearly visible::,\n\n2.0::Apollo-inspired ancient Greek ceremonial attire::,\n1.9::white linen short chiton::,\n1.9::golden embroidered neckline::,\n1.8::ornamental gold waist belt::,\n1.8::flowing white himation over one shoulder::,\n1.8::golden laurel wreath crown::,\n1.8::decorative gold armlets::,\n1.7::gold-trimmed Greek leather sandals::,\n1.8::elegant classical divine musician outfit::,\n\n2.0::ancient Greek temple of Apollo::,\n1.9::white marble temple staircase::,\n1.9::tall Doric columns::,\n1.8::golden sunlight crossing the steps::,\n1.8::laurel trees surrounding the temple::,\n1.7::distant mountains beneath the clouds::,\n1.7::serene mythological atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792774099407
+ "updatedAt": 1792774105206
 };

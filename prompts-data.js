@@ -16691,8 +16691,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::man carrying the woman piggyback::,\n1.9::woman wrapping her arms around the man's shoulders::,\n1.9::man supporting her beneath both knees::,\n1.8::walking along the shoreline::,\n1.9::side three-quarter full body shot::,\n1.8::both people fully within the frame::,\n\n2.0::quiet sandy beach at sunset::,\n1.8::gentle waves washing over the shore::,\n1.8::warm orange sky and reflections on wet sand::,\n\n1.9::man wearing an open white linen shirt over a white t-shirt and beige rolled-up trousers::,\n1.9::woman wearing a light blue short-sleeved sundress::,\n1.7::both barefoot::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlf8xxw.jpg?v=1792787443613",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -16710,5 +16710,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792787420510
+ "updatedAt": 1792787444174
 };

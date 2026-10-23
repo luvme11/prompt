@@ -16217,8 +16217,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing on a massive coastal rock::,\n1.9::one foot planted on a higher stone::,\n2.0::one hand gripping a tall trident::,\n1.9::trident planted firmly against the rock::,\n1.8::other arm resting beside the body::,\n1.8::body facing the stormy ocean::,\n2.0::dramatic extreme low-angle view::,\n1.8::full body composition::,\n\n2.0::ancient Greek sea cliffs::,\n1.9::enormous waves crashing against the rocks::,\n1.9::white ocean spray::,\n1.8::dark storm clouds above the Mediterranean sea::,\n1.8::distant ruined Greek temple::,\n\n2.0::Poseidon-inspired Greek attire::,\n1.9::deep turquoise chiton::,\n1.9::dark ocean-blue himation::,\n1.8::silver wave-pattern embroidery::,\n1.8::ornamental metallic waist belt::,\n1.7::wind-swept layered fabric::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl8yeok.jpg?v=1792776916726",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -16236,5 +16236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792776899540
+ "updatedAt": 1792776918196
 };

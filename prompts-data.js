@@ -15634,7 +15634,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl3ghiy.jpg?v=1792767462511",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvl3mwem",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 people, full body, head to toe visible,\n\n2.0::dynamic indoor scene::,\n2.0::inside a school entrance hallway::,\n1.9::open glass door in the background::,\n1.9::tiled floor::,\n1.8::papers scattered on the floor::,\n1.8::indoor school setting::,\n1.8::soft dramatic indoor lighting::,\n1.8::sunlight streaming in from the doorway::,\n1.7::slightly windy atmosphere::,\n\n2.0::one person on the left, one person on the right::,\n2.0::standing close together::,\n1.9::walking forward together::,\n1.9::slightly high angle composition::,\n1.9::full body vertical composition::,\n1.8::the left person positioned slightly in front::,\n1.8::the right person positioned slightly behind and beside the left person::,\n1.8::the right person raising one hand above the left person's head::,\n1.8::the left person holding one hand near the chest::,\n1.8::the two people holding hands::,\n1.8::flowing motion throughout the scene::,\n1.8::dynamic movement in clothing::,\n1.7::cinematic framing::,\n\n2.0::left person wearing a dark sailor school uniform::,\n1.9::dark long-sleeved sailor top::,\n1.9::white sailor collar trim::,\n1.9::white neckerchief scarf::,\n1.9::dark pleated skirt::,\n1.8::white socks::,\n1.8::dark loafers::,\n1.8::school bag hanging at the side::,\n\n2.0::right person wearing a white dress shirt::,\n1.9::long-sleeved white shirt with sleeves rolled up::,\n1.9::black necktie worn loosely::,\n1.9::black belt::,\n1.9::black straight-leg trousers::,\n1.8::black dress shoes::,\n1.8::crossbody shoulder bag strap across the torso::,"
+    }
+   ],
+   "img": "img/comp/mvl3mwem.jpg?v=1792767761804",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792767463170
+ "updatedAt": 1792767762481
 };

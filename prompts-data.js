@@ -16663,8 +16663,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::woman sitting upright on a sofa::,\n2.0::man lying along the sofa with his head resting on the woman's lap::,\n1.9::woman holding an open book above her lap::,\n1.8::man's hands resting loosely over his own stomach::,\n1.9::side-view medium wide shot showing both people::,\n\n2.0::cozy living room on a quiet afternoon::,\n1.8::soft fabric sofa::,\n1.8::sunlight filtering through sheer curtains::,\n1.7::books and mugs on a nearby coffee table::,\n\n1.9::man wearing a loose black long-sleeved shirt and gray lounge trousers::,\n1.9::woman wearing a soft ivory knit sweater and a long brown skirt::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlf8c07.jpg?v=1792787406150",
+   "pos": "75.1% 50.0%",
    "soon": false
   },
   {
@@ -16710,5 +16710,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792787388938
+ "updatedAt": 1792787406982
 };

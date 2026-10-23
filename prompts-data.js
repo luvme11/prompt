@@ -16038,7 +16038,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl8d0yl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::kneeling in tall grass::,\n2.0::one knee on the ground::,\n1.9::holding a bow upright beside the body::,\n1.9::one hand gently touching an arrow laid across the lap::,\n1.8::upper body slightly turned sideways::,\n1.8::head lowered toward the grass::,\n1.8::quiet watchful pose::,\n1.9::side three-quarter view::,\n1.8::medium shot::,\n\n2.0::windy grassland at dusk::,\n1.9::tall silver-green grass swaying in the wind::,\n1.8::small white wildflowers::,\n1.8::distant hills beneath a fading sky::,\n1.7::soft twilight glow::,\n1.7::calm sacred natural atmosphere::,\n\n2.0::mythological Greek huntress clothing::,\n1.9::ivory sleeveless chiton::,\n1.9::soft gray-blue himation draped over one shoulder::,\n1.8::thin leather belt with small pouch::,\n1.8::quiver at the hip::,\n1.8::archery bracer on one arm::,\n1.7::lace-up leather sandals::,\n1.7::layered linen fabric::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792775690750
+ "updatedAt": 1792775697582
 };

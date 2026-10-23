@@ -15533,8 +15533,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::taking a selfie together with a flip phone::,\n2.0::man holding an open camera flip phone above eye level::,\n1.9::one arm raised toward upper foreground::,\n1.9::woman standing close beside man::,\n1.9::woman gently holding man's raised arm::,\n1.8::both looking toward the flip phone camera::,\n1.8::heads tilted slightly together::,\n1.9::high-angle selfie perspective::,\n1.8::close upper body framing::,\n\n2.0::2004 Korean university neighborhood::,\n1.9::small stationery shop exterior::,\n1.8::old storefront windows::,\n1.8::paper posters and colorful stationery displays::,\n1.7::warm afternoon daylight::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvk6vptn.jpg?v=1792713961451",
+   "pos": "50.0% 46.0%",
    "soon": false
   },
   {
@@ -15566,5 +15566,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792713851220
+ "updatedAt": 1792713962890
 };

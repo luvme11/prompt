@@ -16329,7 +16329,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing in front of an open refrigerator::,\n1.9::one hand gripping the refrigerator door::,\n1.9::other hand reaching toward a food container::,\n1.8::upper body leaning forward::,\n2.0::camera positioned inside the refrigerator::,\n1.9::POV through refrigerator shelves::,\n1.8::food containers framing the foreground::,\n1.8::medium close-up::,\n\n2.0::small Korean apartment kitchen at midnight::,\n1.9::open refrigerator filled with everyday groceries::,\n1.9::cold white refrigerator light::,\n1.8::dark kitchen beyond the refrigerator::,\n1.8::quiet late-night atmosphere::,\n\n2.0::oversized black short-sleeved t-shirt::,\n1.9::gray checkered pajama shorts::,\n1.8::soft indoor slippers::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl9wj95.jpg?v=1792778526831",
    "pos": "50% 50%",
    "soon": false
   },
@@ -16376,5 +16376,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792778512090
+ "updatedAt": 1792778527331
 };

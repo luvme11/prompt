@@ -17128,7 +17128,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlh5p30",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting astride a parked futuristic motorcycle::,\n1.9::pulling a riding glove securely onto one hand::,\n1.8::one boot planted on the garage floor::,\n1.8::upper body leaning slightly forward::,\n1.9::low front three-quarter medium full shot::,\n1.8::motorcycle front wheel prominent in the foreground::,\n\n2.0::underground cyberpunk motorcycle garage::,\n1.9::suspended tools and glowing diagnostic screens::,\n1.8::oil-stained concrete and spare mechanical parts::,\n1.7::red strip lights and cold white work lamps::,\n\n2.0::fitted red-and-black armored motorcycle jacket::,\n1.9::black reinforced riding trousers::,\n1.8::protective knee panels::,\n1.8::black leather riding gloves::,\n1.7::heavy motorcycle boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792790466364
+ "updatedAt": 1792790472604
 };

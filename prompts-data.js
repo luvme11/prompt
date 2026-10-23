@@ -15870,7 +15870,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl770x4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting sideways on a marble altar::,\n2.0::one hand raising a golden apple::,\n1.9::golden apple prominently visible in foreground::,\n1.9::fingers gently holding the fruit::,\n1.8::other hand supporting body on altar::,\n1.8::one leg hanging over the altar edge::,\n1.8::head tilted toward the golden apple::,\n1.9::slightly low camera angle::,\n1.8::medium close-up::,\n\n2.0::ancient Greek divine garden attire::,\n1.9::elegant ivory linen chiton::,\n1.9::emerald green draped himation::,\n1.9::golden laurel embroidery::,\n1.8::ornamental gold waist chain::,\n1.8::delicate golden shoulder brooches::,\n1.8::layered flowing fabric::,\n1.7::golden leaf-patterned armlets::,\n1.7::ancient Greek leather sandals::,\n1.8::luxurious divine garden clothing::,\n\n2.0::sacred garden of the Greek gods::,\n1.9::ancient white marble altar::,\n1.9::golden apple tree behind the subject::,\n1.8::enormous marble arches::,\n1.8::clouds surrounding the divine garden::,\n1.7::golden sunlight filtering through leaves::,\n1.7::mythological paradise atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792773720601
+ "updatedAt": 1792773738660
 };

@@ -16133,8 +16133,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::walking through a vast golden wheat field::,\n1.9::back three-quarter view::,\n2.0::turning back over one shoulder::,\n1.9::one hand holding a small bundle of wheat::,\n1.9::other hand brushing through tall wheat stalks::,\n1.8::one foot stepping forward along a narrow path::,\n1.9::medium full shot::,\n1.8::cinematic diagonal composition::,\n\n2.0::endless golden wheat meadow::,\n1.9::tall wheat surrounding the pathway::,\n1.8::rolling countryside hills::,\n1.8::warm golden sunset::,\n1.7::gentle wind moving through the field::,\n\n2.0::Demeter-inspired Greek attire::,\n1.9::cream-colored long chiton::,\n1.9::golden draped himation::,\n1.8::embroidered wheat motifs::,\n1.8::wide braided waist belt::,\n1.7::flowing linen fabric::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl8p2iu.jpg?v=1792776429809",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -16166,5 +16166,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792776413825
+ "updatedAt": 1792776430628
 };

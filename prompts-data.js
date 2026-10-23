@@ -17097,8 +17097,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::crouching on a low rooftop ventilation unit::,\n1.9::one elbow resting on a raised knee::,\n1.8::other hand braced on the metal surface::,\n1.8::looking toward the camera below::,\n1.9::low-angle medium full shot::,\n\n2.0::cyberpunk rooftop beneath a gigantic luminous billboard::,\n1.9::abstract holographic advertisements filling the sky::,\n1.8::rooftop antennas, cables, and ventilation machinery::,\n1.7::pink backlighting and drifting industrial haze::,\n\n2.0::cropped black technical jacket with oversized sleeves::,\n1.9::dark red fitted top::,\n1.8::black utility shorts over opaque black leggings::,\n1.8::thigh straps with small equipment pouches::,\n1.7::platform combat boots::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlgy8po.jpg?v=1792790282908",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -17116,5 +17116,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792790269580
+ "updatedAt": 1792790283904
 };

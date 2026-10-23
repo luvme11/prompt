@@ -17058,7 +17058,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlgs8zy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in front of a floating holographic interface::,\n1.9::one hand swiping across a translucent display::,\n1.8::other hand holding a compact electronic device at waist level::,\n1.9::three-quarter medium shot through the holographic panel::,\n1.8::translucent interface elements framing the foreground::,\n\n2.0::elevated walkway in a futuristic city at night::,\n1.8::layered skyscrapers and distant aerial traffic::,\n1.8::cyan and magenta neon reflections::,\n1.7::light rain and glowing atmospheric haze::,\n\n1.9::silver cropped technical jacket with a high collar::,\n1.8::black fitted utility jumpsuit::,\n1.8::dark harness straps and a compact belt pouch::,\n1.7::black fingerless gloves::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792789726060
+ "updatedAt": 1792789845529
 };

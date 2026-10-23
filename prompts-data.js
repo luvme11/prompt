@@ -15814,7 +15814,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl6oh25.jpg?v=1792772874129",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvl6vqol",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "[Main Cut]\nfour separate instant photo cards arranged in a precise 2x2 grid, four distinct anime character maid costume illustrations, each card containing its own complete composition, clearly separated rectangular borders, consistent card sizes, straight overhead view, visible paper texture\n\n[Top Left Panel]\ncharacter posing v over mouth with a playful wink, pink and red heart doodles, hand-drawn heart-shaped frame on the white photo border, hand-drawn red ribbons, glossy heart stickers, cute handwritten signature, romantic pink decorations, \n\n[Top Right Panel]\ncharacter pointing at self, black and white gothic decorations, black lace border, black bows, small crosses, dark hearts, Black handwritten lettering, monochrome handwritten doodles on the white photo border, gothic lolita scrapbook aesthetic,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792772875708
+ "updatedAt": 1792773211534
 };

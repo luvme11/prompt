@@ -15839,8 +15839,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing atop an enormous marble platform::,\n2.0::one arm raised toward the stormy sky::,\n1.9::open palm facing upward::,\n1.9::lightning gathering around the raised hand::,\n1.8::other arm extended outward for balance::,\n1.8::head tilted upward toward the lightning::,\n2.0::extreme worm's-eye view::,\n1.9::dramatic foreshortening::,\n1.8::dynamic full body composition::,\n\n2.0::Mount Olympus during a divine thunderstorm::,\n1.9::massive swirling storm clouds::,\n1.9::powerful golden lightning bolts::,\n1.8::ancient Greek marble temple::,\n1.8::broken clouds revealing celestial light::,\n1.8::strong wind sweeping across the platform::,\n1.7::epic divine storm atmosphere::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl6xr02.jpg?v=1792773677475",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -15858,5 +15858,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792773359774
+ "updatedAt": 1792773678152
 };

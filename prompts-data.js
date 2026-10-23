@@ -16915,7 +16915,7 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::man sitting on a wooden chair::,\n1.9::woman standing in front of him and tying the fastening of his travel cloak::,\n1.8::man resting both hands on his knees::,\n1.8::woman leaning slightly forward toward the cloak fastening::,\n1.9::side three-quarter medium shot::,\n\n2.0::rustic fantasy inn interior::,\n1.8::stone fireplace and heavy wooden beams::,\n1.8::travel map, leather satchel, and a candle on a nearby table::,\n1.7::warm firelight::,\n\n1.9::man wearing a dark green travel cloak over a brown leather jerkin, a linen shirt, and dark trousers::,\n1.9::woman wearing a cream long-sleeved blouse beneath a burgundy lace-up bodice and a long brown skirt::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlfvpkv.jpg?v=1792788428170",
    "pos": "50% 50%",
    "soon": false
   },
@@ -16934,5 +16934,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792788338528
+ "updatedAt": 1792788429022
 };

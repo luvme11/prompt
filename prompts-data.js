@@ -16929,8 +16929,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::man kneeling on one knee atop a raised concrete ledge::,\n2.0::man firmly holding the woman's hand and helping her climb up::,\n1.9::woman placing her free hand on the ledge for support::,\n1.9::woman bracing one boot against a lower piece of rubble::,\n1.8::clear height difference between their positions::,\n1.9::side-view medium wide shot::,\n\n2.0::overgrown post-apocalyptic city street::,\n1.8::collapsed concrete walkway and abandoned buildings::,\n1.8::vines growing through cracked walls::,\n1.7::late afternoon sunlight cutting through suspended dust::,\n\n1.9::man wearing a dark brown field jacket, a gray shirt, olive cargo trousers, and worn combat boots::,\n1.9::woman wearing a faded red hooded jacket, a black utility vest, charcoal cargo trousers, and hiking boots::,\n1.7::both carrying compact travel backpacks::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlfvy5w.jpg?v=1792788475442",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -16962,5 +16962,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792788452538
+ "updatedAt": 1792788476717
 };

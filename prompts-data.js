@@ -16845,8 +16845,8 @@ window.PROMPT_DATA = {
      "text": "1man, 1woman, adult couple, two people,\n2.0::couple sitting close together with their cheeks touching::,\n1.9::man wrapping one arm around the woman's shoulders::,\n1.9::woman making a peace sign beside her face::,\n1.8::both looking directly into the camera::,\n2.0::straight-on close-up from the photo booth camera::,\n\n2.0::small retro photo booth interior::,\n1.8::dark blue curtain directly behind the couple::,\n1.8::soft frontal flash lighting::,\n\n1.9::man wearing a black leather biker jacket over a white t-shirt::,\n1.9::woman wearing a pink zip-up track jacket with white sleeve stripes::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlfndrq.jpg?v=1792788168925",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -16906,5 +16906,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792788143715
+ "updatedAt": 1792788169751
 };

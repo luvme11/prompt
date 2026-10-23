@@ -16007,7 +16007,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::stepping into a gigantic glowing portal::,\n1.9::one foot crossing the portal threshold::,\n1.9::body facing away from the viewer::,\n2.0::head turning back over one shoulder::,\n1.8::one hand reaching toward the portal frame::,\n1.8::other arm relaxed beside the body::,\n1.9::rear three-quarter view::,\n1.8::dramatic wide composition::,\n1.8::full body shot::,\n\n2.0::ancient Greek celestial travel attire::,\n1.9::elegant white linen chiton::,\n1.9::long flowing royal blue himation::,\n1.9::golden embroidered Greek geometric patterns::,\n1.8::ornate golden shoulder clasp::,\n1.8::decorative gold waist belt::,\n1.8::flowing blue cloak trailing behind::,\n1.7::golden wrist cuffs::,\n1.7::ancient Greek leather sandals::,\n1.8::majestic divine traveler outfit::,\n\n2.0::celestial gateway of Mount Olympus::,\n1.9::enormous circular golden portal::,\n1.9::ancient Greek marble archway::,\n1.8::glowing divine symbols around the portal::,\n1.8::marble floor reflecting golden light::,\n1.8::thick clouds surrounding the gateway::,\n1.7::intense white-gold backlighting::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl7sz4t.jpg?v=1792775026054",
    "pos": "50% 50%",
    "soon": false
   },
@@ -16026,5 +16026,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792775016082
+ "updatedAt": 1792775027385
 };

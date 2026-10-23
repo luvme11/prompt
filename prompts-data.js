@@ -16932,7 +16932,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlfy5h9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing inside an open elevator::,\n1.9::one hand braced against the elevator door edge::,\n1.9::other hand holding the extended handle of a suitcase::,\n1.8::looking toward the camera outside the elevator::,\n1.9::frontal medium full shot::,\n1.8::elevator doorway framing the subject::,\n\n2.0::luxury hotel elevator at night::,\n1.8::brushed brass walls and warm ceiling lights::,\n1.8::dark marble floor::,\n1.7::soft light spilling from the hallway::,\n\n1.9::beige trench coat worn open::,\n1.8::black turtleneck top::,\n1.8::black tailored trousers::,\n1.7::polished black ankle boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792788429022
+ "updatedAt": 1792788440557
 };

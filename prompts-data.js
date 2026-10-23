@@ -17083,7 +17083,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing just inside the open doorway of a stationary elevated train::,\n1.9::one hand gripping an interior overhead handrail::,\n1.8::body angled toward the city outside::,\n1.8::looking down at the streets far below::,\n1.9::rear three-quarter medium full shot::,\n1.8::train doorway framing the city view::,\n\n2.0::futuristic elevated railway station above a megacity::,\n1.9::layered skybridges and densely stacked buildings::,\n1.8::aerial traffic between skyscrapers::,\n1.7::blue twilight mixed with amber station lights::,\n\n2.0::oversized cobalt blue bomber jacket with orange lining::,\n1.9::gray ribbed turtleneck::,\n1.8::black parachute cargo trousers::,\n1.7::heavy white technical sneakers::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlgy45n.jpg?v=1792790268562",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17116,5 +17116,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792790149106
+ "updatedAt": 1792790269580
 };

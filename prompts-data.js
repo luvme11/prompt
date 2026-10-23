@@ -16189,8 +16189,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting on marble steps beside a moonlit lake::,\n1.9::body positioned sideways toward the water::,\n1.9::one arm reaching down toward the lake::,\n1.9::fingertips hovering just above the water::,\n1.8::other hand resting on the marble step::,\n1.9::water-level perspective::,\n1.8::reflection composition::,\n1.8::medium full shot::,\n\n2.0::sacred lake beneath a full moon::,\n1.9::massive luminous moon reflected in still water::,\n1.9::ancient white marble steps::,\n1.8::soft mist floating above the lake::,\n1.8::distant cypress trees::,\n\n2.0::Selene-inspired Greek attire::,\n1.9::silver-white flowing chiton::,\n1.9::pale blue translucent himation::,\n1.8::silver crescent embroidery::,\n1.8::delicate silver waist chain::,\n1.7::long layered drapery::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl8xqbc.jpg?v=1792776889467",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -16236,5 +16236,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792776868689
+ "updatedAt": 1792776890138
 };

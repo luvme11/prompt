@@ -15912,7 +15912,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl7erb8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting on the edge of a marble fountain::,\n1.9::one leg bent toward the body::,\n1.8::other leg hanging over the fountain edge::,\n2.0::one hand reaching toward a floating flower::,\n1.9::fingertips touching the water surface::,\n1.8::other hand resting behind the body::,\n1.8::head lowered toward the flower::,\n1.9::water-level camera perspective::,\n1.8::side three-quarter view::,\n\n2.0::romantic ancient Greek divine garden attire::,\n1.9::flowing white and soft rose-colored chiton::,\n1.9::delicate floral gold embroidery::,\n1.8::lightweight layered linen fabric::,\n1.8::soft pink draped shoulder cloth::,\n1.8::ornamental golden floral waist belt::,\n1.7::small golden flower-shaped brooches::,\n1.7::delicate gold bracelets::,\n1.7::decorative Greek sandals::,\n1.8::elegant floral mythological clothing::,\n\n2.0::heavenly garden of Mount Olympus::,\n1.9::ancient Greek marble fountain::,\n1.9::white stone statues surrounding the fountain::,\n1.8::flowering vines climbing marble pillars::,\n1.8::scattered flowers floating on clear water::,\n1.8::soft clouds beyond the garden::,\n1.7::gentle golden morning sunlight::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792774088560
+ "updatedAt": 1792774099407
 };

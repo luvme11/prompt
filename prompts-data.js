@@ -16511,8 +16511,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing in a frozen warehouse::,\n2.0::one hand thrust forward toward the camera::,\n1.9::ice crystals spreading outward from the fingertips::,\n1.8::upper body leaning slightly forward::,\n1.8::other arm held slightly behind the body::,\n1.9::dramatic hand-foreground composition::,\n1.8::medium full shot::,\n\n2.0::large industrial warehouse interior::,\n1.9::frost-covered floor and walls::,\n1.8::metal storage doors and containers::,\n1.8::cold blue lighting::,\n1.7::visible icy mist in the air::,\n\n2.0::dark long coat::,\n1.9::high-neck knit top::,\n1.8::dark fitted trousers::,\n1.8::heavy boots::,\n1.7::gloves::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlar6t8.jpg?v=1792779913509",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -16530,5 +16530,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792779903705
+ "updatedAt": 1792779914401
 };

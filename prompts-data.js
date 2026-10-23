@@ -16556,7 +16556,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlca1ld.jpg?v=1792782278525",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlcgj37",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "solo,\n2.0::leaning back against a wall::,\n2.0::arms crossed beneath the chest::,\n1.9::head tilted to one side::,\n1.8::shoulders slightly angled::,\n1.8::weight resting on one leg::,\n1.8::hips shifted slightly to the side::,\n1.9::front-facing cowboy shot::,\n1.8::framing from head to mid-thigh::,\n1.8::eye-level composition::,\n\n2.0::traditional Chinese interior::,\n2.0::large circular wooden lattice window behind the subject::,\n1.9::dark carved wooden window frame::,\n1.8::warm ivory plaster walls::,\n1.8::flowering plum branches visible through the window::,\n1.7::soft daylight filtering through the lattice::,\n1.7::quiet elegant atmosphere::,"
+    },
+    {
+     "label": "의상",
+     "text": "2.0::short red qipao dress::,\n1.9::fitted mid-thigh-length cheongsam::,\n1.8::red silk fabric with subtle gold floral embroidery::,\n1.8::mandarin collar::,\n1.8::traditional Chinese frog closures::,\n1.7::short cap sleeves::,\n1.7::small side slits::,\n1.7::gold piping::"
+    }
+   ],
+   "img": "img/comp/mvlcgj37.jpg?v=1792782581320",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792782279491
+ "updatedAt": 1792782582481
 };

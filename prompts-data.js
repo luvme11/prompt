@@ -15800,7 +15800,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl6ceka.jpg?v=1792772545594",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvl6oh25",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "solo,\n2.0::lying flat on a polished marble floor::,\n1.9::body positioned diagonally::,\n1.9::one arm extended above the head::,\n1.8::other hand resting loosely on abdomen::,\n1.8::one knee slightly bent outward::,\n1.8::looking upward toward the sky::,\n2.0::directly overhead camera angle::,\n1.9::bird's-eye view::,\n1.8::full body composition::,\n\n2.0::open-air temple courtyard on Mount Olympus::,\n1.9::polished white marble floor::,\n1.9::large circular golden mosaic beneath subject::,\n1.8::ancient Greek geometric floor patterns::,\n1.8::scattered laurel leaves::,\n1.7::sunlight casting long column shadows::,\n1.7::serene heavenly atmosphere::"
+    }
+   ],
+   "img": "img/comp/mvl6oh25.jpg?v=1792772874129",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792772546571
+ "updatedAt": 1792772875708
 };

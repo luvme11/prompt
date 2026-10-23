@@ -15825,7 +15825,7 @@ window.PROMPT_DATA = {
      "text": "[Main Cut]\nfour separate instant photo cards arranged in a precise 2x2 grid, four distinct anime character maid costume illustrations, each card containing its own complete composition, clearly separated rectangular borders, consistent card sizes, straight overhead view, visible paper texture\n\n[Top Left Panel]\ncharacter posing v over mouth with a playful wink, pink and red heart doodles, hand-drawn heart-shaped frame on the white photo border, hand-drawn red ribbons, glossy heart stickers, cute handwritten signature, romantic pink decorations, \n\n[Top Right Panel]\ncharacter pointing at self, black and white gothic decorations, black lace border, black bows, small crosses, dark hearts, Black handwritten lettering, monochrome handwritten doodles on the white photo border, gothic lolita scrapbook aesthetic,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl6vqol.jpg?v=1792773358448",
    "pos": "50% 50%",
    "soon": false
   },
@@ -15858,5 +15858,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792773312906
+ "updatedAt": 1792773359774
 };

@@ -17041,8 +17041,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::leaning against the side of a parked car::,\n1.9::one hand raising a glass soda bottle to the lips::,\n1.8::other hand tucked into a trouser pocket::,\n1.8::one knee loosely bent::,\n1.9::slightly low-angle medium full shot::,\n\n2.0::isolated roadside gas station in a desert::,\n1.8::old fuel pumps beneath a weathered canopy::,\n1.8::empty highway and distant rocky hills::,\n1.7::harsh late-afternoon sunlight and long shadows::,\n\n1.9::faded red short-sleeved work shirt worn open over a white tank top::,\n1.8::black straight-leg jeans::,\n1.7::worn brown boots::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvlgmpzc.jpg?v=1792789725250",
+   "pos": "50.0% 46.0%",
    "soon": false
   },
   {
@@ -17060,5 +17060,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792789712378
+ "updatedAt": 1792789726060
 };

@@ -15684,7 +15684,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvl4c60e.jpg?v=1792768940650",
    "pos": "50.0% 100.0%",
    "soon": false
+  },
+  {
+   "id": "mvl4jr3v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 characters, 1male, 1female,\n2.0::woman standing directly in front of man::,\n2.0::woman squeezing both of man's cheeks with her hands::,\n1.9::female palms pressed against male cheeks::,\n1.9::man's lips slightly puckered from cheek pressure::,\n1.8::woman looking up toward man's face::,\n1.8::man looking down toward woman::,\n1.8::faces close together::,\n1.9::eye-level front three-quarter view::,\n1.8::tight upper body close-up::,\n\n2.0::2004 Korean neighborhood photo studio::,\n1.9::simple pastel photography backdrop::,\n1.8::old-fashioned studio curtains::,\n1.8::soft studio flash lighting::,\n1.7::nostalgic early 2000s portrait atmosphere::"
+    }
+   ],
+   "img": "img/comp/mvl4jr3v.jpg?v=1792769294714",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792768941468
+ "updatedAt": 1792769295711
 };

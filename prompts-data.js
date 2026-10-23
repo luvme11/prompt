@@ -17237,10 +17237,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing inside a futuristic public phone booth::,\n1.9::one hand holding a wired receiver against the ear::,\n1.9::other hand resting against the glass door::,\n1.8::looking back over one shoulder toward the street::,\n1.9::three-quarter medium shot through rain-covered glass::,\n\n2.0::cyberpunk street corner at midnight::,\n1.9::narrow illuminated phone booth with scratched glass panels::,\n1.8::blurred neon storefronts and overhead cables outside::,\n1.8::rain streaks catching pink and blue reflections::,\n1.7::pale green light from the terminal inside the booth::,\n\n2.0::long burgundy leather trench coat::,\n1.9::black high-neck zip-up top::,\n1.8::black coated denim trousers::,\n1.7::silver-buckled belt and pointed black boots::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvlhd0kk.jpg?v=1792791254070",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792791244665
+ "updatedAt": 1792791254733
 };

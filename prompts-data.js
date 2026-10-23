@@ -15982,7 +15982,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvl7stp1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::kneeling beside a fallen marble statue::,\n1.9::one knee resting among broken marble fragments::,\n1.9::upper body leaning against the statue::,\n2.0::one palm resting against the statue's face::,\n1.8::other hand resting on the stone floor::,\n1.8::head lowered toward the broken sculpture::,\n1.9::side three-quarter view::,\n1.8::slightly high camera angle::,\n1.8::emotional medium full shot::,\n\n2.0::tragic ancient Greek divine attire::,\n1.9::faded charcoal gray linen chiton::,\n1.9::long flowing black himation::,\n1.9::dark silver embroidered fabric edges::,\n1.8::weathered ornamental silver waist belt::,\n1.8::long black cloak trailing across the marble floor::,\n1.8::loosely draped layered fabric::,\n1.7::antique silver arm cuffs::,\n1.7::dark leather Greek sandals::,\n1.8::melancholic mythological ceremonial clothing::,\n\n2.0::ruined ancient Greek temple on Mount Olympus::,\n1.9::enormous broken marble statues::,\n1.9::collapsed white stone columns::,\n1.8::scattered marble fragments::,\n1.8::shattered temple roof::,\n1.8::clouds entering through broken arches::,\n1.7::faint golden sunset light::,\n1.7::melancholic mythological atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792774742951
+ "updatedAt": 1792774755051
 };

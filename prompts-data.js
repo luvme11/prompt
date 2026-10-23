@@ -16708,7 +16708,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlf99pc.jpg?v=1792787458980",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvlffhu4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, adult couple, two people,\n2.0::woman standing in front of a claw machine with one hand on the joystick::,\n1.9::man leaning forward from behind her right shoulder::,\n1.9::man reaching past her to press the arcade button::,\n1.8::both looking into the claw machine::,\n1.9::side three-quarter medium shot::,\n\n2.0::retro arcade at night::,\n1.8::plush toys behind the claw machine glass::,\n1.8::colorful arcade cabinets and neon reflections::,\n1.7::dim interior illuminated by game screens::,\n\n1.9::man wearing a cobalt blue track jacket over a white t-shirt and loose black jeans::,\n1.9::woman wearing a red cropped hoodie, a black pleated skirt, and white sneakers::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792787459633
+ "updatedAt": 1792787570863
 };

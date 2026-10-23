@@ -16287,10 +16287,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::crouching beside a vegetable market stall::,\n1.9::one hand lifting a bundle of green onions::,\n1.9::other hand holding a shopping basket::,\n1.8::body leaning slightly toward the vegetable display::,\n1.9::ground-level three-quarter view::,\n1.8::medium full shot::,\n\n2.0::traditional Korean street market::,\n1.9::wooden vegetable stalls::,\n1.8::plastic crates filled with fresh produce::,\n1.8::handwritten price signs::,\n1.8::narrow covered market alley::,\n1.7::warm natural daylight::,\n\n2.0::white short-sleeved blouse::,\n1.9::light brown cotton trousers::,\n1.8::beige crossbody bag::,\n1.7::simple flats::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvl9t0ni.jpg?v=1792778255652",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792778123471
+ "updatedAt": 1792778256929
 };

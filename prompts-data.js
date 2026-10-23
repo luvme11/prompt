@@ -17044,7 +17044,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlgpet1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in a cabin doorway while carrying firewood under one arm::,\n1.9::other hand pushing the wooden door open::,\n1.8::one foot stepping over the threshold::,\n1.9::medium full shot from inside the cabin::,\n1.8::doorframe surrounding the subject::,\n\n2.0::snow-covered woodland cabin at dusk::,\n1.8::snowy pine forest visible beyond the doorway::,\n1.8::warm fireplace glow spilling from the interior::,\n1.7::contrast between cool outdoor light and warm indoor light::,\n\n1.9::brown shearling-lined jacket::,\n1.8::red-and-black plaid flannel shirt::,\n1.8::dark denim trousers::,\n1.7::leather work gloves and winter boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792789586850
+ "updatedAt": 1792789712378
 };

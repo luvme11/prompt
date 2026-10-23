@@ -16528,7 +16528,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlb4dxt.jpg?v=1792780334784",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlb70lj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::close-up::,\n{{{pov, pov hands, fingers in another's mouth, prying mouth open, hands on another's face, thumb pulling lip}}}\ntroubled expression, flustered, nervous smile, furrowed brow, cold sweat, sweatdrop, {{open mouth, tongue, saliva, teeth}}, eye contact, looking at viewer,\n\n{{dutch angle, face close to viewer, from above}}, foreshortening, dynamic angle,\n\n{{black suit, black suit jacket, black dress shirt}}, unbuttoned collar, loose tie,\n\n{{{simple background, dark red background, plain background}}},\n\n{{{low key lighting, dark, deep shadows}}}, 1.5::harsh red light, red light from below::, {{hard shadows, face half in shadow, shadow over eyes}}, red rim light,\n\ndangerous atmosphere, high contrast"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792780335637
+ "updatedAt": 1792780456817
 };

@@ -15723,8 +15723,8 @@ window.PROMPT_DATA = {
      "text": "2 characters, 1male, 1female,\n2.0::taking a mirror photo together::,\n2.0::woman holding a small silver compact digital camera::,\n1.9::camera raised in front of woman's face::,\n1.9::man standing directly behind woman::,\n1.9::man leaning sideways to appear in mirror::,\n1.8::man's head positioned above woman's shoulder::,\n1.8::woman looking at camera reflection::,\n1.8::man looking into mirror::,\n1.9::mirror reflection composition::,\n1.8::close upper body framing::,\n\n2.0::2004 Korean university student apartment::,\n1.9::large rectangular wall mirror::,\n1.8::small one-room apartment::,\n1.8::wooden furniture::,\n1.7::warm indoor lighting::,\n1.7::early 2000s compact digital camera aesthetic::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl4kiz2.jpg?v=1792769468920",
+   "pos": "50.0% 8.0%",
    "soon": false
   },
   {
@@ -15742,5 +15742,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792769449870
+ "updatedAt": 1792769470407
 };

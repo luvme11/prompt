@@ -16592,7 +16592,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlcj01c.jpg?v=1792782696241",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvlepu1g",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "4::dark bathroom, gritty, tragic atmosphere, desaturated, pitch black night::, moody lighting, 4::submerged in blood::, chest-deep blood, water mixed with blood, 1.7::large luxury bathtub, huge bathtub::, blood splatter on white porcelain, fatalism, 1.4::downward stare::, looking down, black lifeless eyes, no highlight, exhaustion, 1.5::completely slumped against bathtub::, limp body, arms resting over the tub edge, bleeding from head, 1.5::blood-stained shirt::, 3::blood dripping from hair, head injury::, white loose ruffled lace-up peasant shirt, crossed strings on chest, sheer wet fabric, black trousers"
+    }
+   ],
+   "img": "img/comp/mvlepu1g.jpg?v=1792786374433",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792782696916
+ "updatedAt": 1792786375280
 };

@@ -16301,8 +16301,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::walking along a quiet residential street::,\n2.0::carrying heavy grocery bags in both hands::,\n1.9::arms hanging downward from the weight of the bags::,\n1.9::upper body leaning slightly to one side::,\n1.8::one foot stepping forward::,\n1.9::slightly low frontal camera angle::,\n1.8::dynamic full body shot::,\n\n2.0::early 2000s Korean residential neighborhood::,\n1.9::narrow neighborhood alley::,\n1.8::old brick walls::,\n1.8::utility poles and small local shops::,\n1.7::warm late afternoon sunlight::,\n\n2.0::soft pink short-sleeved t-shirt::,\n1.9::ivory cotton maxi skirt::,\n1.8::comfortable flat sandals::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvl9w2ha.jpg?v=1792778498669",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -16376,5 +16376,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792778323912
+ "updatedAt": 1792778499675
 };

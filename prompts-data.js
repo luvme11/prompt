@@ -17212,7 +17212,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvlhd0kk.jpg?v=1792791254070",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvmkkizd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting on an enormous ancient tree root::,\n1.9::one knee raised toward chest::,\n1.9::one elbow resting on raised knee::,\n1.8::other hand supporting body against tree root::,\n1.8::looking down toward viewer::,\n1.9::dramatic low-angle perspective::,\n1.8::medium full shot::,\n\n2.0::enchanted ancient fantasy forest::,\n1.9::gigantic twisted tree roots::,\n1.9::towering ancient trees::,\n1.8::glowing magical fireflies::,\n1.8::moss-covered forest floor::,\n1.7::soft green sunlight filtering through leaves::,\n\n2.0::ivory medieval fantasy tunic::,\n1.9::dark forest-green hooded cloak::,\n1.8::brown leather waist belt::,\n1.8::layered fabric panels::,\n1.7::brown knee-high leather boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792797964813
+ "updatedAt": 1792856669696
 };

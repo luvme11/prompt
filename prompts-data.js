@@ -17464,7 +17464,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvmn5qy3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting sideways on the edge of a marble fountain::,\n2.0::holding an unfolded handwritten letter::,\n1.9::both hands supporting the letter::,\n1.8::one leg extended beside the fountain::,\n1.8::other knee bent slightly::,\n1.8::upper body leaning toward the letter::,\n1.9::camera positioned between blooming flowers::,\n1.9::foreground flowers framing the subject::,\n1.8::intimate three-quarter medium shot::,\n\n2.0::imperial palace glass conservatory::,\n1.9::enormous arched glass greenhouse dome::,\n1.9::white roses and climbing flowering vines::,\n1.8::ornate marble fountain::,\n1.8::decorative wrought-iron garden furniture::,\n1.7::soft morning sunlight through glass::,\n\n2.0::pale sky-blue Victorian fantasy dress::,\n1.9::delicate lace-trimmed sleeves::,\n1.9::fitted embroidered bodice::,\n1.8::long layered flowing skirt::,\n1.8::white satin waist ribbon::,\n1.8::pearl brooch::,\n1.7::delicate lace gloves::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792861007879
+ "updatedAt": 1792861018279
 };

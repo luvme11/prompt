@@ -17573,10 +17573,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting on the edge of a floating bed::,\n1.9::one leg dangling over the edge::,\n1.9::other leg folded on the mattress::,\n1.9::one hand resting against the mattress::,\n2.0::other arm reaching toward a floating miniature door::,\n1.9::fingers extended toward the mysterious doorway::,\n1.8::upper body leaning slightly forward::,\n1.9::head tilted toward the floating door::,\n2.0::dramatic low-angle perspective::,\n1.9::camera positioned below mattress level::,\n1.8::wide-angle surreal composition::,\n1.8::medium full shot::,\n\n2.0::surreal dreamcore bedroom floating in the sky::,\n1.9::isolated bed suspended above endless clouds::,\n1.9::bedroom without walls or ceiling::,\n2.0::floating doorframes and windows in empty space::,\n1.9::small mysterious pastel doors hovering nearby::,\n1.8::vintage wooden bedside table floating beside the bed::,\n1.8::small glowing bedside lamp::,\n1.8::soft white pillows and rumpled bedsheets::,\n1.9::endless pastel blue and pink sky::,\n1.8::fluffy clouds surrounding the floating furniture::,\n1.8::soft diffused dreamlike sunlight::,\n1.7::strange peaceful liminal atmosphere::,\n1.7::nostalgic surreal dream aesthetic::,\n\n2.0::oversized white long-sleeved shirt::,\n1.9::pale sky-blue knitted sweater vest::,\n1.8::ivory cotton shorts::,\n1.8::white crew socks::,\n1.7::soft casual indoor clothing::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvmpk4op.jpg?v=1792865504246",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1792865049435
+ "updatedAt": 1792865505064
 };

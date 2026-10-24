@@ -17240,7 +17240,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvmkkpuh.jpg?v=1792857334681",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvml0l90",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting on a flat stone beside a magical lake::,\n1.9::both legs extending into shallow water::,\n1.9::feet partially submerged::,\n2.0::one hand reaching down to touch the water::,\n1.9::fingertips creating small ripples::,\n1.8::other hand supporting body on the rock::,\n1.9::water-level camera perspective::,\n1.8::side three-quarter view::,\n\n2.0::enchanted moonlit fantasy lake::,\n1.9::crystal-clear glowing blue water::,\n1.9::floating magical lights::,\n1.8::blue luminous flowers along the shore::,\n1.8::full moon reflected on water::,\n1.7::soft silver-blue moonlight::,\n\n2.0::flowing white fantasy dress::,\n1.9::delicate silver embroidery::,\n1.9::pale blue shoulder drapery::,\n1.8::layered lightweight skirt::,\n1.8::ornamental silver waist chain::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792857335484
+ "updatedAt": 1792857418921
 };

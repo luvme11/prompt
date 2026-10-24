@@ -17461,8 +17461,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::descending an enormous marble staircase::,\n1.9::one hand resting on the ornate staircase railing::,\n1.9::other hand gently lifting the edge of the skirt::,\n2.0::turning back over one shoulder::,\n1.9::upper body twisting backward::,\n1.8::one foot stepping onto a lower stair::,\n1.9::dramatic low-angle composition::,\n1.8::medium full shot::,\n\n2.0::luxurious imperial palace ballroom::,\n1.9::grand white marble staircase::,\n1.9::enormous golden chandeliers::,\n1.8::ornate Rococo wall decorations::,\n1.8::golden balustrades::,\n1.8::polished marble floors::,\n1.7::warm glittering ballroom lighting::,\n\n2.0::ivory off-shoulder imperial ball gown::,\n1.9::elaborate gold embroidered corset bodice::,\n1.9::voluminous layered floor-length skirt::,\n1.8::long white silk opera gloves::,\n1.8::delicate pearl jewelry::,\n1.7::gold-trimmed satin fabric::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvmn5isc.jpg?v=1792861279877",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -17522,5 +17522,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792861110879
+ "updatedAt": 1792861281033
 };

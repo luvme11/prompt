@@ -17377,10 +17377,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing at an alchemy worktable::,\n2.0::pouring glowing liquid from a glass vial::,\n1.9::one hand tilting the vial above a cauldron::,\n1.9::other hand stirring the cauldron with a wooden rod::,\n1.8::upper body leaning slightly toward the potion::,\n1.9::high-angle three-quarter perspective::,\n1.8::hands and magical potion in foreground::,\n1.8::medium shot::,\n\n2.0::enchanted witch's greenhouse::,\n1.9::glass ceiling illuminated by moonlight::,\n1.9::glowing magical herbs::,\n1.8::hanging dried flowers::,\n1.8::glass potion bottles and alchemy equipment::,\n1.8::large bubbling cauldron::,\n1.7::purple and green magical lighting::,\n\n2.0::black long-sleeved fantasy blouse::,\n1.9::burgundy corset vest::,\n1.9::dark violet layered long skirt::,\n1.8::leather utility belt with potion holders::,\n1.8::black ankle boots::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvmlaa73.jpg?v=1792858091304",
+   "pos": "50.0% 2.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792858083266
+ "updatedAt": 1792858092267
 };

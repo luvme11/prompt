@@ -17489,7 +17489,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting inside an ornate royal carriage::,\n1.9::upper body leaning sideways toward the window::,\n1.9::one elbow resting on the carriage window frame::,\n1.8::other hand resting on the lap::,\n1.8::looking outside the carriage::,\n1.9::camera positioned outside the carriage window::,\n1.9::intimate close-up through the window::,\n1.8::subtle glass reflections::,\n\n2.0::royal carriage traveling through an imperial garden at night::,\n1.9::ornate gilded carriage window::,\n1.9::luxurious velvet carriage interior::,\n1.8::distant illuminated palace::,\n1.8::glowing antique street lanterns::,\n1.7::soft romantic nighttime atmosphere::,\n\n2.0::deep burgundy velvet imperial dress::,\n1.9::black lace shoulder cape::,\n1.8::pearl button details::,\n1.8::ornamental fitted bodice::,\n1.8::layered satin skirt::,\n1.7::short leather gloves::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvmn61y0.jpg?v=1792861304055",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17522,5 +17522,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792861291502
+ "updatedAt": 1792861304584
 };

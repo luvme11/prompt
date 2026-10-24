@@ -17279,7 +17279,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting inside an enormous blooming flower::,\n1.9::surrounded by giant flower petals::,\n1.9::one hand reaching outward between the petals::,\n1.8::other hand resting against a large petal::,\n1.8::legs folded to one side::,\n2.0::high-angle overhead composition::,\n1.9::giant petals framing the subject::,\n1.8::medium full shot::,\n\n2.0::enchanted fairy-tale flower garden::,\n1.9::gigantic blooming flowers::,\n1.9::luminous mushrooms::,\n1.8::tiny glowing butterflies::,\n1.8::lush magical foliage::,\n1.7::soft pastel magical lighting::,\n\n2.0::soft pink fantasy dress::,\n1.9::layered flower-petal skirt::,\n1.9::sage-green ribbon waist sash::,\n1.8::delicate floral embroidery::,\n1.8::lightweight shoulder drapery::,\n1.7::lace-up sandals::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvml13os.jpg?v=1792857770771",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17312,5 +17312,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792857762388
+ "updatedAt": 1792857771433
 };

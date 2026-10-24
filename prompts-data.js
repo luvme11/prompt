@@ -17296,7 +17296,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvml1mgo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::jumping between floating stone platforms::,\n1.9::body suspended in midair::,\n1.9::one leg extended forward::,\n1.9::other leg bent backward::,\n1.8::both arms spread outward for balance::,\n1.9::dynamic side-view composition::,\n1.8::full body action shot::,\n1.8::dramatic diagonal perspective::,\n\n2.0::fantasy floating islands above the clouds::,\n1.9::broken floating stone staircases::,\n1.9::levitating ancient ruins::,\n1.8::massive waterfalls falling into the clouds::,\n1.8::distant floating castle::,\n1.7::bright heavenly sunlight::,\n\n2.0::white fantasy adventurer tunic::,\n1.9::short dark teal traveling cloak::,\n1.8::brown leather chest harness::,\n1.8::dark fitted trousers::,\n1.8::leather utility belt::,\n1.7::adventurer boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792857455938
+ "updatedAt": 1792857467067
 };

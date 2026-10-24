@@ -17556,7 +17556,7 @@ window.PROMPT_DATA = {
    "codes": [
     {
      "label": "",
-     "text": "solo,\n2.0::standing in front of an open refrigerator door::,\n2.0::one hand gripping the refrigerator handle::,\n1.9::other hand reaching toward an empty shelf::,\n1.9::upper body leaning into the refrigerator::,\n2.0::camera positioned inside the empty refrigerator::,\n1.9::POV through refrigerator shelves::,\n1.8::fridge frame dominating the foreground::,\n1.8::close three-quarter perspective::,\n\n2.0::endless empty liminal supermarket::,\n1.9::infinite fluorescent ceiling lights::,\n1.9::long rows of nearly empty refrigerated shelves::,\n1.8::pale yellow supermarket walls::,\n1.8::glossy white tiled flooring::,\n1.8::repeating aisles disappearing into the distance::,\n1.7::eerily quiet dreamcore atmosphere::,\n\n2.0::pale yellow short-sleeved t-shirt::,\n1.9::blue denim overalls::,\n1.8::white casual sneakers::"
+     "text": "solo,\n2.0::sitting on an upside-down floating staircase::,\n1.9::body balanced on the edge of a stone step::,\n1.9::one leg hanging into empty space::,\n1.8::other knee bent toward the chest::,\n1.8::one hand gripping the staircase edge::,\n1.8::other hand resting on the raised knee::,\n2.0::surreal tilted camera perspective::,\n1.9::dramatic architectural framing::,\n1.8::medium full shot::,\n\n2.0::impossible dreamcore staircase dimension::,\n1.9::endless white staircases extending in different directions::,\n1.9::floating doorways without walls::,\n1.8::gravity-defying architecture::,\n1.8::pale cream-colored empty space::,\n1.8::soft diffuse shadowless lighting::,\n1.7::surreal liminal dream atmosphere::,\n\n2.0::oversized ivory button-up shirt::,\n1.9::light gray tailored trousers::,\n1.8::simple black leather belt::,\n1.7::black formal shoes::"
     }
    ],
    "img": "",
@@ -17578,5 +17578,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792865505064
+ "updatedAt": 1792865523656
 };

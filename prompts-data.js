@@ -17391,8 +17391,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::standing in the doorway of a moving steam train::,\n2.0::one hand gripping the overhead door handle::,\n1.9::upper body leaning outside the train::,\n1.9::one foot resting on the doorway step::,\n1.8::other foot positioned inside the train::,\n1.8::coat fluttering in the wind::,\n1.9::dramatic low-angle three-quarter view::,\n1.8::dynamic medium full shot::,\n\n2.0::Victorian steampunk steam locomotive::,\n1.9::massive black steam clouds::,\n1.9::ornate brass train machinery::,\n1.8::railway bridge high above a valley::,\n1.8::distant industrial clocktower city::,\n1.7::golden smoky sunset::,\n\n2.0::white Victorian high-collar shirt::,\n1.9::dark brown leather corset vest::,\n1.9::long black Victorian coat::,\n1.8::ornamental brass waist belt::,\n1.8::dark leather gloves::,\n1.7::knee-high leather boots::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvmm0h33.jpg?v=1792859518539",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -17452,5 +17452,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792859130676
+ "updatedAt": 1792859519506
 };

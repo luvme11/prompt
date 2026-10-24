@@ -17492,7 +17492,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvmn6766",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing beside an open black sedan door::,\n1.9::one forearm resting against the upper door frame::,\n2.0::holding a sealed confidential envelope::,\n1.9::other hand opening the envelope::,\n1.8::upper body leaning slightly toward the car::,\n1.9::camera positioned inside the vehicle::,\n1.9::low-angle car interior POV::,\n1.8::door frame surrounding the subject::,\n1.8::medium shot::,\n\n2.0::dark underground hotel parking garage::,\n1.9::black luxury sedan::,\n1.9::concrete parking pillars::,\n1.8::flickering fluorescent ceiling lights::,\n1.8::wet concrete floor reflecting overhead light::,\n1.7::cinematic noir shadows::,\n\n2.0::tailored black formal suit::,\n1.9::white collared dress shirt::,\n1.9::slim black necktie::,\n1.8::black straight-leg suit trousers::,\n1.8::fitted black leather gloves::,\n1.7::polished black dress shoes::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792861033286
+ "updatedAt": 1792861040240
 };

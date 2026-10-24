@@ -17436,7 +17436,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvmm1a85",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::leaning forward over a captain's navigation table::,\n2.0::both palms pressed against the wooden tabletop::,\n1.9::upper body bending toward an unfolded sea chart::,\n1.8::one hand positioned beside a brass compass::,\n1.8::head lowered toward the map::,\n1.9::camera positioned at table level::,\n1.9::map and compass dominating the foreground::,\n1.8::dramatic medium close-up::,\n\n2.0::old pirate ship captain's cabin::,\n1.9::large wooden navigation table::,\n1.9::antique sea charts and brass compass::,\n1.8::hanging oil lanterns::,\n1.8::wooden cabinets and nautical instruments::,\n1.8::stormy ocean visible through stern windows::,\n1.7::warm lantern light::,\n\n2.0::ornate black pirate captain coat::,\n1.9::white ruffled Victorian-style shirt::,\n1.9::deep burgundy waist sash::,\n1.8::gold embroidered coat cuffs::,\n1.8::black leather gloves::,\n1.7::tall leather boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792859121050
+ "updatedAt": 1792859130676
 };

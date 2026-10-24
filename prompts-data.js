@@ -17310,7 +17310,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvml1mgo.jpg?v=1792857795062",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvml9984",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::walking up an enormous snow-covered staircase::,\n1.9::one foot stepping onto a higher stair::,\n2.0::turning back over one shoulder::,\n1.9::one hand gripping the stone railing::,\n1.8::other hand holding the edge of a cloak::,\n1.9::rear three-quarter view::,\n1.8::slightly low diagonal camera angle::,\n1.8::medium full shot::,\n\n2.0::snow-covered fantasy castle staircase::,\n1.9::ancient stone castle towers::,\n1.9::frost-covered marble statues::,\n1.8::snowflakes falling softly::,\n1.8::frozen stone balustrades::,\n1.7::cold blue winter daylight::,\n\n2.0::long white winter cloak::,\n1.9::deep blue embroidered tunic::,\n1.9::silver ornamental embroidery::,\n1.8::fur-trimmed shoulder mantle::,\n1.8::dark leather waist belt::,\n1.7::knee-high winter boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792857796205
+ "updatedAt": 1792857822707
 };

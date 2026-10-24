@@ -17338,7 +17338,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvml9ny8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing directly in front of an enchanted mirror::,\n2.0::one palm pressed flat against the mirror surface::,\n1.9::fingers spread against the reflective glass::,\n1.8::other arm hanging beside the body::,\n1.9::camera positioned inside the magical mirror::,\n2.0::direct frontal close-up composition::,\n1.8::hand prominently visible in foreground::,\n\n2.0::secret chamber inside an ancient fantasy castle::,\n1.9::enormous ornate golden mirror::,\n1.9::swirling purple magical light inside the mirror::,\n1.8::ancient stone walls::,\n1.8::flickering candles::,\n1.7::dark mystical atmosphere::,\n\n2.0::black high-neck fantasy tunic::,\n1.9::deep purple embroidered cloak::,\n1.8::ornamental metallic waist belt::,\n1.8::black leather gloves::,\n1.7::dark knee-high boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792857835804
+ "updatedAt": 1792857841941
 };

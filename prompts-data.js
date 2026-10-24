@@ -17559,7 +17559,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting on an upside-down floating staircase::,\n1.9::body balanced on the edge of a stone step::,\n1.9::one leg hanging into empty space::,\n1.8::other knee bent toward the chest::,\n1.8::one hand gripping the staircase edge::,\n1.8::other hand resting on the raised knee::,\n2.0::surreal tilted camera perspective::,\n1.9::dramatic architectural framing::,\n1.8::medium full shot::,\n\n2.0::impossible dreamcore staircase dimension::,\n1.9::endless white staircases extending in different directions::,\n1.9::floating doorways without walls::,\n1.8::gravity-defying architecture::,\n1.8::pale cream-colored empty space::,\n1.8::soft diffuse shadowless lighting::,\n1.7::surreal liminal dream atmosphere::,\n\n2.0::oversized ivory button-up shirt::,\n1.9::light gray tailored trousers::,\n1.8::simple black leather belt::,\n1.7::black formal shoes::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvmpjz6m.jpg?v=1792866719147",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17578,5 +17578,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792865550182
+ "updatedAt": 1792866719671
 };

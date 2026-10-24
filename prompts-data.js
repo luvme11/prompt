@@ -17324,7 +17324,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvml9jaz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting on an ancient half-buried stone throne::,\n1.9::one elbow resting on the throne armrest::,\n1.9::other hand raising a small golden relic::,\n1.8::one knee bent upward::,\n1.8::body leaning slightly to one side::,\n1.9::dramatic low-angle composition::,\n1.8::medium full shot::,\n\n2.0::ancient fantasy desert kingdom ruins::,\n1.9::gigantic sandstone temple columns::,\n1.9::half-buried stone statues::,\n1.8::golden desert dunes::,\n1.8::broken ancient archways::,\n1.7::warm desert sunset::,\n\n2.0::ivory long fantasy tunic::,\n1.9::deep red draped shoulder mantle::,\n1.9::gold-embroidered waist sash::,\n1.8::ornamental golden bracelets::,\n1.8::layered lightweight desert fabric::,\n1.7::leather strapped sandals::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792857822707
+ "updatedAt": 1792857835804
 };

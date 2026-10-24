@@ -17254,7 +17254,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvml0u02",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, single human character,\n2.0::standing on the edge of a towering cliff::,\n2.0::holding a longsword vertically in front of the body::,\n1.9::sword tip resting against the rocky ground::,\n1.9::both hands resting on the sword pommel::,\n1.8::upright still posture::,\n1.9::back three-quarter view::,\n1.8::dramatic full body composition::,\n1.8::wide cinematic perspective::,\n\n2.0::epic fantasy mountain cliff::,\n1.9::vast sea of clouds below::,\n1.9::distant medieval castle on mountain peaks::,\n1.8::small dragon silhouette flying far across the sky::,\n1.8::dramatic orange sunset::,\n1.7::strong mountain wind::,\n\n2.0::black knight tunic::,\n1.9::silver lightweight fantasy armor::,\n1.9::long dark crimson cape::,\n1.8::ornamental leather belt::,\n1.8::dark leather gloves::,\n1.7::armored knee-high boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792857418921
+ "updatedAt": 1792857430659
 };

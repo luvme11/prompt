@@ -17405,7 +17405,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::sitting on a massive stationary clockwork gear axle::,\n1.9::one knee raised toward the chest::,\n1.9::other leg hanging over the edge::,\n2.0::holding an antique pocket watch::,\n1.9::one elbow resting on the raised knee::,\n1.8::other hand supporting the body::,\n2.0::extreme worm's-eye view::,\n1.9::giant clock gears framing the subject::,\n1.8::medium full shot::,\n\n2.0::interior of a gigantic Victorian clocktower::,\n1.9::enormous interlocking brass gears::,\n1.9::massive illuminated clock face::,\n1.8::industrial iron beams::,\n1.8::distant city lights visible through clock windows::,\n1.7::warm amber mechanical lighting::,\n\n2.0::ivory Victorian collared shirt::,\n1.9::burgundy tailored waistcoat::,\n1.9::antique gold pocket watch chain::,\n1.8::black high-waisted trousers::,\n1.8::leather utility belt::,\n1.7::dark knee-high boots::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvmm0py2.jpg?v=1792859528410",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17452,5 +17452,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792859519506
+ "updatedAt": 1792859529354
 };

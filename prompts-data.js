@@ -17517,10 +17517,10 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::leaning forward over a poker table::,\n2.0::one palm pressed against the green felt tabletop::,\n1.9::other hand holding two playing cards::,\n1.9::cards extended toward the foreground::,\n1.8::upper body leaning over the table::,\n1.9::camera positioned directly above the table surface::,\n1.9::extreme low table-level perspective::,\n1.8::dramatic hand foreshortening::,\n1.8::medium close-up::,\n\n2.0::luxurious private casino room::,\n1.9::green felt poker table::,\n1.9::stacks of poker chips::,\n1.8::golden hanging table lamps::,\n1.8::dark wood-paneled walls::,\n1.8::elegant red velvet curtains::,\n1.7::dramatic noir lighting::,\n\n2.0::black three-piece tailored suit::,\n1.9::crisp white dress shirt::,\n1.9::burgundy silk necktie::,\n1.8::fitted black waistcoat::,\n1.8::black leather gloves::,\n1.7::formal black dress shoes::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvmn7q20.jpg?v=1792861321584",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792861313436
+ "updatedAt": 1792861322398
 };

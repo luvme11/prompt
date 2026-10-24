@@ -17352,7 +17352,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvml9xgt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting inside the enormous palm of a fallen stone statue::,\n1.9::one knee drawn toward the chest::,\n1.9::one arm loosely wrapped around the raised knee::,\n1.9::other hand resting against a gigantic stone finger::,\n1.8::body leaning against the statue's palm::,\n1.9::dramatic low-angle composition::,\n1.8::medium full shot::,\n\n2.0::ancient overgrown fantasy temple ruins::,\n1.9::gigantic fallen marble statue::,\n1.9::massive broken stone fingers::,\n1.8::collapsed temple pillars::,\n1.8::green vines climbing ancient stone walls::,\n1.8::wildflowers growing between marble fragments::,\n1.7::golden sunlight filtering through ruined ceiling::,\n\n2.0::flowing white ceremonial fantasy robe::,\n1.9::deep navy shoulder mantle::,\n1.9::delicate silver embroidered borders::,\n1.8::ornamental silver waist belt::,\n1.8::long layered fabric panels::,\n1.7::decorative fantasy sandals::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792857841941
+ "updatedAt": 1792857854158
 };

@@ -17293,7 +17293,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::reclining in an old wooden armchair::,\n1.9::one leg bent on the chair::,\n1.9::other leg resting on the floor::,\n2.0::reading an open travel journal::,\n1.9::both hands holding the journal::,\n1.8::body leaning sideways against the armrest::,\n1.9::side three-quarter camera angle::,\n1.8::medium full shot::,\n\n2.0::cozy medieval fantasy inn::,\n1.9::large glowing stone fireplace::,\n1.9::rustic wooden furniture::,\n1.8::old travel maps on the walls::,\n1.8::leather travel bags beside the chair::,\n1.7::warm orange firelight::,\n\n2.0::beige linen collared shirt::,\n1.9::dark brown leather vest::,\n1.9::black fitted trousers::,\n1.8::layered leather waist belts::,\n1.8::brown knee-high boots::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvml1drp.jpg?v=1792857786780",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17312,5 +17312,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792857771433
+ "updatedAt": 1792857787325
 };

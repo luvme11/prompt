@@ -17226,7 +17226,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvmkkpuh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::sitting sideways on a tall arched windowsill::,\n1.9::one leg bent on the windowsill::,\n1.9::other leg hanging downward::,\n2.0::holding an open spellbook::,\n1.9::one hand supporting the book::,\n1.8::other hand touching the pages::,\n1.9::side three-quarter view::,\n1.8::medium full shot::,\n\n2.0::ancient wizard tower interior::,\n1.9::large Gothic arched window::,\n1.9::giant full moon outside::,\n1.8::star-filled night sky::,\n1.8::stacks of old magic books::,\n1.8::floating candles::,\n1.7::soft blue moonlight::,\n\n2.0::midnight blue mage robe::,\n1.9::silver constellation embroidery::,\n1.9::long flowing sleeves::,\n1.8::ornamental silver waist chain::,\n1.8::layered dark blue fabric::,\n1.7::elegant leather ankle boots::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792856669696
+ "updatedAt": 1792856678010
 };

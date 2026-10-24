@@ -17548,7 +17548,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvmpjz6m",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo,\n2.0::standing in front of an open refrigerator door::,\n2.0::one hand gripping the refrigerator handle::,\n1.9::other hand reaching toward an empty shelf::,\n1.9::upper body leaning into the refrigerator::,\n2.0::camera positioned inside the empty refrigerator::,\n1.9::POV through refrigerator shelves::,\n1.8::fridge frame dominating the foreground::,\n1.8::close three-quarter perspective::,\n\n2.0::endless empty liminal supermarket::,\n1.9::infinite fluorescent ceiling lights::,\n1.9::long rows of nearly empty refrigerated shelves::,\n1.8::pale yellow supermarket walls::,\n1.8::glossy white tiled flooring::,\n1.8::repeating aisles disappearing into the distance::,\n1.7::eerily quiet dreamcore atmosphere::,\n\n2.0::pale yellow short-sleeved t-shirt::,\n1.9::blue denim overalls::,\n1.8::white casual sneakers::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792865020674
+ "updatedAt": 1792865042302
 };

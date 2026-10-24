@@ -17531,7 +17531,7 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::floating on the surface of an indoor swimming pool::,\n2.0::lying flat on the back in the water::,\n1.9::both arms spread loosely to the sides::,\n1.8::legs floating naturally beneath the surface::,\n1.9::body positioned diagonally across the frame::,\n2.0::directly overhead bird's-eye view::,\n1.9::full body visible through clear water::,\n1.8::perfectly still floating pose::,\n\n2.0::endless liminal indoor swimming pool::,\n1.9::infinite rows of white tiled columns::,\n1.9::pale turquoise swimming pool water::,\n1.8::repeating rectangular pools::,\n1.8::soft artificial ceiling lights::,\n1.8::silent empty architectural space::,\n1.7::dreamlike surreal atmosphere::,\n\n2.0::white sleeveless top::,\n1.9::pale blue casual shorts::,\n1.8::lightweight white open-front shirt::,\n1.8::loose fabric floating on the water::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvmpj9ge.jpg?v=1792865549381",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17578,5 +17578,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792865541244
+ "updatedAt": 1792865550182
 };

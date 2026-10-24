@@ -17321,8 +17321,8 @@ window.PROMPT_DATA = {
      "text": "solo,\n2.0::walking up an enormous snow-covered staircase::,\n1.9::one foot stepping onto a higher stair::,\n2.0::turning back over one shoulder::,\n1.9::one hand gripping the stone railing::,\n1.8::other hand holding the edge of a cloak::,\n1.9::rear three-quarter view::,\n1.8::slightly low diagonal camera angle::,\n1.8::medium full shot::,\n\n2.0::snow-covered fantasy castle staircase::,\n1.9::ancient stone castle towers::,\n1.9::frost-covered marble statues::,\n1.8::snowflakes falling softly::,\n1.8::frozen stone balustrades::,\n1.7::cold blue winter daylight::,\n\n2.0::long white winter cloak::,\n1.9::deep blue embroidered tunic::,\n1.9::silver ornamental embroidery::,\n1.8::fur-trimmed shoulder mantle::,\n1.8::dark leather waist belt::,\n1.7::knee-high winter boots::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvml9984.jpg?v=1792858042015",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -17382,5 +17382,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792857870926
+ "updatedAt": 1792858043159
 };

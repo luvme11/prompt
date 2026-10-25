@@ -17888,7 +17888,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvo01dmr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "ethereal black swan angel, decadent gothic mood, ::1.4::half-lidded eyes, arrogantly raised chin, faint smug smile::, flushed cheeks, tilted head, ::1.8::enormous black feathered wings spread behind the back::, ::1.5::black feathers floating in the air::, elegant asymmetrical black swan feather hairpins above both ears, black feathers with subtle crimson gradients exclusively at their tips, ::1.8::body leaning diagonally backward, one elbow raised outward, back of the hand resting beneath the chin, other arm bent across the waist::, fluffy black feather cuffs on both wrists, ::1.7::entirely jet-black sleeveless halterneck gown, gathered draped bust, fitted waist, skin-tight straight black skirt, deep thigh-high side slit, narrow column silhouette::, ::1.7::long sheer black organza panels attached at both hips, cascading downward in uneven lengths, loosely wrapping around the legs, softly billowing in asymmetrical folds close to the body::, ::1.7::ornate silver crystal gemstone brooch pinned precisely at the center of the chest between the breasts, attached to the gathered fabric of the dress::, delicate silver crystal body chains, dark minimal background, dreamy directional lighting, hazy bloom, ::1.8::dramatic tilted low-angle shot, Dutch angle, diagonal composition::, ::1.8::head-to-upper-thigh framing, entire waist visible::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792943098542
+ "updatedAt": 1792943115768
 };

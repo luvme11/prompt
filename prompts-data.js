@@ -17717,7 +17717,7 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, amazing quality, very aesthetic,\n1.9::one large beautiful main character portrait::,\n2::large unobstructed face, detailed eyes::,\ndynamic tilted chest-up portrait,\nfront three-quarter view,\n1.9::fluffy cat ears suddenly growing from head::,\nboth hands touching cat ears in surprise,\nwide eyes, startled open mouth,\nflushed cheeks, cute confused expression,\n\n1.9::maximalist cat transformation sticker collage::,\n1.8::two tiny chibi versions of the same character::,\none chibi panicking while holding cat ears,\none chibi hiding behind a giant cat plush,\nclearly separated miniature sticker illustrations,\n\ncute cat plushies, cartoon paw prints,\ncat-shaped cookies, colorful ribbons,\ntiny bells, fish-shaped candies,\nheart stickers, sparkling stars,\ncat toys, decorative bows,\nretro comic surprise symbols,\nlayered die-cut sticker borders,\n1.9::extremely dense playful decorations::,\nclear space around main face and cat ears,\n\nvibrant pink, turquoise, lemon yellow,\nstrong facial lighting,\nrich saturated colors,\nbold expressive anime linework,\npainterly cel shading"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvnzf1s3.jpg?v=1792942276831",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17750,5 +17750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792942264597
+ "updatedAt": 1792942277808
 };

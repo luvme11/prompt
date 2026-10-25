@@ -17790,7 +17790,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnzmqcl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "school uniform, 1.6::sitting casually on the ridge of a traditional Japanese tiled roof::, 1.5::one leg bent, other leg dangling over the roof edge::, relaxed posture, looking into the distance, 1.6::drinking apple juice through a straw from a small juice carton::, one hand holding juice box near mouth, other hand resting on roof tiles,  white short-sleeved school shirt, loosened black necktie, black school trousers, black loafers, slightly untucked shirt, windblown clothes,  1.7::brilliant deep azure blue sky, enormous fluffy white cumulus clouds::, 1.5::beautiful traditional Japanese tiled rooftops, curved dark ceramic roof tiles::, ornate wooden eaves, distant traditional houses, sunlit summer afternoon, gentle breeze,  1.4::wide cinematic composition, slightly low angle, full body::, vast open sky filling most of the frame, vibrant summer colors, soft sunlight, delicate anime illustration, painterly clouds, nostalgic Japanese summer atmosphere"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792942382730
+ "updatedAt": 1792942432406
 };

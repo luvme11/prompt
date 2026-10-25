@@ -17734,7 +17734,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnzfonf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, full body, side view, 2::slouched over table::, 2::chin resting on table::, sitting on metal chair, lazy pose, legs spread, bored expression, half-lidded eyes, looking at viewer, 2::decora fashion::, beige oversized jacket, black stripe track jacket underneath, navy baggy pants, 2::white sneakers::, simple sneakers, 2::teddy bear backpack::, 2::plush bear bag::, stuffed bear on back, 2::hamburger stickers on face::, 2::french fry stickers on cheeks::, 2::cola sticker on forehead::, ketchup sticker, star stickers, heart stickers, 2::stickers all over body::, 2::stickers on jacket::, 2::stickers on chair::, stickers on table, stickers everywhere, 2::hamburger on table::, 2::coca cola cup with straw on table::, french fries on table, fast food tray, paper bag on floor, fast food restaurant table, metal chair, 2::white background::, simple background, 2::negative space::, minimalist composition, pop art style, vibrant colors, colorful, bold outline, illustration, high detail"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792942089915
+ "updatedAt": 1792942103456
 };

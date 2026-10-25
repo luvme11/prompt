@@ -17843,7 +17843,7 @@ window.PROMPT_DATA = {
      "text": "(외형 추가), 1.2::slightly flushed dazed face::, 1.2::glazed eyes::, half-lidded eyes, feverish expression, slightly parted lips, breathless, looking slightly upward, dazed composure,\n\n1.1::disheveled dark blazer::, 1.1::messy unaligned necktie::, unbuttoned white shirt, wide open collar, 1.2::disarranged formal party attire::, dark waistcoat, unfastened collar, loose cuffs, wrinkled fabric, layered dark garments, hand-drawn sketch textures,\n\n1.3::one hand clutching throat and collar::, 1.2::head tilted back and swayed::, dizzy and dazed gesture, tense fingers gripping the collar, loose shoulders, leaning backward, 1.1::losing control::, breathless posture, motion tremor, trembling daze,\n\n1.2::slight low-angle close-up::, 1.2::three-quarter view::, tilted comic panel, no full body, 1.3::swirling hallucinatory manga background::, 1.3::psychedelic hand-drawn room::, warped geometric kaleidoscope, swirling checkerboard pattern, dizzying spiral background, spinning speed lines, motion trails, hand-drawn vibration contours, visual echo, jagged graffiti texts 'BLOOD' and 'BREATHE' and 'DAZED' in scratchy lettering, rough cross-hatching, sketchy comic borders,\n\n1.0::cinematic lighting::, 1.2::vibrant psychedelic watercolor and ink colors::, 1.2::hand-drawn chromatic aberration (red, green, and neon blue fringe)::, bleeding marker inks, high-contrast heavy chiaroscuro, 1.1::neon pink and electric green overlays::, optical warp, sketchy speed lines, ink splatters, textured paper grain, motion blur, blinding psychedelic glare, comic-book hatching"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvnztgr1.jpg?v=1792942851758",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17862,5 +17862,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792942836615
+ "updatedAt": 1792942852875
 };

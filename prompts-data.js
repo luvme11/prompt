@@ -17632,7 +17632,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnydnsk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, single character,\n2.0::leaning forward over an emergency control console::,\n2.0::both palms pressed firmly against the console::,\n1.9::arms extended toward the control panel::,\n1.8::torso bent forward::,\n1.9::camera positioned behind the console::,\n1.8::low three-quarter perspective::,\n1.8::medium shot::,\n\n2.0::sentinel control headquarters::,\n1.9::large wall of biometric monitoring screens::,\n1.9::unstable resonance waveforms on holographic displays::,\n1.8::flashing red warning indicators::,\n1.8::dim futuristic operations room::,\n1.7::dramatic red emergency illumination::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792940309951
+ "updatedAt": 1792940329699
 };

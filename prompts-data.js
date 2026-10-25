@@ -17874,7 +17874,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvo01070",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::one character::, 1.3::exactly two depictions of the same character::, asymmetrical collage composition,large close-up portrait on the left, close-up face occupying about 40 percent of the canvas, left-side portrait cropped at the forehead and chin, soft smile, gentle eyes, flowing hair framing the face,prominent full-body figure on the right, large standing full-body depiction, full body occupying most of the right half, clearly visible head-to-toe figure, natural graceful standing pose, holding a bouquet of roses, dress and hair flowing softly,balanced composition between portrait and full-body figure, full-body figure visually important, right figure not tiny, clear readable silhouette,warm nostalgic atmosphere, soft cream and peach palette, clean pale ivory background, gentle sunlight, clear soft lighting, delicate floral decoration,large blooming roses framing the bottom foreground, soft peach and ivory roses, dense floral border along the bottom edge, a few drifting petals, subtle elegant decorative swirls,textless romantic ending illustration, clean elegant cover-like composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792943074299
+ "updatedAt": 1792943098542
 };

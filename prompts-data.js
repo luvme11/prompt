@@ -17829,7 +17829,7 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, amazing quality,\nsolo character theme, one adult character,\n1.9::dramatic monochrome manga illustration::,\n1.9::enormous beautiful face in main panel::,\n1.8::dynamic low-angle three-quarter bust-up close-up::,\n\nextravagant traditional Japanese yakuza-inspired outfit,\nloosely worn black kimono,\nintricate patterned haori,\nlayered silk collars,\ndecorative braided obi cords,\nornate silver rings,\nvisible traditional Japanese tattoo on shoulder,\nintricate floral and dragon tattoo patterns,\nrich textured fabric folds,\n\nleaning back against a dark wooden wall,\none hand holding a traditional smoking pipe near lips,\nother hand adjusting kimono collar,\n1.7::intense half-lidded gaze, subtle dangerous smirk::,\n\n1.8::complex dramatic manga page layout::,\none enormous diagonal main portrait panel,\nsmall close-up panel of eyes,\nsmall panel showing tattoo details,\nsmall panel showing hand and smoking pipe,\nornate Japanese folding screen patterns,\nblack ink smoke, swirling floral motifs,\ndecorative paper lantern silhouettes,\nintricate screentones, bold speed lines,\n\n1.9::extreme black and white contrast::,\ndeep solid black shadows,\nsharp white facial highlights,\ndense crosshatching, bold expressive ink lines,\nintricate tattoo rendering,\ndramatic cinematic manga composition,\nno colors, face unobstructed"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvnzt1m6.jpg?v=1792942835958",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17862,5 +17862,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792942759758
+ "updatedAt": 1792942836615
 };

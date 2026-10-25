@@ -17846,7 +17846,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnztr27",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo focus, upper body, 2::extreme close side view::, 2::kneeling low, leaning forward::,\n1.9::both hands gripping another person's foot and ankle::, fingers around ankle and heel, 2::cheek pressed against foot, rubbing affectionately::, 2::licking the instep with a broad, flat tongue::, clear cheek-to-foot and tongue-to-skin contact,\nhead tilted sideways, neck extended, lowered shoulders, submissive posture, clingy affection, 1.8::black pointed stiletto heel, exposed instep::, stocking-covered leg entering diagonally from upper left, only one leg and shoe visible, sweat, saliva, saliva trail, 3::drooling::, 2::trembling::, rolling eyes, heart-shaped eyes, squinting, tears, heavy breathing, 6::blush::, half-closed eyes, parted lips, embarrassed, shy, absorbed expression, restrained excitement, black tailored suit jacket, white dress shirt, loosened black necktie, black leather gloves, 1.8::subject on right, foot entering from upper left::, tight asymmetrical framing, dusty dark red background, dramatic shadows, cinematic contrast"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792942746991
+ "updatedAt": 1792942759758
 };

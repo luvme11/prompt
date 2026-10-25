@@ -17916,7 +17916,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvo01q9t.jpg?v=1792944323185",
    "pos": "57.0% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvo0sclm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "magazine cover, dutch angle, from above, upper body, man lying down, black suit, Chest harness, intense eye contact, holding revolver to own temple, gun to head, massive blood pool halo behind head, spreading blood, spilled ink, bullets scattered on the floor, handwritten text overlay, title \"LOVE ME?\", subtitle \"KILL ME\", gothic typography, scratched text effect, dark academia, gothic romance, dramatic lighting, strong shadows, solid black background, sharp focus,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792944324011
+ "updatedAt": 1792944374027
 };

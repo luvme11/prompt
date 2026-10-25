@@ -17615,7 +17615,7 @@ window.PROMPT_DATA = {
      "text": "solo, single character,\n2.0::leaning over a bathroom sink::,\n2.0::both hands gripping the sink edges::,\n1.9::arms supporting the leaning posture::,\n1.8::torso bent toward the basin::,\n1.8::water running from the faucet::,\n1.9::side three-quarter camera angle::,\n1.8::mirror included in background composition::,\n1.8::medium shot::,\n\n2.0::quiet medical facility washroom::,\n1.9::white ceramic sink::,\n1.9::large wall-mounted mirror::,\n1.8::cold white tiled walls::,\n1.8::overhead fluorescent lighting::,\n1.7::empty clinical atmosphere::"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvnycp3a.jpg?v=1792940523821",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17648,5 +17648,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792940513945
+ "updatedAt": 1792940524956
 };

@@ -17776,7 +17776,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnzlnxs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::upper body::, 1.3::from side::, looking at viewer, light blush, 1.5::holding mask::, 1.5::fox mask::, 1.4::mask covering half face::, one eye visible, hand near face, 1.3::white kimono::, wide sleeves, 1.2::red hakama::, red collar, layered collar, 1.5::torii::, red torii, shrine, 1.3::forest::, trees, 1.4::pink flowers::, flower bushes, 1.2::soft lighting::, sunlight, pastel colors, red and white, vivid colors, sharp lineart, detailed, mysterious, shy, ethereal, japanese style"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792942375045
+ "updatedAt": 1792942382730
 };

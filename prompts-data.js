@@ -17675,7 +17675,7 @@ window.PROMPT_DATA = {
      "text": "black fitted sleeveless high-neck top, cropped black jacket, asymmetrical black skirt, layered black belts, silver chain accessories, black fingerless gloves, sheer black arm warmers, silver buckles, dark gothic streetwear, elegant edgy fashion"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvnzdffk.jpg?v=1792942234307",
    "pos": "50% 50%",
    "soon": false
   },
@@ -17750,5 +17750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792942222729
+ "updatedAt": 1792942234996
 };

@@ -17618,7 +17618,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnyd8jl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, single character,\n2.0::sitting on the edge of a medical bed::,\n1.9::both feet resting on the floor::,\n1.9::hands loosely clasped between the knees::,\n1.8::torso leaning forward::,\n1.8::elbows resting near the thighs::,\n1.9::side three-quarter composition::,\n1.8::medium full shot::,\n\n2.0::private sentinel guiding recovery room::,\n1.9::single medical bed::,\n1.8::softly glowing biometric monitors::,\n1.8::soundproof wall panels::,\n1.8::small bedside equipment table::,\n1.7::dim warm indirect lighting::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792940285044
+ "updatedAt": 1792940309951
 };

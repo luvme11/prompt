@@ -17720,7 +17720,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnzfdxx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized [white] snowboard anorak, [blue] shoulder panels, [blue] front pocket, black zipper details, baggy [blue] snow pants, [white] padded gloves, [white] snow boots,  [blue] ski goggles resting around neck,\n\nmagazine cover, vertical editorial layout, large bold condensed sans-serif typography \"SNOW\" across the upper background, oversized semi-transparent white lettering, low-opacity typography, translucent letters subtly blending into the blue sky, snowboarder overlapping the translucent magazine title, small editorial typography along the right margin, tiny issue number and volume details, small barcode in the bottom right corner, clean magazine cover composition, dynamic asymmetrical layout, crisp graphic design, 1.5::snowboarding mid-air::, high jump above a snowy slope, 1.6::deep crouching position on the snowboard::, 1.6::both knees sharply bent toward the chest::, 1.8::one hand gripping the toe-side edge of the snowboard between the bindings::, 1.3::other arm extended sideways for balance::, 1.5::both feet strapped into snowboard bindings::, 1.3::snowboard tilted diagonally::, dynamic three-quarter side view, low-angle shot, full body visible, snow particles trailing behind, clear blue winter sky, snowy mountain peaks in the distance"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792942074390
+ "updatedAt": 1792942089915
 };

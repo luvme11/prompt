@@ -17860,7 +17860,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvnztr27.jpg?v=1792943004225",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvo00h9y",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.7::thick wide red light band across face, huge red stripe of light covering one third of the image, red light projected over eyes and nose, translucent red illumination naturally following facial contours, visible skin shading beneath the light, softly feathered edges, natural light falloff across nose and cheeks::, 1.8::large bold white text \"CLASSIFIED\" on the red band, giant lettering, text spanning the full width of the image::, 1.4::\"DANGEROUS\", warning triangle, exclamation mark, hazard stripes, danger sign, red warning label::, light and shadow, chiaroscuro, low-key lighting, dark room, high contrast, solo, 1.3::smirk, confident smile, relaxed, calm, composed::, 1.6::facing viewer, front view, straight-on, symmetrical, looking at viewer, head straight, facing forward::, black suit, white shirt, loosened necktie, open collar, fully clothed, 1.5::cowboy shot, head-to-mid-thigh framing, entire head and both shoulders fully in frame, waist and hips visible::, camera pulled back, medium-long shot, from front, centered composition, space above head, dark background, red alarm light, red glow, rim light, volumetric light, film grain, cinematic, noir, tense atmosphere"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792943005077
+ "updatedAt": 1792943074299
 };

@@ -17787,8 +17787,8 @@ window.PROMPT_DATA = {
      "text": "1.3::upper body::, 1.3::from side::, looking at viewer, light blush, 1.5::holding mask::, 1.5::fox mask::, 1.4::mask covering half face::, one eye visible, hand near face, 1.3::white kimono::, wide sleeves, 1.2::red hakama::, red collar, layered collar, 1.5::torii::, red torii, shrine, 1.3::forest::, trees, 1.4::pink flowers::, flower bushes, 1.2::soft lighting::, sunlight, pastel colors, red and white, vivid colors, sharp lineart, detailed, mysterious, shy, ethereal, japanese style"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvnzlnxs.jpg?v=1792942497008",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -17820,5 +17820,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792942483078
+ "updatedAt": 1792942497978
 };

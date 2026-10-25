@@ -17703,8 +17703,8 @@ window.PROMPT_DATA = {
      "text": "1.3::halloween scrapbook collage, mixed media collage, sticker-covered journal, playful dark aesthetic::,\n\ndynamic diagonal composition, tilted instant photo frames, asymmetrical layout, layered paper cutouts, overlapping photographs, torn paper edges, decorative borders, balanced negative space,\n\nwearing a stylish halloween-inspired streetwear outfit, oversized black jacket, layered dark top, relaxed-fit trousers, orange accent details, subtle spiderweb patterns on the fabric, silver hardware, textured materials, carefully coordinated black and burnt orange color palette,\n\nsitting sideways on a tilted stack of oversized scrapbook pages, one leg bent and the other extended slightly forward, one hand holding a pair of headphones near the shoulder, the other hand reaching toward a halloween sticker, natural body twist, relaxed playful gesture,\n\n1.35::halloween sticker collection, cute miniature character stickers, tiny chibi-style halloween mascots, pumpkin stickers, ghost stickers, black cat stickers, bat stickers, candy stickers, tiny witch hat stickers, decorative spiderweb stickers::,\n\nheadphones, coiled audio cable, small music-themed stickers, sound wave doodles, tiny music notes, black spiderweb illustrations, delicate hanging spider decorations, scattered stars, washi tape, masking tape, handwritten doodles, postage stamp shapes, miniature photo prints,\n\n1.4::\"Happy Halloween\"::, large hand-lettered headline, playful handwritten typography, bold orange lettering, cream-colored outline, clearly separated from surrounding decorations, prominent text placement,\n\nblack, burnt orange, dusty purple, antique cream, muted silver, limited color palette, distressed paper texture, halftone printing, photocopy grain, rough cutout edges, layered sticker paper, subtle ink imperfections,\n\nwarm amber desk lamp lighting, soft directional shadows, gentle highlights on glossy stickers, subtle reflections on metallic headphone details, cozy midnight atmosphere, slightly mysterious halloween mood,\n\ndetailed scrapbook background, editorial graphic design, tactile paper layers, varied sticker sizes, cohesive visual hierarchy, carefully arranged decorative elements, polished illustration, intricate but readable composition,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvnzen5f.jpg?v=1792942264092",
+   "pos": "50.0% 48.0%",
    "soon": false
   },
   {
@@ -17750,5 +17750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792942252947
+ "updatedAt": 1792942264597
 };

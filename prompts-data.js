@@ -17597,7 +17597,7 @@ window.PROMPT_DATA = {
    "name": "",
    "codes": [
     {
-     "label": "",
+     "label": "의상 X",
      "text": "solo, single character,\n2.0::standing beside a circular resonance scanner::,\n2.0::one palm resting on the scanner surface::,\n1.9::other hand gripping the examination table edge::,\n1.8::slightly leaning toward the device::,\n1.9::camera positioned beside the scanner::,\n1.9::hands prominent in foreground::,\n1.8::three-quarter medium shot::,\n\n2.0::high-tech guide compatibility testing laboratory::,\n1.9::circular resonance scanning device::,\n1.9::floating holographic frequency rings::,\n1.8::transparent diagnostic screens::,\n1.8::white clinical examination room::,\n1.7::soft cyan laboratory lighting::"
     }
    ],
@@ -17648,5 +17648,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792940338512
+ "updatedAt": 1792940344547
 };

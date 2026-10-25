@@ -17657,8 +17657,8 @@ window.PROMPT_DATA = {
      "text": "2::multiple views, multiple poses, chaotic collage::, 1.5::comic panels, split screen, overlapping panels::, 1.3::character focus::, upper body, close-up, chibi,  white short-sleeved school shirt, loosened navy necktie, black school trousers, casual school uniform,  secretly glancing sideways, resting chin on hand, hiding a smile behind a textbook, blushing while looking away, covering face with one hand, daydreaming during class, hugging school bag, holding two milk cartons, checking phone messages, smiling at phone, jealous pout, flustered expression, awkward smile, lovestruck eyes, trying to act indifferent, heart pounding,  tiny chibi versions of himself, chibi screaming into a pillow, chibi rolling on the floor, chibi clutching his chest, exaggerated inner reactions, imaginary pink hearts, lovestruck doodles,  speech bubbles, question marks, exclamation marks, scribbled Korean sound effects, thought bubbles, tiny hearts, sparkles, sweatdrops, comic speed lines, halftone, notebook doodles, sticky notes, torn paper, school desk, textbooks, pencil case, milk cartons, crumpled love notes,  cream white background, pastel pink and sky blue accents, messy scrapbook layout, playful composition, romantic comedy, unrequited crush, cute awkward teenage love, slice of life manga"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvnzcxf5.jpg?v=1792942221901",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -17750,5 +17750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1792942103456
+ "updatedAt": 1792942222729
 };

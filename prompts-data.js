@@ -17678,7 +17678,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnze30m",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Seductive and delicate succubus, wearing pure black sheer lace lingerie, ultra-revealing design, black and crimson contrast, highly sensual ambiance,\n\nBlack sheer lace bralette and matching sheer black lingerie, delicate black lace trims, thin strappy garter belt, sheer black thigh-high stockings with lace top, tiny black demon horns, small sleek wings, ruby red gem choker,\n\nSoft dim lighting, dark moody background with warm magenta backlight, romantic pink-red rim light, silky smooth skin texture, ultra-detailed textures, photorealistic, 8k resolution, masterpiece,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792941998804
+ "updatedAt": 1792942029046
 };

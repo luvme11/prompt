@@ -17748,7 +17748,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvnzfonf.jpg?v=1792942306293",
    "pos": "50.0% 6.0%",
    "soon": false
+  },
+  {
+   "id": "mvnzki02",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "[Character] 1person, solo, nude, front view, wide shot, \n\n[Pose] 2::sitting on top of a giant gift box::, legs spread apart, holding a teddy bear between the legs, both arms wrapped around the teddy bear, hugging it closely against the body, bare feet,  \n\n[Coverage] 1.5::teddy bear naturally covering the chest, torso, and private parts::,  \n\n[Props] medium-sized brown plush teddy bear, 1.5::oversized colorful and luxuriously wrapped gift box::, elaborate decorative wrapping paper, intricate ornamental patterns, glossy metallic gold foil accents, elegant embossed details, 1.1::wide satin ribbons wrapped around the gift box, extravagant oversized ribbon bow, multiple voluminous ribbon loops, lavish layered bow, long flowing curled ribbon tails::, rich silky fabric sheen, beautifully arranged gift wrapping,  \n\n[Background & Atmosphere] solid bright yellow background, playful whimsical atmosphere, minimalist studio composition."
+    }
+   ],
+   "img": "img/comp/mvnzki02.jpg?v=1792942329836",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792942307429
+ "updatedAt": 1792942330810
 };

@@ -17815,10 +17815,10 @@ window.PROMPT_DATA = {
      "text": "full body portrait, side view angle, single subject glamorous bunny girl cosplay fashion editorial photoshoot, vibrant pink heart-shaped spotlighting background, crisp detail\n\n(Pose & Interaction):\na stylish, seductive, playful, and confident bunny suit fashion moment.\n- Subject A: crouching low in a full squat posture facing sideways, resting elbows gently on knees with hands clasped together near shin level, tilting head slightly toward the camera with a captivating, alluring, and subtle confident smile.\n\n(Outfit & Accessories):\nglamourous black satin bunny girl suit cosplay outfit.\n- Attire: fitted shiny black velvet and satin bunny bodysuits featuring long sleeves, white french cuff wrist sleeves with cufflinks, white collar with a small black bowtie, black fishnet tights, black pointed-toe high heel pumps with stiletto heels.\n- Headwear & Props: oversized black satin rabbit ear headband attached on top, plush white fluffy bunny tail prop attached at the back.\n- Clean look without tattoos.\n\n(Environment & Lighting):\nsolid pink backdrop with a prominent soft-edged white glowing heart-shaped light projection in the center, soft warm rim lighting illuminating the body outline, trendy, vibrant, glamorous, and stylish editorial mood"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvnzn6mt.jpg?v=1792942557094",
+   "pos": "50.0% 36.0%",
    "soon": false
   }
  ],
- "updatedAt": 1792942541864
+ "updatedAt": 1792942557781
 };

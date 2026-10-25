@@ -17660,7 +17660,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnzdffk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "4::mono, monochrome::, 1person, solo, upper body, side view, extreme close-up, dynamic angle, 3::red fire::, 2::raised hand held directly in front of the face::, 3::palm facing inward toward own face, back of hand facing viewer, back hand::, fingers spread apart, hand partially covering one eye, intense gaze through the gaps between fingers, 2::fire manipulation, flames erupting from the palm::, flames flowing from the palm toward the face, white-hot fire, curling flames wrapping around the fingers, flaming wisps spreading outward, swirling fire trails, long flowing hair, loose strands swept by heat, black background, monochrome black and white, high contrast, rough sketch lineart, intricate fine linework, dramatic shadows, luminous flames, -2::palm facing viewer, hand reaching toward camera, closed fist::"
+    },
+    {
+     "label": "의상",
+     "text": "black fitted sleeveless high-neck top, cropped black jacket, asymmetrical black skirt, layered black belts, silver chain accessories, black fingerless gloves, sheer black arm warmers, silver buckles, dark gothic streetwear, elegant edgy fashion"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792941975788
+ "updatedAt": 1792941998804
 };

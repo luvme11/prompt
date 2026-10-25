@@ -17762,7 +17762,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvnzki02.jpg?v=1792942329836",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mvnzlhvj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1.5::upper body, close-up::, 2::both hands cupping the face::, 2::face turning bright red with embarrassment::, extremely flustered, blushing intensely, flushed cheeks, red face, overwhelmed expression, 2::cartoon steam bursting from the head::, large puffs of white steam, steam clouds rising upward, comedic overheating effect, exaggerated embarrassed reaction, cute chibi-style effects, tiny hearts, floating sparkles, 2::adorable cozy background::, pastel colors, cute decorations, tiny stars, hearts, small flowers, playful patterns, soft warm lighting, whimsical kawaii atmosphere"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792942330810
+ "updatedAt": 1792942375045
 };

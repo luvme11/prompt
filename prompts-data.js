@@ -17576,7 +17576,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvmpk4op.jpg?v=1792865504246",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvnyc1qu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, single character,\n2.0::standing directly in front of reinforced glass::,\n2.0::one palm pressed flat against the glass::,\n1.9::fingers spread against the transparent barrier::,\n1.9::other hand braced against the wall::,\n1.8::upper torso leaning toward the glass::,\n1.9::camera positioned behind the glass barrier::,\n2.0::frontal medium shot::,\n\n2.0::sentinel guiding center containment room::,\n1.9::thick reinforced observation window::,\n1.8::sterile white walls::,\n1.8::flashing red emergency lights::,\n1.8::faint golden guiding energy spreading across the glass::,\n1.7::clinical emergency atmosphere::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1792866719671
+ "updatedAt": 1792940255098
 };

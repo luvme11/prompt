@@ -18042,7 +18042,25 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr5udg8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2.5::lying sprawled across the giant teddy bear, reclining loosely on top of the bear's body, limbs relaxed and draped naturally, head tilted back or to the side::, full body shot, top-down angle, overhead framing, close intimate composition,\n3::gigantic teddy bear, enormous plush bear filling most of the frame, soft fluffy fur texture::,\n2.5::cozy pastel colored setting, soft fuzzy blanket or rug surface, birthday cake with cream and berries placed nearby, colorful ribbons and streamers scattered around, confetti scattered loosely, small gift boxes and plush toys nearby::,\nsoft dreamy lighting, warm pastel tone, film photo aesthetic, whimsical cozy mood, high detail, best quality,"
+    },
+    {
+     "label": "의상",
+     "text": "3::elaborately decorated chiffon lace frilled dress, sleeveless ribbon dress, layered lace frills, delicate sheer chiffon fabric, ornate ribbon details, frilly ruffled trim::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793134187317
+ "updatedAt": 1793134265673
 };

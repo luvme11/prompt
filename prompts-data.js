@@ -18365,8 +18365,8 @@ window.PROMPT_DATA = {
      "text": "sticker sheet, chibi inset, border, frog rain gear theme, mint green and pale yellow palette, pastel rain background pattern with faint drops and tiny puddles, full body, 1.5::sitting on an oversized shiny green lotus leaf, feet dangling, tilted head, joyful smile, holding a small leaf umbrella in one hand, other hand touching a tiny swimming froglet::, upper right corner chibi inset in a circular sticker, chibi blushing in surprise under a giant falling raindrop, scattered themed object stickers including 1.2::thick white sticker outline::, colorful tadpole sticker, lily pad sticker, tiny raindrop stickers, clear water droplet marks, pastel green scalloped border with dashed lines, soft drop shadow, crisp die-cut edges. | yellow translucent vinyl raincoat, hooded raincoat with frog eyes on top, frog-themed raincoat, green glossy rain boots, light green inner shirt, dark green shorts, tiny leaf motif badge on chest, cute frog emblem on boots, buttoned raincoat front, water-resistant fabric finish."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7l82y.jpg?v=1793137341961",
+   "pos": "23.8% 50.0%",
    "soon": false
   },
   {
@@ -18398,5 +18398,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137323622
+ "updatedAt": 1793137343752
 };

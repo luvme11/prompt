@@ -19216,7 +19216,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrakrff.jpg?v=1793142347348",
    "pos": "82.2% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvrawboz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, monochrome, greyscale, film grain, 1.5::heavy mist::, fog in foreground, 2::dark gothic room, gothic background::, hauntingly romantic, intimate distance,"
+    },
+    {
+     "label": "왼쪽",
+     "text": "standing in front, looking at viewer, expressionless, holding candelabrum with both hands::, three lit candles, black lace veil over head, black lace choker, black opera gloves, black gothic dress, high collar, victorian gothic style, long sleeves"
+    },
+    {
+     "label": "오른쪽",
+     "text": "standing slightly behind, leaning in, leaning towards partner, face close to partner's face, whispering to partner, sly smile, looking at partner, black suit, black dress shirt, silver necktie,"
+    }
+   ],
+   "img": "img/comp/mvrawboz.jpg?v=1793142755906",
+   "pos": "58.2% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793142348495
+ "updatedAt": 1793142756947
 };

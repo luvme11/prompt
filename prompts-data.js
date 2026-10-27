@@ -18438,7 +18438,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7quh2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "ice cream sundae, 1.2::giant parfait in tall glass::, looking at viewer, happy, closed mouth smile, hand to cheek, sitting at table, cafe, cute aesthetic, 1.5::pastel polka dot background::, soft lighting, 1.5::sparkle and shiny effects::, food print tablecloth, napkin, spoon, ice cream on mouth, cheerful mood, cute color palette, pink peach white light blue yellow, pastel illustration. \n1.5::fluffy pastel knit cardigan::, light pink cardigan, white frilled collar blouse, cute button up blouse, plaid skirt, blue and pink plaid pattern skirt, thigh high socks, white socks, red mary janes, cute shoes, beret with pom pom, white beret, pastel backpack on back."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137451080
+ "updatedAt": 1793137460183
 };

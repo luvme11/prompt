@@ -18894,7 +18894,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr9lynt.jpg?v=1793140855179",
    "pos": "57.1% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvr9uil1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::editorial layout::, 1.5::magazine cover::, 1.2::low angle::, view from below, towering over viewer, 1.2::dynamic pose::, self-satisfied expression, smirk, one hand on hip, other arm raised high, pointing upward, pointing at sky, cocky gesture, confident posture, full body, standing, outdoor, urban setting, school rooftop, chain link fence, blue sky, cumulus clouds, bright sunlight, lens flare, film grain, graphic elements, halftone dots, star motif, arrow graphics, 2.0::japanese text \"私が一番！\"::, 1.5::large text \"TOP OF THE SCHOOL\"::, 1.2::small text \"CONFIDENCE & STYLE\"::, bold typography, block letters, pink and yellow accents, drop shadow,\n\njapanese school uniform, seifuku, sailor uniform, navy blue blazer, gold buttons, school emblem on breast pocket, white collared shirt, red ribbon tie, neat knot, pleated skirt, navy blue skirt, high waisted skirt, above knee length, dark socks, knee high socks, polished loafers, black loafers, leather belt, wristwatch on wrist, silver watch, school bag slung over shoulder, dark brown synthetic leather bag, bag charms, keychains, confident fit, crisp fabric,"
+    }
+   ],
+   "img": "img/comp/mvr9uil1.jpg?v=1793140992469",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793140857039
+ "updatedAt": 1793140994294
 };

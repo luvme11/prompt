@@ -18155,7 +18155,7 @@ window.PROMPT_DATA = {
      "text": "1.5::experimental anime zine illustration, y2k collage::, horizontal composition, off-center waist-up view of a relaxed subject tilted slightly to the right, soft resting pose with loose fingers resting near the cheek, eyes closed in a serene gentle expression, a huge oversized pastel pink plush rabbit graphic floating behind the subject and bleeding off the upper frame, transparent pastel yellow ribbon loops crossing from top-left to bottom-right, floating hand-drawn star doodles, tiny pastel heart-shaped halftone patches, soft paper texture background, light cream paper field, incomplete pastel ink fills, delicate colored linework, subtle screen-print dots, light pink and mint accent washes, soft airy lighting, clean contrast \n\n1.2::oversized pastel pink fluffy hoodie::, pastel mint oversized cuffs, exaggerated long sleeves covering the hands, soft white drawstring with ribbon bow tie, loose cozy fit, light lavender ruffled collar insert, tiny pastel star patch embroidered on the chest, layered frill hem, light yellow ribbed cuffs"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr77a3j.jpg?v=1793136689291",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18202,5 +18202,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793136673951
+ "updatedAt": 1793136690300
 };

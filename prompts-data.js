@@ -18096,13 +18096,13 @@ window.PROMPT_DATA = {
    "codes": [
     {
      "label": "",
-     "text": "1.2::cropped jacket::, black jacket, high collar, 1.1::collar covering mouth::, long sleeves, single shoulder armor, pauldron,\nwhite undershirt, torn hem, dangling ornaments, 1.2::midriff::, navel,\nlow-rise pants, 1.1::flared pants::, dark grey pants,\nblack belt, studded belt, belt chain, wallet chain,\nfingerless gloves, wrist cuffs, shackles, chain on wrist, black boots, ankle boots, visual kei"
+     "text": "full body, 1.2::floating::, feet off ground, pointed toes, leaning to the side, slouching, 1.2::hand over own mouth::, looking at viewer, half-closed eyes, expressionless,\nflail, chain, holding chain, spiked ball, oversized key, weapon beside character,\n1.1::single chibi::, large chibi, full body chibi, open mouth, arms up, bottom right,\n1.2::pastel background pattern::, lavender filigree, gradient background, light purple, light pink, white background, long legs, tall proportions,\n\n1.2::cropped jacket::, black jacket, high collar, 1.1::collar covering mouth::, long sleeves, single shoulder armor, pauldron,\nwhite undershirt, torn hem, dangling ornaments, 1.2::midriff::, navel,\nlow-rise pants, 1.1::flared pants::, dark grey pants,\nblack belt, studded belt, belt chain, wallet chain,\nfingerless gloves, wrist cuffs, shackles, chain on wrist, black boots, ankle boots, visual kei"
     }
    ],
-   "img": "img/comp/mvr5zujj.jpg?v=1793134522212",
-   "pos": "50.0% 20.0%",
+   "img": "img/comp/mvr5zujj.jpg?v=1793134790923",
+   "pos": "50.0% 6.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793134523461
+ "updatedAt": 1793134792099
 };

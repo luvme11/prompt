@@ -18827,7 +18827,7 @@ window.PROMPT_DATA = {
      "text": "01.5::y2k aesthetic, frutiger a0ero, windows xp background:0:, portrait, medium shot, blowing soap bubbles, hands near face, pucker lips, floating soap bubbles, iridescent bubbles, 2::error pop up window::, cascading error windows, blue CRT monitor, vintage mp3 player icon, msn messenger logo, windows media player UI, 3d 3d glass icon, four leaf clover, goldfish, lush hill landscape, bright blue sky, clouds, rainbow gradient frame, 1.5::glossy plastic texture::, text \"Error\", text \"Fail\", japanese text \"エラー\", small text \"SYSTEM / OVERLOAD\",\n\n1.5::white furry bunny ear headband::, white choker, bell choker, layered necklace, pearl necklace, white angel wing backpack, feather wings, fluffy white corset dress, ruffled dress, lace trim, pink ribbon bow, waist bow, puffed sleeves, detached sleeves, arm warmers, gloves, white bracelet,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr90mya.jpg?v=1793139721004",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18860,5 +18860,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793139703931
+ "updatedAt": 1793139722169
 };

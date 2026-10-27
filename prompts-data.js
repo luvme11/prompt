@@ -18701,7 +18701,7 @@ window.PROMPT_DATA = {
      "text": "monochrome, black background, upper body, sitting, restraints, hospital bed, medical equipment, medical drip, drip stand, arm rest, handcuffed to bed, looking at viewer, 1.2::slight smile::, slightly open mouth, head tilted, hospital, messy room, shadows, silhouette.\nA monochrome photo with a deep black background features the subject sitting up in a cluttered metal hospital bed. The viewpoint is slightly low, looking slightly up at the subject who is sitting up against pillows. Both hands are 1.2::handcuffed:: with heavy metallic restraints to the raised metal side rails of the bed. The right arm is supported by a padded armrest extending from the bed, and an intravenous tube runs from a medical drip hanging prominently from a dark metal drip stand in the background on the left, connecting to a point on the arm. The bed is surrounded by medical equipment, including indistinct monitors and tangled wires that are mostly lost in the dense shadows and dark background, contributing to a sense of confinement. The subject is looking directly and calmly at the viewer with a slight, almost barely perceptible smile and a slightly open mouth, their head slightly tilted. Dense shadows cover much of the environment and the subject's face, making the scene dark and slightly unnerving, with only subtle, contrasting light defining the essential forms."
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr8lz1e.jpg?v=1793139101326",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18734,5 +18734,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793139075948
+ "updatedAt": 1793139102525
 };

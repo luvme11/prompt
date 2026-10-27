@@ -18961,8 +18961,8 @@ window.PROMPT_DATA = {
      "text": "1.3::character sheet with multi panels::, in a sequential layout, featuring a centered full body figure, an enlarged upper body inset to the upper right, and a 1.2::vertical line of three facial expression insets:: below the enlargement. 3::with various expressions, cute, kawaii, winking::, all panels show the same character in the same clothing, with scattered decorative graphic elements like stars, hearts, and doodle-like line art, against a soft pink background with a white border.\n\n1.3::full body standing on one leg::, leaning forward, in one hand, looking at the viewer. soft pink grid and dotted background. even diffused lighting.\n\n1.3::over sized pink bomber jacket::, white high collar shirt, dark patterned necktie, black pleated skirt, loose black knee high socks, 1.2::chunky black platform sneakers::, with thick ridged soles, 1.2::cat ear headphones::, multiple metal chain necklaces, small jacket pin, pink thigh garter with small buckle."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvra3pga.jpg?v=1793141543778",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -19008,5 +19008,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793141525623
+ "updatedAt": 1793141544937
 };

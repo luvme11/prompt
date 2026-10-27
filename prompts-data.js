@@ -17916,7 +17916,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvo01q9t.jpg?v=1792944323185",
    "pos": "57.0% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvr4l9oe",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1man, 1woman, 2people, standing face to face, 1.5::intimate full-body contact, bodies pressed tightly together::, intense romantic tension, heated atmosphere, flushed faces, warm blush, close facial proximity,\n\n[Awoman]\n1.5::standing with her back pressed against the wall, both arms raised above her head, wrists held together::, half-lidded eyes, parted lips, flushed cheeks, delicate slender figure, narrow waist, 1.3::white sleeveless tank top slightly rolled up at the abdomen, partially exposed midriff::, very short black dolphin shorts with white contrast piping\n\n[Bman]\nblack dress shirt, long sleeves rolled up to the forearms, tailored black dress pants, black leather belt with silver buckle, 1.6::standing directly in front of Awoman, holding both of her wrists together against the wall above her head with one hand::, 1.5::other arm wrapped firmly around her slender waist, pulling her body close::, leaning toward her, intense affectionate gaze\n\n1.4::very close body proximity, lingering eye contact, palpable romantic tension::, cinematic intimate composition, subtle warm lighting, soft shadows."
+    }
+   ],
+   "img": "img/comp/mvr4l9oe.jpg?v=1793132162998",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1792945384073
+ "updatedAt": 1793132163730
 };

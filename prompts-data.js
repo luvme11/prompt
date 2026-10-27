@@ -18014,7 +18014,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr4vtpv.jpg?v=1793134118729",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvr5rxhl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Background: black night sky with large, colorful fireworks exploding brilliantly. Two people sitting together on a bench, kissing in front of the spectacle.\n\nA: (성별), wearing red and yellow floral hair ornaments, a colorful summer yukata with large poppy patterns, tied obi knot, holding a candied apple stick. Eyes wide open, cheeks flushed red, surprised expression while receiving the kiss.\n\nB: (성별), wearing a natural dark-toned summer yukata with a black obi, upper body slightly leaning forward, one hand gently holding A’s neck. Eyes closed, lips slightly parted, kissing A."
+    }
+   ],
+   "img": "img/comp/mvr5rxhl.jpg?v=1793134153331",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793134120099
+ "updatedAt": 1793134154511
 };

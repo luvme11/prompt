@@ -18225,8 +18225,8 @@ window.PROMPT_DATA = {
      "text": "cyber, y2k, webcore, collage, split-screen, upper body, holding flip phone, looking at viewer, 1.5::pop-up window::, floating computer ui elements, star motif, pastel pink background with subtle halftone dots, two unequal panels division, a large left panel features the main view leaning slightly forward with one hand holding an open metallic flip phone up toward the camera, a small top-right rectangular inset shows a close-up focus on the same subject winking with one eye closed while taking a mirrored selfie, floating translucent web browser windows overlap the background without obscuring the subject, a soft pink neon star frames the upper left corner, the top border of the main view includes short bold japanese typography reading \"1.2::さいばー::\" inside a glossy white title bar, clear soft studio lighting with gentle cool edge highlights. \n\n1.5::pink and white striped sweater::, cropped sweater, off shoulder, oversized sleeves, ribbed knit, heart patch, 1.5::denim shorts::, light blue shorts, frayed hem, low-rise shorts, pink belt"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7cv08.jpg?v=1793136903239",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -18258,5 +18258,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793136892045
+ "updatedAt": 1793136904426
 };

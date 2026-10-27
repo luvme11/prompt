@@ -18200,7 +18200,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr78g0t.jpg?v=1793136742320",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7bv5u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "multiple images, split screen, top and bottom, collage, looking at viewer, expressionless, pale skin, white background. a retro window 98 browser style interface frames the two main panels, with blocky blue titles \"cyber_log.net\" and \"web_connection_v5.0\" and simple grey minimize/close icons. in the top rectangular panel, a medium shot shows the subject seated, hands resting on a white mechanical keyboard with translucent glowing blue keys, a subtle expressionless look directed at the viewer. background props include stack of old data discs and a chunky beige monitor showing flickering geometric lines and pixelated graphic text reading \"loading...\". below, the bottom rectangular panel features a different, lower angle three-quarter view of the subject leaning slightly forward, hands placed into the deep pockets of a baggy jacket, looking straight ahead. a floating transparent green digital text overlay in the bottom panel displays random data streams like \"0xFC55_A7\", \"BUFFER: 74%\", and \"404 ERR\", using a small pixelated font. the entire composition has a cool, soft, slightly overexposed light quality. \n\n1.5::pink satin camisole::, white lace trim, heart print, spaghetti straps, pastel blue cropped cardigan, long sleeves, ribbon tie | 1.5::white tiered skirt::, miniskirt, layered skirt, scalloped hem, pink ribbon trim | pink knee socks, white stripes | blue platform mary janes, heart buckles | white shoulder bag | pearl bracelet | butterfly earrings | pink hair scrunchie,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793136743760
+ "updatedAt": 1793136761398
 };

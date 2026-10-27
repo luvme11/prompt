@@ -18844,7 +18844,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr91izg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, standing, holding electric guitar, playing guitar, action pose, dynamic pose, 1.5::y2k video game cover art::, video game box art, 1.2::nintendo ds game cover::, low poly aesthetic, pixelated texture, retro 3d render, graphic design, game spine, game case border, magic circle background, pink and white color palette, 2.0::3ds logo style layout::, large text \"HELTER DS\", japanese text \"エンジェル☆ロック\", small text \"NINTENDO DS\", winged mascot creature floating nearby, dark background overlay, low contrast glow, soft lighting,\n\n1.5::gothic lolita rocker uniform::, black sleeveless top, silver cross necklace, red plaid skirt, pleated miniskirt, 1.2::striped leg warmers::, black and red striped arm warmers, fingerless gloves, chunky white platform boots, buckle straps, oversized boots, headphones, silver wing accessory on back, angel wings, chokers, spiked collar, dark grey trim,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793139616750
+ "updatedAt": 1793139638574
 };

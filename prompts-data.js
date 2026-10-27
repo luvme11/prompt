@@ -18774,7 +18774,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr8vzi3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2.0::run, 1.5::running late, frantic, desperate, shouting, looking down, mid stride, holding toast in mouth::, 1.2::first person view POV::, motion blur, speed lines, blurred background, Japanese school corridor, stairs, school building exterior, residential street, blue sky, morning light, golden hour, dust particles, shallow depth of field, focused on toast and mouth, 1.5::anime still, manga panel, speed effect::, 2::japanese text \"遅刻！遅刻！\", Japanese text \"急げ！\", sound effect \"ドタドタ\" \"はあはあ\"::, dynamic camera angle, Dutch angle, toast hanging from mouth,\n \n1.5::Japanese school uniform, seifuku::, 1.2::sailor uniform, dark blue serge seifuku, white trim seifuku collar, red neckerchief ribbon, white shirt::, pleated skirt, navy blue pleated skirt, white socks, knee high socks, brown loafers, school bag, black nylon school bag, messenger bag style, multiple keychains on bag, holding bag while running, dishevelled uniform, loose scarf,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793139368117
+ "updatedAt": 1793139379642
 };

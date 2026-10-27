@@ -18676,7 +18676,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr8ls8k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "subject in medical facility, subject constrained, sitting, looking forward, face focus, eye focus, slight frown, mouth slightly open, subtle eye redness. the subject is sitting upright in an old medical chair, looking directly forward with a somber expression. one arm is extended, resting on the padded armrest, where an iv line is visibly inserted. the line runs back to a tall, rusted iv stand. on the stand, 1.5::a single glass ringer's solution bottle:: hangs, partially full of clear liquid, with a label featuring small text and a cross symbol. the other arm is resting loosely in their lap. the setting is an old, clinical examination room with cold, sterile white tiled walls that show subtle cracks and stains, contributing to an unsettling and somber atmosphere. overhead fluorescent lighting casts harsh, cool light. the composition is a single scene, framed from the waist up, focusing on the subject and the connection to the ringer's setup. the background is blurred but recognizable as the dilapidated medical space."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138889798
+ "updatedAt": 1793138903772
 };

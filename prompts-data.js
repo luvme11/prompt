@@ -18074,7 +18074,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr5wwln",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1male, 1.5::luxurious gothic aristocrat outfit::, 2::black dress shirt::, open collar, 2::deep crimson brocade waistcoat::, 1.5::intricate gold embroidery::, ornate floral patterns, fitted vest, black tailored trousers, silver chain accessories, elegant formalwear, reclining casually on a 2::deep red velvet sofa::, relaxed lounging pose, legs crossed, one hand holding a crystal champagne flute near lips, other hand resting on lap, black suit jacket draped over arm, low angle, slightly tilted composition, medium shot, 1.5::dark gothic luxury interior::, baroque decor, antique gold ornaments, dim warm lighting, dramatic shadows, rich crimson and gold color palette, decadent atmosphere, mysterious elegance, cinematic lighting"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793134376550
+ "updatedAt": 1793134383631
 };

@@ -18256,7 +18256,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr7d52x.jpg?v=1793136921244",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvr7ftk4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::music album cover::, cowboy shot, sitting, expressive eyes, closed eyes, laughing, open mouth, cheerful, holding guitar, pink electric guitar, guitar neck, guitar fretboard, sitting on speaker, guitar amplifier, microphone, microphone stand, yellow star floating, yellow music note, cable on floor, white background, soft pastel shading, warm lighting, dynamic composition, clean lines. a joyful single principal character sitting upright on a black guitar amplifier with legs crossed at the knees, enthusiastically singing into a slender dark microphone mounted on an adjustable stand to the left. both hands proudly play a pastel pink electric guitar held diagonally across the torso, right hand plucking the strings near the bridge and left hand fretting chords high along the neck. yellow star graphics and musical notes float gently in the surrounding air around the subject. soft shadow cast on the plain white floor below.\n1.2::oversized white sweatshirt::, graphic print, long sleeves, loose fit, pastel blue sneakers, white laces, high-top sneakers, light yellow socks, mid-calf socks, casual streetwear, aesthetic outfit, soft pastel colors."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793136922263
+ "updatedAt": 1793136945754
 };

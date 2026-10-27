@@ -18295,7 +18295,7 @@ window.PROMPT_DATA = {
      "text": "nostalgic Japanese character scrapbook aesthetic, pastel kawaii diary collage, soft pink, powder blue, lemon yellow, and white palette, delicate line art, subtle paper texture, softly layered paper cutouts, cute pastel atmosphere, clean decorative spacing. character making a cute cat paw gesture with one padded glove raised near her cheek, head gently tilted, playful wink with a sweet smile, viewed from a front-facing medium close-up angle. pastel grid pattern background, cat ear headpiece cutouts, floating strawberry and ribbon stickers, pastel lace frame, small kitten illustration accents, heart-shaped paper cutouts, blank identity badge motif, soft pastel paper shadows, whimsical character goods collage layout. | pastel yellow ruffled maid apron dress, light blue layer skirt with frill trims, pink bow accents, pale pink collar ribbon, oversized cat-paw padded gloves, oversized pastel blue headband bow, lace cat-ear headpiece, coordinated pastel idol maid ensemble."
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr7gu8e.jpg?v=1793137124165",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18328,5 +18328,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137114656
+ "updatedAt": 1793137125793
 };

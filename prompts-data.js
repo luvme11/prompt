@@ -19279,10 +19279,10 @@ window.PROMPT_DATA = {
      "text": "being carried in partner's arms while falling, one arm wrapped around partner's neck, other hand making a peace sign toward the viewer, leaning into partner, facing forward, looking up at viewer, carefree playful smile, black shirt with an oversized white collar, patchwork cardigan half black argyle half solid dusty pink, cardigan flaring open in the air, untied ribbon tie floating loose, knee length black pleated skirt with an asymmetrical dusty pink argyle panel, skirt hem fluttering, thin silver chain hanging from the skirt waist"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrb7mts.jpg?v=1793143347873",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793143282742
+ "updatedAt": 1793143349383
 };

@@ -18606,7 +18606,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr8efxj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "experimental editorial collage, full canvas split by an angled torn-paper diagonal dividing a pale grainy photocopy field and an opaque midnight blue section, 1.5::centered medium-close portrait of the subject with an off-center gaze and neutral expression::1.5, a second larger desaturated halftone crop of the same subject's profile positioned in the background layer behind the first figure, a narrow vertical strip of fine technical grid lines and abstract microtype running along the left margin, floating translucent botanical elements overlapping the split edge, rough ink pooling, muted monochrome palette with a single accent of faded rust red on the diagonal tear line, soft overhead lighting with high contrast shadows."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138538688
+ "updatedAt": 1793138561785
 };

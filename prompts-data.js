@@ -18813,8 +18813,8 @@ window.PROMPT_DATA = {
      "text": "1.5::horror movie poster design::, 2.0::cinematic layout::, 1.2::high contrast lighting::, dramatic shadows, dark atmosphere, grainy film texture, looking at viewer, wide eyed, open mouth, startled expression, gasping, hands covering mouth, trembling fingers, blood on hands, close-up, dimly lit, cluttered room, old furniture, peeling wallpaper, cracked mirror, broken glass, dust motes, flashlight beam, intense focus, depth of field, dutch angle, distressed typography, 2.0::scary japanese text \"戦慄の夜\" (senritsu no yoru)::, jagged red font, \"the nightmare begins\" text, \"based on a true story\" text, release date text.\n\n1.2::worn denim jacket::, oversized fit, faded blue, patches, silver buttons, 1.5::tattered plaid shirt::, red and black, ripped sleeves, layers, 1.2::grungy dark grey t-shirt::, distressed print, dirty, bloodstains, sweat stains, black leather bracelet, metal studs, layered silver necklaces, cross pendant, small hoop earrings, rugged jeans, torn knees, scuffed black boots, canvas backpack, worn straps."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr90gcc.jpg?v=1793139702891",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -18860,5 +18860,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793139638574
+ "updatedAt": 1793139703931
 };

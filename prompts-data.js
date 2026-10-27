@@ -18197,10 +18197,10 @@ window.PROMPT_DATA = {
      "text": "white paper, experimental anime art, collage, abstract graphic art, zine page, 1.5::cyber-y2k desktop::, bust view, closed eyes, tilted head, one arm supporting head, pale skin, white hair, a simple [ ] character in a square bracket appears like small code near the ear. a large 1.2::transparent-effect retro computer window:: frame in cool gray and pale blue covers most of the composition. it contains smaller overlapping browser windows with pixelated text and low-resolution graphics: one says \"USER PROFILE.TXT\", another shows a broken image icon. large 1.5::irregular white wire loops:: and translucent blue and lavender paper scraps cross in front of and behind the windows, some intersecting the figure. faded circuit board patterns and small clusters of white stars are scattered across the paper field and the main character's pale blue transparent-ink outline and light-toned filled regions. vertical cyber-goth symbols and small blocks of unreadable monospaced code line the edges. sparse dot patterns and rough photocopy grain cover selected areas. the overall impression is pale, sparse, and layered with clear ink lines and large areas of empty white paper, like a scanned unfinished zine page. cool low-saturation color palette with blue, white, gray, and lavender accents.\n\nloose-fitting white zip-up hoodie, black 1.5::asymmetrical hardware and buckles:: on the sleeves and shoulders, distressed white denim vest layered over the hoodie, raw edges, chain details, cyber-goth logo patch with white text and a star on the chest. wide-leg white cargo pants, multiple straps and plastic buckles. silver ball chain necklace, large square pendant with a blue transparent plastic insert. black and silver headphones with a small blue light. fingerless white gloves."
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr78g0t.jpg?v=1793136742320",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793136718231
+ "updatedAt": 1793136743760
 };

@@ -19346,7 +19346,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrchupc.jpg?v=1793145439990",
    "pos": "66.4% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvrcjsos",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.1::dutch angle::, 1.1::lying::, cowboy shot, reclining, looking at viewer, finger to mouth, indoors, chains, butterfly, glowing butterfly, purple light, backlighting,\n\n1.1::gothic dress::, 1.1::corset dress::, frilled dress, frilled skirt, ruffles, lace trim, bow, striped ribbon, fishnet gloves, fingerless gloves, choker, lace choker, bat hair ornament, hair ornament, plaid tights, garter straps, handcuffs, cross necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793145441189
+ "updatedAt": 1793145529768
 };

@@ -18603,8 +18603,8 @@ window.PROMPT_DATA = {
      "text": "1.5::grungy splatter punk magazine layout::, 2.0::gory chainsaw massacre aesthetic::, asymmetrical graphic frame, halftone dot overlay, translucent warning tape graphic, red and black color palette, dynamic low angle shot, wielding massive spinning chainsaw, aggressive dynamic pose, leaning forward, mechanical sparks flying, blood splatter covering lens, dark gloomy abandoned industrial warehouse, flickering fluorescent lights, heavy fog, concrete rubble, glowing red neon hazard sign text \"DANGER\", Japanese warning text \"危険\", small text \"EXECUTION / PROTOCOL\". \n\n1.5::black and white maid apron dress with blood stains::, layered ruffled lace collar, torn petticoat, leather combat boots, buckled harness straps, fingerless gloves, metal choker."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr8dy8r.jpg?v=1793138799825",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -18664,5 +18664,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793138601223
+ "updatedAt": 1793138800848
 };

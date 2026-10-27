@@ -18407,7 +18407,7 @@ window.PROMPT_DATA = {
      "text": "soft sky-blue character photo collage, airy kawaii Japanese scrapbook, clean white paper background with pale sky blue, powder blue, and milky white palette, delicate blue lineart, soft flat coloring, translucent watercolor-like accents, neat photo panels with rounded corners, generous white gutters, subtle printed paper texture. All panels show the same character with consistent hair, eyes, facial features, and the same outfit, normal anime proportions. Main panel: large vertical three-quarter portrait placed slightly left of center, gentle low angle, character holding a small clear umbrella over one shoulder, looking toward the viewer with a bright innocent smile, hair moving softly as if touched by a light breeze, sparkling eyes, relaxed posture. Upper right panel: close-up portrait framed like a small snapshot, face turned slightly sideways, looking upward at floating soap bubbles, softly surprised expression, parted lips, faint blush, one hand reaching toward a bubble near the edge of the frame. Middle right panel: medium shot, leaning forward over a white railing, chin slightly raised, cheerful closed-eye smile, one hand loosely waving toward the camera, candid summer-sky feeling. Bottom panel: horizontal upper-body shot, character sitting beside an open window, resting both arms on the sill, calm dreamy expression, side glance toward the blue sky, loose strands of hair drifting outward. Small chibi sticker tucked into the lower corner, same character simplified, sitting on a tiny fluffy cloud while holding a miniature umbrella, puffed cheeks, tiny happy expression, chibi proportions only in this sticker. Use pale blue translucent circles, tiny cloud doodles, raindrop-shaped accents, soft checker fragments, and small glossy sticker-like highlights in the margins. Keep decorations sparse and away from the face and hands. Fresh airy atmosphere, clean negative space, light paper grain, subtle glossy print finish"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr7q2ah.jpg?v=1793137587939",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18468,5 +18468,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137470791
+ "updatedAt": 1793137588940
 };

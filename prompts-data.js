@@ -18648,7 +18648,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr8fabr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::retro digital camera screen display::, beach resort, pop aesthetic, vibrant pastel palette, tropical background, 1.2::first-person view holding camera::, medium close-up, perspective shot, angled view, outdoor daytime. the image is framed as a first-person view looking at the LCD screen of a bright pink toy-like digital camera held in both hands. the camera screen dominates the central two-thirds of the frame, displaying a live preview photo of a tropical vacation. on the LCD screen, the same subject is shown taking a summer selfie, winking playfully with a small smile and making a peace sign with one hand near the cheek. surrounding the main camera view, the blurred background reveals a sandy beach setting with a cool teal tropical drink with a straw on the left and bright sunglasses lying on a beach towel in the right foreground. bright, sun-drenched lighting with saturated cyan sky, pink highlights, and crisp golden sunlight reflections.\n1.2::clear plastic sun visor with star pattern::, pastel mint green sleeveless crop top, thin yellow spaghetti straps, plight blue nail polish, casual tropical resort fashion, breezy summer aesthetic."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138580600
+ "updatedAt": 1793138601223
 };

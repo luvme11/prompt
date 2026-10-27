@@ -18561,8 +18561,8 @@ window.PROMPT_DATA = {
      "text": "experiment subject facility, dark atmospheric illustration, gloomy and cool palette, monochrome tones with stark blood-red accents, detailed cross-hatching and deep shadows, illustration on worn concrete texture, raw and unfinished lines, claustrophobic composition. character sitting slumped against a cold metallic structure, multiple thin transparent IV tubes are taped along one arm and connected to an indistinct wall panel behind them, gaze fixed downward on the floor, blank dazed expression, subtle upward camera angle, shallow depth of field focusing on the character. scattered blood spatters on the character's white garment and the metallic background, dark medical equipment outlines, thick electric cables, small blank metal labels on the tubes, chipped industrial paint, scratched surface details, heavy use of black and crimson splashes, disturbing and melancholic mood, grainy print texture, asymmetrical framing with negative space on one side, intense atmosphere.\nloose white medical gown, short sleeves, bare shoulders, worn fabric, tattered edges, visible dark stains and red spatters, barefoot, small plain hospital wristband, minimal coordinated attire."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr83329.jpg?v=1793138239194",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -18594,5 +18594,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793138226260
+ "updatedAt": 1793138240396
 };

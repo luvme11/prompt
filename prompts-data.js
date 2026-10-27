@@ -19090,7 +19090,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvraeg15",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.1::cowboy shot::, 1.5::dutch angle::, sitting, reclining, looking at viewer, holding book, indoors, houseplants, vines, string lights, clock, presents, strawberry cake, autumn leaves, warm lighting, bokeh,\n\n1.1::glasses::, black framed glasses, black top,  1.1::off-shoulder jacket::, green jacket, orange lining, tights, grey tights, thigh strap, boots, lace-up boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141914873
+ "updatedAt": 1793141920579
 };

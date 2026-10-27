@@ -18631,8 +18631,8 @@ window.PROMPT_DATA = {
      "text": "1.5::experimental editorial collage::, 1.5::asymmetric magazine layout::, a single character is shown in a layered graphic arrangement featuring an oversized monochrome portrait fragment in the pale background and a smaller opaque figure centered in the foreground. the composition uses rough photocopy grain, torn paper edges, and halftone dot patterns in the shadow areas. the main figure sits with knees drawn up and head slightly tilted, gazing past the viewer in a quiet interior space. a narrow vertical column of abstract typographic texture and a single bold red accent square anchor the left margin. muted pastel pink, cream, and charcoal ink tones dominate the palette under soft, flat directional light. \n\nclassic maid dress with a high ruffled collar, crisp white cotton apron with fine pintucks, bell-shaped short sleeves ending in delicate lace cuffs, layered ruffled pettiskirt peeking from beneath the hem, dark matte leather mary janes with slim straps, coordinated white lace headband secured in the hair."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr8enan.jpg?v=1793138840768",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -18664,5 +18664,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793138822178
+ "updatedAt": 1793138841910
 };

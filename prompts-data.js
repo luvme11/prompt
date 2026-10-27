@@ -19315,8 +19315,8 @@ window.PROMPT_DATA = {
      "text": "full body, high school library, soft afternoon light, warm place-based editorial layout, a girl on her tiptoes reaching up toward a high bookshelf, a boy standing right beside her reaching higher with one arm to grab the same book for her while looking down at her, the girl looking up at him with wide surprised eyes, vintage school uniform, the girl wearing a oversized navy knit cardigan over a pleated plaid skirt and white collared shirt with knee socks and loafers, the boy wearing a neatly fitted navy blazer over a light grey sweater vest and matching trousers with rolled-up sleeves, pastel green and warm oak color palette, clean grid overlay with subtle paper texture, an upper-left polaroid inset photo shows a close-up of both same characters' faces side-by-side with flustered expressions and slight blushes, small object graphics of a leather bookmark and a stack of old hardcover books decorated around the margins,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrbgfxu.jpg?v=1793143851672",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -19334,5 +19334,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793143729953
+ "updatedAt": 1793143852678
 };

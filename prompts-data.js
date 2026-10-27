@@ -19160,7 +19160,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvraj882",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.2::from above::, 1.1::upper body::, looking at viewer, leaning, in water, swimming pool, water, inner tube, rubber duck, beach ball, hibiscus, leaves, sunlight, water drops,\n\nswimsuit, frilled swimsuit, off-shoulder swimsuit, ruffles, frills, hairclip, fish hairclip,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793142125287
+ "updatedAt": 1793142144198
 };

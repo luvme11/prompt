@@ -18718,7 +18718,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr8mse3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "medical core, yami kawaii, sitting, medical chair, heart rate monitor, iv drip stand, medical curtains, looking at viewer, high angle. the subject dominates the central vertical axis, seated sideways on a rolling medical examination chair with knees together and feet resting on the lower frame. to the left, a CRT heart rate monitor displays green waveform lines on a dark screen atop a white clinical cart. to the right, an iv drip stand holds two clear bags filled with pastel pink liquid connected to hanging tubes. smooth clinical white curtains form the background, casting soft shadows under cool overhead hospital lighting. pastel pink room. 2::bear dolls and pills and cakes scattered all over the floor::.\n\n1.5::pastel pink track jacket::, high collar, zip-up front, white sleeve stripes, white frilled pinafore apron, heart-shaped chest badge, cross badge on apron pocket, matching pastel pink shorts, white thigh-high socks, 1.2::pastel pink adhesive bandages on knees::, white platform boots with double straps and buckles,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138935108
+ "updatedAt": 1793138950561
 };

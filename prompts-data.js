@@ -18704,7 +18704,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr8mgbk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "retro os, webcore, digital collage, desktop layout, blue sky, 1.5::operating system user interface::, full body, sitting, knees pulled up, tilt, looking at viewer, expressionless, hands on headphones. the subject is seated in the foreground, knees bent upward and feet drawn toward the left side of the frame, occupying the right and center foreground against a nostalgic retro operating system interface background. a classic blue sky background with light clouds is layered behind translucent blue dialog windows, pixelated error messages, classic desktop icons, and wireframe graphic UI overlays. retro UI pop-up boxes with small black Japanese text and system alerts overlap across the upper left and background, including one dialog box in the center reading \"system ok\". transparent pixel art icons, compact discs, and folder graphics floating around the character create a dense digital collage effect. cool blue and white ambient monitor glow lighting casts subtle reflections on the subject and UI elements.\n1.5::white camisole dress::, ruffles, frills, ribbon neck collar, lace trim, 1.2::feathered angel wings::, thin ribbon tie accents, leg wraps, wrist wraps, white fabric, semi-translucent chiffon overlay, ethereal cyber angel outfit, high-waisted babydoll silhouette."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138913215
+ "updatedAt": 1793138935108
 };

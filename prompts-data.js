@@ -18141,8 +18141,8 @@ window.PROMPT_DATA = {
      "text": "horizontal orientation, 1.5::experimental y2k zine collage::, cute and charming tone, 1.2::oversized star-shaped plush mascot::, single character, waist-up view, sitting on a soft pastel background, leaning forward with arms hugging a large squishy star, playful inward shoulders, tilting head slightly, bright open eyes, joyful slight smile, off-center placement on the right, wide open left field with translucent paper scraps, delicate hand-drawn fantasy elements, floating pastel heart doodles, small ribbon bows, sparkles, star clusters, soft pastel pink and icy lavender palette, white background with subtle paper grain texture, thin imperfect colored linework, flat pastel fills, minimal soft shading, cropped purikura-style handwritten sticker graphics, tiny abstract \"cute!\" text overlay in upper left corner, overlapping paper layers, cute mascot animal graphics scattered around. \n\noversized pastel pink frilled hoodie, oversized sleeves covering hands, cute bear-ear hood, white pleated mini skirt, pastel lavender leg warmers, chunky white platform sneakers with pink ribbon laces, 1.2::layered heart-shaped acrylic hair clips::, pastel ribbon hair ties, delicate silver chain necklace with a star pendant."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr76uck.jpg?v=1793136672898",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -18202,5 +18202,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793136601809
+ "updatedAt": 1793136673951
 };

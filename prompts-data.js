@@ -18172,7 +18172,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr77zm4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::experimental anime collage, early 2000s digital editorial art, gyaru zine layout::, horizontal composition, single female portrait split into two distinct views, on the left side a massive pale monochrome photocopy close-up of the same subject cropped tightly at the eyes and bridge of the nose, on the right side a crisp medium waist-up view of the same subject sitting with head tilted slightly sideways and a confident teasing expression, resting her cheek against one hand, overlapping transparent pink heart stickers, glossy purikura handwritten doodles, bright yellow stars, scattered Japanese text reading \"ギャル\" and \"LOVE\", faint halftone dot patches, torn notebook paper scrap, vertical barcode graphic in the bottom left corner, translucent cyan overprint wash crossing the background, crisp thin black outlines, flat paper texture, high contrast vibrant color palette of hot pink, cyan, canary yellow, black, and bright white. \n\n1.5::gyaru fashion, leopard print cardigan::, off-the-shoulder white ribbed crop top, pleated black denim mini skirt, chunky silver cross chain necklace, safety pin accents, fluffy faux-fur wrist cuffs, leg warmers over platform sneakers."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793136566586
+ "updatedAt": 1793136580495
 };

@@ -19003,10 +19003,10 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, from above, dutch angle, looking at viewer, waving, open mouth, leaning forward, indoor, cafe, table, stool, cupcake, stuffed rabbit, window, sunlight, lens flare,\n\n1.1::pasel pink dress::, white apron, frilled apron, pink polka bow, sailor collar, short sleeves, wristbands, maid cap, star hair ornament, hair clip, patterned tights, thigh strap, frills, lace trim,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvra4mz9.jpg?v=1793141587950",
+   "pos": "47.3% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793141574281
+ "updatedAt": 1793141589577
 };

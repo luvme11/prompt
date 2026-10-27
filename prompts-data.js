@@ -18908,7 +18908,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr9uil1.jpg?v=1793140992469",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvr9v1z8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::hospital hallway::, nursing station, medical clinic, linoleum floor, 1.2::high key lighting::, soft pastel glow, bright bloom, depth of field, tilt-shift, wide angle, 1.5::dynamic pose::, mid-action, falling forward, losing balance, flailing arms, outstretched hand, open hand, tripping, 1.2::stumbling::, off-center, airborne clipboards, flying papers, scattered medical documents, airborne pill bottles, tumbling pills, floating syringe, floating band-aid, heart-shaped motion lines, sweat drops, impact star, 1.2::chibi icons::, speech bubble, asymmetric graphic poster, 2.0::japanese text \"ドジっ子ナースちゅう意！\"::,  cute typography, pastel pink, soft mint green, clinical white, yellow caution stripe graphic,\n\n1.5::white nurse dress::, 1.2::frilled apron::, heart shaped pocket, pink trim, short sleeves, puff sleeves, flared skirt, petticoat, layered dress, oversized bow, crooked collar, untied apron strings, white nurse cap, red cross emblem, pink stethoscope around neck, white thighhighs, mismatched socks, white nurse shoes, slipped shoe, band-aid on knee, cute medical accessories, ID badge clip. shaped buttons, small backpack attached to person, hamster plush keychain on backpack,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793140994294
+ "updatedAt": 1793141016177
 };

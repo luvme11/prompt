@@ -18039,8 +18039,8 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, amazing quality, very aesthetic,\nromantic couple, two characters,\n1.9::large full-proportion couple close-up::,\n1.9::two adorable detailed chibi versions below::,\nno comic panels,\n\nupper composition:\ncharacter A gently lifting character B's chin,\nboth characters facing each other,\nfaces extremely close,\nintense romantic eye contact,\ncharacter B blushing deeply,\nlarge unobstructed beautiful faces,\ndramatic diagonal composition,\nintimate upper body framing,\n\nlower composition:\ntwo large chibi versions,\ncharacter B playfully punching character A's chest with tiny fists,\ncharacter A laughing affectionately,\nexaggerated flustered expressions,\nlarge beautiful chibi eyes,\noversized heads, compact bodies,\nwhite sticker-like outlines,\n\nsmall hearts, red ribbons, romantic decorative background,\ndeep wine red and dusty pink,\ndefined facial shadows, controlled highlights,\nno text\n\nA: character A,\nupper composition: confident tender smile,\ngently lifting B's chin,\nlower composition: chibi version,\nlaughing while receiving tiny playful punches\n\nB: character B,\nupper composition: intense blush,\nwide embarrassed eyes,\nchin gently lifted,\nlower composition: chibi version,\nfuriously blushing,\nplayfully punching character A's chest,\nadorable frustrated expression,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr5sp02.jpg?v=1793134339561",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -18076,5 +18076,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793134312084
+ "updatedAt": 1793134340588
 };

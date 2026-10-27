@@ -18452,7 +18452,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7r2k0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::experimental y2k editorial anime collage::, asymmetrical horizontal composition, maid concept, a large bust shot of a clumsy maid looking inward and blushing with wide teary eyes occupying the right half, a smaller secondary full-body depiction of the exact same subject stumbling clumsily on the left side, pale ivory paper background, translucent aqua and lavender print fragments, a giant pastel pink heart outline overlapping behind the main figure and sweeping across the page, fine black ink contours, incomplete watercolor fills, delicate hand-drawn star clusters, floating teacup graphic stamps, rotated letter fragments, faint grid overlay, soft monochrome print texture, scattered halftone dots, 1.2::playful y2k zine aesthetics::. \n\nfrilly maid headdress, pastel pink ribbon trim, oversized maid apron, oversized puffy short sleeves, dark navy mini maid dress,  white wrist cuffs, loose knee-high socks,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137460183
+ "updatedAt": 1793137470791
 };

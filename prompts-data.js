@@ -18239,8 +18239,8 @@ window.PROMPT_DATA = {
      "text": "y2k, 2000s, sticker sheet, multi-view, collage, photo print, star motif, glitter, heart-shaped sunglasses, glossy finish, white background. a sticker sheet composition featuring a large main photo print shifted slightly to the left, framed by a thick silver holographic border. inside the main photo, the subject leans forward toward the camera with a playful open-mouth smile, resting chin on top of a translucent neon pink flip phone held with both hands. a smaller circular inset photo overlaps the top-right corner of the main frame, showing a close-up profile view of the same subject winking while holding a portable compact disc player with a bright blue disc visible inside. silver glitter stars and a pastel purple heart sticker frame the outer edges of the paper layout. soft studio flash lighting creates sharp glossy highlights on the plastic devices and holographic borders.\n\n1.5::pastel pink halter top::, floral print, ribbon, bare shoulders, white bolero, long sleeves, flared sleeves | 1.5::low-rise jeans::, light blue jeans, flared pants, butterfly embroidery, pink belt | pink platform sandals, flower ornament | white handbag, flower-shaped bag | butterfly necklace | pink bracelet | flower hair clips, colorful hair clips,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7d066.jpg?v=1793136891041",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -18258,5 +18258,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793136869964
+ "updatedAt": 1793136892045
 };

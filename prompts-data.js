@@ -18309,7 +18309,7 @@ window.PROMPT_DATA = {
      "text": "pale pink character photo collage, dangerous nurse concept with a cute but slightly unsettling mood, kawaii Japanese fashion scrapbook, white paper background, thin pink lineart, soft flat shading, clean rectangular photo panels, white gutters, subtle printed texture. All panels show the same character with consistent face, hair, eyes, and the same outfit, normal anime proportions. Main panel: full body, standing with a relaxed contrapposto pose, one hand loosely holding a large medical syringe prop at her side, head slightly lowered while looking at viewer, small calm smile, softly dangerous atmosphere, subtle low angle. Upper-right panel: close-up portrait, gloved fingertip resting lightly against the lower lip, half-closed eyes, faint teasing smile, slight head tilt, looking at viewer, soft pink shadow under the eyes. Middle-right panel: upper body, leaning forward over a simple clinical cushion, one hand supporting her cheek, the other loosely holding a stethoscope, sleepy playful expression, slightly high camera angle. Lower-right panel: medium shot, turning over one shoulder with one eye closed, small peace sign near the face, relaxed mischievous smile, a tiny adhesive bandage detail near the cheek. Small chibi sticker in the white margin: same character simplified, hugging an oversized syringe-shaped plushie with puffed cheeks. pale pink and white palette, tiny hearts, cross-shaped doodles and ribbon lines, sparse decoration, clean negative space, no readable text, delicate linework, nostalgic printed character-goods finish, cute medical danger aesthetic without gore. | nurse uniform, pale pink and white, short-sleeved fitted nurse dress, clean collar, small nurse cap, subtle cross motif, latex gloves, thigh-high stockings, simple nurse shoes, neat medical accessories, cute but dangerous aesthetic"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr7h4ns.jpg?v=1793137135780",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18328,5 +18328,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137125793
+ "updatedAt": 1793137136785
 };

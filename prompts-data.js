@@ -18536,7 +18536,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr804l8.jpg?v=1793138006515",
    "pos": "50.0% 2.0%",
    "soon": false
+  },
+  {
+   "id": "mvr82scn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nostalgic Japanese illustrated character goods aesthetic, cute character snapshot composition, soft matte finish with a subtle grain texture, warm cream paper background, powder pink, cherry blossom pink, and white palette, clean cherry red linework, delicate halftone printing effects. one large central illustration of the character playfully leaning forward, both hands held near her cheeks, eyes wide and sparkling, a big cheerful smile, viewed straight on with a wide-angle lens, surrounded by slightly smaller illustrative compartments. the compartments show various cute moments without distinct boundaries: the character winking mischievously while peeking around a giant prop apple; holding a small bunny plushie in her lap while waving; hugging a large strawberry. all compartments feature fluffy cloud outlines, tiny red hearts, pink glitter motifs, small strawberry illustrations, cute cherry charms, and scattered sparkles. soft dreamlike lighting, warm and cozy atmosphere, \n\nwhite button-up blouse with puff sleeves and a rounded collar, a cherry red sleeveless dress layered over the blouse, a white scalloped cardigan draped around her shoulders and tied, cute white socks with lace trim, cherry red Mary Jane shoes, a pink velvet headband with small bows, a tiny strawberry pendant necklace, coordinated red and white accessories."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138007995
+ "updatedAt": 1793138018079
 };

@@ -18645,8 +18645,8 @@ window.PROMPT_DATA = {
      "text": "portrait, half-body shot, expressive composition, nostalgic digital graphics and experimental zine aesthetic. the image is structured as a retro computer interface overlapping a torn paper collage, featuring a large pale portrait fragment offset in the background behind a sharp, high-contrast foreground subject. the primary subject makes eye contact with a playful expression, holding up one hand in a classic gyu-peace sign close to the face, index and middle fingers extended upward in a signature pose. scattered around the frame are low-resolution interface elements, thin window borders, and small pixelated star motifs arranged in an intentional diagonal path. the rendering utilizes rough photocopy grain, halftone screentone in the shadow shapes, and a limited color palette of deep charcoal, muted cream, and saturated hot pink accents. background features distressed editorial typography blocks with faint, unreadable microtype rows and the exact short quote \"1.5::sweet & spicy::\" placed vertically along the left edge. the overall lighting is flat and high-contrast, evoking early 2000s web design and printed zine culture. \n\ntailored gyaru school uniform, modified classic navy blue sailor-style school jacket with crisp white contrast piping, short-sleeved fitted shirt underneath, pleated tartan miniskirt in dark tones, layered slouchy white leg warmers gathered loosely around the ankles, chunky platform shoes, accessorized with a slim studded belt, a small ribbon pinned to the collar, and subtle silver ring jewelry on the hands."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr8eui4.jpg?v=1793138856372",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -18664,5 +18664,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793138841910
+ "updatedAt": 1793138857925
 };

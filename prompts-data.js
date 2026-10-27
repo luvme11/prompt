@@ -19360,7 +19360,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrckcdr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "close-up, 1.2::lying on side::, lying, 1.15::hugging pillow::, hugging, looking at viewer, indoor, room, bed, window, sunlight, 1.1::backlighting::, lens flare, depth of field, stuffed rabbit,\n\n1.15::pink dress::, white shirt, long sleeves, frill cuffs, frill collar,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793145529768
+ "updatedAt": 1793145555324
 };

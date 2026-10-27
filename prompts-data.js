@@ -18891,10 +18891,10 @@ window.PROMPT_DATA = {
      "text": "wide-eyed, cream on lips, sitting, looking at another,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr9lynt.jpg?v=1793140855179",
+   "pos": "57.1% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793140591540
+ "updatedAt": 1793140857039
 };

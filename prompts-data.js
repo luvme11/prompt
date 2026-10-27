@@ -19332,7 +19332,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrbh89t.jpg?v=1793144045400",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvrchupc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.1::dutch angle::, cowboy shot, sitting, reclining, looking at viewer, holding book, reading, fire in hand, indoors, stairs, railing, vines, flowers, lantern, warm lighting,\n\n1.1::gothic dress::, black dress, long dress, frilled dress, hood, patterned hood, long sleeves, frilled cuffs, brooch, choker, bead necklace, lace trim, strapped shoes, white socks,"
+    }
+   ],
+   "img": "img/comp/mvrchupc.jpg?v=1793145439990",
+   "pos": "66.4% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793144047065
+ "updatedAt": 1793145441189
 };

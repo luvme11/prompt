@@ -18466,7 +18466,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr7r2k0.jpg?v=1793137648978",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7z2js",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::maid::, 1.2::cat ears::, cat paw pose, claw pose, portrait, upper body, looking at viewer, smile, open mouth, soft lighting, pastel color palette, depth of field, detailed background, pastel pink wall background, 1.2::hanging cat framed picture:: on wall, white floating cat-shaped bubbles around subject. the subject is positioned slightly off-center to the right, leaning forward playfully with both hands raised near the cheeks in a claw pose. 2::a cute white text reading \"nyan~\" is placed in the upper-left corner of the frame::. \n1.5::frilled maid outfit::, black maid dress, white apron, lace trim, cat paw gloves, cat tail, ribbon hair bow, frilled collar, ruffled sleeve cuffs, heart-shaped cutout apron, 1.2::bell collar necklace::, sheer organza frills, pastel pink ribbon accent."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137650642
+ "updatedAt": 1793137843883
 };

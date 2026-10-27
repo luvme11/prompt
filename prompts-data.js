@@ -19101,8 +19101,8 @@ window.PROMPT_DATA = {
      "text": "1.1::cowboy shot::, 1.5::dutch angle::, sitting, reclining, looking at viewer, holding book, indoors, houseplants, vines, string lights, clock, presents, strawberry cake, autumn leaves, warm lighting, bokeh,\n\n1.1::glasses::, black framed glasses, black top,  1.1::off-shoulder jacket::, green jacket, orange lining, tights, grey tights, thigh strap, boots, lace-up boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvraeg15.jpg?v=1793142035868",
+   "pos": "94.7% 50.0%",
    "soon": false
   },
   {
@@ -19148,5 +19148,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793141998530
+ "updatedAt": 1793142037040
 };

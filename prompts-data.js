@@ -19238,7 +19238,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrawboz.jpg?v=1793142755906",
    "pos": "58.2% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvrb17kh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인 (의상 X)",
+     "text": "2people, low angle, from below, 1.4::dutch angle::, tilted frame, indoor, balcony railing, white railing, 1.4::vintage wall lamp in foreground::, blurred foreground object, depth of field, sepia tone, monochrome, vintage photography style, cinematic lighting, dark and moody atmosphere,"
+    },
+    {
+     "label": "왼쪽",
+     "text": "bending over railing, leaning down heavily, 1.5::kissing partner on the lips::, passionate kiss,"
+    },
+    {
+     "label": "오른쪽",
+     "text": "leaning back on railing, bending backward, receiving kiss, 0.5::eyes closed::, 1.3::hand resting on railing::,"
+    }
+   ],
+   "img": "img/comp/mvrb17kh.jpg?v=1793142983598",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793142756947
+ "updatedAt": 1793142985062
 };

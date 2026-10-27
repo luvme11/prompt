@@ -19132,7 +19132,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvraflhe",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, sitting, looking at viewer, 2::holding teddy bear::, pastel pink sofa, hugging, outdoors, balcony, sofa, cushion, table, bouquet, sunlight, dappled sunlight, pastel pink room, bokeh, balloons,\n\npink dress, frilled dress, detached sleeves, white gloves, frilled socks, ankle boots, bow, frills, lace trim,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141952277
+ "updatedAt": 1793141974592
 };

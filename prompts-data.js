@@ -18312,7 +18312,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7hi3l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pastel strawberry dessert scrapbook, nostalgic Japanese character diary collage, soft cream paper background, powder pink, muted strawberry red, and soft vanilla palette, delicate linework, subtle paper grain, softly layered paper cutouts, balanced asymmetrical layout, gentle negative space.  character sitting relaxed on a plush floor cushion, holding a small decorative spoon near her mouth, knees tucked close, head gently tilted, playful curious expression with a slight smile, viewed from an eye-level angle.  pale pink grid paper cutouts, strawberry slice illustrations, patterned gingham washi tape, decorative blank dessert recipe card with floral border, pastel ribbon bow stickers, small blank paper tags, pressed strawberry blossom cutouts, soft paper shadows, dreamy cozy atmosphere, neat decorative arrangement. | cream sweater with a soft ruffle collar, pastel red pinafore dress with subtle A-line silhouette, white crew socks with lace trim, dusty pink leather loafers,  soft pink satin hair ribbon, coordinated strawberry and cream fashion accessories."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137007052
+ "updatedAt": 1793137024235
 };

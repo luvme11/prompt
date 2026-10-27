@@ -19006,7 +19006,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvra4mz9.jpg?v=1793141587950",
    "pos": "47.3% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvra7s3e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, 2::holding camera, indoor::, photograph, ribbon, sunlight, lens flare, depth of field, soft lighting, pink room, pastel pink theme, 3::chibi inset, multi view, bold outline::\n\n1.1::pink dress::, hair bow, off-shoulder sweater, frilled dress, frills, lace trim, ribbon, bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141589577
+ "updatedAt": 1793141609749
 };

@@ -18872,7 +18872,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr94vgb.jpg?v=1793140081047",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvr9lynt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "slice of life, looking at another, kissing, side profile, table, cafe, window, latte,"
+    },
+    {
+     "label": "남자",
+     "text": "blue tracksuit, blue sequined jacket, sequins, glittery fabric, sparkling clothes, shiny fabric, long sleeves, high collar, zipped jacket, black side stripes, black cuffs, black pants, matching tracksuit,\n\nclosed eyes, hand on another's chin, leaning towards another, standing, bent over, hand on table, kissing on lips"
+    },
+    {
+     "label": "여자 (의상 X)",
+     "text": "wide-eyed, cream on lips, sitting, looking at another,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793140082518
+ "updatedAt": 1793140591540
 };

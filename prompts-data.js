@@ -18933,10 +18933,10 @@ window.PROMPT_DATA = {
      "text": "yami kawaii, dreamy aesthetic, petit kawaii, menhera, creepy cute, dark pastel, psychological horror vibe, subtle surrealism, dynamic framing, cowboy shot, leaning forward, head tilt, index finger on lips, quiet hand gesture, looking at viewer, faint ominous smile, room interior, messy bedroom, cluttered desk, dim room, pale pink backlight, neon lilac ambient lighting, soft volumetric glow, deep shadows, high contrast, surreal floating pills, translucent plastic ribbon, heart shaped drip overlay, graphic sticker sheet, blood drip decal, cross hair icon, pastel pink, dusty mauve, neon violet, charcoal black.\n\noversized hoodie, off-shoulder hoodie, black hoodie, pastel pink safety pin accents, fishnet tights, ripped tights, pleated mini skirt, dark plaid skirt, thigh high socks, platform boots, oversized buckle strap, lace trim arm warmers, band aid on knee, spiked collar, studded belt, black leather belt, hair clips attached to collar,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr9v76q.jpg?v=1793141183009",
+   "pos": "50.0% 22.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793141022771
+ "updatedAt": 1793141184163
 };

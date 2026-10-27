@@ -18253,10 +18253,10 @@ window.PROMPT_DATA = {
      "text": "single character, cowboy shot, sitting, leaning forward, focused expression, holding handheld game console, looking down at screen, holding game console with both hands, sticker collage background, lined paper texture, black and cyan color theme, dark aesthetic, subculture style, notebook paper background, halftone dots, subtle drop shadows, 1.5::scrapbook page layout::, star stickers, rabbit stickers, clear bag strap visible near waist, 1.2::playful subculture aesthetic::, monochrome page field with pale cyan accents, high contrast lighting, crisp lines, clean graphic composition."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7d52x.jpg?v=1793136921244",
+   "pos": "50.0% 36.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793136904426
+ "updatedAt": 1793136922263
 };

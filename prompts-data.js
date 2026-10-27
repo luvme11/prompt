@@ -19146,7 +19146,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvraflhe.jpg?v=1793142105430",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvraiu0r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, 1.2::from above::, full body, sitting, 1.1::on swing::, swing, looking at viewer, holding rope, outdoors, water, water surface, reflection, ripples, leaves, flowers, bubbles, sunlight, dappled sunlight,\n\n1.1::white dress, frilled dress::, strapless dress, ruffles, frills, 1.1::detached sleeves::, puff sleeves, yellow ribbon, ribbon choker, barefoot,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793142106584
+ "updatedAt": 1793142125287
 };

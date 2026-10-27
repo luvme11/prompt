@@ -18337,8 +18337,8 @@ window.PROMPT_DATA = {
      "text": "sticker sheet, chibi inset, border, four-leaf clover theme, fresh spring green and pastel yellow palette, faint clover pattern background, 1.5::main character sitting at center on a giant glossy four-leaf clover cushion::, leaning forward with a bright cheerful smile, left hand resting on the clover stem, right hand holding up a tiny glowing glass jar filled with mini clovers, small round chibi inset at upper-right peeking over a giant clover leaf with a playful wink, clustered small object stickers, horseshoe-shaped lucky charm sticker, tiny ladybug sticker near the lower-left, clear glass bottle with a cork stopper, ribbon-tied fortune slip, golden clover-shaped wax seal sticker, individual floating shamrock petals, 1.2::thick white die-cut sticker outlines::, soft drop shadow around cutouts, scalloped ribbon border around the page, clean layout, bright sunny lighting. | emerald green clover-themed dress, crisp white layered petticoat apron, frilled hem, gold clover-embroidery details along the collar, soft yellow ribbon sash tied in a large back bow, puff sleeves with lace trim, sheer white thigh-high socks with small clover prints, light brown ankle boots with golden buckles, clover-shaped hairpin fastened to the side."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7knya.jpg?v=1793137308287",
+   "pos": "23.3% 50.0%",
    "soon": false
   },
   {
@@ -18398,5 +18398,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137219272
+ "updatedAt": 1793137309766
 };

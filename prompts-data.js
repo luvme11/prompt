@@ -18057,8 +18057,8 @@ window.PROMPT_DATA = {
      "text": "3::elaborately decorated chiffon lace frilled dress, sleeveless ribbon dress, layered lace frills, delicate sheer chiffon fabric, ornate ribbon details, frilly ruffled trim::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr5udg8.jpg?v=1793134375479",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -18076,5 +18076,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793134340588
+ "updatedAt": 1793134376550
 };

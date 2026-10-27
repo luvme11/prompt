@@ -18743,8 +18743,8 @@ window.PROMPT_DATA = {
      "text": "shining, looking at viewer, water splash, bokeh, bubbles, transparency, clear plastic, 1.2::colorful liquid::, sparkling water, light blue background. this is a single, clear composition set within a transparent, stylized fish tank full of bubbles. the subject stands mid-splash, wearing a clear, water-resistant outfit and 1.5::holding an glowing, stylized goldfish scoop:: that has caught a translucent, glowing blue-orange goldfish. light refracts through the swirling water and many bubbles. behind the subject, large, simplified aquatic plant shapes and abstract, rounded tech-bubbles float. in the upper-right corner, all elements are rendered with a bright, luminous, glossy finish.\n1.5::clear raincoat::, translucent waterproof outfit, shiny plastic, water-resistant material, glossy texture, sheer layers, aqua blue trim, attached hood, white drawstrings, iridescent reflections, yellow snap buttons, 1.2::embedded tiny goldfish motifs::, white long sleeve t-shirt, 1.2::clear waterproof boots:: with orange accents and bubble patterns, loose fit."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr8v9bw.jpg?v=1793139467793",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -18804,5 +18804,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793139385975
+ "updatedAt": 1793139468994
 };

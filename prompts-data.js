@@ -17997,10 +17997,10 @@ window.PROMPT_DATA = {
      "text": "{{2girls}}, duo, {{two female police officers}}, {{both girls riding the same small police motorcycle}}, {{back-to-back pose}}, {{facing opposite directions}}, {{one girl sitting forward on the motorcycle seat}}, leaning forward, gripping motorcycle handlebars, looking downward, {{other girl sitting backward on the rear seat}}, {{twisting her upper body}}, {{holding a handgun with both hands}}, gun pointed diagonally upward, playful confident expressions, {{light blue short-sleeved police uniform shirts}}, dark blue shorts, police badges, utility belts, black fingerless gloves, white socks, sneakers, {{compact white police motorcycle}}, small motorcycle, visible rear wheel, exhaust pipe, detailed engine, {{dynamic full body composition}}, {{entire motorcycle visible}}, {{three-quarter side view}}, exaggerated action poses, intertwined silhouettes, diagonal composition, {{white background}}, {{Japanese manga volume cover}}, {{large red Japanese title at top}}, bold red typography, small black printed text, minimal background, clean cover layout"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr4mv13.jpg?v=1793132518443",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793132294168
+ "updatedAt": 1793132519015
 };

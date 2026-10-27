@@ -18947,8 +18947,8 @@ window.PROMPT_DATA = {
      "text": "close-up, head tilt. The subject tilts toward the viewer while one hand rests on camera-right shoulder. 1.2::pastel pink and cyan background filled with floating pixel cross icons and a pixelated heart speech bubble::. Flat shadowless lighting evenly illuminates the composition.\n\nsingle image, centered layout, card design, 1.2::decorative pixelated frame border::. A thin patterned outer border with small colored square accents surrounds the composition.\n\nsailor collar, 1.2::oversized white hood with a star detail::, light blue belt choker with a hanging pink star pendant, striped long sleeves. A white sailor collar with blue stripes and a tied scarf overlaps blue backpack straps adorned with pink studs, paired with lime green and purple hair clips.\n\none eye closed, ;p, tongue out,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvra3kqo.jpg?v=1793141524208",
+   "pos": "42.4% 50.0%",
    "soon": false
   },
   {
@@ -19008,5 +19008,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793141463005
+ "updatedAt": 1793141525623
 };

@@ -18519,7 +18519,7 @@ window.PROMPT_DATA = {
      "text": "pastel jellyfish dream diary collage, ethereal illustrated scrapbook aesthetic, translucent materials, soft glowing ambiance, delicate white paper background with faint sea foam patterns, shimmering watercolor palette of mint green, pale lavender, powder blue, and soft iridescent accents, clean thin blue-gray outlines, delicate hand-painted textures, balanced airy arrangement of layers and negative space. character floating gently horizontally across the center, looking dreamy with a soft smile, eyes closed, arms loosely spread as if drifting through water, viewed from a close-up three-quarter angle. layered translucent vellum cutouts with subtle iridescent gradients, shimmering jellyfish illustrations with delicate tendrils and glowing caps, floating bubbles, star-shaped glitter confetti, scattered tiny pearls, wavy patterned washi tape strips, clear gel stickers, small blank paper labels with scalloped edges, pressed dried sea flowers, soft glowing particles, gentle light refractions, whimsical nostalgic atmosphere.\n\nsheer layered pastel blue and lavender dress resembling a jellyfish bell with translucent frilled hem,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr7zzr7.jpg?v=1793137980048",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18538,5 +18538,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137969684
+ "updatedAt": 1793137981370
 };

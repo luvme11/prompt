@@ -18662,7 +18662,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr8fabr.jpg?v=1793138874210",
    "pos": "53.3% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvr8lh4f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.2::poster layout::, 1.5::motorcycle::, full body, leaning, index finger to cheek, subtle smile, looking at viewer, checkerboard background, pop art style, stickers, geometric shapes. the scene is structured as a stylized promotional poster layout with a pastel background frame featuring a black and white checkerboard strip across the top right corner. the subject occupies the central foreground, leaning casually against a red retro motorcycle positioned diagonally from left to right. one hand rests on hip while the index finger of the other hand points subtly toward the cheek. bold graphic stickers including star and crown icons overlap the right side of the motorcycle frame. bright studio lighting casts crisp drop shadows against the flat graphic background elements.\n\n1.5::red satin bomber jacket::, 1.2::denim hot pants::, white crop top, 1.2::red knee pads::, white slouched socks, red motorcross boots, fingerless gloves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138875252
+ "updatedAt": 1793138889798
 };

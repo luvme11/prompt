@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Prompt Admin</title>
+<title>Prompt Admin · v3</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
@@ -81,21 +81,24 @@ let DATA = {profile:{}, items:[]}, SHA = '', tab = 'comp', Q = '', PG = 1;
 
 /* ---------- GitHub ---------- */
 async function pull(){
-  const r = await fetch(url('prompts-data.js') + `?ref=${br()}&t=${Date.now()}`, {cache:'no-store', headers:hdr()});
-  if (r.status === 404){ DATA = {profile:{}, items:[]}; SHA = ''; return; }
-  if (!r.ok) throw new Error('불러오기 실패 (' + r.status + ') — 연결 설정을 확인해 주세요');
-  const j = await r.json();
-  let enc = j.content;
-  /* 파일이 1MB를 넘으면 contents API가 내용을 비워서 보내므로 blob API로 다시 읽음 */
-  if (!enc || j.encoding === 'none'){
-    const g = LS();
-    const b = await fetch(`https://api.github.com/repos/${g.owner}/${g.repo}/git/blobs/${j.sha}`, {cache:'no-store', headers:hdr()});
-    if (!b.ok) throw new Error('데이터 파일 읽기 실패 (' + b.status + ')');
-    enc = (await b.json()).content;
-  }
-  if (!enc) throw new Error('데이터 파일 내용이 비어 있어요 — 저장을 중단했어요 (기존 데이터 보호)');
-  DATA = JSON.parse(decodeURIComponent(escape(atob(enc.replace(/\n/g,'')))).replace(/^[^{]*/,'').replace(/;\s*$/,''));
-  DATA.items = DATA.items || []; DATA.profile = DATA.profile || {}; SHA = j.sha;
+  const g = LS(), H = {cache:'no-store', headers:hdr()};
+  const d = await fetch(`https://api.github.com/repos/${g.owner}/${g.repo}/contents?ref=${br()}&t=${Date.now()}`, H);
+  if (!d.ok) throw new Error('[읽기] 저장소 목록 불러오기 실패 (' + d.status + ') — 사용자명·저장소·브랜치·토큰을 확인해 주세요');
+  let list; try{ list = await d.json(); }catch(e){ throw new Error('[읽기] 깃허브 응답이 비어 있어요'); }
+  const f = list.find(x => x.type === 'file' && x.name === 'prompts-data.js');
+  if (!f){ DATA = {profile:{}, items:[]}; SHA = ''; return; }
+  /* blob API는 최대 100MB까지 읽을 수 있어서 1MB 제한에 안 걸림 */
+  const r = await fetch(`https://api.github.com/repos/${g.owner}/${g.repo}/git/blobs/${f.sha}`, H);
+  if (!r.ok) throw new Error('[읽기] 데이터 파일 불러오기 실패 (' + r.status + ')');
+  let j; try{ j = await r.json(); }catch(e){ throw new Error('[읽기] 데이터 파일 응답이 비어 있어요'); }
+  if (!j.content) throw new Error('[읽기] 데이터 파일 내용이 비어 있어요 — 기존 데이터 보호를 위해 저장을 중단했어요');
+  let txt;
+  try{ txt = decodeURIComponent(escape(atob(j.content.replace(/\s/g,'')))); }
+  catch(e){ throw new Error('[읽기] 데이터 파일 해독 실패: ' + e.message); }
+  const body = txt.replace(/^[^{]*/,'').replace(/;\s*$/,'');
+  try{ DATA = JSON.parse(body); }
+  catch(e){ throw new Error('[읽기] prompts-data.js 내용이 깨져 있어요 (길이 ' + txt.length + '자) 끝: ' + txt.slice(-40).replace(/\n/g,' ')); }
+  DATA.items = DATA.items || []; DATA.profile = DATA.profile || {}; SHA = f.sha;
 }
 async function commit(mut, msg){
   if (!ready()) throw new Error('먼저 연결 설정을 해 주세요');
@@ -104,18 +107,19 @@ async function commit(mut, msg){
     const body = {message:msg, content:b64('window.PROMPT_DATA = ' + JSON.stringify(DATA, null, 1) + ';\n'), branch:br()};
     if (SHA) body.sha = SHA;
     const r = await fetch(url('prompts-data.js'), {method:'PUT', headers:hdr(), body:JSON.stringify(body)});
-    if (r.ok){ SHA = (await r.json()).content.sha; return; }
-    if (r.status !== 409 && r.status !== 422) throw new Error('저장 실패 (' + r.status + ')');
+    if (r.ok){ try{ SHA = (await r.json()).content.sha; }catch(e){} return; }
+    let m = ''; try{ m = (await r.json()).message || ''; }catch(e){}
+    if (r.status !== 409 && r.status !== 422) throw new Error('[저장] 실패 (' + r.status + ') ' + m);
     await new Promise(res => setTimeout(res, 700));
   }
   throw new Error('저장 실패 — 다시 시도해 주세요');
 }
 async function putImg(path, dataUrl){
   let sha; const g = await fetch(url(path) + `?ref=${br()}&t=${Date.now()}`, {cache:'no-store', headers:hdr()});
-  if (g.ok) sha = (await g.json()).sha;
+  if (g.ok){ try{ sha = (await g.json()).sha; }catch(e){} }
   const body = {message:'Upload ' + path, content:dataUrl.split(',')[1], branch:br()}; if (sha) body.sha = sha;
   const r = await fetch(url(path), {method:'PUT', headers:hdr(), body:JSON.stringify(body)});
-  if (!r.ok) throw new Error('이미지 업로드 실패 (' + r.status + ')');
+  if (!r.ok){ let m = ''; try{ m = (await r.json()).message || ''; }catch(e){} throw new Error('[이미지] 업로드 실패 (' + r.status + ') ' + m); }
 }
 async function delImg(path){
   const p = String(path||'').split('?')[0]; if (!p || /^https?:/.test(p)) return;

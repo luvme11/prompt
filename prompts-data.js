@@ -18008,13 +18008,13 @@ window.PROMPT_DATA = {
    "codes": [
     {
      "label": "",
-     "text": "2::side view::, 2::vhs style, camcorder viewfinder, camcorder overlay, REC indicator, timestamp, text overlay, recording user interface::, 1.8::squatting low against a wall, knees bent, crouched sitting pose::, 1.8::offering a single lollipop directly toward the viewer, extreme close-up of the outstretched hand::, 2::one oversized glossy lollipop as the central focus::, translucent lime-green candy, black spiral pattern inside the candy, tiny sparkling sugar crystals, thin white candy stick, dramatic foreshortening, hand and candy dominating the foreground, dark oversized streetwear sleeves, black fingerless gloves, silver rings, metallic eyelets and chains, 2::black, acid-lime green and hot pink color palette::, 2::vivid pink neon lighting, magenta rim light, pink light reflections::, pink and lime-green glowing splashes, neon pink paint drips, fluorescent pink graffiti, 1.8::neon green and black splattered blood stains on the wall::, glowing fluorescent green blood splashes, dripping neon stains, eerie luminous streaks across a dark concrete wall, pink neon blood-like streaks, magenta splatters, glowing pink droplets running down the wall, scattered candy wrappers, torn pink and black graphic posters, overlapping typography, distressed magazine collage, dark studio background, deep shadows, ominous dim surroundings, sharp directional shadows, glossy 3D materials, high contrast, dynamic diagonal composition,"
+     "text": "2::side view::, 2::vhs style, camcorder viewfinder, camcorder overlay, REC indicator, timestamp, text overlay, recording user interface::, 1.8::squatting low against a wall, knees bent, crouched sitting pose::, 1.8::offering a single lollipop directly toward the viewer, extreme close-up of the outstretched hand::, 2::one oversized glossy lollipop as the central focus::, translucent lime-green candy, black spiral pattern inside the candy, tiny sparkling sugar crystals, thin white candy stick, dramatic foreshortening, hand and candy dominating the foreground, dark oversized streetwear sleeves, black fingerless gloves, silver rings, metallic eyelets and chains, 2::black, acid-lime green and hot pink color palette::, 2::vivid pink neon lighting, magenta rim light, pink light reflections::, pink and lime-green glowing splashes, neon pink paint drips, fluorescent pink graffiti, 1.8::neon green and black splattered blood stains on the wall::, glowing fluorescent green blood splashes, dripping neon stains, eerie luminous streaks across a dark concrete wall, pink neon blood-like streaks, magenta splatters, glowing pink droplets running down the wall, scattered candy wrappers, torn pink and black graphic posters, overlapping typography, distressed magazine collage, dark studio background, deep shadows, ominous dim surroundings, sharp directional shadows, glossy 3D materials, high contrast, dynamic diagonal composition,\nedgy street fashion editorial, rebellious sinister playful mood, pink VHS color distortion, magenta chromatic aberration, subtle analog noise, cinematic product photography, polished visual design"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr4vtpv.jpg?v=1793134118729",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793132653767
+ "updatedAt": 1793134120099
 };

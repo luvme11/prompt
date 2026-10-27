@@ -17930,7 +17930,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr4l9oe.jpg?v=1793132162998",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvr4lsar",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, {{sitting on a stack of VHS tapes}}, {{holding a VHS cassette}}, foreshortened hand, playful wink, oversized varsity jacket, graphic t-shirt, high-waisted shorts, striped socks, high-top sneakers, colorful plastic earrings, {{retro video rental store}}, shelves filled with VHS cases, movie posters, handwritten rental signs, CRT television, cassette tapes scattered around, {{dynamic three-quarter view}}, {{medium full shot}}, 1990s nostalgic atmosphere, colorful vintage shop interior"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793132163730
+ "updatedAt": 1793132184964
 };

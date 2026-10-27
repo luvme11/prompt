@@ -19073,10 +19073,10 @@ window.PROMPT_DATA = {
      "text": "upper body, looking at viewer, 1.2::holding mask, holding tassel::, outdoors, shrine, stone lantern, torii, cherry blossoms, falling petals, sunlight, dappled sunlight, bokeh,\n\n1.2::red kimono::, wide sleeves, detached sleeves, frills, frilled collar, collar, yellow obi, floral print, gold floral print, puff sleeves, holding mask, fox mask, orange hair flower, flower hair ornament, blue hair ribbon, hair ribbon,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvra9asf.jpg?v=1793141822255",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793141804862
+ "updatedAt": 1793141823916
 };

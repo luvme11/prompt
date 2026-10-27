@@ -18771,8 +18771,8 @@ window.PROMPT_DATA = {
      "text": "1.5::y2k pop magazine design::, magazine cover, framing, 1.2::high-angle shot::, dynamic pose, sitting on ground, knees to chest, hugging knees, looking up, looking at viewer, peace sign, v gesture, room, bedroom, floor, messy room, plushies, polaroid camera, heart-shaped mirror, vintage television, glowing screen, neon lighting, pink lighting, cyan lighting, flash photography, soft shadows, 2.0::y2k typography::, large text \"DREAMGIRL\", japanese text \"ときめき★ダイアリー\", halftone pattern, glossy sticker, heart frame, scanlines, barcode overlay, sticker overlay, star sparkles, pink and silver color palette,\n\n1.5::oversized pastel pink hoodie::, jacket off shoulder, 1.2::white pleated mini skirt::, crop top, graphic printed t-shirt, heart pattern, fishnet tights, platform boots, white leg warmers, chunky sneakers, layered silver chain necklace, beaded choker, heart pendant, star hairpin, colorful hair clips, plastic rings, beaded wristband, fluffy cat ears headband,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr8vql4.jpg?v=1793139492073",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -18804,5 +18804,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793139480262
+ "updatedAt": 1793139493141
 };

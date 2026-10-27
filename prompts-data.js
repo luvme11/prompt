@@ -17983,8 +17983,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, {{sitting sideways on an old bus stop bench}}, {{holding a vintage paper bus ticket between lips}}, {{looking toward viewer}}, relaxed half-lidded eyes, one elbow resting on bench back, retro track jacket, high-waisted shorts, striped knee socks, sneakers, {{old-fashioned bus stop}}, faded route map, metal bus stop sign, vintage advertisements, telephone poles, old city bus approaching in background, {{three-quarter view}}, {{medium shot}}, warm afternoon light, nostalgic 1990s city atmosphere"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr4mans.jpg?v=1793132293271",
+   "pos": "62.0% 50.0%",
    "soon": false
   },
   {
@@ -18002,5 +18002,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793132283545
+ "updatedAt": 1793132294168
 };

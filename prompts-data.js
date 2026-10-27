@@ -18494,7 +18494,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7zo06",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "blue stationery diary collage, nostalgic Japanese character scrapbook aesthetic, warm white paper background, powder blue, faded navy and ivory palette, delicate blue-gray lineart, subtle printed texture, softly layered paper cutouts, balanced asymmetrical composition, generous ivory negative space.  character sitting sideways on a wooden stool, holding an open notebook with blank pages on her lap, ankles loosely crossed, head gently tilted toward the viewer, quiet thoughtful smile, viewed from a slightly elevated angle.  pale blue grid patterns, floral stickers, patterned washi tape strips, fountain pen cutouts, tiny unlabeled ink bottles, folded blank memo sheets, blue paper clips, pressed forget-me-not flowers, restrained paper shadows, soft nostalgic atmosphere, clean decorative spacing.\n\nivory blouse with a rounded collar, powder blue knitted cardigan, navy pleated skirt, white ankle socks, dark blue Mary Jane shoes, coordinated soft blue and ivory styling."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137854446
+ "updatedAt": 1793137871678
 };

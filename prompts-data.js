@@ -18480,7 +18480,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7zao0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "multiple views, split-panel, 3panels, photo collage, wordless image-only layout, borderless main image, framed insets, dynamic framing, summer breeze, ocean horizon, coastal scenery, bright sunny day, clear blue sky, seaside, water droplets, sunlight reflections, gentle ocean wave, wooden boardwalk, seashell. an editorial page collage capturing a refreshing summer day at the sea. the dominant central image occupies two-thirds of the page with a borderless, wide-angle full-body view of the subject leaning against a weathered wooden boardwalk railing, gazing toward the distant turquoise horizon while holding the brim of a sunhat against the ocean breeze. in the upper-right corner, a small Polaroid-framed photo inset shows an extreme close-up eye-focus view, capturing a joyful sunlit expression with water droplets glistening on radiant skin. in the lower-right corner, a second framed cutout inset shows a detailed low-angle crop of a barefoot foot stepping into clear, shallow ocean surf, creating small, sparkling water splashes around a delicate seashell. 1.5::sunlight reflections on crystal turquoise water::, 1.2::gentle sea breeze effect::. \nbreezy summer dress, sun hat, straw hat, wide-brim hat, 1.5::white linen sun dress::, sleeveless dress, scoop neckline, flared A-line skirt, lightweight fabric, subtle eyelet lace hem, gathered waistline, thin fabric shoulder straps, 1.2::woven raffia sunhat::, blue ribbon hatband, sea-glass pendant necklace, silver ankle bracelet, delicate woven rope wristband."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137843883
+ "updatedAt": 1793137854446
 };

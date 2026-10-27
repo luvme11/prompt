@@ -18379,8 +18379,8 @@ window.PROMPT_DATA = {
      "text": "pale pink character photo collage, kawaii Japanese fashion scrapbook, white paper background, pale pink and white palette, thin pink lineart, soft flat coloring, clean rectangular photo panels, white gutters, subtle printed paper texture, nostalgic Japanese character goods aesthetic. All panels show the same character with consistent hair, eyes, facial features, and the same outfit, normal anime proportions. Main panel: large vertical full body portrait, slightly high angle, hugging a fluffy bunny plushie close to the chest, one foot lifted a little, looking at viewer with a shy small smile and softly sparkling eyes. Upper right panel: close-up, head tilt, fingertips lightly touching the lips, softly curious expression, delicate blush, direct eye contact, relaxed shoulders. Middle right panel: upper body, resting one cheek in one hand, half-closed eyes, sleepy gentle smile, slightly turned toward the camera, soft candid photo-booth feeling. Lower right panel: medium shot, holding the bunny plushie beside the face, one eye closed, small peace sign near the cheek, playful but calm expression. Small chibi sticker placed in the open white margin, same character simplified, sitting while hugging a tiny bunny plushie, tiny sleepy smile. Keep generous white space between panels, pale pink rectangular accents with a few tiny white hearts and stars, minimal ribbon doodles, thin clean outlines, soft ink texture, no readable text, no heavy shadows, polished scrapbook print finish."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7lhbg.jpg?v=1793137363534",
+   "pos": "80.5% 50.0%",
    "soon": false
   },
   {
@@ -18398,5 +18398,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137343752
+ "updatedAt": 1793137364716
 };

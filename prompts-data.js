@@ -19020,7 +19020,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvra8or3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, 1.1::lying::, legs up, from above, dutch angle, touching glasses, indoor, bedroom, floating objects, chair, desk, paper, purple room, pastel purple theme,\n\n1.1::blue jacket::, fur trim, frilled top, crop top, polka dot skirt, sleep mask, glasses, round glasses, earphones, necklace, single sock, fishnet socks, loose socks,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141609749
+ "updatedAt": 1793141651973
 };

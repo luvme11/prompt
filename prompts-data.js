@@ -18578,7 +18578,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr83gvx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "experimental subject aesthetic, eerie specimen collage, bright and airy laboratory background, clean warm-white paper texture, high-key lighting, pale mint, clinical cyan, faded crimson accents, crisp ink lineart with soft watercolor shading, layered paper cutouts, asymmetrical floating elements. character perched on the edge of a pristine white clinical exam table, hugging her knees tightly to her chest, chin resting on her knees, gazing straight forward with a wide glossy stare, faint unsettling smile, eye-level framing, medium shot. clear acrylic specimen jars with floating flower petals, unlabeled blank glass vials, pale green medical chart paper with blank grid patterns, heart-rate line illustrations, translucent specimen slides, red surgical ribbon, medical gauze cutouts, subtle dropping shadows, eerie yet delicate atmosphere, clean visual arrangement.\n\noversized white hospital gown with faint mint piping, pale grey knitted leg warmers, clear PVC slip-on shoes, subtle clinical ID wristband, silver safety-pin brooch, light mint hair ribbons, layered eerie medical-themed styling."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793138040629
+ "updatedAt": 1793138049209
 };

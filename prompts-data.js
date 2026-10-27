@@ -18841,7 +18841,7 @@ window.PROMPT_DATA = {
      "text": "maid aesthetic, 1.2::cat pose::, paw pose, kneeling, crouching, on all fours, indoor, room, bedroom, floor, looking at viewer, from below, tilted head, smirk, tail, white floor, bed, blurry background, warm light, soft lighting, depth of field, graphic design, 1.5::kawaii graphic design::, pop art style, border, white border, polka dot pattern, star pattern, 1.5::purikura style::, photo sticker, sparkle, heart shape, 1.5::japanese text, \"にゃんこメイド\", small text, \"メイド喫茶\", small text, \"かわいい\"::, cat ears headband, cat tail, tail twitch, hand gesture, paw gesture, cat paw gesture, neko, animal ears, cat ears, cat tail,\n\n1.5::maid uniform::, black dress, white apron, frills, lace, frilled apron, lace trim, puff sleeves, short sleeves, peter pan collar, black bow, white bow, bow tie, cat ears headband, maid headdress, cat ears, fluffy ears, fur, black cat ears, cat tail, black cat tail, fluffy tail, collar, black collar, bell, small bell, ribbon, choker, lace choker, white socks, knee highs, frilled socks, Mary Janes, strap shoes, black shoes, white cuffs, wrist cuffs, gloves, fingerless gloves, paw gloves, paws, paw pads, pink paw pads,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr912e2.jpg?v=1793139732207",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18860,5 +18860,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793139722169
+ "updatedAt": 1793139733366
 };

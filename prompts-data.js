@@ -19076,7 +19076,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvra9asf.jpg?v=1793141822255",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvraeba4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, 1.2::from above::, lying, looking at viewer, smiling, raising hand, halloween, full moon, indoor, tiled floor, castle, lantern, pumpkin lantern, black cat, lighting, pink light, light particles,\n\n1.2::cat ears::, 1.2::thighhighs::, 1.1::paw gloves::, bell choker, headband, hair ornament, short dress, black shorts, corset, laced top, ruffled skirt, frills, lace, ruffles, ribbon, bow, garter straps, laced stockings, handwear, wrist ruffles,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141823916
+ "updatedAt": 1793141914873
 };

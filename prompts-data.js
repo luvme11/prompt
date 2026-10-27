@@ -18113,8 +18113,8 @@ window.PROMPT_DATA = {
      "text": "sticker sheet, chibi inset, border, detective mystery theme, brown and sepia tone palette, faint magnifying glass grid background, 1.5::1.2-view upper body framing, main subject crouching behind an oversized brass magnifying glass, looking through the lens with one wide curious eye, holding a glowing pocket flashlight in right hand, left hand touching cheek in thought::, small polaroid-framed chibi inset at upper left, chibi gasping with a giant lightbulb floating above head, scattered evidence tag stickers, footprint stamp stickers, mini fingerprint cutouts, small brass key stickers, open miniature notebook cutout, single title label reading \"MYSTERY CASE\", 1.2::thick white die-cut sticker outline, faint drop shadow::, scalloped dark brown frame border, soft indoor ambient light. \n\nclassic detective trench coat, double-breasted beige gabardine, dark brown houndstooth deerstalker hat, folded coat collar, leather buckle details on cuffs, small embroidered spyglass badge on lapel, dark brown necktie, tailored vest underneath."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr75ieq.jpg?v=1793136488874",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -18132,5 +18132,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793136470839
+ "updatedAt": 1793136490649
 };

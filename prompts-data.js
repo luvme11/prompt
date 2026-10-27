@@ -18989,8 +18989,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, from above, lying, on back, looking at viewer, holding syringe, bent knees, parfait, strawberry, sweets, soft lighting, depth of field,\n\n1.1::pink dress::, nurse cap, frills, lace trim, frilled collar, puff sleeves, ribbon choker, heart cutout, bow, lace gloves, frilled socks, ribbon legwear, stuffed rabbit, leg strap,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvra4a8b.jpg?v=1793141572937",
+   "pos": "80.0% 50.0%",
    "soon": false
   },
   {
@@ -19008,5 +19008,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793141558091
+ "updatedAt": 1793141574281
 };

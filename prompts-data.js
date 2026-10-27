@@ -17958,7 +17958,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr4m4s9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, {{sitting in the back seat of a vintage taxi}}, {{view through the open taxi window}}, {{lowering oversized round sunglasses with one hand}}, looking directly at viewer, mischievous half-lidded eyes, playful smile, {{1970s retro idol outfit}}, colorful geometric patterned blouse, oversized pointed collar, orange neck scarf, large hoop earrings, red headband, {{upper body}}, {{close-up through car window}}, taxi window frame surrounding character, yellow taxi door visible, brown leather car interior, chrome door handle, retro city lights reflected on glass, {{vintage fashion magazine advertisement}}, bold rounded lettering, small printed captions, warm orange and mustard yellow palette, subtle halftone print texture, nostalgic 1970s atmosphere"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793132191919
+ "updatedAt": 1793132201228
 };

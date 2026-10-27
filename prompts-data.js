@@ -18270,7 +18270,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7giqa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2000s Y2K Japanese character sticker page collage, nostalgic decorative diary aesthetic, pastel grid notebook background, pastel pink, butter yellow, mint green, lavender, and sky blue palette, clean outline art, soft flat vector illustration style, layered paper scrapbook cutouts, white sticker borders with subtle dropshadows, balanced asymmetrical composition. character leaning slightly forward with a playful smile, both hands holding a school bag down in front, head tilted, energetic gaze directed at the viewer. pastel pink ripped paper cutout background, retro handheld virtual pet toy prop with colorful beaded strap, melon pan snack package cutout, cute bear mascot charm, star and heart stickers, cherry motifs, four-leaf clover illustrations, wing icon patches, decorative beaded phone strap, soft pastel drop shadows, vibrant early-2000s pop character goods arrangement. | short-sleeved white collared shirt, pastel yellow V-neck sweater vest, light blue pleated mini skirt, white loose leg warmers, dark brown loafers, oversized hot pink neck bow tie, colorful star hair clips, beaded bracelet, navy blue school tote bag, coordinated Y2K Japanese schoolgirl fashion ensemble."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793136945754
+ "updatedAt": 1793136979147
 };

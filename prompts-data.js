@@ -18522,7 +18522,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr804l8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "nostalgic Japanese character goods aesthetic, playful horizontally oriented graphic collage composition, creamy off-white background with a subtle paper grain texture, warm and vibrant palette of apple red, sunny yellow, leaf green, sky blue, and white, clean lineart illustration style.character in a simple standing pose holding a large straw hat with both hands above her head, winking cheerfully and smiling brightly, centered in the frame. decorative border with repeating simplified icons of red apples, green clover, yellow stars, and small blue birds, rounded frame elements, faux sticker motifs, red and green patterned washi tape strips, small white buttons, playful decorative stars and dots, cheerful and cute visual balance.\n\nred short-sleeved t-shirt with a white trim ringer collar, light wash denim overalls with brass buckles, white canvas sneakers with red accents, yellow and white striped crew socks, small apple-shaped pin on the bib, coordinated primary color styling."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137887201
+ "updatedAt": 1793137893367
 };

@@ -19115,8 +19115,8 @@ window.PROMPT_DATA = {
      "text": "high angle, 1.1::dutch angle::, cowboy shot, looking at viewer, smiling, holding cake, holding plate, indoors, birthday, celebration, balloons, balloon banner, flowers, string lights,\n\nsmile, open mouth, \n1.1::baker boy cap::, 1.1::pastel pink plaid dress::, vest, short sleeves, puff sleeves, frills, frilled cuffs, lace trim, collar, striped necktie, striped ribbon, bow, hair ribbon, hair bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvraewq6.jpg?v=1793142054742",
+   "pos": "24.9% 50.0%",
    "soon": false
   },
   {
@@ -19148,5 +19148,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793142037040
+ "updatedAt": 1793142055949
 };

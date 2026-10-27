@@ -19048,7 +19048,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvra8x1w",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, 1.1::upper body, reaching toward viewer::, looking at viewer, hand outstretched, outdoors, shrine, torii, stairs, bridge, cherry blossoms, falling petals, sunlight, bokeh,, dappled sunlight,\n\nsmile, open mouth,\n1.1::miko, japanese clothes::, hair ribbon, hair ornament, flower hair ornament, hair clip, flower earring, wide sleeves, frilled sleeves, frills, japanese knot, bell, tassel, obi, floral print,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141657062
+ "updatedAt": 1793141662546
 };

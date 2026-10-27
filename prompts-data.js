@@ -19129,8 +19129,8 @@ window.PROMPT_DATA = {
      "text": "1.2::from above::, full body, sitting, looking at viewer, holding plate, holding fork, outdoors, picnic, picnic blanket, checkered blanket, grass, trees, leaves, picnic basket, food, cake, sunlight, dappled sunlight,\n\n\n1.1::white lolita dress, frilled dress::, red polka dress, red kerchief, headscarf, hair ribbon, flower hair ornament, frilled apron, heart print, long sleeves, frilled cuffs, ruffles, lace trim, ribbon, pockets, white socks, mary janes, cross-strap shoes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvraf40d.jpg?v=1793142095334",
+   "pos": "56.6% 50.0%",
    "soon": false
   },
   {
@@ -19148,5 +19148,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793142055949
+ "updatedAt": 1793142096375
 };

@@ -18071,7 +18071,7 @@ window.PROMPT_DATA = {
      "text": "F1 racing driver having just stepped out of an F1 race car, standing on the pit lane of a racetrack. Holding a sleek racing helmet in hand or under arm, wearing a detailed professional F1 racing suit with sponsor badges, collar slightly unzipped, light sweat glistening on forehead and neck, determined and breathless expression after the race. F1 racing car and race track background, stadium lights, heat haze, cinematic atmospheric lighting"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvr5vdcf.jpg?v=1793134474056",
    "pos": "50% 50%",
    "soon": false
   },
@@ -18090,5 +18090,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793134383631
+ "updatedAt": 1793134475530
 };

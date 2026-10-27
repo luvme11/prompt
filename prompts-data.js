@@ -19104,7 +19104,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvraewq6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high angle, 1.1::dutch angle::, cowboy shot, looking at viewer, smiling, holding cake, holding plate, indoors, birthday, celebration, balloons, balloon banner, flowers, string lights,\n\nsmile, open mouth, \n1.1::baker boy cap::, 1.1::pastel pink plaid dress::, vest, short sleeves, puff sleeves, frills, frilled cuffs, lace trim, collar, striped necktie, striped ribbon, bow, hair ribbon, hair bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141920579
+ "updatedAt": 1793141942239
 };

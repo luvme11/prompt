@@ -19318,7 +19318,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrbh89t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "school uniform, sweet atmosphere, cheerful mood, cute, cozy outdoor framing, full body view, editorial illustration, warm place-based editorial. on the right, a cute boy stands awkwardly with a bashful, gentle expression, wearing a relaxed navy blue school blazer over a beige knit vest, a loose crimson necktie, and dark trousers. on the left, a lively girl leans forward playfully toward him, peeking up into his face with a bright, charming smile, wearing a matching navy blue school pleated skirt, an oversized beige V-neck cardigan with rolled-up cuffs, and white slouch socks with loafers. the boy's hand is fidgeting with the strap of his dark canvas school bag, while the girl holds a sweet wrapped ice pop in one hand, offering it toward him. in the upper-right corner, a rounded portrait inset shows a close-up of both same characters' faces side by side, capturing the boy's flustered blush and the girl's mischievous, affectionate wink up close. around the pair, small supporting graphics of sparkling star doodles, floating pastel heart stickers, and a hand-drawn arrow pointing from the ice pop to the boy decorate the soft cream background field. bright sunny lighting, warm pastel palette, soft grain paper texture, clean graphic linework. 1.2::playful cute high school relationship, vivid interactive pose, distinct coordinated uniforms::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793143693679
+ "updatedAt": 1793143729953
 };

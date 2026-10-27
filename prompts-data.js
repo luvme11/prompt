@@ -19282,7 +19282,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrb7mts.jpg?v=1793143347873",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrbax6h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "viewfinder, camera screen, phone screen, view through mirror, convex mirror, mirror selfie, selfie, embrace, hugging, outdoors, street, road, crosswalk, mirror, city, overcast, cool lighting, aesthetic"
+    },
+    {
+     "label": "안는 쪽",
+     "text": "upper body, looking at viewer, source#hugging from behind, source#embrace, source#leaning close, hoodie, hooded jacket, jacket, gloves, neutral expression, calm,"
+    },
+    {
+     "label": "안기는 쪽",
+     "text": "upper body, looking at viewer, target#hugging from behind, source#taking a selfie, source#holding phone, holding smartphone, covering lower face, coat, jacket, scarf, knit scarf, neutral expression, calm"
+    }
+   ],
+   "img": "img/comp/mvrbax6h.jpg?v=1793143436849",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793143349383
+ "updatedAt": 1793143437928
 };

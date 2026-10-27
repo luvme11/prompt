@@ -19031,8 +19031,8 @@ window.PROMPT_DATA = {
      "text": "full body, 1.1::lying::, legs up, from above, dutch angle, touching glasses, indoor, bedroom, floating objects, chair, desk, paper, purple room, pastel purple theme,\n\n1.1::blue jacket::, fur trim, frilled top, crop top, polka dot skirt, sleep mask, glasses, round glasses, earphones, necklace, single sock, fishnet socks, loose socks,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvra8or3.jpg?v=1793141770691",
+   "pos": "65.3% 50.0%",
    "soon": false
   },
   {
@@ -19078,5 +19078,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793141761079
+ "updatedAt": 1793141771731
 };

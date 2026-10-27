@@ -19199,8 +19199,8 @@ window.PROMPT_DATA = {
      "text": "upper body, looking at viewer, heart hands, leaning, curtains, pink curtains, heart balloon, confetti, pink background,\n\n;p, tehepero, \n1.1::nurse cap::, 1.1::crop top::, 1.1::frilled skirt::, frilled top, pink bow, neck bow, detached sleeves, puff sleeves, frilled cuffs, angel wings, white wings, mini skirt, lace trim, headphones, hairclip,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrak761.jpg?v=1793142319043",
+   "pos": "24.4% 50.0%",
    "soon": false
   },
   {
@@ -19218,5 +19218,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793142300722
+ "updatedAt": 1793142320228
 };

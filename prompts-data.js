@@ -18858,7 +18858,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr94vgb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::denpa theme, space aesthetic, y2k pop magazine design::, dynamic angle, high angle, sitting, hugged knees, looking at viewer, tilting head, peace sign, floating in space, deep space, glowing stars, neon grid, cathode ray tube monitor, retro television, floating satellite, space debris, pixel stars, glitch effect, neon light, colorful light, high contrast, vibrant color palette, cosmic ray, holographic overlay, 1.5::chrome typography::, japanese text \"電波受信中\",  sticker, graphic design, asymmetric editorial layout, framing, glowing icon, floating CRT TV, pixelated heart, \n\n1.5::cyber sweater::, oversized sweater, chunky knit sweater, pastel blue sweater, pastel pink accents, star pattern, high neck sweater, loose sleeves, pleated mini skirt, metallic silver skirt, asymmetrical skirt, thigh high socks, mismatched socks, white thighhighs, platform boots, white platform boots, chunky boots, cat ear headphones, glowing headphones, beaded bracelets, multiple hair clips, star hair clip, waist bag, clear vinyl pouch,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793139733366
+ "updatedAt": 1793139794391
 };

@@ -18746,7 +18746,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr8vin8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::vintage dark fantasy magazine cover, framed by thorns::, upper body, looking at viewer, tilting head, finger to lips, holding ornate silver dagger, shadowed stone altar background, flickering candlelight, heavy rim lighting, deep chiaroscuro, blood red and obsidian color palette, dark muted tones, gothic border, distressed paper texture, halftone noise, \n\n1.5::gothic lolita dress::, black velvet, layered lace trim, wide lace cuffs, high neck collar, corseted waist, tight lacing, ribbon bow at neck, silver cross pendant necklace, silver chain belt, black lace fingerless gloves, rose hairpin, mesh veil, 1.2::detailed lace embroidery::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793139345866
+ "updatedAt": 1793139357734
 };

@@ -18116,7 +18116,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr75n03",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, highly detailed anime illustration, adorable nurse outfit, fixed clothing design, consistent outfit, gender-neutral nurse costume, suitable for male and female characters,\nOutfit: pastel pink and white nurse uniform, pale pink short-sleeved fitted nurse top, crisp white Peter Pan collar, white piping along the collar and sleeves, small pink front buttons, neatly tailored waist, white apron panel, small pastel pink ribbon at the neckline, delicate white lace trim, clean symmetrical design, polished fabric details,\nSkirt: pastel pink tight mini skirt, fitted pencil skirt, body-hugging silhouette, straight narrow skirt shape, high-waisted design, smooth tailored fabric, structured waistband, short above-the-knee length, delicate white lace trim along the hem, subtle white piping, neat and elegant design, clearly defined tight skirt silhouette, no pleats, no flare,\nNurse cap: small white nurse cap, pale pink medical cross emblem centered on the front, delicate white lace trim along the cap edge, neatly secured on the head,\nLegwear: opaque pure white thigh-high socks, smooth matte fabric, clean white finish, neatly fitted, symmetrical pair,\nColor palette: pastel pink, baby pink, pure white, consistent color placement, cute and elegant, pop and sweet aesthetic, meticulously designed clothing, intricate lace details, crisp edges, clearly distinguishable garment parts, preserve the character’s original face, hairstyle, identity and body proportions,\n\nmasterpiece, best quality, highly detailed anime illustration, cute pastel pink pop aesthetic,\n\nComposition: medium close-up, waist-up portrait, single character, character filling most of the frame, face clearly visible, sharp focus on the face, dynamic diagonal composition,\n\nPose: hugging an enormous oversized giant syringe with both arms, tightly cuddling the giant syringe against the chest, arms wrapped around the huge cylindrical barrel, syringe nearly as large as the character’s upper body, oversized exaggerated proportions, giant prop dominating the composition, syringe clearly visible from barrel to needle tip, character’s face unobstructed, syringe positioned beside the face,\n\nGiant syringe design: extremely large transparent medical syringe, gigantic thick cylindrical barrel, extra-wide syringe body, oversized plunger, large clearly defined finger grips, long prominent needle, exaggerated scale, realistic syringe structure, transparent plastic barrel, filled with vivid pastel pink liquid, clearly visible liquid level, bold measurement markings, highly detailed syringe components, strong visual emphasis on the enormous size,\n\nLiquid effect: vivid pink liquid shooting forcefully out of the needle tip, thick continuous jet of liquid, dramatic outward splash, large curved liquid stream, numerous suspended droplets, sparkling glossy highlights, dynamic motion lines, exaggerated pop-art liquid burst, clearly originating from the needle tip,\n\nExpression: cute playful expression, sparkling eyes, rosy cheeks, sweet mischievous smile,\n\nBackground: full pastel pink background, pink gradient, floating hearts, white sparkles, glossy stars, cute bubbles, pop-art decorations, bright pink atmosphere,\n\nRendering: crisp lineart, bright high-key lighting, vivid pastel colors, polished anime illustration, detailed face, clear separation between character and props, uncluttered composition, giant syringe prominently displayed, face and syringe both clearly visible,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793136464772
+ "updatedAt": 1793136470839
 };

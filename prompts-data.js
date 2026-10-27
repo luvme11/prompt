@@ -19034,7 +19034,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvra8ssc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.1::close-up, lying::, looking at viewer, index finger to cheek, finger to cheek, indoors, bed, confetti, streamer, 1.1::sticker, border::,\n\n1.1::frilled dress, lace trim::, pink dress, sailor collar, puff sleeves, long sleeves, frills, black lace, bow, ribbon, cross-lacing, choker, hairclip, hair ornament, hair ribbon, adhesive bandage, thigh strap,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141651973
+ "updatedAt": 1793141657062
 };

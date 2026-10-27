@@ -18088,7 +18088,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvr5wwln.jpg?v=1793134484918",
    "pos": "73.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvr5zujj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.2::cropped jacket::, black jacket, high collar, 1.1::collar covering mouth::, long sleeves, single shoulder armor, pauldron,\nwhite undershirt, torn hem, dangling ornaments, 1.2::midriff::, navel,\nlow-rise pants, 1.1::flared pants::, dark grey pants,\nblack belt, studded belt, belt chain, wallet chain,\nfingerless gloves, wrist cuffs, shackles, chain on wrist, black boots, ankle boots, visual kei"
+    }
+   ],
+   "img": "img/comp/mvr5zujj.jpg?v=1793134522212",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793134486536
+ "updatedAt": 1793134523461
 };

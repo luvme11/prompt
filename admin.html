@@ -85,7 +85,16 @@ async function pull(){
   if (r.status === 404){ DATA = {profile:{}, items:[]}; SHA = ''; return; }
   if (!r.ok) throw new Error('불러오기 실패 (' + r.status + ') — 연결 설정을 확인해 주세요');
   const j = await r.json();
-  DATA = JSON.parse(decodeURIComponent(escape(atob(j.content.replace(/\n/g,'')))).replace(/^[^{]*/,'').replace(/;\s*$/,''));
+  let enc = j.content;
+  /* 파일이 1MB를 넘으면 contents API가 내용을 비워서 보내므로 blob API로 다시 읽음 */
+  if (!enc || j.encoding === 'none'){
+    const g = LS();
+    const b = await fetch(`https://api.github.com/repos/${g.owner}/${g.repo}/git/blobs/${j.sha}`, {cache:'no-store', headers:hdr()});
+    if (!b.ok) throw new Error('데이터 파일 읽기 실패 (' + b.status + ')');
+    enc = (await b.json()).content;
+  }
+  if (!enc) throw new Error('데이터 파일 내용이 비어 있어요 — 저장을 중단했어요 (기존 데이터 보호)');
+  DATA = JSON.parse(decodeURIComponent(escape(atob(enc.replace(/\n/g,'')))).replace(/^[^{]*/,'').replace(/;\s*$/,''));
   DATA.items = DATA.items || []; DATA.profile = DATA.profile || {}; SHA = j.sha;
 }
 async function commit(mut, msg){

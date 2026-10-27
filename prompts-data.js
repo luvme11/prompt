@@ -17955,8 +17955,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, {{retro telephone advertisement}}, {{holding a bright red rotary telephone receiver}}, {{telephone receiver pressed to ear}}, curly telephone cord wrapped loosely around fingers, leaning on a small round table, {{mischievous smile}}, looking directly at viewer, {{1960s mod fashion}}, colorful sleeveless shift dress, contrasting white collar, oversized round buttons, white headband, geometric earrings, white knee-high boots, {{upper body}}, {{eye level}}, {{vintage magazine advertisement layout}}, cream background, large orange and red geometric circles, retro telephone on table, bold rounded headline, playful speech bubble, printed price tag, faded ink texture, nostalgic pop retro atmosphere"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr4lxhc.jpg?v=1793132269894",
+   "pos": "50.0% 42.0%",
    "soon": false
   },
   {
@@ -18002,5 +18002,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793132256301
+ "updatedAt": 1793132271085
 };

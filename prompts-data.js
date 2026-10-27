@@ -18424,7 +18424,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvr7qn05",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "pastel sky blue character merchandise scrapbook aesthetic, soft cream paper background, powder blue, mint green, and cloud white palette, clean printed linework, subtle paper grain texture, balanced collage layout with gentle negative space. character sitting on a fluffy oversized cushion, hugging a round cloud-shaped plushie, knees drawn up slightly, tilted head, sweet relaxed smile, frontal view, eye-level angle. sky blue grid pattern paper cutouts, white star stickers, pastel blue ribbon bow cutouts, blank frame cutouts, cute cloud illustrations, decorative round paper badges with flower motifs, pale blue masking tape strips, soft dropped shadows, airy and nostalgic kawaii atmosphere.\n\npowder blue sailor collar blouse, pastel blue knife-pleated skirt, white ribbon bow tie, pale mint cardigan resting over shoulders, cream crew socks, white leather loafers, small pearl hair clip, soft blue and ivory palette."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793137433752
+ "updatedAt": 1793137451080
 };

@@ -19260,7 +19260,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrb17kh.jpg?v=1793142983598",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrb7mts",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, upper body, cropped at waist, slight high angle, dutch angle, 1.3::princess carry, one person carrying the other in both arms::, 1.3::both tumbling through the air, falling backward in midair, weightless, tilted bodies::, hair floating upward, clothes fluttering upward, close together, looking up at viewer, floating heart shaped chocolate boxes, wrapped chocolates drifting in the air, chocolate coated biscuit sticks floating around, a few playing cards tumbling through the air, floating teacup, red and pink ribbons streaming upward, floating hearts, 1.2::diagonal pastel stripes background, mint and cream striped background, polka dots::, whimsical dreamlike mood, sweet romantic atmosphere, warm soft lighting, 1.4::monthly manga magazine cover layout, magazine logo in the top right corner, big issue number in the top left corner, large cursive script title overlapping the characters::, 1.2::small text columns along the side, small text-only labeled boxes, text layered both behind and in front of the characters::, english text, text, holographic lighting, photoshoot, fake magazine cover"
+    },
+    {
+     "label": "남자",
+     "text": "carrying partner in a princess carry while falling backward, body tilted back in midair, one arm under partner's back, other arm under partner's knees, holding partner tight, head tilted back, looking up at viewer, surprised laughing expression, oversized white shirt with an uneven long hem on one side, cropped burgundy and black argyle knit vest worn over the shirt, deconstructed black blazer with one sleeve missing, black necktie floating loose around the neck, silver safety pin on the lapel,"
+    },
+    {
+     "label": "여자",
+     "text": "being carried in partner's arms while falling, one arm wrapped around partner's neck, other hand making a peace sign toward the viewer, leaning into partner, facing forward, looking up at viewer, carefree playful smile, black shirt with an oversized white collar, patchwork cardigan half black argyle half solid dusty pink, cardigan flaring open in the air, untied ribbon tie floating loose, knee length black pleated skirt with an asymmetrical dusty pink argyle panel, skirt hem fluttering, thin silver chain hanging from the skirt waist"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793142985062
+ "updatedAt": 1793143282742
 };

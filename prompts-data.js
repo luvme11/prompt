@@ -18169,8 +18169,8 @@ window.PROMPT_DATA = {
      "text": "1.5::experimental anime zine collage::, 1.2::y2k cyber-goth editorial::, 1.2::gyaru street snapshot montage::, asymmetrical horizontal composition, a prominent waist-up figure occupies the right side of the canvas with a slight side-profile turn, gaze turned toward the viewer with a playful winking expression and a slight tongue-out gesture, hands raised near the cheeks making a peace sign, an enlarged monochrome photocopy crop of the same figure is ghosted in the upper left background behind translucent interface overlays, a retro media player window with square buttons and thin pixelated borders sits along the top left edge, long looping neon pink and silver cable-like lines cross the composition diagonally passing in front of the foreground figure and behind the background silhouette, scattered leopard print paper scraps and metallic star stickers cluster around the outer borders, faint vertical monospaced Japanese text reading \"ギャルマインド\" printed in tiny white type along the right edge, coarse halftone dots and xerox scanlines concentrate in the upper left region, vibrant hot pink and glossy silver and deep black palette with raw white paper texture showing through, thin black ink contours, screen-print color blocks, 1.2::fragmented photo collage layers::. \n\n1.5::y2k gyaru street fashion::, 1.2::cyber-goth aesthetic::, cropped hot pink leopard print faux-fur trim zip hoodie, dark denim micro miniskirt with double grommet belt, black fishnet long sleeve layered underneath, arm warmers with silver buckles, layered chunky silver chain necklaces with heart pendants, platform lace-up boots, studded leather wristbands, pink hair extensions with star clips."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr77omk.jpg?v=1793136706004",
+   "pos": "62.1% 50.0%",
    "soon": false
   },
   {
@@ -18202,5 +18202,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793136690300
+ "updatedAt": 1793136707021
 };

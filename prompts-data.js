@@ -18393,10 +18393,10 @@ window.PROMPT_DATA = {
      "text": "An aesthetic collage page styled as a warm Japanese fashion scrapbook, showcasing multiple panels of the same character in different moments of a cozy autumn morning. Cream paper background with subtle paper texture, soft brown borders, and a cohesive warm color palette of honey orange, cinnamon brown, and cream. Consistent character features, hairstyle, eyes, and daily outfit maintained across all panels. Main panel (large, top-left): Half-body shot of the girl in normal anime proportions, leaning forward over a wooden bakery counter, carefully holding a hot tray of freshly baked pastries with oven mitts, slightly puffed cheeks from blowing on the hot steam, warm smile, detailed eyes, looking down at the pastries, warm morning lighting, soft focus. Secondary panel 1 (top-right, medium snapshot): Close-up shot, the character sitting by the window with a coffee cup, resting her chin on her hand, gazing thoughtfully outside at falling leaves, gentle expression, slight tilt of head, loose hair strands, soft natural light. Secondary panel 2 (bottom-left, small portrait): Knee-up shot from a slightly high angle, kneeling on a soft cushion while trying to reach a high shelf for a jam jar, stretching her arms up, focused curiosity, slightly open mouth, dynamic body pose. Chibi sticker panel (bottom-right, small die-cut sticker): A small cute chibi version of the character with chibi proportions, struggling to carry a giant cinnamon roll almost bigger than herself, exaggerated determined expression, sweat drop, die-cut white outline sticker effect. Decorated with subtle maple leaf stickers, kraft paper tapes, handwritten recipe notes in the margins, and soft dropped shadows separating the panels."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7lofo.jpg?v=1793137399418",
+   "pos": "29.3% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793137364716
+ "updatedAt": 1793137400764
 };

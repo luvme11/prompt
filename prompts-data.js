@@ -18964,7 +18964,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvra453r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.2::full body shot, low angle perspective::. The subject is sitting with legs extended forward toward the camera and head tilted, raising one hand near the cheek in a cheerful gesture. The background features a clean graphic setting with soft, flat lighting.\n\n1.2::character design sheet, graphic collage layout::. The composition combines a primary character with a small chibi sticker figure, an overlay popup box in the upper corner, a barcode along the bottom edge, halftone dot panels, and white die-cut outlines around secondary elements.\n\n1.2::black and purple striped leg warmers with black buckled straps::, cold shoulder top with thin straps and text, black choker with a front bow and hanging chain pendant. The outfit features matching striped sleeve covers, a black skirt accented with yellow straps and hanging chains, a yellow thigh garter, and shiny black buckled loafers."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141419428
+ "updatedAt": 1793141439720
 };

@@ -19202,7 +19202,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrakrff",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::pastel color border::, card, poster, patterned background, grid background, heart,  1.1::kneeling::, 1.1::index fingers together::, cowboy shot, sitting, seiza, looking at viewer, indoors, floating medicine, pill, band, simple background, pastel color background,\n\n1.1::nurse cap::, 1.1::nurse dress::, white dress, puff sleeves, short sleeves, high collar, frills, wrist cuffs, cuffs, white thighhighs, white shoes, cross mark, hair ribbon, ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793142189965
+ "updatedAt": 1793142215334
 };

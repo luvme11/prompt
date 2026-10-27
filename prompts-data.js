@@ -19087,8 +19087,8 @@ window.PROMPT_DATA = {
      "text": "upper body, 1.2::from above::, lying, looking at viewer, smiling, raising hand, halloween, full moon, indoor, tiled floor, castle, lantern, pumpkin lantern, black cat, lighting, pink light, light particles,\n\n1.2::cat ears::, 1.2::thighhighs::, 1.1::paw gloves::, bell choker, headband, hair ornament, short dress, black shorts, corset, laced top, ruffled skirt, frills, lace, ruffles, ribbon, bow, garter straps, laced stockings, handwear, wrist ruffles,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvraeba4.jpg?v=1793141996916",
+   "pos": "22.2% 50.0%",
    "soon": false
   },
   {
@@ -19148,5 +19148,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793141974592
+ "updatedAt": 1793141998530
 };

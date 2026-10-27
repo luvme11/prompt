@@ -18575,8 +18575,8 @@ window.PROMPT_DATA = {
      "text": "bright eerie laboratory scrapbook collage, whimsical medical horror aesthetic, crisp white paper background, surgical mint green, pastel pink, medical bandage beige, and soft crimson accent palette, clear delicate linework, clean flat illustration style, layered paper cutout frame, balanced asymmetrical composition. character sitting inside a oversized glass jar, knees drawn up to chest with arms wrapped around legs, resting chin on knees, wide curious gaze, subtle faint smile, medium shot, straight front angle. clear glass beaker cutouts, blank medical chart cutouts, floating red liquid drop stickers, pastel pink pill stickers, white bandage strips, patterned hazard tape motifs, clear glass test tubes, blank paper tags, soft drop shadows, uncanny contrast between cute stationery elements and eerie laboratory props.\n\noversized white hospital gown with faint mint piping, subtle clinical ID wristband, barefoot,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr83a0h.jpg?v=1793138251511",
+   "pos": "50.0% 2.0%",
    "soon": false
   },
   {
@@ -18594,5 +18594,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793138240396
+ "updatedAt": 1793138253324
 };

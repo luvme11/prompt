@@ -18351,8 +18351,8 @@ window.PROMPT_DATA = {
      "text": "a character collage scrapbook page with a clean cream background and thin pastel teal borders separating each panel, soft paper shadow, nostalgia printing texture, soft ambient lighting, pastel teal and warm amber color palette, depicting multiple moments of the exact same character wearing the same outfit across all panels  Main panel (large portrait taking up the left half of the canvas, normal anime proportions): close-up, upper body, side angle, looking down, holding a warm teacup with both hands, steam rising from the tea, cozy atmosphere, thoughtful expression, slight blush, eyes gently downcast, relaxed brow, soft smile, sitting near a rain-streaked window  Top-right panel (medium snapshot, normal anime proportions): medium shot, slightly high angle, leaning forward, resting face on both hands, pouting face, puffed cheeks, directly looking at camera with playful impatience, a clear umbrella resting against a chair in the background  Bottom-right panel (medium snapshot, normal anime proportions): full body, low angle, crouching down, reaching out a hand, reaching towards a small frog sitting on the wet pavement, curious expression, wide eyes, light rain droplets falling around, dynamic pose  Chibi sticker panel (small die-cut sticker in the bottom corner, white sticker border, chibi proportions): chibi, running, holding a giant leaf as a makeshift umbrella, panicked expression, mouth open, teardrop emoji, humorous reaction, cute wobble effect  whimsical rain drop stickers, subtle watercolor paint splatters, translucent wet marks, no text oversized yellow raincoat, transparent rain boots, beige knit sweater under raincoat, dark blue denim shorts, striped socks, wet hair strands resting on collar"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvr7l0od.jpg?v=1793137322263",
+   "pos": "22.2% 50.0%",
    "soon": false
   },
   {
@@ -18398,5 +18398,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793137309766
+ "updatedAt": 1793137323622
 };

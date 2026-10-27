@@ -18978,7 +18978,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvra4a8b",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, from above, lying, on back, looking at viewer, holding syringe, bent knees, parfait, strawberry, sweets, soft lighting, depth of field,\n\n1.1::pink dress::, nurse cap, frills, lace trim, frilled collar, puff sleeves, ribbon choker, heart cutout, bow, lace gloves, frilled socks, ribbon legwear, stuffed rabbit, leg strap,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793141439720
+ "updatedAt": 1793141446471
 };

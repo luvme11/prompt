@@ -20275,8 +20275,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, upper body, holding sparkler, holding firework, fireworks, fireworks background, night, night sky, water surface, reflections, bokeh, backlighting, sparkler glow, dynamic lighting, \n\nsmiling, eyes closed,\nyukata, floral print yukata, obi, pattern obi, hair ornament, floral hair ornament,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrjoqk7.jpg?v=1793157831139",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -20322,5 +20322,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157564869
+ "updatedAt": 1793157832281
 };

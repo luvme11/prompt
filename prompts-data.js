@@ -19984,7 +19984,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvril2nr.jpg?v=1793155902682",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvriw2n4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, high angle, looking at viewer, sitting on grass, wariza,, holding animal, holding cat, looking at viewer, outdoors, night, 2::cherry blossoms, flower petals::, dapples of light, field, yellow flowers, fireflies, glowing,\n\npastel yellow lolita fashion, frilled dress, long sleeves, lace, ribbon, loose socks, frilled socks, shoes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793155904295
+ "updatedAt": 1793156179949
 };

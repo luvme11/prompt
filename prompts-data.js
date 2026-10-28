@@ -20518,7 +20518,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsgp7pj.jpg?v=1793213057495",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvsgtqne",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, youthful summer romance, 1.7::medium shot, seated couple, side three-quarter view::, 1.8::A sitting upright on the left, B sitting closely behind and to the right of A, A nestled between B's spread legs::, 1.7::B's bent knees visible on both outer sides of the composition, framing A's body::, 1.8::B leaning forward from the right, kissing A on the lips::, 1.8::both tilting their heads slightly in opposite directions, both eyes completely closed::, 1.7::B gently cupping A's cheek and jaw with one hand, B's other hand resting on A's sunflower crown::, A tilting chin upward, leaning into the kiss, softly pressed lips, overlapping faces, intimate seated embrace, tender first kiss, bittersweet summer memories, nostalgic youth,  sunflower crown on A's head, sunflower field surrounding the couple, large blooming sunflowers framing both sides, smaller sunflowers in the background, lush green leaves and stems, bright turquoise summer sky, fluffy white clouds, yellow petals drifting in the wind, warm sunlight, soft shadows, dreamy,"
+    },
+    {
+     "label": "A",
+     "text": "A: 1.6::sitting upright between B's legs, facing right::, 1.6::head tilted back and slightly sideways, eyes completely closed::, receiving a gentle kiss, soft blush, hands resting naturally near lap, sunflower crown, white short-sleeved school shirt, loosened navy necktie, gray school trousers"
+    },
+    {
+     "label": "B",
+     "text": "B: 1.7::sitting behind A with both knees bent outward, legs framing A on either side::, 1.7::leaning forward, head tilted sideways, kissing A's lips::, 1.6::one hand cradling A's cheek and jaw, other hand gently holding A's sunflower crown::, eyes completely closed, affectionate expression, oversized dark navy cardigan, white collared school shirt, loosened necktie, gray school trousers"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213058718
+ "updatedAt": 1793213177971
 };

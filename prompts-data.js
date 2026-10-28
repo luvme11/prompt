@@ -20303,7 +20303,7 @@ window.PROMPT_DATA = {
      "text": "upper body, leaning on railing, hugging, holding plushie, bear plushie, looking at viewer, outdoor, night, city lights, cityscape, bokeh, tower, eiffel tower, starry sky, snowing, balcony, railing, string lights, star light, cinematic lighting, depth of field,\n\nlight smile,\nfur trimmed coat, brown coat, long sleeves, fur trim, fur collar, fur cuffs, brown shoulder bag, bag strap,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrjpf1k.jpg?v=1793157881162",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20322,5 +20322,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157865287
+ "updatedAt": 1793157882960
 };

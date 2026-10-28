@@ -21927,8 +21927,8 @@ window.PROMPT_DATA = {
      "text": "high angle, from above, looking at viewer, 2::playing game, sitting::, 2::peace sign::, 1::amusement arcade::, arcade cabinet, stool, indoor, checkered floor, fluorescent light, smile,\n\nschool uniform,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvslty8d.jpg?v=1793221862388",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -21946,5 +21946,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793221845754
+ "updatedAt": 1793221863550
 };

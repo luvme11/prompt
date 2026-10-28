@@ -21566,7 +21566,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsknwds",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high angle, overhead shot, sitting, eating, holding food, holding sandwich, sandwich, toast, fried egg, holding mug, drinking, table, plaid tablecloth, soup, salad, apple, coffee pot, tablet computer, chair, open window, potted plant, clock, plush toy, cat, domestic cat, pet food, indoor, room, sunny, dappled sunlight,\n\noversized hoodie, long sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793219612632
+ "updatedAt": 1793219624175
 };

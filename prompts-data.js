@@ -20873,8 +20873,8 @@ window.PROMPT_DATA = {
      "text": "sitting, leaning back, looking up, 2::eyes closed::, calm"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshjeok.jpg?v=1793214563313",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -20966,5 +20966,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214536294
+ "updatedAt": 1793214564445
 };

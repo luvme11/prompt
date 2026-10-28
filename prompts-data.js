@@ -21162,7 +21162,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsicf86",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl, \nindoor, kitchen, kitchen counter, cabinet, tiled wall, wooden counter, checkered floor, close-up, depth of field, soft lighting, romantic atmosphere, face-to-face, eye contact, looking at each other, intimacy"
+    },
+    {
+     "label": "남자",
+     "text": "standing, leaning forward, hugging, arms around waist, white fuzzy cardigan, open cardigan, white shirt, denim jeans"
+    },
+    {
+     "label": "여자",
+     "text": "sitting on counter, legs wrapped around waist, arms around neck, light pink knit sweater, off-shoulder sweater, oversized sweater, knit texture, light pink shorts"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215696832
+ "updatedAt": 1793215729189
 };

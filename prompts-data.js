@@ -21250,7 +21250,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsifkdj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\n slice of life, domesticity, morning routine, soft hazy indoor lighting, bright morning light, inside the bathroom, cozy and intimate atmosphere"
+    },
+    {
+     "label": "남자",
+     "text": "looking at partner, loose white pajama shirt, dark blue shorts, holding blue toothbrush, headpat, hand placed on head, sleepy expression"
+    },
+    {
+     "label": "여자",
+     "text": "looking at partner, loose white pajama shirt, dark blue shorts, holding blue toothbrush, headpat, hand placed on head, sleepy expression"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215839937
+ "updatedAt": 1793215875832
 };

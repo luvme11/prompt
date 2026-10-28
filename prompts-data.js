@@ -20810,7 +20810,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsher2c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,  \noutdoors, winter, snow, snowing, night, forest, snowy trees, black umbrella, holding umbrella, 3::implied kiss::, upper body, depth of field, blurred background, romantic atmosphere"
+    },
+    {
+     "label": "남자",
+     "text": "black coat, long scarf, white scarf, looking down, profile, holding umbrella, physical contact"
+    },
+    {
+     "label": "여자",
+     "text": "black coat, white scarf, fluffy scarf, fluffy earmuffs, white earmuffs, looking up, 1.2::chin lift::, being touched, hand on chest, side view"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214102342
+ "updatedAt": 1793214158616
 };

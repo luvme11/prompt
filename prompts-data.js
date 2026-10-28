@@ -21052,7 +21052,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsi4abf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\n sitting on bed, head on lap, indoor, bedroom, headboard, red rose, flower on bed, 1.2::dim lighting::, 1.2::warm lighting::, cinematic lighting, shadow, depth of field, -1::looking at viewer::"
+    },
+    {
+     "label": "남자",
+     "text": "1.5::hugging partner legs::, head on knees, sitting, head on lap, tired, sad, white dress shirt, long sleeves, black vest"
+    },
+    {
+     "label": "여자",
+     "text": "serious expression,, sitting, 2.5::looking away::, hand on another's head, \n{white silk chemise}, {flutter sleeves}, {lace trim}, loose fit, ribbon tie, frilled hem, floor length, sheer chiffon, high waist, ethereal silhouette, {victorian sleepwear style}"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215312907
+ "updatedAt": 1793215349958
 };

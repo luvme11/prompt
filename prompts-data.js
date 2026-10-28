@@ -19665,8 +19665,8 @@ window.PROMPT_DATA = {
      "text": "1.5::upper body portrait::, reaching directly toward the viewer, paintbrush touching the screen, colorful paint spreading across the foreground, paint splatters on the lens, one hand gripping a palette, vivid abstract strokes, studio filled with canvases, hanging paint tubes, scattered brushes, bright overhead lighting, dynamic perspective, saturated color burst, energetic diagonal composition,\n\n1.5::expressive paint studio outfit::, paint splattered oversized shirt, rolled sleeves, cropped utility apron, layered scarf, wrist wraps, fingerless gloves, palette strap, brush holder attached to the waist, colorful enamel pins, loose fabric folds, textured cotton, stained canvas, vivid cyan, yellow, magenta, vermilion, black accents,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrfuedm.jpg?v=1793151161948",
+   "pos": "50.0% 8.0%",
    "soon": false
   },
   {
@@ -19726,5 +19726,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793151127718
+ "updatedAt": 1793151163717
 };

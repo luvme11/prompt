@@ -21269,10 +21269,10 @@ window.PROMPT_DATA = {
      "text": "sitting on sofa, looking up at partner, pouting lips, sulky yet expectant facial expression, plate resting nearby"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsilod0.jpg?v=1793216343200",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793216249465
+ "updatedAt": 1793216344291
 };

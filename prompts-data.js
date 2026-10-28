@@ -20054,7 +20054,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrj0xai.jpg?v=1793156544055",
    "pos": "50.0% 42.0%",
    "soon": false
+  },
+  {
+   "id": "mvrj4uct",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, dynamic pose, portrait, upper body, looking at viewer, holding water gun, splashing water, wet, water drops, sweat, outdoor, summer, tropical plants, palm trees, bright sunlight, \n\nopen mouth, smile, \nswimsuit, see-through robe, open robe,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156545390
+ "updatedAt": 1793156589185
 };

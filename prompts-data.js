@@ -21482,7 +21482,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsk427w.jpg?v=1793218699763",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvsk6x74",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting on sofa, leaning back, holding chocolate bar, eating pocky, looking at viewer, teddy bear plushie, cat in foreground, dappled sunlight, indoors, warm lighting, cozy atmosphere, close-up, foreground blur,\n\nschool uniform, sailor uniform, short sleeves, pleated skirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793218701093
+ "updatedAt": 1793218831881
 };

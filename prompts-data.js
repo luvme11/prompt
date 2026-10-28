@@ -20376,7 +20376,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrk6q3o.jpg?v=1793158357360",
    "pos": "55.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvrkbrof",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "water fountain, 2::outdoor public sink::, splashing water, water splash, faucet, tiled sink, leaning forward, looking at viewer, wet, outstretched arms, covered outdoor area, awning, roof, outdoor, daylight, school,\n\nsmiling, open hands, \nschool uniform, white shirt, short sleeves, collared shirt, pleated skirt,"
+    }
+   ],
+   "img": "img/comp/mvrkbrof.jpg?v=1793158592847",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793158358528
+ "updatedAt": 1793158594160
 };

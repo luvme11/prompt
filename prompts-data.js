@@ -19609,7 +19609,7 @@ window.PROMPT_DATA = {
      "text": "1.5::upper body portrait::, reaching through a torn paper window, one hand holding a miniature glass terrarium, handmade scrapbook art, layered newspaper clippings, vintage receipts, botanical specimens, translucent tracing paper, masking tape, stitched paper seams, rubber stamp marks, handwritten arrows, pressed moss, colorful ink splashes, abandoned greenhouse, sunbeams through dusty glass, rich emerald and rust palette,\n\n1.5::scrapbook greenhouse keeper outfit::, oversized work jacket, layered button up shirt, crossback gardening apron, rolled sleeves, cloth neckerchief, gardening gloves, seed packet pins, leaf shaped brooch, utility strap, stitched fabric patches, visible mending, rough cotton, faded denim, forest green, terracotta orange, parchment beige, muted yellow accents,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrf8lzo.jpg?v=1793150324406",
    "pos": "50% 50%",
    "soon": false
   },
@@ -19642,5 +19642,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793150080536
+ "updatedAt": 1793150326024
 };

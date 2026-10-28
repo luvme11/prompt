@@ -19612,7 +19612,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrf8sq4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::upper body portrait::, leaning through a heart shaped service window, playful hand gesture, one hand holding a tiny glass bottle, pastel night market stall, glowing candy jars, floating paper stars, hanging ribbons, warm fairy lights, soft bokeh, colorful reflected light, whimsical scrapbook collage accents, sticker like decorations, asymmetrical close framing, lively diagonal composition,\n\n1.5::cute magical confectioner outfit::, puff sleeve blouse, oversized sailor collar, cropped cardigan, layered ribbon bow, decorative apron bib, striped necktie, brooch shaped like a wrapped candy, dangling charm earrings, lace trim, scalloped edges, embroidered hearts, soft cotton, knitted fabric, satin ribbons, pastel pink, cream, sky blue, cherry red accents"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793150046670
+ "updatedAt": 1793150055050
 };

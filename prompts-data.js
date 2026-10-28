@@ -19584,7 +19584,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvremecx.jpg?v=1793149128486",
    "pos": "50.0% 2.0%",
    "soon": false
+  },
+  {
+   "id": "mvrepcy3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::multiple views, character sheet, reference sheet, collage::, winking, v sign, full body, portrait, profile, graphic design, pink theme, sticker,  2::y2k, computer interface::, windows (os), computer window, desktop (computer), taskbar, pink background, heart, star (symbol), sparkles, doodles, speech bubble, emoticon, \n\nshirt, long sleeves, graphic shirt, cat print, camisole, layered clothing, ruffled skirt, tiered skirt,  skirt, belt, leg warmers, footwear, shoes, shoulder bag, handbag, earrings, hoop earrings,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793149129510
+ "updatedAt": 1793149148098
 };

@@ -21370,7 +21370,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsiy7jf.jpg?v=1793216884170",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsj1hu1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, dynamic pose, cowboy shot, looking at viewer, windblown hair, splashing, water splashes, water droplets, bright sunlight, lens flare, backlit, blue sky, ocean, sea, outdoor, daytime,\n\nsmiling, \nopen shirt, white shirt, unbuttoned shirt, short sleeves, blue crop top, blue tank top, denim shorts, jean shorts, cutoffs, white cap, baseball cap,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793216885229
+ "updatedAt": 1793216898998
 };

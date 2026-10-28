@@ -20920,7 +20920,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshm09k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\n dynamic angle, outdoors, tanabata, bamboo, 1.2::tanzaku::, wish strips, paper slips, lens flare, rim lighting, intimate, 1.8::almost kissing::, romantic, depth of field, blurry background, night"
+    },
+    {
+     "label": "남자",
+     "text": "back view, from behind, black yukata, dark kimono, striped obi, sash, 1.5::cupping face::,"
+    },
+    {
+     "label": "여자",
+     "text": "2::closed eyes::, white yukata, kimono, sash, 1.6::holding bag::, plastic bag, goldfish in bag,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214449463
+ "updatedAt": 1793214497073
 };

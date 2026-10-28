@@ -21832,7 +21832,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsljd9v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, portrait, looking at viewer, 2::hands near chest::, menhera, yumekawaii, heart motifs, ribbons, lace, frills, sparkles, floating hearts, bokeh, depth of field, 2::pink theme, pastel pink::, pink and black nail, nail polish,\n\nsoft smile, :p, \nblack and pink, jirai kei, large black bow, neck bow, pink blouse, heart brooch, jirai kei,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793221083851
+ "updatedAt": 1793221092434
 };

@@ -20554,7 +20554,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsgvbbl.jpg?v=1793213379576",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvsgz8px",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, 1boy, 1.5::bathtub::, suds, yellow rubber duck, steam, bathroom, tiled wall, bathroom sink, faucet, bathroom mirror, soap bubble, close-up, front view. two characters sitting together in a large oval white bathtub filled with warm sudsy water, framed from the chest up. character a is positioned on the left side of the tub, leaning slightly towards character b with a subtle smug smile. character a reaches over with a right hand, carefully balancing a small yellow rubber duck on top of character b head. character b is seated on the right side of the tub, looking straight ahead at the viewer with an annoyed blush and a small pout. a few stray foam bubbles stick to character b wet shoulders and cheeks. clear glass bottles, a wooden bath brush, and a folded white towel rest on the tiled tub rim in the foreground. soft warm light diffuses through dense rising steam from the hot water, reflecting off the damp beige tiled background wall."
+    },
+    {
+     "label": "남",
+     "text": "character a, seated on left, posture leaning right, right arm raised, pointing hand, gentle smile, one eye closed, looking at character b, wet skin, damp shoulders, chest visible above water, soapy suds clinging to collarbone, playful mood."
+    },
+    {
+     "label": "여",
+     "text": "character b, seated on right, upright posture, head tilted up, balanced 1.5::yellow rubber duck:: on top of head, looking at viewer, pout, blushing, heavy blush, annoyed expression, wet shoulders, chest visible above water, soap foam on cheeks and shoulder, water droplets on skin."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213380908
+ "updatedAt": 1793213435041
 };

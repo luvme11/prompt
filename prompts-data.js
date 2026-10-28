@@ -21184,7 +21184,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsid7wl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl, \nupper body, lying, from above, top-down view, indoor, wooden window frame, tatami, mat, pillow, magazine, cozy atmosphere, peaceful"
+    },
+    {
+     "label": "남자",
+     "text": "black hoodie, white shirt, school uniform, lying on side, 2::closed eyes::, 2::facing partner, close to partner::"
+    },
+    {
+     "label": "여자",
+     "text": "light smile, red bow tie, loose light cream cardigan, white shirt, school uniform, black skirt, lying on back, arm around partner, 2::hugging partner, looking at another::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215729189
+ "updatedAt": 1793215766390
 };

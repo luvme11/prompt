@@ -21874,7 +21874,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvslk7y7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, rabbit pose, hands raised head, fingers bent, leaning forward, pink monochrome background, floating heart motifs, soft lighting, pastel pink gradient backdrop, sparkles, heart shaped bokeh, depth of field,\n\nbunny suit, glossy bunny suit, white collar, satin bowtie, white bunny cuffs, bunny ears headband, ribbon wrapped bunny ears,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793221116716
+ "updatedAt": 1793221132290
 };

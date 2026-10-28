@@ -19598,21 +19598,7 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrepcy3.jpg?v=1793149304925",
    "pos": "50.0% 20.0%",
    "soon": false
-  },
-  {
-   "id": "mvrepynn",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "2::the legend of zelda: breath of the wild_link_(cosplay)::, reclining, lie on back, sitting on tree branch, looking up, holding apple, eating apple, smile, happy, blue tunic, harness, belt, trousers, boots, fingerless gloves, apple tree, leaves, apple, blue sky, cloud, sunlight, light rays, day, outdoors, korok, fairy-like creature, hanging, digital painting, painterly, stylized, warm colors, vibrant colors, soft lighting, peaceful"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
   }
  ],
- "updatedAt": 1793149305987
+ "updatedAt": 1793149315275
 };

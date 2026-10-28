@@ -21398,7 +21398,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsj1v8e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high angle, v over eye, beach, 2::sand::, squatting, looking over shoulder, looking at viewer, outdoor, daytime, drawing in sand, 2::drawing in sand heart, heart::, \n\nsmiling, \ncamisole, white camisole, spaghetti straps, light blue pants, bracelet, shell necklace, sandals,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793216910287
+ "updatedAt": 1793216916702
 };

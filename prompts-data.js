@@ -20023,8 +20023,8 @@ window.PROMPT_DATA = {
      "text": "dutch angle, from below, looking at viewer, shushing, holding candlestick, indoor, dark room, mansion, windows, chandelier, dark, shadow, dramatic lighting, blurry background, depth of field,\n\nnun habit, black veil, white collar, habit, wimple, cross necklace, crucifix,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvriwz7f.jpg?v=1793156451784",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -20056,5 +20056,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793156435290
+ "updatedAt": 1793156452822
 };

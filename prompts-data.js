@@ -20390,7 +20390,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrkbrof.jpg?v=1793158592847",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrkhmw9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, adjusting footwear, leaning forward, standing on one leg, knee up, holding shoe, looking down, profile, three quarter view, outdoor, train station, platform, tiled pillar, blurred background, overcast, daylight,\n\nschool uniform, black serafuku, white neckerchief,  long sleeves, pleated skirt, black socks, knee highs, leather loafers, black shoes, black backpack, backpack straps,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793158594160
+ "updatedAt": 1793158865674
 };

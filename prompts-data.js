@@ -19679,8 +19679,8 @@ window.PROMPT_DATA = {
      "text": "candy shop interior, pastel walls, polka dot wallpaper, string lights, giant lollipops, gingerbread house, floating balloons, whipped cream clouds, sitting on giant cupcake, legs crossed, 1.5::peace sign::, feet dangling, leaning forward, 1.2::from above::, bokeh, sparkles, pastel lighting, cowboy shot,\n\nfrilly pastel dress, 1.5::layered ruffle skirt::, oversized bow, puff sleeves, apron with candy print, knee high socks with lace trim, mary jane shoes, heart shaped hairpin, 1.2::ribbon trim::, choker with bell, fingerless lace gloves, star shaped earrings"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrfv3mj.jpg?v=1793151232752",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -19712,5 +19712,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793151207479
+ "updatedAt": 1793151234586
 };

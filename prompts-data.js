@@ -20766,7 +20766,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshc5bn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,  \nclose-up, 2::from side, cowboy shot, profile::, playground, swing, 3::kissing::, outdoors, daytime, day, close to each other, bokeh"
+    },
+    {
+     "label": "남자",
+     "text": "2::profile::, standing, blue frame, standing, kissing, hand on face, black hoodie, white shirt, school uniform, black pants, 2::closed eyes::,"
+    },
+    {
+     "label": "여자",
+     "text": "2::profile,sitting on swing, sitting::, kissing, red bow tie, loose light cream cardigan, white shirt, school uniform, black skirt, 2::closed eyes::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214005585
+ "updatedAt": 1793214037015
 };

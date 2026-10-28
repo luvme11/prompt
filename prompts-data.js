@@ -19539,10 +19539,10 @@ window.PROMPT_DATA = {
      "text": "1.3::sitting and eating a macaroon::, seated at a dessert table, holding a small macaroon to mouth, surrounding towers of dessert plates on table, colorful cupcakes, sliced cakes, sweet treats, from front, medium shot, \n\npink puff sleeve cardigan, white ruffled collared blouse, pink bow tie, pastel pink pleated mini skirt, , fuzzy pink earmuffs, pearl necklace, pink heart shaped crossbody bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrdxrgn.jpg?v=1793148183081",
+   "pos": "39.6% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793147860692
+ "updatedAt": 1793148184644
 };

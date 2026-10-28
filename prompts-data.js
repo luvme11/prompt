@@ -19402,7 +19402,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrctidc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, looking at viewer, eating, holding, candy apple, outdoor, festival, shrine, stall, paper lantern, bright, sunlight, lens flare, depth of field, day, \n\nyukata, floral print, 1.5::patterned obi::, hair ornament, flower hair ornament, hair ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793145970773
+ "updatedAt": 1793145982532
 };

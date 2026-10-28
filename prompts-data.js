@@ -21027,8 +21027,8 @@ window.PROMPT_DATA = {
      "text": "white dress, puff sleeves, lace, bridal veil, birdcage veil, hair flower, holding basket, wicker basket, flower basket, rose, vintage style, victorian style"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsi2m3x.jpg?v=1793215434361",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -21076,5 +21076,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793215349958
+ "updatedAt": 1793215435610
 };

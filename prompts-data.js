@@ -21843,7 +21843,7 @@ window.PROMPT_DATA = {
      "text": "upper body, portrait, looking at viewer, 2::hands near chest::, menhera, yumekawaii, heart motifs, ribbons, lace, frills, sparkles, floating hearts, bokeh, depth of field, 2::pink theme, pastel pink::, pink and black nail, nail polish,\n\nsoft smile, :p, \nblack and pink, jirai kei, large black bow, neck bow, pink blouse, heart brooch, jirai kei,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsljd9v.jpg?v=1793221355537",
    "pos": "50% 50%",
    "soon": false
   },
@@ -21890,5 +21890,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793221347758
+ "updatedAt": 1793221356730
 };

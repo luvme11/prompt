@@ -20079,7 +20079,7 @@ window.PROMPT_DATA = {
      "text": "profile, full body, looking away, high angle, squatting, crouching, balancing on pole, utility pole, telephone pole,  power lines, wires, blue sky, cumulus clouds, many birds, flock of crows, flying crows, daylight, cinematic lighting,\n\nblack jacket, opened jacket, long sleeves, white undershirt, black shorts, black shoes,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrj50j2.jpg?v=1793156760107",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20126,5 +20126,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793156742804
+ "updatedAt": 1793156761503
 };

@@ -19952,7 +19952,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrhyzdb.jpg?v=1793155106170",
    "pos": "12.4% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvriam8v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying down, curled up, looking at viewer, skull, red rose, petals, chessboard, chess piece, chain, gun, knife, cinematic lighting, cinematic shot, volumetric lighting, detailed background,\n\nskull badge, black dress, sleeveless dress, torn clothes, buckled boots, thigh strap,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793155107970
+ "updatedAt": 1793155179254
 };

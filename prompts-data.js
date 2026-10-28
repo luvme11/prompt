@@ -20964,7 +20964,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvshmui3.jpg?v=1793214655318",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvshvb9e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl, \neye contact, smile, wedding, wooden rowboat, pond, calm water, 2.0::sitting in a boat::, 1.8::on the water::, 1.5::wooden boat::, dappled sunlight, trees, lush foliage, soft lighting, outdoors, natural lighting, water reflection, peaceful, pastoral"
+    },
+    {
+     "label": "남",
+     "text": "white suit, formal, white lapel pin, flower brooch, sitting, leaning on someone, holding book, open book"
+    },
+    {
+     "label": "여자",
+     "text": "white wedding dress, frills, sheer skirt, tulle, layered skirt, large white bow, head bow, white lace gloves, sitting, leaning on someone, holding parasol, white parasol, lace parasol, holding bouquet, tulips, pink flower, white flower"
+    }
+   ],
+   "img": "img/comp/mvshvb9e.jpg?v=1793214932271",
+   "pos": "50.0% 24.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214739918
+ "updatedAt": 1793214933641
 };

@@ -20898,7 +20898,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshkzna",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,  \n2::comic, 2koma, split view::, indoors, library, bookshelf, window, sunlight, school uniform, vest, collared shirt, depth of field"
+    },
+    {
+     "label": "남자",
+     "text": "mischievous, holding marker, holding pen, looking at viewer, 2::clean face::, -2::marker on face::"
+    },
+    {
+     "label": "여자",
+     "text": "1.4::drawing on face::, drawing cat whiskers on face, black mark, marker on face, blush, shy, embarrassed, looking at viewer"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214412351
+ "updatedAt": 1793214449463
 };

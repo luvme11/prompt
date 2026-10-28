@@ -20135,7 +20135,7 @@ window.PROMPT_DATA = {
      "text": "dutch angle, sitting, holding book, rose garden, rose bushes, petals, falling petals, rabbit, white picket fence, clothesline, plaid cloth, dappled sunlight, outdoor, day, daytime, grass,\n\nyellow dress, frills, apron, lace trim, floral print, frilled sleeves, hair ribbon, bow,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrjbb9j.jpg?v=1793157097635",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20196,5 +20196,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793156935436
+ "updatedAt": 1793157098973
 };

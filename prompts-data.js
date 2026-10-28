@@ -19385,10 +19385,10 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, 1.2::sitting::, 1.15::holding gift::, holding box, heart-shaped box, looking at viewer, indoor, bed, heart cushion, teddy bear, stuffed toy, sparkles, 1.1::depth of field::,\n\n1.2::plaid dress::, 1.15::maroon dress::, white shirt, long sleeves, frilled collar, frilled hem, lace trim, pantyhose,"
     }
    ],
-   "img": "img/comp/mvrcp97x.jpg?v=1793145928625",
-   "pos": "50.0% 8.0%",
+   "img": "img/comp/mvrcp97x.jpg?v=1793145958553",
+   "pos": "50.0% 6.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793145947283
+ "updatedAt": 1793145959590
 };

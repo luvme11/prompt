@@ -20037,8 +20037,8 @@ window.PROMPT_DATA = {
      "text": "pov kneeling, paw pose, reaching toward camera, looking at viewer, close up, bedroom, bed, cat tower, pink furniture, yarn balls, candy wrapper, pink soft lighting, heart background, sparkles,\n\nopen mouth, \npink maid outfit, paw gloves, cat paw boots, frilled maid headband, cat ears headband, pink ribbon bow,  plaid dress, frilled collar, apron, bell neck ribbon, lace trim, thigh highs, pink bow, lace up boots,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrix94y.jpg?v=1793156469772",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -20056,5 +20056,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793156452822
+ "updatedAt": 1793156470989
 };

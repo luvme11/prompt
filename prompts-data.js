@@ -20942,7 +20942,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshmui3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy, \nfestival, matsuri, night, paper lantern, light bokeh, stalls, goldfish scooping, water in goldfish, water trough,  holding plastic bag, medium shot, crouching, outdoors"
+    },
+    {
+     "label": "남자",
+     "text": "yukata, obi, patterned yukata, crouching, focusing on task, 2::holding scooping net, looking down at water::, intense expression"
+    },
+    {
+     "label": "여자",
+     "text": "yukata, obi, simple yukata, crouching, smiling, looking at companion, 1.5::holding plastic bag, holding goldfish in plastic bag::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214497073
+ "updatedAt": 1793214536294
 };

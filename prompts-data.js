@@ -20576,7 +20576,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsh06of",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\ncowboy shot, eye contact, 2::dancing::, holding hands, dynamic pose, stage, red curtains, spotlight, confetti, shadow, dramatic lighting,"
+    },
+    {
+     "label": "남자",
+     "text": "black suit, grey shirt, golden necktie,"
+    },
+    {
+     "label": "여자",
+     "text": "white dress, bare shoulders,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213435041
+ "updatedAt": 1793213478998
 };

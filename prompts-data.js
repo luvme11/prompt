@@ -21137,8 +21137,8 @@ window.PROMPT_DATA = {
      "text": "2::eyes closed::, carried on partner's back, asleep comfortably, a simple white dress"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsiawjg.jpg?v=1793216019601",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -21274,5 +21274,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216004028
+ "updatedAt": 1793216021260
 };

@@ -19486,7 +19486,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrdac68.jpg?v=1793146909819",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvrdepw4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::pink handheld gaming console frame, retro console UI::, digital screen border, pixel heart status bar, directional button pad, decorative border stickers, centered layout, single framed image,\n\nfull body, floating, dynamic pose, arms out to sides, knees slightly bent, 1.5::dark pink grid background, surrounded by character plushies::, floating cd disc, floating microphone, floating rabbit plush, floating flip phone, pixel stars, pixel hearts, bright colorful lighting.\n\n1.5::white magical girl dress::, 1.2::layered frilled skirt::, white underskirt, corseted bodice, white detached puffed sleeves, wrist cuffs, white ankle boots with pink trim, cyan halo floating above head, small white back wings,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793146911480
+ "updatedAt": 1793146972341
 };

@@ -19882,7 +19882,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrgx9yi.jpg?v=1793153283895",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvrha70k",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dutch angle, bathtub, 1.5::bubbles::, cowboy shot, sitting in bathtub, lying in bathtub, leaning, holding rubber duck, foam, pink water, rose petals, bathroom, window, day, indoor, towel rack, rubber duck, sparkling, floating bubbles, pastel color, pastel background,\n\nsmile, happy, \n\nbath towel, towel wrap,"
+    }
+   ],
+   "img": "img/comp/mvrha70k.jpg?v=1793153480758",
+   "pos": "50.0% 48.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793153285540
+ "updatedAt": 1793153481918
 };

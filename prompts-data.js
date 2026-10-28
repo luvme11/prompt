@@ -20205,7 +20205,7 @@ window.PROMPT_DATA = {
      "text": "profile, upper body, sitting, backlighting, starry sky, meteor shower, milky way, night, night sky, sky, window, looking out window, leaning on window sill, star light, rim lighting,\noff shoulder jacket, camisole, spaghetti straps,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrji6a2.jpg?v=1793157337411",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20266,5 +20266,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157250385
+ "updatedAt": 1793157338745
 };

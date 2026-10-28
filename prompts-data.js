@@ -20348,7 +20348,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrjxlyv.jpg?v=1793158056045",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvrk3rlz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting at table, looking at viewer, hand to mouth, holding cherry, outdoor cafe, table, cupcake, plate, iced tea, plastic cup, straw, storefront, display window, sign, lens flare, depth of field,\n\nred checkered dress, white long sleeved shirt, red apron, frills, frilled collar, large red checkered hair bow, bow earrings,"
+    }
+   ],
+   "img": "img/comp/mvrk3rlz.jpg?v=1793158219693",
+   "pos": "50.0% 48.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793158057105
+ "updatedAt": 1793158220772
 };

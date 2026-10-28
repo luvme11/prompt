@@ -20107,8 +20107,8 @@ window.PROMPT_DATA = {
      "text": "lying on back, looking at viewer, overhead shot, profile, close up, glass floor, reflection, roses, white roses, flowers, bubbles, floating bubbles, indoor, light blue background, {cinematic lighting}, \n\nwhite blouse, long sleeves, puffy sleeves, cuffs, buttons, corset, black corset, lace up, laced corset, ribbon, bowtie, neck ribbon, brooch, frills, ruffled collar, frilled sleeves, dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrj5qbg.jpg?v=1793156872207",
+   "pos": "68.0% 50.0%",
    "soon": false
   },
   {
@@ -20126,5 +20126,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793156779694
+ "updatedAt": 1793156873282
 };

@@ -21972,7 +21972,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsmhohu.jpg?v=1793222828162",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsmszrq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dutch angle, portrait, sitting, looking at viewer, red spider lily, holding flower, field of flowers, forest, trees, woods, sunbeams, god rays, volumetric lighting, light rays, dappled sunlight, outdoors, nature, dark, \nwhite blouse, sailor collar, short sleeves, red ribbon, neck ribbon,  dark dress, lolita fashion, ruffles, frills, headband, lace headband,"
+    }
+   ],
+   "img": "img/comp/mvsmszrq.jpg?v=1793223221771",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793222829474
+ "updatedAt": 1793223222826
 };

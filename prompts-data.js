@@ -21381,8 +21381,8 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, dynamic pose, cowboy shot, looking at viewer, windblown hair, splashing, water splashes, water droplets, bright sunlight, lens flare, backlit, blue sky, ocean, sea, outdoor, daytime,\n\nsmiling, \nopen shirt, white shirt, unbuttoned shirt, short sleeves, blue crop top, blue tank top, denim shorts, jean shorts, cutoffs, white cap, baseball cap,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsj1hu1.jpg?v=1793217050936",
+   "pos": "50.0% 0.0%",
    "soon": false
   },
   {
@@ -21414,5 +21414,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216916702
+ "updatedAt": 1793217051977
 };

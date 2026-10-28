@@ -21860,7 +21860,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsljw9j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting on floor, low angle, roar pose, claw gesture, knees folded to side, hand raised,  tiger paw, pink room, plush toys, heart cushions, scattered candy props, soft lighting, pink gradient background, bokeh, sparkles, depth of field,\n\nopen mouth, smile,\npink oversized hoodie, rainbow print, 2::cat paw mittens, cat ear headphones::, pleated mini skirt, pink striped thighhighs,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793221105874
+ "updatedAt": 1793221116716
 };

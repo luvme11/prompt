@@ -20121,10 +20121,10 @@ window.PROMPT_DATA = {
      "text": "squatting, low angle shot, full body, looking at viewer, hand on own chin, hand gesture, gyaru v, reaching towards viewer, tilt shift, outdoors, day, sunny, sky, shadow, lens flare, dappled sunlight, pink balloon, multiple balloons, pastel colors, \n\nsmile, winking,\nschool uniform,  white shirt, pink cardigan, long sleeves, oversized clothes, open cardigan, pink skirt, plaid skirt, pleated skirt, loose socks, white socks, loafers, footwear, pink striped bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrj62o0.jpg?v=1793156778605",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793156761503
+ "updatedAt": 1793156779694
 };

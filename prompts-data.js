@@ -20876,7 +20876,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshk752",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,  \ntrain, medium shot, train interior, window, cityscape, medium shot, 1.2::sunlight::, 1.1::cinematic lighting::, peaceful, nostalgic, medium shot,"
+    },
+    {
+     "label": "남자",
+     "text": "white shirt, short sleeves, collared shirt, looking at another, head tilt, calm expression"
+    },
+    {
+     "label": "여자",
+     "text": "1.2::head on shoulder::, 2::eyes closed::, sleeping, school uniform, white shirt, leaning"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214375898
+ "updatedAt": 1793214412351
 };

@@ -20331,8 +20331,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, 2::sitting::, looking at viewer, jungle gym, climbing frame, outdoors, day, blue sky, clouds, sunny, umbrella floating, teru teru bozu, bubble, light particles, sunbeams,\n\noveralls, denim overalls, blue overalls, shorts overalls, off-shoulder top, ruffle sleeves, crop top, hair clip, bracelet,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrjx90j.jpg?v=1793158037979",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -20350,5 +20350,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157931326
+ "updatedAt": 1793158039470
 };

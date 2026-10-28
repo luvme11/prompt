@@ -20573,7 +20573,7 @@ window.PROMPT_DATA = {
      "text": "character b, seated on right, upright posture, head tilted up, balanced 1.5::yellow rubber duck:: on top of head, looking at viewer, pout, blushing, heavy blush, annoyed expression, wet shoulders, chest visible above water, soap foam on cheeks and shoulder, water droplets on skin."
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsgz8px.jpg?v=1793213761428",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20732,5 +20732,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213723418
+ "updatedAt": 1793213762490
 };

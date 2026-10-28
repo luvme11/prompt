@@ -21008,7 +21008,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvshwfhm.jpg?v=1793215165722",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvsi2m3x",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy, 1boy, 1girl, from side, close-up, outdoors, sky, blue sky, cloud, tree, yellow leaves, autumn, sunlight, medium shot, upper body, heads together, 1.2::looking at each other::, close to each other, face-to-face, eye contact, romantic atmosphere"
+    },
+    {
+     "label": "남자",
+     "text": "suit, cream suit, cravat, holding hat, fedora, brown hat, formal, vintage style"
+    },
+    {
+     "label": "여자",
+     "text": "white dress, puff sleeves, lace, bridal veil, birdcage veil, hair flower, holding basket, wicker basket, flower basket, rose, vintage style, victorian style"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215167247
+ "updatedAt": 1793215271552
 };

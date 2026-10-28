@@ -20166,7 +20166,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrjbygh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, crouching, profile, side view, eating, holding food, tomato, plant, tomato plant, garden, outdoor, nature, dappled sunlight, shadow, soft light, full body,\n\nstraw hat, white sundress, summer dress, camisole dress, lace, ruffles, ribbons, straps, sandals, ankle strap sandals,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156908260
+ "updatedAt": 1793156920874
 };

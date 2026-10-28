@@ -20639,8 +20639,8 @@ window.PROMPT_DATA = {
      "text": "pointing at viewer, kneeling,dark vest, black necktie, long skirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsh1z80.jpg?v=1793213825482",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -20732,5 +20732,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213803733
+ "updatedAt": 1793213827295
 };

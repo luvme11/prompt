@@ -20661,8 +20661,8 @@ window.PROMPT_DATA = {
      "text": "standing, smile, hand on another's head, petting, looking down, \nschool uniform, serafuku,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsh31yi.jpg?v=1793213844907",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -20732,5 +20732,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213827295
+ "updatedAt": 1793213845971
 };

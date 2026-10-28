@@ -19868,7 +19868,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrgwutc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, upper body, high angle three-quarter view, sitting in seiza position beside a low wooden tea table, carefully pouring green tea into a small ceramic cup, focused gentle expression, elegant traditional Japanese tea room, tatami flooring, minimalist wooden alcove, hanging calligraphy scroll, traditional flower arrangement, open shoji doors revealing a tiny moss garden, warm afternoon lighting"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793152836882
+ "updatedAt": 1793152857602
 };

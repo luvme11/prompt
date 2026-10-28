@@ -19840,7 +19840,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrgtd4v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, upper body, side profile, raising one hand toward falling autumn leaves, gentle smile, slightly tilted head, traditional Japanese autumn garden, vibrant crimson maple trees, moss-covered stone lanterns, narrow stone pathway, wooden bridge over a small stream, elegant Japanese estate in the distance, golden afternoon sunlight, floating red leaves, cinematic composition,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793152682557
+ "updatedAt": 1793152694522
 };

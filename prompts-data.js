@@ -19640,7 +19640,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrffw7a.jpg?v=1793150710542",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvrftx9f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::upper body portrait::, standing inside an abandoned cinema, one hand pulling a strip of film from a projector, floating film reels, scattered photographs, velvet curtains, empty theater seats, projected moonlit ocean across the walls, dust particles, flickering projector light, deep shadows, surreal collage composition, overlapping film frames, fragmented reflections, melancholic atmosphere,\n\n1.5::retro cinema archivist attire::, tailored high collar coat, layered waistcoat, satin cravat, fitted leather harness, brass pocket watch, film reel brooch, elbow length gloves, shoulder cape, antique projector key pendant, velvet trim, structured wool, worn leather, muted burgundy, black, sepia cream, tarnished gold accents,"
+    }
+   ],
+   "img": "img/comp/mvrftx9f.jpg?v=1793151041881",
+   "pos": "54.4% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793150711597
+ "updatedAt": 1793151042882
 };

@@ -19570,7 +19570,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrehpyq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "0.5::dynamic pose, dynamic angle::, 5::album cover, album cover layout, title text, y2k title::, 2::glossy aesthetic, cover lines, article teasers, blurry background::, \nborder, outside border,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793148687125
+ "updatedAt": 1793148792829
 };

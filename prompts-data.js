@@ -21941,10 +21941,10 @@ window.PROMPT_DATA = {
      "text": "2::lying in coffin::, candlelight, top down, from above, indoors, candle, lit candle, 2::rose, white rose::, skull, pocket watch, butterfly, cross, beads, apple, dim lighting, dark,\n\n2::victorian dress::, frilled headpiece, white dress, ruffles, frills, jewelry, necklace, pearls,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvslu7hf.jpg?v=1793221878077",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793221863550
+ "updatedAt": 1793221879085
 };

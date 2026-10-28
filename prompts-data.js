@@ -21353,8 +21353,8 @@ window.PROMPT_DATA = {
      "text": "indoors, reclining on a deep red leather sofa, glossy leather upholstery, close-up to medium shot, candid film photography, slightly grainy image texture, direct flash, warm muted colors, relaxed lounging atmosphere, lying diagonally across the sofa, one eye closed, 2::one arm bent above the head with the forearm resting across the forehead, the other hand loosely resting on the waist::, head tilted slightly to one side, relaxed shoulders, casual and carefree posture,   plain oversized white T-shirt, blue denim jeans, black leather belt, casual everyday clothing, slightly wrinkled cotton fabric, relaxed fit"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsixutl.jpg?v=1793216873078",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -21372,5 +21372,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216745729
+ "updatedAt": 1793216874153
 };

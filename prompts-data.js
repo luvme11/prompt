@@ -21030,7 +21030,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsi3hqd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\n dynamic angle, cowboy shot, eye contact, bright direct sunlight, classical stone architecture, ornate balustrade, outdoor ballroom dance scene"
+    },
+    {
+     "label": "남자",
+     "text": "brown double-breasted suit, white collared shirt, brown necktie, leading dance, hand holding"
+    },
+    {
+     "label": "여자",
+     "text": "white off-shoulder ruffled sleeve top, high-waisted olive green pleated midi skirt, skirt swirl, white wide-brimmed hat with mesh veil, white lace gloves, pearl necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215271552
+ "updatedAt": 1793215312907
 };

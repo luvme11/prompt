@@ -19458,7 +19458,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrczfqs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "close-up, upper body, looking at viewer, 2::moe moe kyun!::, scattered envelopes, omurice plate, pancakes, coffee cup, star sparkles, bright pink lighting,\n\n1.5::horizontal aspect ratio, cluttered collage composition::, landscape orientation, centered layout, single frame,\n\nfrilled maid headband, pink bunny hair clip, grey blue maid dress, white frilled apron, ruffled collar, white wrist cuffs, short puffed sleeves"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793146244196
+ "updatedAt": 1793146259094
 };

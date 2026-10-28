@@ -21717,8 +21717,8 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, dynamic pose, 2::cowboy shot::, 3::standing in water, skirt holding::, wet skirt, night sky, full moon, sea, waves, 2::bioluminescent jellyfish::, aurora, starry sky, clouds, dark, lunar eclipse, reflection,\n\nwhite sundress, sleeveless dress, ruffles, frills,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsl046l.jpg?v=1793220396906",
+   "pos": "50.0% 68.0%",
    "soon": false
   },
   {
@@ -21750,5 +21750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793220379896
+ "updatedAt": 1793220397960
 };

@@ -20785,8 +20785,8 @@ window.PROMPT_DATA = {
      "text": "2::profile,sitting on swing, sitting::, kissing, red bow tie, loose light cream cardigan, white shirt, school uniform, black skirt, 2::closed eyes::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshc5bn.jpg?v=1793214252664",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -20856,5 +20856,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214240697
+ "updatedAt": 1793214253857
 };

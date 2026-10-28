@@ -21633,8 +21633,8 @@ window.PROMPT_DATA = {
      "text": "portrait, upper body, 2::cherry blossoms::, open book, holding book, covering face, outdoors, day, falling petals, dappled sunlight, shadow, depth of field,\n\nblush, shy,\nsailor collar, neckerchief, long sleeves,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvskucap.jpg?v=1793220047633",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -21680,5 +21680,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793220030785
+ "updatedAt": 1793220048995
 };

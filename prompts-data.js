@@ -19935,8 +19935,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, looking back, looking at viewer, 2::holding bouquet, holding skirt::, getting out of car, motor vehicle, black car, city, architecture, bridge, building, outdoors, sunset, warm lighting, sunlight, lens flare,\n\nlight smile,\nberet, white shirt, long sleeves, puff sleeves, long skirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrhw23s.jpg?v=1793154759874",
+   "pos": "45.6% 50.0%",
    "soon": false
   },
   {
@@ -19954,5 +19954,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793154636131
+ "updatedAt": 1793154760936
 };

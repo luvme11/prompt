@@ -21703,8 +21703,8 @@ window.PROMPT_DATA = {
      "text": "top-down view, 1.5::upper body::, 2::lying on back, lying on grass::, 3::hugging chicks::, baby chicks, surrounded by chicks, grassy field, daisies, sun dapples, dappled sunlight, depth of field,\n\nsmiling, happy,\nflower crown, crown of yellow flowers, yellow daisies, white sundress, spaghetti straps,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvskzx74.jpg?v=1793220378878",
+   "pos": "74.5% 50.0%",
    "soon": false
   },
   {
@@ -21750,5 +21750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793220362528
+ "updatedAt": 1793220379896
 };

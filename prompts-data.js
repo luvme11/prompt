@@ -20683,8 +20683,8 @@ window.PROMPT_DATA = {
      "text": "smile, smirk, \ndemon, demon horns, demon wings, demon tail, black lolita dress, red ribbon bows, red chest bow, black tiered skirt, vertical white frills, \nbetween partner's legs, lean forward, hand on partner's chest,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsh40az.jpg?v=1793213861935",
+   "pos": "50.0% 52.0%",
    "soon": false
   },
   {
@@ -20732,5 +20732,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213845971
+ "updatedAt": 1793213863606
 };

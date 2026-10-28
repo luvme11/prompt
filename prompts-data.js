@@ -21857,8 +21857,8 @@ window.PROMPT_DATA = {
      "text": "from above, cowboy shot, sitting on classroom desk, crossed legs, hand on cheek, looking at viewer, tilted composition, classroom, 2::pink theme, heart doodles, spoken heart::, desk clutter, depth of field, pink background, simple background,\n\npink sailor cardigan, oversized cardigan, sailor collar, pink ribbon tie, white blouse, pleated skirt, plaid skirt, loose socks, platform loafers, heart shaped bag, choker, 2::gyaru fashion::,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsljnaq.jpg?v=1793221365452",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -21890,5 +21890,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793221356730
+ "updatedAt": 1793221366754
 };

@@ -21228,7 +21228,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsieryt",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy, \ndynamic angle, dynamic pose, medium shot, close-up, 1.4::looking at phone::, sitting on grass, outdoors, garden, bush, flower, sunlight, day, 1.2::taking selfie::, looking at camera,"
+    },
+    {
+     "label": "남자",
+     "text": "school uniform, white shirt, short sleeves, necktie, striped tie, dark pants, smiling, 0.5::leaning forward::"
+    },
+    {
+     "label": "여자",
+     "text": "1.2::taking selfie::, 1.3::holding phone::,  school uniform, white shirt, short sleeves, neck ribbon, striped ribbon, dark plaid skirt, pleated skirt, winking, smiling"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215803846
+ "updatedAt": 1793215839937
 };

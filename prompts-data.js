@@ -20749,8 +20749,8 @@ window.PROMPT_DATA = {
      "text": "being carried, arms around neck, arm up, hand on forehead, straw hat, white hat ribbon, white headwear, 2::cream vest::, ruffles, frills, white dress, smile,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshath4.jpg?v=1793214218994",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -20856,5 +20856,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214197791
+ "updatedAt": 1793214220802
 };

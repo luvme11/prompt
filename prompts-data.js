@@ -19455,8 +19455,8 @@ window.PROMPT_DATA = {
      "text": "close-up, portrait, 2::hand resting on cheek, holding milkshake::, looking at viewer, 1.5::lime green background with zigzag pattern::, floating stickers, pastel aesthetic, pastel flat lighting,\n\n1.3::operating system window frame, retro desktop UI::, blue title bar, menu bar, pixel mouse cursor, pixel hourglass icon, framed composition, centered layout,\n\nlight pink tank top with pink trim, dark blue fingerless gloves with pink trim, 1.2::visor cap::, star hair clips, squiggly hair clips, colorful beaded bracelet, patterned hoop earrings, rings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrcz3o8.jpg?v=1793146502349",
+   "pos": "45.1% 50.0%",
    "soon": false
   },
   {
@@ -19474,5 +19474,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793146259094
+ "updatedAt": 1793146503677
 };

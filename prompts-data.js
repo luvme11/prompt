@@ -20705,8 +20705,8 @@ window.PROMPT_DATA = {
      "text": "looking up, looking at another, smile, floral dress, lace dress, white dress, embroidery, lace sleeves, long sleeves, hair ornament, hair flower, pearls,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsh4p2i.jpg?v=1793213878635",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -20732,5 +20732,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213863606
+ "updatedAt": 1793213880149
 };

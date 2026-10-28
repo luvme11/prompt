@@ -20730,7 +20730,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsh5fej.jpg?v=1793213934510",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mvshath4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\noutdoors, flower field, white daisy, bright sunlight, lens flare, bokeh, blurry background, blurry foreground, depth of field, medium shot,"
+    },
+    {
+     "label": "남자",
+     "text": "lifting girl, carrying, looking at viewer, cream shirt, long sleeves, flower on ear, daisy on head, smile,"
+    },
+    {
+     "label": "여자",
+     "text": "being carried, arms around neck, arm up, hand on forehead, straw hat, white hat ribbon, white headwear, 2::cream vest::, ruffles, frills, white dress, smile,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213935715
+ "updatedAt": 1793213975428
 };

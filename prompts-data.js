@@ -21815,10 +21815,10 @@ window.PROMPT_DATA = {
      "text": "from above, high angle, sitting on sofa, pink sofa,  2::holding syringe, pills, capsules::, medical theme, but violent, menhera, iv drip, blood bags, cinematic lighting, soft lighting, 2::pink theme::,\n\nsailor collar, long sleeves, cross print, armband, pleated skirt, pink skirt, miniskirt, loose socks, leg warmers, white sneakers, 2::bandage on leg::, mini wings, angel wings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsl7ok5.jpg?v=1793220956225",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793220943599
+ "updatedAt": 1793220957286
 };

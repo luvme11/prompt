@@ -20727,10 +20727,10 @@ window.PROMPT_DATA = {
      "text": "school uniform, black serafuku, white neck ribbon,   sitting at desk, messy desk,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsh5fej.jpg?v=1793213934510",
+   "pos": "50.0% 8.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793213880149
+ "updatedAt": 1793213935715
 };

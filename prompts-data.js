@@ -21465,10 +21465,10 @@ window.PROMPT_DATA = {
      "text": "upper body, from behind, looking back, looking over shoulder, turned away, snowing, winter, bamboo fence, snow on branches, night, taro leaf, shoji, frame, rim lighting, lens flare, particles, depth of field, closeup,\n\nkimono, off shoulder, black kimono, red inner lining, floral print, obi, obiage, obijime, hair flower, red flower, hair ornament, hairpin, tassel, earring, back tattoo, flower tattoo,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsjhnwl.jpg?v=1793218122879",
+   "pos": "50.0% 14.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793217690002
+ "updatedAt": 1793218124251
 };

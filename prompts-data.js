@@ -19963,10 +19963,10 @@ window.PROMPT_DATA = {
      "text": "lying down, curled up, looking at viewer, skull, red rose, petals, chessboard, chess piece, chain, gun, knife, cinematic lighting, cinematic shot, volumetric lighting, detailed background,\n\nskull badge, black dress, sleeveless dress, torn clothes, buckled boots, thigh strap,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvriam8v.jpg?v=1793155605460",
+   "pos": "21.1% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793155179254
+ "updatedAt": 1793155606924
 };

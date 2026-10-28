@@ -21005,10 +21005,10 @@ window.PROMPT_DATA = {
      "text": "dress, beige dress, frilled dress, puffy sleeves, floral hat, neck ribbon, sitting"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshwfhm.jpg?v=1793215165722",
+   "pos": "50.0% 0.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793214983502
+ "updatedAt": 1793215167247
 };

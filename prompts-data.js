@@ -20334,7 +20334,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrjxlyv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "holding tray, carrying, profile, upper body, indoor, cafe, table, tea set, teacup, teapot, stained glass window, window light, backlighting, bokeh,\n\nmaid headdress, black ribbon, maid uniform, frilled apron, white apron, neck ribbon, back bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793157914483
+ "updatedAt": 1793157931326
 };

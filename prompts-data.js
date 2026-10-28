@@ -19837,8 +19837,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, thigh-up shot, three-quarter back view, suddenly turning her head toward the viewer, surprised expression, one hand gripping the wooden doorframe, standing in a long traditional Japanese mansion corridor, polished dark wooden floors, repeating wooden pillars, sliding paper doors, warm ceiling lanterns, deep perspective, mysterious quiet atmosphere, cinematic lighting,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrgt447.jpg?v=1793152798344",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -19856,5 +19856,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793152783761
+ "updatedAt": 1793152799496
 };

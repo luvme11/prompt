@@ -20493,8 +20493,8 @@ window.PROMPT_DATA = {
      "text": "1man, adult male, solo, male focus, modern tactical police officer, athletic muscular build, confident expression, intense gaze,\n\n2::extreme low angle, worm's eye view::, 1.7::dramatic foreshortening::, dynamic action pose, 1.6::one leg thrust toward the camera::, oversized boot sole dominating the foreground, raised knee, powerful perspective distortion, upper body leaning backward, head appearing smaller in the background, diagonal composition, dynamic full body shot,\n\n1.5::modern police tactical uniform::, fitted dark navy blue tactical jacket, black armored vest, police patches, reinforced shoulder pads, utility belt, tactical holster, cargo pants, thigh straps, black tactical gloves, heavy combat boots, detailed buckles and equipment,\n\n1.4::holding a modern black handgun in one hand::, handgun angled downward beside the body, firm pistol grip, realistic handgun proportions, finger outside trigger guard,\n\nvivid solid orange background, minimalist backdrop, strong character silhouette, detailed mechanical accessories, crisp anime lineart, clean cel shading, defined shadows, muted tactical colors,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsgop9h.jpg?v=1793213035066",
+   "pos": "78.4% 50.0%",
    "soon": false
   },
   {
@@ -20520,5 +20520,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793212967251
+ "updatedAt": 1793213036109
 };

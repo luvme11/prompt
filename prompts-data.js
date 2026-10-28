@@ -21899,7 +21899,7 @@ window.PROMPT_DATA = {
      "text": "2::upper body::, dutch angle, lying on bed, one arm above head, other hand resting near face, looking at viewer, messy bed sheets, plush toys scattered around, heart pillows, 2::medicine, capsule::, pastel bedroom, soft pink ambient lighting, depth of field, bokeh, 2::pink menhera bedroom::,\n\n2::oversized pink cardigan::, frilled camisole, lace trim top, heart pendant necklace, ribbon hair clips, charm bracelet, loose sleeves, pastel accessories, 2::bandage::,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvslt8zy.jpg?v=1793221829785",
    "pos": "50% 50%",
    "soon": false
   },
@@ -21946,5 +21946,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793221597861
+ "updatedAt": 1793221830960
 };

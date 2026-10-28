@@ -21902,7 +21902,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsltq8o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::heart gesture::, smile,  3::streaming interface, user interface, screen overlay, graphical interface,::, looking at viewer, concert stage, spotlight, colorful lighting, bokeh, upper body, indoors, social media, text, speech bubble, frame,  neon,\n\nfrilled wrist cuffs, pink crop top, pink bows, heart pattern, plaid trim, beads, ruffled sleeves, frills,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793221553137
+ "updatedAt": 1793221575436
 };

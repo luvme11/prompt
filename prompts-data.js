@@ -21720,7 +21720,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsl09wb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::holding cat::, sitting, bent legs, close up, indoor garden, roses, flower arrangement, parasol, hanging decorations, stained glass, volumetric lighting, bokeh, floating petals, sparkling particles, soft focus background, 2::pink theme::, whimsical theme, environmental storytelling, \n\n2::frilled dress::, white dress, red trim, sleeveless dress, layered ruffles, oversized bow, waist bow, red ribbon, ribbon hair tie,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793220194622
+ "updatedAt": 1793220201297
 };

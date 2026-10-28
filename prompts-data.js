@@ -20917,8 +20917,8 @@ window.PROMPT_DATA = {
      "text": "1.4::drawing on face::, drawing cat whiskers on face, black mark, marker on face, blush, shy, embarrassed, looking at viewer"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshkzna.jpg?v=1793214738717",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -20966,5 +20966,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214657378
+ "updatedAt": 1793214739918
 };

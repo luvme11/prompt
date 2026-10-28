@@ -19388,7 +19388,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrcp97x.jpg?v=1793145958553",
    "pos": "50.0% 6.0%",
    "soon": false
+  },
+  {
+   "id": "mvrct98w",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, 1.2::from behind::, looking back, 1.15::outstretched hand::, standing, forest, night, starry sky, 1.2::fireflies::, light particles, glowing, backlighting, rim lighting, depth of field,\n\n1.2::yukata::, 1.15::floral print yukata::, 1.1::purple obi::, hair flower, kanzashi, hair ornament,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793145959590
+ "updatedAt": 1793145970773
 };

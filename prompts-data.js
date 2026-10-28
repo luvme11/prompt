@@ -19354,7 +19354,7 @@ window.PROMPT_DATA = {
    "codes": [
     {
      "label": "",
-     "text": "1.1::dutch angle::, 1.1::lying::, cowboy shot, reclining, looking at viewer, finger to mouth, indoors, chains, butterfly, glowing butterfly, purple light, backlighting,\n\n1.1::gothic dress::, 1.1::corset dress::, frilled dress, frilled skirt, ruffles, lace trim, bow, striped ribbon, fishnet gloves, fingerless gloves, choker, lace choker, bat hair ornament, hair ornament, plaid tights, garter straps, handcuffs, cross necklace,"
+     "text": "close-up, 1.2::lying on side::, lying, 1.15::hugging pillow::, hugging, looking at viewer, indoor, room, bed, window, sunlight, 1.1::backlighting::, lens flare, depth of field, stuffed rabbit,\n\n1.15::pink dress::, white shirt, long sleeves, frill cuffs, frill collar,"
     }
    ],
    "img": "",
@@ -19390,5 +19390,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793145784179
+ "updatedAt": 1793145811602
 };

@@ -19823,8 +19823,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, full body, frontal view, sitting formally in seiza position on tatami flooring, hands resting neatly on her thighs, head slightly lowered, emotionless expression, enormous traditional Japanese reception room, dark wooden ceiling beams, golden folding screens, hanging calligraphy scrolls, antique ceramic vases, low lacquered table, luxurious yakuza mansion interior, soft warm lighting, symmetrical composition,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrgsuia.jpg?v=1793152781928",
+   "pos": "50.0% 38.0%",
    "soon": false
   },
   {
@@ -19856,5 +19856,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793152764205
+ "updatedAt": 1793152783761
 };

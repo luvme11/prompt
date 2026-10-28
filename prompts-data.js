@@ -21958,7 +21958,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsmhohu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, looking back, holding mask, torii, lantern, paper lantern, night, stairs, path, stone path, outdoors, 2::glowing, butterfly, glowing butterfly, firefly::, bokeh, depth of field, \n\nkimono, kitsune mask, flower hair ornament, print kimono, obi, sash,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793222558146
+ "updatedAt": 1793222693579
 };

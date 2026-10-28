@@ -21762,7 +21762,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsl746c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "merchandise, kawaii collage layout, dutch angle, dynamic composition, plush toys, floating hearts, decorative chains, ribbon decorations, bubble, pastel background, scattered accessories, 2::reclining pose::, plush toy filled background,\n\nlolita dress, striped dress, puff sleeves, short sleeves, frilled bodice, corset lacing, ribbon lacing, layered skirt, tiered skirt, heart charms, bow accents, frilled apron, character apron pocket, wrist cuffs, cat ear headband,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793220512506
+ "updatedAt": 1793220520460
 };

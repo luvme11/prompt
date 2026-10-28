@@ -19949,10 +19949,10 @@ window.PROMPT_DATA = {
      "text": "from side, cowboy shot, lying on back, lying on tree, leaning, head rest, holding book, open book, outdoors, forest, woods, moss, glowing, light particles, bokeh, depth of field,  dappled sunlight, \ncable knit sweater, pleated skirt, miniskirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrhyzdb.jpg?v=1793155106170",
+   "pos": "12.4% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793154760936
+ "updatedAt": 1793155107970
 };

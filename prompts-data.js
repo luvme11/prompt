@@ -20832,7 +20832,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshfky6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,  \nportrait, extreme close-up, face focus, selfie, 1.3::lipstick marks on face::, kiss mark"
+    },
+    {
+     "label": "남자",
+     "text": "blush, neutral expression, staring at viewer, lipstick marks on forehead,"
+    },
+    {
+     "label": "여자",
+     "text": "light smile, leaning on another, cheek-to-cheek, 1.2::hand on partner's chin::, hugging from side,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214158616
+ "updatedAt": 1793214197791
 };

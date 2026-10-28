@@ -19570,7 +19570,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrehpyq.jpg?v=1793148949533",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvremecx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "3::dakimakura design, dakimakura \\(medium\\) ::, full body, lying, simple background, white background, shy, light blush, white shirt, pajamas, bare legs, bottomless, bare legs, bottomless"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793148968156
+ "updatedAt": 1793149010090
 };

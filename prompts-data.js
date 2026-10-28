@@ -21384,7 +21384,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsj1qfs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, on beach, sandy beach, shore, coast, ocean, sea, waves, island in background, portrait, close-up, holding seashell, holding starfish, starfish over eye, outdoor, daytime, bright sunlight,\n\nwinking, smiling,\nlight blue top, sleeveless top, chain bracelet,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793216898998
+ "updatedAt": 1793216910287
 };

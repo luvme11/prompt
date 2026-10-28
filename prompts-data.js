@@ -20082,7 +20082,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrj5gmx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, leaning back, ground sitting, one knee up, legs apart, chewing gum, graffiti wall, brick wall, graffiti, urban, street, shadow, dappled sunlight, outdoor, daylight, full body, frontal shot,\n\noversized t shirt, print t shirt, graphic t shirt, off shoulder, denim shorts, daisy dukes, short shorts, frayed shorts, sneakers, socks, long belt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156597014
+ "updatedAt": 1793156618001
 };

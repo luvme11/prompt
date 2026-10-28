@@ -21203,7 +21203,7 @@ window.PROMPT_DATA = {
      "text": "sitting, 1.3::singing::, holding microphone, 1.2::open mouth::, 1.1::looking at partner::, smiling, excited, school uniform, cardigan, pleated skirt"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsie0qm.jpg?v=1793216089165",
    "pos": "50% 50%",
    "soon": false
   },
@@ -21252,5 +21252,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216065526
+ "updatedAt": 1793216090683
 };

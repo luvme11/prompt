@@ -21636,7 +21636,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvskugwo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, portrait, looking at viewer, 2::holding flower, covering face::, flower field, 2::dappled sunlight::, outdoors, day, blue sky, dandelion, floating petals, shadow,\n\nwhite dress, sleeveless dress, spaghetti straps, straw hat,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793219924608
+ "updatedAt": 1793219930515
 };

@@ -21944,7 +21944,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvslu7hf.jpg?v=1793221878077",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsmeshe",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, dutch angle, from above, 2::lying on back, holding candy::, candy, grass, field, meadow, flower, dandelion, school, building, badminton racket, shuttlecock, snack, food, juice box, backpack, outdoors, day, sunlight, dappled sunlight, \n\ncardigan, open cardigan, school uniform,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793221879085
+ "updatedAt": 1793222558146
 };

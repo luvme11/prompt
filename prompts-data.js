@@ -21071,10 +21071,10 @@ window.PROMPT_DATA = {
      "text": "serious expression,, sitting, 2.5::looking away::, hand on another's head, \n{white silk chemise}, {flutter sleeves}, {lace trim}, loose fit, ribbon tie, frilled hem, floor length, sheer chiffon, high waist, ethereal silhouette, {victorian sleepwear style}"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsi4abf.jpg?v=1793215530579",
+   "pos": "50.0% 20.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793215452550
+ "updatedAt": 1793215531703
 };

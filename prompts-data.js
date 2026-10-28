@@ -19693,8 +19693,8 @@ window.PROMPT_DATA = {
      "text": "rooftop arcade, neon signs, glowing vending machines, city skyline at night, string of fairy lights, arcade cabinet, sitting cross legged on top of machine, 1.5::peace sign::, leaning back on one hand, playful pose, 1.2::low angle shot::, bokeh, neon lighting, cowboy shot, night sky.\n\noversized graphic hoodie, 1.5::plaid mini skirt::, chunky platform sneakers, fishnet arm warmers, choker with pendant, cat ear headphones, fanny pack, layered bracelets, 1.2::off shoulder sleeve::, striped thigh highs, star hair clips, tiny backpack charm."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrfvk87.jpg?v=1793151251325",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -19712,5 +19712,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793151234586
+ "updatedAt": 1793151252561
 };

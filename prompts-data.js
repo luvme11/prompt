@@ -20686,7 +20686,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsh4p2i",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy, \ndutch angle, looking at another, face to face, from side, church interior, stained glass, touching, contrast lighting, backlighting, lens flare, light particles, bokeh,"
+    },
+    {
+     "label": "남자",
+     "text": "looking down, looking at another, formal, suit, black suit, tuxedo, lapels, necktie, black tie, holding hand,"
+    },
+    {
+     "label": "여자",
+     "text": "looking up, looking at another, smile, floral dress, lace dress, white dress, embroidery, lace sleeves, long sleeves, hair ornament, hair flower, pearls,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213657768
+ "updatedAt": 1793213689262
 };

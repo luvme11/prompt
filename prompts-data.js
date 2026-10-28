@@ -20986,7 +20986,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvshvb9e.jpg?v=1793214932271",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvshwfhm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,\nfrom above, looking at each other, eye contact, outdoors, 1.5::sitting in boat, boat filled with flowers, multiple flowers::, water, sunlight, nature,"
+    },
+    {
+     "label": "남자",
+     "text": "holding umbrella, white umbrella, 1.5::putting an umbrella over partner, frilled umbrella::, suit, beige suit jacket, white shirt, sitting"
+    },
+    {
+     "label": "여자",
+     "text": "dress, beige dress, frilled dress, puffy sleeves, floral hat, neck ribbon, sitting"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214933641
+ "updatedAt": 1793214983502
 };

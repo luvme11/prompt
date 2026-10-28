@@ -21142,28 +21142,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mvsibpqj",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "메인",
-     "text": "couple, hetero, 1boy, 1girl, \n0.5::from above::, dynamic angle, indoors, bedroom, bed, floor, sitting on floor, natural light, bright, high key, soft lighting, book, open book, scattered books, cozy, peaceful"
-    },
-    {
-     "label": "남자",
-     "text": "sitting behind girl, legs apart, 1.63::touching partner's hair::, looking at another, white t shirt, striped shirt, open shirt, rolled sleeves, blue jeans, long pants"
-    },
-    {
-     "label": "여자",
-     "text": "1.8::sitting between legs::, 1.4::reading, reading book, looking at book::, grey camisole, spaghetti straps, sleeveless, denim shorts, short shorts"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
-  },
-  {
    "id": "mvsicf86",
    "tab": "comp",
    "name": "",
@@ -21274,5 +21252,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216021260
+ "updatedAt": 1793216027378
 };

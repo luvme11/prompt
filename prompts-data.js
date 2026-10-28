@@ -20537,8 +20537,8 @@ window.PROMPT_DATA = {
      "text": "B: 1.7::sitting behind A with both knees bent outward, legs framing A on either side::, 1.7::leaning forward, head tilted sideways, kissing A's lips::, 1.6::one hand cradling A's cheek and jaw, other hand gently holding A's sunflower crown::, eyes completely closed, affectionate expression, oversized dark navy cardigan, white collared school shirt, loosened necktie, gray school trousers"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsgtqne.jpg?v=1793213354752",
+   "pos": "54.9% 50.0%",
    "soon": false
   },
   {
@@ -20556,5 +20556,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213251606
+ "updatedAt": 1793213355895
 };

@@ -20289,8 +20289,8 @@ window.PROMPT_DATA = {
      "text": "low angle, front view, on knees, crawling, picking up papers, scattered papers, papers on floor, school corridor, school hallway, hallway, window, bright sunlight, indoor, floor, doors, ceiling light, backlit, day,\n\n> <, sad, blush,\nschool uniform, plaid skirt, white shirt, collared shirt,  sneakers, socks, necktie,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrjp1lb.jpg?v=1793157864132",
+   "pos": "50.0% 58.0%",
    "soon": false
   },
   {
@@ -20322,5 +20322,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157832281
+ "updatedAt": 1793157865287
 };

@@ -20026,7 +20026,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvriwz7f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dutch angle, from below, looking at viewer, shushing, holding candlestick, indoor, dark room, mansion, windows, chandelier, dark, shadow, dramatic lighting, blurry background, depth of field,\n\nnun habit, black veil, white collar, habit, wimple, cross necklace, crucifix,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156206797
+ "updatedAt": 1793156222013
 };

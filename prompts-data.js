@@ -20617,8 +20617,8 @@ window.PROMPT_DATA = {
      "text": "looking at another, coat, long sleeves, dress, ribbed dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsh10px.jpg?v=1793213802201",
+   "pos": "21.6% 50.0%",
    "soon": false
   },
   {
@@ -20732,5 +20732,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213785172
+ "updatedAt": 1793213803733
 };

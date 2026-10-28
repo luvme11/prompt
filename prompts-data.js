@@ -21409,10 +21409,10 @@ window.PROMPT_DATA = {
      "text": "high angle, v over eye, beach, 2::sand::, squatting, looking over shoulder, looking at viewer, outdoor, daytime, drawing in sand, 2::drawing in sand heart, heart::, \n\nsmiling, \ncamisole, white camisole, spaghetti straps, light blue pants, bracelet, shell necklace, sandals,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsj1v8e.jpg?v=1793217088257",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793217071050
+ "updatedAt": 1793217089320
 };

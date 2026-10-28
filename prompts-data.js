@@ -20432,7 +20432,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrl1k5s.jpg?v=1793159796504",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvrl4pyq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "0.5::chromatic aberration::, aquarium, cowboy shot, looking at viewer, holding camera, turning around, standing, water, fish, depth of field, bokeh, detailed background,\n\nschool uniform, sailor uniform, navy blue collar, white stripes, white shirt, short sleeves, pleated skirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793159798153
+ "updatedAt": 1793159942543
 };

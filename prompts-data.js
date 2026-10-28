@@ -21801,7 +21801,7 @@ window.PROMPT_DATA = {
      "text": "2::upper body::, side view, lying down, portrait, close up, leaning forward, resting on flowers, resting chin on hands, flower bouquet, white rose, floating petals, reflective water, water surface, night, glowing, water reflection, flower field, depth of field, dramatic lighting, \n\n2::black veil::, black long sleeves, black dress, lace gloves, sheer gloves,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsl7huw.jpg?v=1793220942376",
    "pos": "50% 50%",
    "soon": false
   },
@@ -21820,5 +21820,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793220933625
+ "updatedAt": 1793220943599
 };

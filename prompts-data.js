@@ -19879,10 +19879,10 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, close-up upper body, strict side profile, one hand trembling against her chest, tears streaming down her cheeks, devastated sorrowful expression, standing beneath the wooden eaves of a traditional Japanese mansion, large dark koi pond behind her, heavy rain falling beyond the roof, glowing stone lanterns reflected on the water, cold blue night atmosphere, dramatic cinematic lighting"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrgx9yi.jpg?v=1793153021026",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793153004280
+ "updatedAt": 1793153022685
 };

@@ -20163,8 +20163,8 @@ window.PROMPT_DATA = {
      "text": "sitting, hand on cheek, looking at viewer, bed, pillow, cushion, heart cushion, ribbon, petals, bright room, indoor, day, daytime,\n\nwaking up, sleepy,\ncollared shirt, oversized shirt, white shirt, long sleeves,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrjbol7.jpg?v=1793157145514",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -20196,5 +20196,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157130892
+ "updatedAt": 1793157147304
 };

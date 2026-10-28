@@ -20443,7 +20443,7 @@ window.PROMPT_DATA = {
      "text": "0.5::chromatic aberration::, aquarium, cowboy shot, looking at viewer, holding camera, turning around, standing, water, fish, depth of field, bokeh, detailed background,\n\nschool uniform, sailor uniform, navy blue collar, white stripes, white shirt, short sleeves, pleated skirt,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrl4pyq.jpg?v=1793160081932",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20462,5 +20462,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793159960150
+ "updatedAt": 1793160083126
 };

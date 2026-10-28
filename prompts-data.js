@@ -19668,7 +19668,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrfuxyw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "amusement park, pastel colored, cotton candy stand, giant teacup ride, string lights, balloons, sitting, legs swinging, 1.5::peace sign::, head tilt, holding lollipop, colorful confetti, bokeh, dreamy lighting, 1.2::pastel color palette::, whimsical, playful pose, sparkles, soft glow,\n\npastel sailor dress, puffy sleeves, 1.5::frilled apron::, heart hair clip, knee high socks with bows, mary jane shoes, star hairpins, ribbon choker, 1.2::layered petticoat::, candy print fabric, oversized bow, cropped cardigan, charm bracelet,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793151063031
+ "updatedAt": 1793151088413
 };

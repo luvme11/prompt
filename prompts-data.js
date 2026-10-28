@@ -20233,8 +20233,8 @@ window.PROMPT_DATA = {
      "text": "sitting, on bed, hugging plushie, holding shark plushie, profile, looking at viewer, bedroom, bed sheet, striped pillow, bulletin board, whale nightlight, mug, succulent, indoor, soft lighting, pastel blue theme, day, \n\nblue and white striped hoodie, long sleeves, shorts,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrjinkc.jpg?v=1793157465965",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -20266,5 +20266,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157351394
+ "updatedAt": 1793157467031
 };

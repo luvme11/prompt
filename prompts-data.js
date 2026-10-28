@@ -20320,7 +20320,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrjpqxk.jpg?v=1793157901402",
    "pos": "50.0% 42.0%",
    "soon": false
+  },
+  {
+   "id": "mvrjx90j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, 2::sitting::, looking at viewer, jungle gym, climbing frame, outdoors, day, blue sky, clouds, sunny, umbrella floating, teru teru bozu, bubble, light particles, sunbeams,\n\noveralls, denim overalls, blue overalls, shorts overalls, off-shoulder top, ruffle sleeves, crop top, hair clip, bracelet,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793157902441
+ "updatedAt": 1793157914483
 };

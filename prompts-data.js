@@ -19567,10 +19567,10 @@ window.PROMPT_DATA = {
      "text": "0.5::dynamic pose, dynamic angle::, 5::album cover, album cover layout, title text, y2k title::, 2::glossy aesthetic, cover lines, article teasers, blurry background::, \nborder, outside border,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrehpyq.jpg?v=1793148949533",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793148940520
+ "updatedAt": 1793148950902
 };

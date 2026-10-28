@@ -20642,7 +20642,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsh31yi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,\nindoors, school, window, cherry blossom, sunlight, cherry blossom petals, romantic, intimate, medium shot, standing, sitting, depth of field, eye contact,"
+    },
+    {
+     "label": "남자",
+     "text": "sitting, hugging waist, blush, shy, 1.2::face buried in stomach::, arms around waist, face hidden, \nschool uniform, gakuran,"
+    },
+    {
+     "label": "여자",
+     "text": "standing, smile, hand on another's head, petting, looking down, \nschool uniform, serafuku,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213562329
+ "updatedAt": 1793213612774
 };

@@ -19798,7 +19798,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrgprmn.jpg?v=1793152527731",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrgsj2t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, full body, low angle view, standing in front of a massive Japanese estate gate, looking back over her shoulder, cold and composed expression, one hand holding her sleeve, imposing black wooden gates, massive stone walls, traditional tiled rooftops, family crest engraved above the entrance, luxurious yakuza clan residence, cloudy evening sky, dramatic cinematic atmosphere,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793152528868
+ "updatedAt": 1793152656054
 };

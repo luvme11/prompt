@@ -20939,8 +20939,8 @@ window.PROMPT_DATA = {
      "text": "2::closed eyes::, white yukata, kimono, sash, 1.6::holding bag::, plastic bag, goldfish in bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshm09k.jpg?v=1793214630374",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -20966,5 +20966,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214610065
+ "updatedAt": 1793214631649
 };

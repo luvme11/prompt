@@ -19416,7 +19416,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrctw50",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, floating, arms out, open mouth, sky, clouds, rainbow, bubble, umbrella, clear umbrella, transparent umbrella, sunlight, lens flare, bright,\n\nschool uniform, serafuku, short sleeves, neckerchief, pleated skirt, socks, loafers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793145982532
+ "updatedAt": 1793146000384
 };

@@ -21493,8 +21493,8 @@ window.PROMPT_DATA = {
      "text": "sitting on sofa, leaning back, holding chocolate bar, eating pocky, looking at viewer, teddy bear plushie, cat in foreground, dappled sunlight, indoors, warm lighting, cozy atmosphere, close-up, foreground blur,\n\nschool uniform, sailor uniform, short sleeves, pleated skirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsk6x74.jpg?v=1793218858818",
+   "pos": "50.0% 8.0%",
    "soon": false
   },
   {
@@ -21512,5 +21512,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793218837526
+ "updatedAt": 1793218859977
 };

@@ -21871,8 +21871,8 @@ window.PROMPT_DATA = {
      "text": "sitting on floor, low angle, roar pose, claw gesture, knees folded to side, hand raised,  tiger paw, pink room, plush toys, heart cushions, scattered candy props, soft lighting, pink gradient background, bokeh, sparkles, depth of field,\n\nopen mouth, smile,\npink oversized hoodie, rainbow print, 2::cat paw mittens, cat ear headphones::, pleated mini skirt, pink striped thighhighs,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsljw9j.jpg?v=1793221380140",
+   "pos": "50.0% 0.0%",
    "soon": false
   },
   {
@@ -21890,5 +21890,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793221366754
+ "updatedAt": 1793221381233
 };

@@ -20829,8 +20829,8 @@ window.PROMPT_DATA = {
      "text": "black coat, white scarf, fluffy scarf, fluffy earmuffs, white earmuffs, looking up, 1.2::chin lift::, being touched, hand on chest, side view"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsher2c.jpg?v=1793214292948",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -20856,5 +20856,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214275345
+ "updatedAt": 1793214293970
 };

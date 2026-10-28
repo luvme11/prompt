@@ -21159,8 +21159,8 @@ window.PROMPT_DATA = {
      "text": "sitting on counter, legs wrapped around waist, arms around neck, light pink knit sweater, off-shoulder sweater, oversized sweater, knit texture, light pink shorts"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsicf86.jpg?v=1793216049411",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -21252,5 +21252,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216027378
+ "updatedAt": 1793216050572
 };

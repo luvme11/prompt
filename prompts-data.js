@@ -21549,10 +21549,10 @@ window.PROMPT_DATA = {
      "text": "full body, sitting on utility pole, looking down, low angle, utility pole, electrical wires, angel wings, white wings, halo, sky, pink clouds, daylight, sunset, sky background,\n\nblack serafuku, red necktie, pleated skirt, socks, loafers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvskgjdl.jpg?v=1793219455288",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793219280597
+ "updatedAt": 1793219456488
 };

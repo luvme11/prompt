@@ -19637,10 +19637,10 @@ window.PROMPT_DATA = {
      "text": "crouching on the roof of a moving train, one hand releasing a flock of paper birds, sprawling megacity at night, elevated railway lines, holographic billboards, rain streaks, windblown cables, distant fireworks, electric blue and red light, motion blur, wide cinematic perspective, glitch collage elements, fragmented map overlays, rebellious atmosphere,\n\n1.5::rogue railway signal technician attire::, cropped utility jacket, layered hooded vest, high neck shirt, reinforced harness, asymmetrical shoulder pad, fingerless gloves, signal badge, radio earpiece, carabiner straps, reflective tape, metal zipper details, waterproof nylon, worn canvas, charcoal black, electric blue, warning red, silver accents,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrf9bkr.jpg?v=1793150346516",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793150336274
+ "updatedAt": 1793150347692
 };

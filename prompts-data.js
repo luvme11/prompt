@@ -20540,7 +20540,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsgvbbl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::romantic couple::, cozy indoor, window seat, blanket over shoulders, side-by-side, leaning on shoulder, sharing headphones, soft warm lighting, detailed background, overcast day, aesthetic, character a on the left rests her head gently on character b's shoulder while holding one side of a shared white earphone, closing her eyes with a serene smile. character b on the right sits upright against the window frame, looking down at character a with a tender and fond expression, wrapping one arm around character a's back over a oversized knit blanket. a single steaming mug sits on the low wooden windowsill beside them, with rain droplets visible on the glass paning outside. 1.2::character a wears a oversized cream cable-knit sweater:: with loose sleeves covering her hands, coupled with a pleated navy plaid skirt. 1.2::character b wears a dark charcoal cardigan over a collared white shirt:: with relaxed lounge pants."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213177971
+ "updatedAt": 1793213251606
 };

@@ -21356,7 +21356,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsiy7jf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dark navy kimono, wide sleeves, wave patterns, white inner collar, dark obi, holding plastic bag, transparent water-filled bag, single orange goldfish inside bag, tied plastic bag, raised arm, holding bag beside face, goldfish at eye level, sideways glance at viewer, 3/4 side view, face angled sideways, eyes looking toward viewer, upper body, eye level, face and goldfish in same frame, japanese summer festival, night, blurred lanterns, dark blue background, bokeh, shallow depth of field, blue and orange lighting, cobalt blue rim light, warm orange side lighting, orange light on face, glowing goldfish, light refraction, water reflections, translucent water, cinematic lighting, high contrast,\n\n[polaroid photo, instant film, white polaroid frame, thick white bottom border, textured white paper frame, fine paper grain on border, matte paper surface, smooth glossy photograph,\n1.3::handwritten text \"♡\" on the white bottom margin of the polaroid, small neat handwriting, black ink, centered text::]"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793216729246
+ "updatedAt": 1793216745729
 };

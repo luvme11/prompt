@@ -19851,8 +19851,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, high angle view, lying on her back on a wide polished wooden veranda, one arm resting above her head, the other hand placed gently on her stomach, sleepy relaxed expression, looking toward the sky, traditional Japanese estate courtyard, wooden pillars, open sliding doors, green bamboo garden, scattered sunlight filtering through leaves, peaceful summer afternoon"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrgtd4v.jpg?v=1793152909139",
+   "pos": "50.0% 100.0%",
    "soon": false
   },
   {
@@ -19898,5 +19898,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793152877183
+ "updatedAt": 1793152910275
 };

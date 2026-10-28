@@ -20152,7 +20152,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrjbol7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, hand on cheek, looking at viewer, bed, pillow, cushion, heart cushion, ribbon, petals, bright room, indoor, day, daytime,\n\nwaking up, sleepy,\ncollared shirt, oversized shirt, white shirt, long sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156901136
+ "updatedAt": 1793156908260
 };

@@ -20208,7 +20208,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrjibnf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "down view, high angle, from above, top-light source from left, looking at viewer, sitting, indoor, room, meal, eating, holding chopsticks, eating, bento, takeout box, bottle, mug, wallet, table, sofa, cushion, \n\ncollared shirt, white shirt, jacket, jacket off shoulder, jacket on one shoulder, pleated skirt, plaid skirt, tartan skirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793157211113
+ "updatedAt": 1793157218221
 };

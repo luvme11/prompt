@@ -21225,7 +21225,7 @@ window.PROMPT_DATA = {
      "text": "1.2::taking selfie::, 1.3::holding phone::,  school uniform, white shirt, short sleeves, neck ribbon, striped ribbon, dark plaid skirt, pleated skirt, winking, smiling"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsieryt.jpg?v=1793216232176",
    "pos": "50% 50%",
    "soon": false
   },
@@ -21274,5 +21274,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216161682
+ "updatedAt": 1793216233206
 };

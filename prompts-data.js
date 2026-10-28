@@ -21300,7 +21300,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsisd1b",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.4::Y2K pop art graphic poster::, maximalist magazine cover, retro futuristic editorial design, 1.3::[MAIN COLOR] dominant palette::, 1.3::[SUB COLOR] secondary palette::, white accents, vivid color blocking, high saturation,1.4::dynamic asymmetrical layout::, varied editorial composition, off-center portrait, close-up or upper body, rectangular portrait frame, overlapping graphic layers, irregular panels, fragmented layout, creative negative space,1.4::oversized decorative typography::, giant cropped letters, vertical lettering, outlined uppercase headlines, bold italic text, overlapping text blocks, tiny captions, experimental typography,graph paper grid background, thin geometric frames, offset borders, abstract color blobs, halftone dots, diagonal stripes, polka-dot patterns, 1.4::large four-point starbursts::, sharp sparkles, comic impact stars, lightning graphics, floating stickers,1.3::Y2K unisex streetwear::, oversized layered clothing, graphic print top, loose jacket, sporty collar, contrasting panels, colorful stitching, trendy accessories,1.4::one or two tiny chibi stickers around the main portrait::, miniature chibi versions of the main character, super deformed proportions, oversized heads, tiny bodies, matching hairstyle and outfit, cute expressive faces, playful poses, small sticker-like cutouts, white sticker outlines, scattered along poster margins, 1.3::chibis much smaller than main character::, unobstructed main face,collage-like graphic layering, foreground decorations, playful controlled chaos, full bleed poster, energetic composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793216452634
+ "updatedAt": 1793216473489
 };

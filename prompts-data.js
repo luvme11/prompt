@@ -21283,8 +21283,8 @@ window.PROMPT_DATA = {
      "text": "{cute and sexy mood},\n[Character] 1girl, solo, strawberry-shaped hair clips, tiny red strawberry hair ornaments, sparkling and shiny bokeh effects along the contours of the character's face and body\n\n[Outfit] 1.4::white frilly halter apron worn over bare skin::, large heart-shaped apron bib covering chest, 2::continuous apron fabric from bust to waist, open sides::, exposed side curves of the breasts, exposed shoulders, exposed side waist, ruffled shoulder straps, fluffy white lace frills, strawberry-themed apron, short flared apron skirt, large white ribbon bow tied at back, pink strawberry-print panties, delicate white lace edges, 1.5::pink fluffy open-toe slingback heels::,\n\n[Props & Pose] 1.1::holding silver mixing bowl filled with whipped cream, whisk in other hand::, whipped cream on cheek, 1.2::slightly open mouth::, tongue slightly sticking out, playful expression, one leg lifted,\n\n[Background] 2::strawberry milk pink background, strawberry pattern, large and small strawberries, pink and red color palette::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsircc5.jpg?v=1793216644940",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -21344,5 +21344,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216546088
+ "updatedAt": 1793216646049
 };

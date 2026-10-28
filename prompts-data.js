@@ -21776,7 +21776,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsl7b84",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::portrait, upper body::, over the shoulder pose, looking back, nighttime, 2::floating bubbles, bubbles, colorful balloons::, outdoor setting, shallow depth of field, bokeh, blurry background, soft lighting, dark background, dreamy atmosphere, \n\nspaghetti strap dress, sleeveless dress, white dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793220520460
+ "updatedAt": 1793220529565
 };

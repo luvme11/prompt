@@ -19710,7 +19710,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrfvsdx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "3.5::thick white outline, chibi inset, sicker, plaid pattern border, decora::,arcade interior, neon signs, claw machine, gumball machines, string of lightbulbs, vending machines, vivid colors, sitting cross legged on arcade cabinet, holding plush toy, 1.5::peace sign::, feet swinging, tilted head, 1.2::from below::, cowboy shot, dynamic pose, sparkle effects, colorful lighting, bokeh,\n\noversized hoodie, 1.5::layered tulle skirt::, mismatched striped socks, platform sneakers, star shaped hair clips, fanny pack, 1.2::kandi bead bracelets stacked::, layered chain necklaces, patch badges, fingerless gloves, heart shaped sunglasses on head, bold primary colors,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793151117161
+ "updatedAt": 1793151127718
 };

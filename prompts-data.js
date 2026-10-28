@@ -20788,7 +20788,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshdj8f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,  \nsitting on grass, leaning against tree, outdoors, forest, sunlight, dappled sunlight, bokeh, blurry background, romantic atmosphere, side view, profile, 1.8::looking at each other::, face to face, eye contact, close to each other,"
+    },
+    {
+     "label": "남자",
+     "text": "sitting, leaning back, 1.3::holding book::, open book,  school uniform, white shirt, black tie, loose light cream cardigan, grey school pants, brown loafers, light smile,"
+    },
+    {
+     "label": "여자",
+     "text": "sitting, leaning forward, school uniform, white shirt, black tie, loose light cream cardigan, grey pleated miniskirt, black thighhighs, brown loafers, light smile,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214037015
+ "updatedAt": 1793214102342
 };

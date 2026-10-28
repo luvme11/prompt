@@ -19581,10 +19581,10 @@ window.PROMPT_DATA = {
      "text": "3::dakimakura design, dakimakura \\(medium\\) ::, full body, lying, simple background, white background, shy, light blush, white shirt, pajamas, bare legs, bottomless, bare legs, bottomless"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvremecx.jpg?v=1793149128486",
+   "pos": "50.0% 2.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793149010090
+ "updatedAt": 1793149129510
 };

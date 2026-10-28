@@ -20807,8 +20807,8 @@ window.PROMPT_DATA = {
      "text": "sitting, leaning forward, school uniform, white shirt, black tie, loose light cream cardigan, grey pleated miniskirt, black thighhighs, brown loafers, light smile,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshdj8f.jpg?v=1793214274165",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -20856,5 +20856,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214253857
+ "updatedAt": 1793214275345
 };

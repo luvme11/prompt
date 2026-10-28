@@ -19500,7 +19500,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrdepw4.jpg?v=1793147126009",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrdkjya",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "selfie pose, portrait, 1.3::V hand gesture, v over eye::, looking at viewer, expression with slight open mouth, floating UFO sticker, floating cat sticker, floating pixel arrows and neon light elements, within a vibrant retro aesthetic OS media player frame, grid pattern background, vibrant pink and teal lighting,\n\n;D, one eye closed,\n\n1.5::operating system window frame::, media player UI, window title bar, window control buttons, video scrubber bar, play pause skip icons, centered composition, single image frame.\n\nlight pink sweater, 1.5::white collared shirt with magenta neck bow::, black choker, teal disc earrings, long sleeves,"
+    }
+   ],
+   "img": "img/comp/mvrdkjya.jpg?v=1793147245381",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793147127079
+ "updatedAt": 1793147246477
 };

@@ -20040,7 +20040,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrj0xai",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting at kotatsu, drinking tea, holding teacup, portrait, looking at viewer, indoor, room, tatami, japanese traditional room, shoji, window, snow scene outside, winter, table, tangerines, mandarin oranges, rice crackers, senbei, steam, lens flare, warm lighting,\n\nhanten, sleeping mask on forehead, hoodie, hooded jacket, plaid jacket, grid pattern, oversized clothing, winter clothes,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156393293
+ "updatedAt": 1793156406175
 };

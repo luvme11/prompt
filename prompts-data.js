@@ -19856,20 +19856,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mvrgwelf",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "1girl, solo, pure white yukata, elegant traditional Japanese clothing, wide flowing sleeves, white obi sash, full body, side view, standing on an arched stone bridge, hands clasped behind her back, looking down at the water with a lonely expression, luxurious Japanese koi pond garden, colorful koi fish swimming beneath the bridge, Japanese willow trees, moss-covered rocks, elegant traditional mansion, reflections on still water, soft morning mist, cinematic wide composition"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
-  },
-  {
    "id": "mvrgwutc",
    "tab": "comp",
    "name": "",
@@ -19898,5 +19884,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793152910275
+ "updatedAt": 1793152927602
 };

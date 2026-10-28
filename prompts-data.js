@@ -20460,7 +20460,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrl53co.jpg?v=1793160338560",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvsgmknd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "Common: 2people, three-quarter view from behind B, diagonal composition, 2.2::mutual eye contact, looking into each other's eyes::, 1.5::eyes open::, romantic floral background, blush, small speech bubbles containing smiling face doodles,"
+    },
+    {
+     "label": "왼쪽",
+     "text": "A: on the left, 1.8::being lifted by B, both arms wrapped around B's neck::, 1.8::looking down into B's eyes::, open-mouth smile, wide-brim straw hat decorated with flowers and long pink ribbons, ivory off-shoulder dress, ruffled sleeves, flowing skirt, large waist bow"
+    },
+    {
+     "label": "오른쪽",
+     "text": "B: on the right, 1.8::holding A aloft, arms supporting A's waist and beneath A's hips::, face tilted upward toward A, 1.8::looking up into A's eyes::, 2.2::subtle closed-mouth smile::, 1.7::slightly upturned mouth corners::, relaxed lips, ivory button-up shirt, rolled-up sleeves, high-waisted beige trousers"
+    }
+   ],
+   "img": "img/comp/mvsgmknd.jpg?v=1793212844722",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793160339939
+ "updatedAt": 1793212846218
 };

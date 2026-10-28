@@ -21605,10 +21605,10 @@ window.PROMPT_DATA = {
      "text": "looking down, writing, sitting, desk, table, pen, holding pen, papers, books, stack of books, candle, candlestick, flower vase, rose, bouquet, indoors, window, bookshelf, library, study, daytime, \n\nwhitte blouse, long sleeves, black skirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvskof9o.jpg?v=1793219860392",
+   "pos": "50.0% 24.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793219850625
+ "updatedAt": 1793219861427
 };

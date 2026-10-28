@@ -20138,7 +20138,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrjbivp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high angle, kneeling, full body, looking up, holding  lotus, water ripple, pond, lily pads, water lily, lotus, bamboo poles, tanzaku, hanging ornaments, temari, ribbons, ripples, daytime, outdoor,\n\nkimono, floral print kimono, obi,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156890955
+ "updatedAt": 1793156901136
 };

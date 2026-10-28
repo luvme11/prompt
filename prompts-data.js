@@ -21250,7 +21250,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsilod0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\nromance, slice of life, domestic, cozy living room setting, sitting side-by-side on a sofa, intimate atmosphere, soft indoor morning lighting, warm ambient glow"
+    },
+    {
+     "label": "남자",
+     "text": "leaning toward partner, holding chopsticks, a piece of soft food held near partner's mouth, feeding gesture, patient and steady gaze, eye contact"
+    },
+    {
+     "label": "여자",
+     "text": "sitting on sofa, looking up at partner, pouting lips, sulky yet expectant facial expression, plate resting nearby"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793216090683
+ "updatedAt": 1793216161682
 };

@@ -21093,8 +21093,8 @@ window.PROMPT_DATA = {
      "text": "white sleeveless dress with ruffles, large black neck bow, black high heels, sitting on piano bench, hand resting on piano keys, headpat"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsi91bc.jpg?v=1793215986755",
+   "pos": "50.0% 44.0%",
    "soon": false
   },
   {
@@ -21274,5 +21274,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793215927576
+ "updatedAt": 1793215988416
 };

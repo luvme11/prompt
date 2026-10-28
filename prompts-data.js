@@ -21118,7 +21118,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsiawjg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\nromance, drama, profile, slice of life, from side, side view, summer night, under a single streetlight, walking scene, warm focused light from the lamp, deep urban shadows, melancholic and tender atmosphere"
+    },
+    {
+     "label": "남자",
+     "text": "carrying partner on his back, walking, a simple white short-sleeved t-shirt, navy blue trousers"
+    },
+    {
+     "label": "여자",
+     "text": "2::eyes closed::, carried on partner's back, asleep comfortably, a simple white dress"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215613053
+ "updatedAt": 1793215658359
 };

@@ -19556,7 +19556,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrefh8f",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2::on the left side: close-up portrait of the same character, photo cutout style::, comic panel elements,  3::border, outside border::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793148663590
+ "updatedAt": 1793148687125
 };

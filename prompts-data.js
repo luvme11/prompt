@@ -21563,8 +21563,8 @@ window.PROMPT_DATA = {
      "text": "profile, side view, sitting on bed, legs up,  holding smartphone, looking at phone, screen glow, cityscape window, large window, night sky, starry sky, shooting star, city lights, neon lights, bedroom, curtains, stuffed toy, pillow, bed sheet, glass cup, table lamp, indoor, dark, dim lighting, night, blue theme,\n\noversized hoodie, long sleeves, ribbed cuffs,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsknn9e.jpg?v=1793219812250",
+   "pos": "50.0% 100.0%",
    "soon": false
   },
   {
@@ -21610,5 +21610,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793219648958
+ "updatedAt": 1793219813412
 };

@@ -21818,7 +21818,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsl7ok5.jpg?v=1793220956225",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvslj6pm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "portrait, upper body, 2::heart pose, heart hands::, looking at viewer, soft pink ambient lighting, 1.5::pastel pink theme::, 2::lace border::, heart, 2::diagonal-striped background::,\n\n2::nurse dress, lolita dress::, 2::nurse cap::, white apron, collared dress, short sleeves, puffed sleeves, bell sleeves, 2::nurse armband::,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793220957286
+ "updatedAt": 1793221083851
 };

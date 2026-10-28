@@ -19542,7 +19542,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrdxrgn.jpg?v=1793148183081",
    "pos": "39.6% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvreez33",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, dynamic pose, 1.5::dutch angle::, hands on hips, slightly leaning forward, bright studio lighting, subtle pink rim lighting, soft shadow, vibrant pastel background, aesthetic flash photography, 1.2::y2k sticker aesthetic::, single image, centered composition, white border, japanese text bubble, japanese text overlay, simple background, clean layout,\n1.2::y2k style clothing::, crop top, graphic printed t-shirt, low rise pleated miniskirt, chunky platform boots, chain belt around waist, translucent visor glasses, arm warmers, silver hoop earrings, layered bead necklaces, hair clips"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793148184644
+ "updatedAt": 1793148663590
 };

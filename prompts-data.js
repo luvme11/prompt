@@ -20418,7 +20418,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrkvu4q.jpg?v=1793159529027",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mvrl1k5s",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "in water, swimming pool, waist up, profile, looking at viewer, arms raised, hands up, splashing, water droplets, 2::sparkling water::, sunlight, backlit, bright sunlight, ripples, reflection, outdoor, daytime, wet clothes,\n\nsmiling, closed eyes,\nschool uniform, sailor uniform, navy blue collar, white stripes, white shirt, short sleeves, pleated skirt,"
+    }
+   ],
+   "img": "img/comp/mvrl1k5s.jpg?v=1793159796504",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793159530202
+ "updatedAt": 1793159798153
 };

@@ -20851,10 +20851,10 @@ window.PROMPT_DATA = {
      "text": "light smile, leaning on another, cheek-to-cheek, 1.2::hand on partner's chin::, hugging from side,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvshfky6.jpg?v=1793214312904",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793214293970
+ "updatedAt": 1793214314468
 };

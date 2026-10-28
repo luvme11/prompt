@@ -21206,7 +21206,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsie0qm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl, \nfrom above, looking at another, duet, karaoke, indoors, sitting on sofa, sitting next to each other, low table, glass, drink, screen, monitor, dimly lit, dark background, night, neon lights"
+    },
+    {
+     "label": "남자",
+     "text": "sitting, 1.3::singing::, holding microphone, 1.2::open mouth::, 1.1::looking at partner::, happy, school uniform, blazer, collared shirt, necktie"
+    },
+    {
+     "label": "여자",
+     "text": "sitting, 1.3::singing::, holding microphone, 1.2::open mouth::, 1.1::looking at partner::, smiling, excited, school uniform, cardigan, pleated skirt"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215766390
+ "updatedAt": 1793215803846
 };

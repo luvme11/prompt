@@ -19995,8 +19995,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, from above, lying on back, dappled sunlight, holding flower, flower to face, outdoors, grassy field, daisies, flowers, bright, depth of field, \n\nmaid, maid uniform, apron, long sleeves, frills, dress, hair ribbon,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvriwf56.jpg?v=1793156424504",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -20056,5 +20056,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793156406175
+ "updatedAt": 1793156425572
 };

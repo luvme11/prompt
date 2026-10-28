@@ -20515,10 +20515,10 @@ window.PROMPT_DATA = {
      "text": "B: supporting A beneath the knees and behind the back, panicked open mouth, sweatdrop, white shirt, rolled sleeves, loose dark tie, charcoal trousers, sneakers, canvas shoulder bag bouncing behind"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsgp7pj.jpg?v=1793213057495",
+   "pos": "50.0% 14.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793213036109
+ "updatedAt": 1793213058718
 };

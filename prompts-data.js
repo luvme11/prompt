@@ -20012,7 +20012,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvriwndq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "profile, upper body, holding bouquet, lily, looking down, window, white curtains, wind, blowing curtains, sunlight, shadow, dappled sunlight, indoor, light beam, blue sky,\n\nblue dress, white blouse, frills, ruffles, puff sleeves, ribbon, long sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156196463
+ "updatedAt": 1793156206797
 };

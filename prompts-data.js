@@ -20598,7 +20598,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsh10px",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\ndutch angle, from side, hand kiss, cityscape, holding hand, proximity, outdoors, street, building, dome, night, winter, snow, soft lighting, depth of field,"
+    },
+    {
+     "label": "남자",
+     "text": "kissing hand, leaning forward, closed eyes, military uniform, overcoat, epaulets, sam browne belt, gloves,"
+    },
+    {
+     "label": "여자",
+     "text": "looking at another, coat, long sleeves, dress, ribbed dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213478998
+ "updatedAt": 1793213517698
 };

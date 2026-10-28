@@ -21286,7 +21286,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsirxcn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "[POSE]\nlying on her back, upside-down composition, head tilted back, upper body slightly arched, arms relaxed beside her head, one hand lightly gripping the fabric of her jacket, legs raised and bent above her head, looking directly at the viewer, playful expression, dynamic diagonal composition, full-body view\n\n[OUTFIT]\nsexy black and deep burgundy red outfit, black frilly crop top, ruffled bust design, high-waisted black hot pants, very short fitted shorts, delicate black lace trim, deep burgundy red ribbon bows, frilly hems, decorative side bows, oversized off-shoulder black jacket, voluminous puff sleeves, layered ruffles, flowing fabric, glossy black satin texture, luxurious dark aesthetic\n\n[BACKGROUND]\npink and white pop-art background, white halftone dot patterns, bold pink graphic shapes, scattered decorative dots, playful magazine illustration aesthetic, flat graphic design, high contrast, clean composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793216425410
+ "updatedAt": 1793216452634
 };

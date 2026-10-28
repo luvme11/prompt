@@ -21096,7 +21096,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsi9xkv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl,\n dim living room, flickering light from television, cinematic shadows, midnight domestic setting, couple pajamas"
+    },
+    {
+     "label": "남자",
+     "text": "sitting on couch, pajamas, hand on partner's shoulder, looking at tv,"
+    },
+    {
+     "label": "여자",
+     "text": "sitting on couch, pajama, tv light, eating popcorn, looking at tv,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215571201
+ "updatedAt": 1793215613053
 };

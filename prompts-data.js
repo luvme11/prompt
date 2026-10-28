@@ -21440,7 +21440,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsja8qr.jpg?v=1793217403290",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvsjdryo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, v sign, selfie, portrait, close-up, looking at viewer, hand close to face, tilt shift, depth of field, blushes, neon light, glowing neon, heart, heart shape, cat ears outline, whiskers outline, white background,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793217404496
+ "updatedAt": 1793217471970
 };

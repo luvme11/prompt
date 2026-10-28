@@ -19357,8 +19357,8 @@ window.PROMPT_DATA = {
      "text": "close-up, 1.2::lying on side::, lying, 1.15::hugging pillow::, hugging, looking at viewer, indoor, room, bed, window, sunlight, 1.1::backlighting::, lens flare, depth of field, stuffed rabbit,\n\n1.15::pink dress::, white shirt, long sleeves, frill cuffs, frill collar,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrcjsos.jpg?v=1793145945997",
+   "pos": "50.0% 6.0%",
    "soon": false
   },
   {
@@ -19390,5 +19390,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793145929643
+ "updatedAt": 1793145947283
 };

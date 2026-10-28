@@ -19735,8 +19735,8 @@ window.PROMPT_DATA = {
      "text": "shibuya street, neon signs, crosswalk, night, city lights, standing, peace sign, one hand on hip, 1.5::cowboy shot::, leaning against wall, dynamic pose, 1.2::from below::, bokeh, blurred background, purikura booth, vending machines, urban nightlife, karaoke bar entrance,\n\noff shoulder top, 1.5::plaid mini skirt::, platform boots, layered leg warmers, chunky bracelets, hoop earrings, choker, layered necklaces, 1.2::fur trim jacket::, nail art, animal print scarf, studded belt, statement rings, mini shoulder bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrfzwff.jpg?v=1793151697899",
+   "pos": "50.0% 8.0%",
    "soon": false
   },
   {
@@ -19782,5 +19782,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793151688486
+ "updatedAt": 1793151699520
 };

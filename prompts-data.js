@@ -20065,7 +20065,7 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, dynamic pose, portrait, upper body, looking at viewer, holding water gun, splashing water, wet, water drops, sweat, outdoor, summer, tropical plants, palm trees, bright sunlight, \n\nopen mouth, smile, \nswimsuit, see-through robe, open robe,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrj4uct.jpg?v=1793156722692",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20126,5 +20126,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793156646554
+ "updatedAt": 1793156723839
 };

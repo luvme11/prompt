@@ -20854,7 +20854,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvshfky6.jpg?v=1793214312904",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvshjeok",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy,  \n1.3::back to back::, sitting, side view, profile, outdoors, grass, sunlight, 1.2::bokeh::, depth of field, 1.4::sharing earphones::, wired earphones, music player, calm atmosphere,"
+    },
+    {
+     "label": "남자",
+     "text": "sitting, leaning back, looking at another"
+    },
+    {
+     "label": "여자",
+     "text": "sitting, leaning back, looking up, 2::eyes closed::, calm"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793214314468
+ "updatedAt": 1793214375898
 };

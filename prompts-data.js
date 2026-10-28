@@ -21451,10 +21451,10 @@ window.PROMPT_DATA = {
      "text": "upper body, v sign, selfie, portrait, close-up, looking at viewer, hand close to face, tilt shift, depth of field, blushes, neon light, glowing neon, heart, heart shape, cat ears outline, whiskers outline, white background,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsjdryo.jpg?v=1793217642045",
+   "pos": "50.0% 14.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793217471970
+ "updatedAt": 1793217643300
 };

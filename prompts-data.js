@@ -20096,7 +20096,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrj5qbg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying on back, looking at viewer, overhead shot, profile, close up, glass floor, reflection, roses, white roses, flowers, bubbles, floating bubbles, indoor, light blue background, {cinematic lighting}, \n\nwhite blouse, long sleeves, puffy sleeves, cuffs, buttons, corset, black corset, lace up, laced corset, ribbon, bowtie, neck ribbon, brooch, frills, ruffled collar, frilled sleeves, dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156618001
+ "updatedAt": 1793156630865
 };

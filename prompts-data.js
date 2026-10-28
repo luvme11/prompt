@@ -20401,10 +20401,10 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, adjusting footwear, leaning forward, standing on one leg, knee up, holding shoe, looking down, profile, three quarter view, outdoor, train station, platform, tiled pillar, blurred background, overcast, daylight,\n\nschool uniform, black serafuku, white neckerchief,  long sleeves, pleated skirt, black socks, knee highs, leather loafers, black shoes, black backpack, backpack straps,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrkhmw9.jpg?v=1793159122783",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793158865674
+ "updatedAt": 1793159124411
 };

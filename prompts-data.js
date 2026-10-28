@@ -21521,10 +21521,10 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, 2::Japanese magazine, magazine cover::, megami magazine, japanese text, floating hearts, sparkles, barcode, price, looking at viewer, heart hands, white background, pink theme,\n\n;p, winking, smirk,\npink school uniform, sailor collar, long sleeves, pink bowtie, cropped shirt, pink pleated skirt, white stripes, 2::pink headphones::, heart hair ornament,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvska037.jpg?v=1793219093861",
+   "pos": "50.0% 0.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793219081093
+ "updatedAt": 1793219094898
 };

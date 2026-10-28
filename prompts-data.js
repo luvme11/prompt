@@ -19749,7 +19749,7 @@ window.PROMPT_DATA = {
      "text": "3::scrapbook spread, photo collage::, spiral notebook, calendar grid, sticker overlay, text bubbles, heart-shaped photo frame, paper cutout border, pink binder clip at top, top-down perspective, portrait, upper body, winking, touching cheeks with index fingers, 1.2::playful pose::, head tilted, soft bright studio lighting, flat lighting\n\nblue t-shirt, short sleeves, crew neck, casual wear, 1.2::pink checkered hair bow attached to hair::, dangling heart earrings, charm bracelet around wrist, star ring on finger, blue nail polish."
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrg07iu.jpg?v=1793151728280",
    "pos": "50% 50%",
    "soon": false
   },
@@ -19782,5 +19782,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793151699520
+ "updatedAt": 1793151729522
 };

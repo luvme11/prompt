@@ -21538,7 +21538,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvskg2wq.jpg?v=1793219260459",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvskgjdl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, sitting on utility pole, looking down, low angle, utility pole, electrical wires, angel wings, white wings, halo, sky, pink clouds, daylight, sunset, sky background,\n\nblack serafuku, red necktie, pleated skirt, socks, loafers,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793219262131
+ "updatedAt": 1793219280597
 };

@@ -20051,10 +20051,10 @@ window.PROMPT_DATA = {
      "text": "sitting at kotatsu, drinking tea, holding teacup, portrait, looking at viewer, indoor, room, tatami, japanese traditional room, shoji, window, snow scene outside, winter, table, tangerines, mandarin oranges, rice crackers, senbei, steam, lens flare, warm lighting,\n\nhanten, sleeping mask on forehead, hoodie, hooded jacket, plaid jacket, grid pattern, oversized clothing, winter clothes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrj0xai.jpg?v=1793156544055",
+   "pos": "50.0% 42.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793156470989
+ "updatedAt": 1793156545390
 };

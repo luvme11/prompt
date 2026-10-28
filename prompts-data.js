@@ -22000,7 +22000,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsmwpo6.jpg?v=1793223552648",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mvsn7u2v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, cowboy shot, 2::holding pom-poms::, pom-poms, jumping, mid-air, arms outstretched, looking at viewer, open mouth, smile, abstract background, colorful background, sky, bokeh, sunlight, confetti, motion lines, \n\ncheerleader uniform, sleeveless shirt, striped top, pleated skirt, star hair clip, hair ornament, hair clip, multicolored hair clip,"
+    }
+   ],
+   "img": "img/comp/mvsn7u2v.jpg?v=1793223914477",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793223553980
+ "updatedAt": 1793223915611
 };

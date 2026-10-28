@@ -21913,7 +21913,7 @@ window.PROMPT_DATA = {
      "text": "2::heart gesture::, smile,  3::streaming interface, user interface, screen overlay, graphical interface,::, looking at viewer, concert stage, spotlight, colorful lighting, bokeh, upper body, indoors, social media, text, speech bubble, frame,  neon,\n\nfrilled wrist cuffs, pink crop top, pink bows, heart pattern, plaid trim, beads, ruffled sleeves, frills,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsltq8o.jpg?v=1793221844439",
    "pos": "50% 50%",
    "soon": false
   },
@@ -21946,5 +21946,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793221830960
+ "updatedAt": 1793221845754
 };

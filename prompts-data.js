@@ -21608,7 +21608,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvskof9o.jpg?v=1793219860392",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvsktzf7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, on floor, 2::holding, megaphone::, amplifier, speaker, checkerboard floor, balloon, streamer, confetti, indoors, concert, stage, dimly lit, dappled sunlight, light leak, \n\nwhite jacket, leather jacket, black dress, strapless dress, lace up boots, black boots, combat boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793219861427
+ "updatedAt": 1793219907929
 };

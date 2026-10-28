@@ -19430,7 +19430,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrcwp8x",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, lying, on stomach, legs up, feet up, looking at viewer, holding, smartphone, pocky, pocky in mouth, indoor, cushion, pillow, stuffed toy, food, snack, potato chips, box, bright, sunlight, lens flare,\n\nstriped dress, off-shoulder jacket, cardigan, pink sweater, hair ribbon, striped socks, single sock,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793146112374
+ "updatedAt": 1793146132213
 };

@@ -20595,8 +20595,8 @@ window.PROMPT_DATA = {
      "text": "white dress, bare shoulders,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsh06of.jpg?v=1793213783998",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -20732,5 +20732,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793213762490
+ "updatedAt": 1793213785172
 };

@@ -21885,10 +21885,10 @@ window.PROMPT_DATA = {
      "text": "upper body, rabbit pose, hands raised head, fingers bent, leaning forward, pink monochrome background, floating heart motifs, soft lighting, pastel pink gradient backdrop, sparkles, heart shaped bokeh, depth of field,\n\nbunny suit, glossy bunny suit, white collar, satin bowtie, white bunny cuffs, bunny ears headband, ribbon wrapped bunny ears,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvslk7y7.jpg?v=1793221394155",
+   "pos": "50.0% 18.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793221381233
+ "updatedAt": 1793221395989
 };

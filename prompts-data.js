@@ -19595,8 +19595,8 @@ window.PROMPT_DATA = {
      "text": "2::multiple views, character sheet, reference sheet, collage::, winking, v sign, full body, portrait, profile, graphic design, pink theme, sticker,  2::y2k, computer interface::, windows (os), computer window, desktop (computer), taskbar, pink background, heart, star (symbol), sparkles, doodles, speech bubble, emoticon, \n\nshirt, long sleeves, graphic shirt, cat print, camisole, layered clothing, ruffled skirt, tiered skirt,  skirt, belt, leg warmers, footwear, shoes, shoulder bag, handbag, earrings, hoop earrings,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrepcy3.jpg?v=1793149304925",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -19614,5 +19614,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793149176654
+ "updatedAt": 1793149305987
 };

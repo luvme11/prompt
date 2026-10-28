@@ -21650,7 +21650,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvskuqz7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking back, 2::holding bouquet::, pink bouquet, ribbon, flower, floating hair, falling petals, sky, cloud, blue sky, day, outdoors, daylight, sunlight, lens flare, depth of field, shining,\n\nlight smile,\nwedding dress, bridal veil, off shoulder dress, lace trim, ruffles, white dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793219930515
+ "updatedAt": 1793219943445
 };

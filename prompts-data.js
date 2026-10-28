@@ -20763,7 +20763,7 @@ window.PROMPT_DATA = {
      "text": "couple, hetero, 1girl, 1boy,\n2::sitting on sofa::, 2::cuddling::, indoor, living room, leaning on shoulder, sharing blanket, holding mug, looking at each other, warm lighting, cozy atmosphere, cushions, coffee table, domestic, night, dim lighting, \n\n1.7::oversized sweater::, 2::pajamas::, hoodie, knitted sweater, loungewear, apron, striped shirt, checkered pants, white socks, eyeglasses, hair scrunchie, ribbon, cotton fabric, soft texture,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvshbh6e.jpg?v=1793214239177",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20856,5 +20856,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214220802
+ "updatedAt": 1793214240697
 };

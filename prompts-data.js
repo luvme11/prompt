@@ -21731,7 +21731,7 @@ window.PROMPT_DATA = {
      "text": "2::holding cat::, sitting, bent legs, close up, indoor garden, roses, flower arrangement, parasol, hanging decorations, stained glass, volumetric lighting, bokeh, floating petals, sparkling particles, soft focus background, 2::pink theme::, whimsical theme, environmental storytelling, \n\n2::frilled dress::, white dress, red trim, sleeveless dress, layered ruffles, oversized bow, waist bow, red ribbon, ribbon hair tie,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvsl09wb.jpg?v=1793220416170",
    "pos": "50% 50%",
    "soon": false
   },
@@ -21750,5 +21750,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793220397960
+ "updatedAt": 1793220417657
 };

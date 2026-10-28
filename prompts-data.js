@@ -19777,10 +19777,10 @@ window.PROMPT_DATA = {
      "text": "upper body, leaning, chin rest, 2::holding chess piece::, looking at viewer, sitting, indoor, room, window, table, chess board, sunset, red curtains, cityscape, sky, buildings, dappled sunlight, bokeh, depth of field, cinematic shot,\n\nwhite dress, white blouse, long sleeves, frilled sleeves, feathers, frills, ruffles,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrg1d36.jpg?v=1793151750107",
+   "pos": "50.0% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793151740762
+ "updatedAt": 1793151751289
 };

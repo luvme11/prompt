@@ -20180,7 +20180,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrjc9pf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "v sign, portrait, upper body, close up, looking at viewer, hand to face, tilted head, soft lighting, graphic design, 3::pink theme::, jirai kei, kawaii,2::lace border::,\n\nstriped arm warmers, black dress, black collar, collar ribbon, black cat headwear, hair ribbons, choker, bracelet, ring, black manicure,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156920874
+ "updatedAt": 1793156935436
 };

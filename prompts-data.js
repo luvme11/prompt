@@ -21468,7 +21468,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsjhnwl.jpg?v=1793218122879",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvsk427w",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, leaning forward, chin rest, rest on hand, hand on chin, looking at viewer, classroom, desk, school desk, blackboard, window, indoor, sunlight, day, depth of field, bokeh, closeup, straight-on,\n\nlight smile, \nschool uniform, sailor uniform, short sleeves,"
+    }
+   ],
+   "img": "img/comp/mvsk427w.jpg?v=1793218699763",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793218124251
+ "updatedAt": 1793218701093
 };

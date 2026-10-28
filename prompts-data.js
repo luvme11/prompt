@@ -20317,10 +20317,10 @@ window.PROMPT_DATA = {
      "text": "lying on stomach, feet up, upper body, head tilted, looking at viewer, holding pencil, writing, book, open book, desk, indoor, bedroom, pink room, star string lights, lamp, alarm clock, cat, box, light particles, soft lighting, cozy atmosphere, detailed background, pastels, pink theme,\n\nschool uniform, collared shirt, white shirt, long sleeves, plaid bow tie, pink bow tie, plaid skirt, pink skirt, pleated skirt, hair scrunchie, white scrunchie, white socks,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrjpqxk.jpg?v=1793157901402",
+   "pos": "50.0% 42.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793157882960
+ "updatedAt": 1793157902441
 };

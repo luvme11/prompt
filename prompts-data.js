@@ -21930,7 +21930,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvslu7hf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::lying in coffin::, candlelight, top down, from above, indoors, candle, lit candle, 2::rose, white rose::, skull, pocket watch, butterfly, cross, beads, apple, dim lighting, dark,\n\n2::victorian dress::, frilled headpiece, white dress, ruffles, frills, jewelry, necklace, pearls,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793221585995
+ "updatedAt": 1793221597861
 };

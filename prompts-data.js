@@ -21423,8 +21423,8 @@ window.PROMPT_DATA = {
      "text": "upper body, sunflower field, sunflower, close up, portrait, hands on cheeks, tilted head, dappled sunlight, depth of field, outdoor, daytime,\n\nlight smile,\nstraw hat, white dress, sundress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsja3ev.jpg?v=1793217380747",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -21442,5 +21442,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793217307102
+ "updatedAt": 1793217382182
 };

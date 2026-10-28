@@ -19780,7 +19780,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrg1d36.jpg?v=1793151750107",
    "pos": "50.0% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvrgprmn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "traditional Japanese yakuza boss mansion, luxurious Japanese estate, spacious private Japanese courtyard garden, imposing traditional wooden mansion, dark wooden pillars, wide wooden veranda, sliding shoji doors, tiled roofs, tall stone walls surrounding the estate, carefully maintained Japanese pine trees, stone lanterns, koi pond, stepping stone pathway, bamboo fences, raked gravel garden, elegant Japanese architecture, secluded and private atmosphere, quiet intimidating atmosphere, cinematic lighting, detailed background,\n\n1girl, solo, wearing an elegant pure white yukata, traditional Japanese clothing, wide flowing sleeves, neatly tied white obi sash,\n\nupper body, side profile, strict side view, facing sideways, one hand gently resting on her own chest, palm placed over her heart, delicate hand gesture, slightly lowered head, calm expression, graceful posture,\n\ntraditional Japanese yakuza boss mansion, luxurious Japanese courtyard garden, dark wooden veranda, sliding shoji doors, Japanese pine trees, stone lanterns, koi pond, stepping stone pathway, tall stone walls, quiet and elegant atmosphere, soft natural daylight, cinematic composition,"
+    },
+    {
+     "label": "의상",
+     "text": "white yukata, elegant white kimono, soft flowing fabric, wide sleeves, traditional Japanese style, neatly wrapped obi sash, delicate and graceful appearance"
+    }
+   ],
+   "img": "img/comp/mvrgprmn.jpg?v=1793152527731",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793151751289
+ "updatedAt": 1793152528868
 };

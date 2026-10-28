@@ -20620,7 +20620,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsh1z80",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl, \ndynamic angle, dutch angle, from below, looking at viewer, kneeling, train interior, ceiling fan, ceiling light, depth of field, lying on floor, cinematic shot, dramatic composition,"
+    },
+    {
+     "label": "남자",
+     "text": "kneeling, hand in pocket, hand on another's shoulder, coat over shoulders,  dark vest, black necktie, black pants,"
+    },
+    {
+     "label": "여자",
+     "text": "pointing at viewer, kneeling,dark vest, black necktie, long skirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213517698
+ "updatedAt": 1793213562329
 };

@@ -21675,10 +21675,10 @@ window.PROMPT_DATA = {
      "text": "2::cowboy shot::, looking at viewer, 2::sitting on ground, hugging own legs::, leaning forward, inside rubble, ruined building, broken wall, debris, circular frame, vignette, detailed background, shadows, depth of field,\n\nwings, feathered wings, large wings, white wings, halo, spaghetti straps, white sun dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvskv07r.jpg?v=1793220119314",
+   "pos": "44.5% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793220078954
+ "updatedAt": 1793220120832
 };

@@ -19544,20 +19544,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mvreez33",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "full body, dynamic pose, 1.5::dutch angle::, hands on hips, slightly leaning forward, bright studio lighting, subtle pink rim lighting, soft shadow, vibrant pastel background, aesthetic flash photography, 1.2::y2k sticker aesthetic::, single image, centered composition, white border, japanese text bubble, japanese text overlay, simple background, clean layout,\n1.2::y2k style clothing::, crop top, graphic printed t-shirt, low rise pleated miniskirt, chunky platform boots, chain belt around waist, translucent visor glasses, arm warmers, silver hoop earrings, layered bead necklaces, hair clips"
-    }
-   ],
-   "img": "img/comp/mvreez33.jpg?v=1793148966977",
-   "pos": "50.0% 24.0%",
-   "soon": false
-  },
-  {
    "id": "mvrehpyq",
    "tab": "comp",
    "name": "",
@@ -19642,5 +19628,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793150347692
+ "updatedAt": 1793150380854
 };

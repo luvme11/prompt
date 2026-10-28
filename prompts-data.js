@@ -19654,7 +19654,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrftx9f.jpg?v=1793151041881",
    "pos": "54.4% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvrfuedm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::upper body portrait::, reaching directly toward the viewer, paintbrush touching the screen, colorful paint spreading across the foreground, paint splatters on the lens, one hand gripping a palette, vivid abstract strokes, studio filled with canvases, hanging paint tubes, scattered brushes, bright overhead lighting, dynamic perspective, saturated color burst, energetic diagonal composition,\n\n1.5::expressive paint studio outfit::, paint splattered oversized shirt, rolled sleeves, cropped utility apron, layered scarf, wrist wraps, fingerless gloves, palette strap, brush holder attached to the waist, colorful enamel pins, loose fabric folds, textured cotton, stained canvas, vivid cyan, yellow, magenta, vermilion, black accents,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793151042882
+ "updatedAt": 1793151063031
 };

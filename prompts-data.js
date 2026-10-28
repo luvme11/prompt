@@ -19721,8 +19721,8 @@ window.PROMPT_DATA = {
      "text": "liminal space, empty swimming pool, dusk sky, foggy atmosphere, vhs filter, film grain, washed out colors, standing at pool edge, looking into distance, 1.5::high angle shot::, dreamlike, soft blur, chromatic aberration, 1.2::wide shot::, empty room, flickering fluorescent lighting, retro interior, dust particles in air, nostalgic atmosphere,\n1.5::flowing nightgown::, lace trim, bare feet, ribbon in hair, worn cardigan draped over shoulders, vintage sundress layered underneath, 1.2::frayed hem::, faded fabric, mismatched socks, delicate anklet, small locket necklace, loose ribbon sash,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrfzpyo.jpg?v=1793151687335",
+   "pos": "50.0% 40.0%",
    "soon": false
   },
   {
@@ -19782,5 +19782,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793151388551
+ "updatedAt": 1793151688486
 };

@@ -21997,10 +21997,10 @@ window.PROMPT_DATA = {
      "text": "looking at viewer, sitting, knees up, 1.5::holding cup::, indoors, soft lighting, bright lighting, pillow, cushion, tea, tray, donut, morning, pastel cozy room, cute, kawaii, pastel tone, \n\npastel pink cardigan, knit cardigan, white turtleneck, striped thighhighs, pastel pink and white socks,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsmwpo6.jpg?v=1793223552648",
+   "pos": "50.0% 8.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793223394331
+ "updatedAt": 1793223553980
 };

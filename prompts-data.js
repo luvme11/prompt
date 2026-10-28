@@ -21580,7 +21580,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsko9al",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, profile, side view, sitting, stool, chair, computer desk, messy desk, looking at phone, holding smartphone, left hand on chin, elbow on table, night, blue theme, bedroom, window, cityscape, city lights, indoor, potted plant, table lamp, backlighting, computer monitor, screen glow,\n\nt shirt, oversized shirt, shorts, headphones, over ear headphones,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793219624175
+ "updatedAt": 1793219640766
 };

@@ -19637,10 +19637,10 @@ window.PROMPT_DATA = {
      "text": "1.5::upper body portrait::, dancing on a rooftop above a sunlit city, one hand holding a portable radio, the other pointing toward the skyline, spinning cassette tapes, fluttering newspaper sheets, rooftop water tanks, colorful laundry, bright midday sunlight, lens flare, wind trails, playful dutch angle, bold motion lines, vibrant urban composition,\n\n1.5::retro rooftop dj outfit::, cropped varsity jacket, layered graphic shirt, wide headphone band around the neck, utility harness, fingerless gloves, colorful wristbands, cassette tape pendant, oversized zipper pulls, stitched patches, reflective piping, nylon fabric, cobalt blue, sunny yellow, tomato red, white, black accents, energetic color blocking,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrffw7a.jpg?v=1793150710542",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793150386406
+ "updatedAt": 1793150711597
 };

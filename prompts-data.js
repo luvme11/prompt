@@ -19896,7 +19896,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrha70k.jpg?v=1793153480758",
    "pos": "50.0% 48.0%",
    "soon": false
+  },
+  {
+   "id": "mvrhq63l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking down, focused, writing, holding brush, ink brush, ink stick, paper, kneeling, sitting, seiza, indoor, calligraphy, traditional japanese setting, warm light, lens flare, depth of field,\n\nkimono, floral print, obi, obijime, long sleeves,"
+    }
+   ],
+   "img": "img/comp/mvrhq63l.jpg?v=1793154225975",
+   "pos": "50.0% 12.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793153481918
+ "updatedAt": 1793154227144
 };

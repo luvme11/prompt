@@ -21692,7 +21692,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvskzx74",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "top-down view, 1.5::upper body::, 2::lying on back, lying on grass::, 3::hugging chicks::, baby chicks, surrounded by chicks, grassy field, daisies, sun dapples, dappled sunlight, depth of field,\n\nsmiling, happy,\nflower crown, crown of yellow flowers, yellow daisies, white sundress, spaghetti straps,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793220172720
+ "updatedAt": 1793220185269
 };

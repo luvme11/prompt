@@ -20261,10 +20261,10 @@ window.PROMPT_DATA = {
      "text": "0.6::dynamic angle::, portrait, upper body, looking at viewer, holding drink, holding glass, cocktail, lemon slice, water splash, beach, ocean, sky, cloud, sunny, bubbles,\n\nsmiling,\nbikini, straw hat, wide-brimmed hat, see-through robe, open robe,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvrjj03u.jpg?v=1793157489962",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793157478904
+ "updatedAt": 1793157490967
 };

@@ -21507,8 +21507,8 @@ window.PROMPT_DATA = {
      "text": "close up, portrait, reflection, mirror, reflection in mirror, looking at reflection, looking at self, applying makeup, putting on makeup, holding eyeliner, vanity, dresser back, perfume bottles, cosmetic bottles, makeup container, vase, flowers, sticky note, soft lighting, indoor, daylight, pastel pink room,\n\ncamisole, spaghetti straps, hair hairpin,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsk71m4.jpg?v=1793219080019",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -21526,5 +21526,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793218975504
+ "updatedAt": 1793219081093
 };

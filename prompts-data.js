@@ -21745,10 +21745,10 @@ window.PROMPT_DATA = {
      "text": "dutch angle, indoor plants, sitting on chair, 2::hugging pillow, knees up::, window, open window, sunbeam, dappled sunlight, volumetric lighting, lens flare, flower petals, potted plants, curtain, bookshelf, chair, depth of field, greenhouse atmosphere,\n\noff shoulder dress, white dress, frilled dress, sheer sleeves, barefoot,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsl0me4.jpg?v=1793220428983",
+   "pos": "50.0% 90.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793220417657
+ "updatedAt": 1793220430139
 };

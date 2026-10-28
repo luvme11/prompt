@@ -20404,7 +20404,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrkhmw9.jpg?v=1793159122783",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvrkvu4q",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high angle shot, cowboy shot, back view, looking back, submerged, in water, pool, swimming pool, ripples, water reflection, night, night sky, moonlight, dim lighting, wet clothes,\n\nschool uniform, sailor uniform, navy blue collar, white stripes, white shirt, short sleeves, pleated skirt,"
+    }
+   ],
+   "img": "img/comp/mvrkvu4q.jpg?v=1793159529027",
+   "pos": "50.0% 26.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793159124411
+ "updatedAt": 1793159530202
 };

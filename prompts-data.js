@@ -21524,7 +21524,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvska037.jpg?v=1793219093861",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvskg2wq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, full body, sitting, holding basket, cowboy shot, looking at viewer, holding strawberry, outdoors, dappled sunlight, depth of field, falling petals, yellow petals, blurry background,\n\nopen mouth, smile, \nred corset, white blouse, strawberry print, red hair bow, short sleeves, puff sleeves, ruffled collar, frills, neck red ribbon, lace up, white apron, white gloves,"
+    }
+   ],
+   "img": "img/comp/mvskg2wq.jpg?v=1793219260459",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793219094898
+ "updatedAt": 1793219262131
 };

@@ -19966,7 +19966,25 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvriam8v.jpg?v=1793155605460",
    "pos": "21.1% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvril2nr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "세로",
+     "text": "high angle, 2::lying on water::, lying on back, head back, beach, waves, sea, water, sand, foam, shore, wet, 0.5::wet clothes::, sparkles, sparkling water, day,\n\nwhite sundress, sleeveless dress, ruffles, frills,"
+    },
+    {
+     "label": "가로",
+     "text": "3::upper body::, looking at viewer, high angle, from above, 3::lying on water::, lying on back, head back, beach, waves, sea, water, sand, foam, shore, wet, sparkles, sparkling water, day,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793155606924
+ "updatedAt": 1793155667415
 };

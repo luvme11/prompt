@@ -21339,10 +21339,10 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, solo, (head resting on arm:1.5), (lying on table:1.5), (head down on table:1.4), (arms crossed on table:1.3), (leaning forward:1.2), (looking at viewer:1.4), (head tilt:1.3), (lazy pose:1.2), (relaxed:1.2), (languid:1.2), (half-closed eyes:1.1), (slight smile:1.1), (upper body:1.1), (dessert table:1.5), (cakes:1.4), (strawberry cake:1.4), (layered cake:1.3), (fruit tart:1.3), (strawberries:1.3), (berries:1.2), (cream:1.1), (teacup:1.4), (saucer:1.3), (black coffee:1.2), (fork and knife:1.2), (silver plate:1.2), (gold tray:1.2), (jewelry box:1.1), (green malachite box:1.2), (pocket watch:1.1), (food in foreground:1.3), (white tablecloth:1.4), (ornate gold chair:1.3), (baroque furniture:1.2), (gray damask wall:1.3), (luxurious interior:1.3), (indoors:1.1), (bright flash:1.3), (soft diffused light:1.2), (even lighting:1.2), (high-key:1.1), (warm gold tones:1.3), (muted gray background:1.2), (pastel pink and red accents:1.2),"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsitxju.jpg?v=1793216697722",
+   "pos": "50.0% 100.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793216681393
+ "updatedAt": 1793216698800
 };

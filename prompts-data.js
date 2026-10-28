@@ -20961,10 +20961,10 @@ window.PROMPT_DATA = {
      "text": "yukata, obi, simple yukata, crouching, smiling, looking at companion, 1.5::holding plastic bag, holding goldfish in plastic bag::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvshmui3.jpg?v=1793214655318",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793214631649
+ "updatedAt": 1793214657378
 };

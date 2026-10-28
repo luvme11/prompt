@@ -21325,8 +21325,8 @@ window.PROMPT_DATA = {
      "text": "1person, solo, leaning back pose, arched back, side profile, head tilted back, cigarette in mouth, lips slightly open, sensual pose, relaxed shoulders, upper body focus, studio portrait, edgy concept, charismatic and confident presence, black oversized shirt sliding off the shoulders, black background, round pin spotlight, natural cigarette smoke"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsit1js.jpg?v=1793216680362",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -21344,5 +21344,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216667530
+ "updatedAt": 1793216681393
 };

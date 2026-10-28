@@ -21115,8 +21115,8 @@ window.PROMPT_DATA = {
      "text": "sitting on couch, pajama, tv light, eating popcorn, looking at tv,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsi9xkv.jpg?v=1793216002660",
+   "pos": "50.0% 48.0%",
    "soon": false
   },
   {
@@ -21274,5 +21274,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793215988416
+ "updatedAt": 1793216004028
 };

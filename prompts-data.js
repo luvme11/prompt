@@ -21591,8 +21591,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, profile, side view, sitting, stool, chair, computer desk, messy desk, looking at phone, holding smartphone, left hand on chin, elbow on table, night, blue theme, bedroom, window, cityscape, city lights, indoor, potted plant, table lamp, backlighting, computer monitor, screen glow,\n\nt shirt, oversized shirt, shorts, headphones, over ear headphones,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsko9al.jpg?v=1793219849355",
+   "pos": "37.5% 50.0%",
    "soon": false
   },
   {
@@ -21610,5 +21610,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793219828244
+ "updatedAt": 1793219850625
 };

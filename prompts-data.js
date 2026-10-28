@@ -20362,7 +20362,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrk3rlz.jpg?v=1793158219693",
    "pos": "50.0% 48.0%",
    "soon": false
+  },
+  {
+   "id": "mvrk6q3o",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "high angle, sitting, eating, sitting on veranda, holding food, dango, looking at viewer, dappled sunlight, autumn, autumn leaves, maple leaves, falling leaves, cat, sleeping cat, dango, plate, tray, outdoor, porch, engawa, sliding doors, wooden floor, shadows, depth of field, bokeh,\n\nkimono, print kimono, sash, obi, geta,"
+    }
+   ],
+   "img": "img/comp/mvrk6q3o.jpg?v=1793158357360",
+   "pos": "55.5% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793158220772
+ "updatedAt": 1793158358528
 };

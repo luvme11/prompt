@@ -20247,8 +20247,8 @@ window.PROMPT_DATA = {
      "text": "sitting, on bed, leaning back, knees up, legs up, holding gun, holding handgun, holding pistol, white weapon, room, bedroom, floral wallpaper, curtain, lace curtain, picture frame, pillow, blanket, indoor, shadow, soft lighting, shadow, film grain, cinematic shot, night,\n\nwhite blouse, long sleeves, frills, black skirt, thighhighs,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrjit06.jpg?v=1793157477657",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -20266,5 +20266,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793157467031
+ "updatedAt": 1793157478904
 };

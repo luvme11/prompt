@@ -20664,7 +20664,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsh40az",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy, \ndutch angle, looking at another, face to face, from side, church interior, stained glass, touching, contrast lighting, backlighting, lens flare, light particles, bokeh,"
+    },
+    {
+     "label": "남자",
+     "text": "priest, priest cassock, cross necklace, bible, holding cross, defensive posture, sitting on floor, leaning back,"
+    },
+    {
+     "label": "여자",
+     "text": "smile, smirk, \ndemon, demon horns, demon wings, demon tail, black lolita dress, red ribbon bows, red chest bow, black tiered skirt, vertical white frills, \nbetween partner's legs, lean forward, hand on partner's chest,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213612774
+ "updatedAt": 1793213657768
 };

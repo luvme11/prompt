@@ -21790,7 +21790,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsl7huw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2::upper body::, side view, lying down, portrait, close up, leaning forward, resting on flowers, resting chin on hands, flower bouquet, white rose, floating petals, reflective water, water surface, night, glowing, water reflection, flower field, depth of field, dramatic lighting, \n\n2::black veil::, black long sleeves, black dress, lace gloves, sheer gloves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793220529565
+ "updatedAt": 1793220538132
 };

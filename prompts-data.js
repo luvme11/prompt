@@ -20124,7 +20124,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrj62o0.jpg?v=1793156778605",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvrjbb9j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dutch angle, sitting, holding book, rose garden, rose bushes, petals, falling petals, rabbit, white picket fence, clothesline, plaid cloth, dappled sunlight, outdoor, day, daytime, grass,\n\nyellow dress, frills, apron, lace trim, floral print, frilled sleeves, hair ribbon, bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793156873282
+ "updatedAt": 1793156890955
 };

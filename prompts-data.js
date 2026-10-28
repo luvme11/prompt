@@ -21074,7 +21074,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvsi4abf.jpg?v=1793215530579",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvsi91bc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1boy, 1girl, \nfrom below, low angle, -1::llooking at viewer::,  gothic romance, dark academia, cool-toned cinematic lighting, dramatic shadows, vintage music room, grand piano, ornate patterned rug, moody and melancholic atmosphere"
+    },
+    {
+     "label": "남자",
+     "text": "black suit,  sitting on the floor, head leaning against knee, putting  face on the partner lap, 2::closed eyess::, -1::open eyes::,"
+    },
+    {
+     "label": "여자",
+     "text": "white sleeveless dress with ruffles, large black neck bow, black high heels, sitting on piano bench, hand resting on piano keys, headpat"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793215531703
+ "updatedAt": 1793215571201
 };

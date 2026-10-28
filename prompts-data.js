@@ -19752,7 +19752,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrg12sv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, open window, window frame, window sill, windowsill seating, 2::arms folded on windowsill, head resting on arms, peeking from window::, leaning forward, cherry blossoms, looking at viewer, looking up, classroom, indoor, school, sakura, flower petals, falling petals, dappled sunlight, soft lighting, glowing, cinematic lighting, upper body, depth of field,\n\nserafuku, school uniform,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793151334346
+ "updatedAt": 1793151374884
 };

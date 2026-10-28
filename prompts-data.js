@@ -20457,10 +20457,10 @@ window.PROMPT_DATA = {
      "text": "low angle shot, dynamic angle, wariza, sitting on ground, tying hair, tracks, running track, track and field, sports ground, outdoors, daytime,  depth of field,\n\ntrack jacket, open jacket, white jacket, blue trim, long sleeves, gym shorts, buruma, white shirt, crew neck, crew socks, loose socks, white sneakers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrl53co.jpg?v=1793160338560",
+   "pos": "50.0% 24.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793160083126
+ "updatedAt": 1793160339939
 };

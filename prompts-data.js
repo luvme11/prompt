@@ -20708,7 +20708,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsh5fej",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "couple, hetero, 1girl, 1boy, facing viewer, sitting side by side, classroom, window, sunlight, cherry blossom petals, indoors, desk, school supplies, notebook, pen, upper body, depth of field,"
+    },
+    {
+     "label": "남자",
+     "text": "school uniform, white shirt, black hoodie, \nleaning on hand, looking at another, reaching towards neighbor's notebook,"
+    },
+    {
+     "label": "여자",
+     "text": "school uniform, black serafuku, white neck ribbon,   sitting at desk, messy desk,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793213689262
+ "updatedAt": 1793213723418
 };

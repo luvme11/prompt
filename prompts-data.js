@@ -19374,7 +19374,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrckcdr.jpg?v=1793145730366",
    "pos": "74.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvrcp97x",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, 1.2::sitting::, 1.15::holding gift::, holding box, heart-shaped box, looking at viewer, indoor, bed, heart cushion, teddy bear, stuffed toy, sparkles, 1.1::depth of field::,\n\n1.2::plaid dress::, 1.15::maroon dress::, white shirt, long sleeves, frilled collar, frilled hem, lace trim, pantyhose,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793145731543
+ "updatedAt": 1793145784179
 };

@@ -19921,10 +19921,10 @@ window.PROMPT_DATA = {
      "text": "looking at creature, sitting on railing, wagasa, holding umbrella, 2::butterfly on finger::, reaching, cherry blossoms, glowing paper lanterns, butterfly, traditional architecture, shinto shrine, night, falling petals, glowing particles, depth of field, dramatic lighting, cinematic lighting,\n\nwhite kimono, black obi, japanese clothes, wide sleeves, floral waist ornament, hair ornament,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrhr9gt.jpg?v=1793154427665",
+   "pos": "50.0% 44.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793154275981
+ "updatedAt": 1793154428981
 };

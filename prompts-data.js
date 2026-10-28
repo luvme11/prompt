@@ -20194,7 +20194,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrjc9pf.jpg?v=1793157172055",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvrji6a2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "profile, upper body, sitting, backlighting, starry sky, meteor shower, milky way, night, night sky, sky, window, looking out window, leaning on window sill, star light, rim lighting,\noff shoulder jacket, camisole, spaghetti straps,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793157173202
+ "updatedAt": 1793157211113
 };

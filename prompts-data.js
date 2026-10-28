@@ -20895,7 +20895,7 @@ window.PROMPT_DATA = {
      "text": "1.2::head on shoulder::, 2::eyes closed::, sleeping, school uniform, white shirt, leaning"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvshk752.jpg?v=1793214608576",
    "pos": "50% 50%",
    "soon": false
   },
@@ -20966,5 +20966,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793214564445
+ "updatedAt": 1793214610065
 };

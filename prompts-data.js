@@ -19483,10 +19483,10 @@ window.PROMPT_DATA = {
      "text": "Outfit/Costume: 2::Sheer chiffon attire (top) with shimmering chest ornament and revealing yet elegant waistline::, ivory sultan pants (bottom); adorned with emerald jewels and golden chains.\n\nPose: Full body shot, 45-degree half-profile side view; reclining languidly; Elegant fingers near the pipe, 1.1::holding the elongated elegant mouthpiece in the mouth while hands grasp the soft::, flexible long black pipe that drapes and stretches naturally like a rubber hose.\n\nProps: Ornate Indian hookah lamp with transparent bottle and golden accents (including the elongated elegant mouthpiece and a soft, flexible long black rubber-like hose that drapes and stretches naturally).\n\nBackground/Atmosphere: Silk bedding with embroidered cushions; sheer red curtains; tobacco smoke mixed with soft incense haze; warm golden candlelight filtering through the fabric, creating volumetric rays and soft shadows; luxurious, elegant, intimate, and slightly hazy atmosphere."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvrdac68.jpg?v=1793146909819",
+   "pos": "50.0% 30.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793146767829
+ "updatedAt": 1793146911480
 };

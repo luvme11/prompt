@@ -21955,8 +21955,8 @@ window.PROMPT_DATA = {
      "text": "upper body, dutch angle, from above, 2::lying on back, holding candy::, candy, grass, field, meadow, flower, dandelion, school, building, badminton racket, shuttlecock, snack, food, juice box, backpack, outdoors, day, sunlight, dappled sunlight, \n\ncardigan, open cardigan, school uniform,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsmeshe.jpg?v=1793222712176",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -21974,5 +21974,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793222693579
+ "updatedAt": 1793222713347
 };

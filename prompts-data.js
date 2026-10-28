@@ -21678,7 +21678,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvskv07r.jpg?v=1793220119314",
    "pos": "44.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvskznn3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "holding lantern, 2::snowing::, winter, night, park, street lamp, out of focus, blurred background, close up, facing forward, depth of field,\n\nwinter coat, scarf, gloves, brown coat, thick scarf, winter clothes, coat buttons,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793220120832
+ "updatedAt": 1793220172720
 };

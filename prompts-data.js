@@ -19514,7 +19514,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrdkjya.jpg?v=1793147245381",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrdx8s3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "centered composition, single person, medium full shot, photography, 1.2::posing for a selfie::, holding smartphone up to take photo, hand on hip, standing before school lockers, locker numbers visible, stickers and magnets on lockers, indoor hallway setting, afternoon natural light, slight head tilt,\nwhite cropped cardigan, pink short sleeve t shirt, 1.25::low rise light wash jeans::, black belt with silver heart buckle, pink cross body purse with chain strap, white platform sneakers, silver hoop earrings, silver necklace with heart pendant, pink headband, pink hair clips, bracelets on wrist,"
+    }
+   ],
+   "img": "img/comp/mvrdx8s3.jpg?v=1793147837399",
+   "pos": "50.0% 8.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793147246477
+ "updatedAt": 1793147838881
 };

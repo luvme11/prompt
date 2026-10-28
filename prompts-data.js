@@ -20496,7 +20496,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsgp7pj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "Common: 2people, full body, three-quarter side view, 1.9::B sprinting while carrying A bridal-style::, long running stride, one leg kicked backward, flying fabric, speed lines, university campus alley, chaotic romantic comedy, speech bubble above B reading \"덤벼! 덤비라고!\", offscreen jagged speech bubble reading \"이자식들이!!\""
+    },
+    {
+     "label": "A",
+     "text": "A: carried across B's arms, knees bent, one arm around B's shoulders, other arm stretched backward giving the middle finger, defiant expression, cream cardigan, white shirt, ribbon tie, plaid pleated skirt, ankle socks, canvas sneakers"
+    },
+    {
+     "label": "B",
+     "text": "B: supporting A beneath the knees and behind the back, panicked open mouth, sweatdrop, white shirt, rolled sleeves, loose dark tie, charcoal trousers, sneakers, canvas shoulder bag bouncing behind"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793212943061
+ "updatedAt": 1793212967251
 };

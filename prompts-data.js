@@ -21247,8 +21247,8 @@ window.PROMPT_DATA = {
      "text": "looking at partner, loose white pajama shirt, dark blue shorts, holding blue toothbrush, headpat, hand placed on head, sleepy expression"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsifkdj.jpg?v=1793216248328",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -21274,5 +21274,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216233206
+ "updatedAt": 1793216249465
 };

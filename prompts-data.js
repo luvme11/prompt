@@ -21426,7 +21426,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvsja8qr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking down, sitting on bed, crossed legs, leaning, holding phone, talking on phone, retro phone, pink phone, bedroom, messy room, stuffed animals, plushies, magazines, lamp, photo frame, posters, indoor, dim lighting, 2::retro pink theme::,\n\nt shirt, light pink t shirt, short sleeves, bracelet, hair clip, black shorts, black pants,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793217300304
+ "updatedAt": 1793217307102
 };

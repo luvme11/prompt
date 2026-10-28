@@ -21049,8 +21049,8 @@ window.PROMPT_DATA = {
      "text": "white off-shoulder ruffled sleeve top, high-waisted olive green pleated midi skirt, skirt swirl, white wide-brimmed hat with mesh veil, white lace gloves, pearl necklace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsi3hqd.jpg?v=1793215451202",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -21076,5 +21076,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793215435610
+ "updatedAt": 1793215452550
 };

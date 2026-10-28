@@ -19472,7 +19472,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvrczfqs.jpg?v=1793146618031",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvrdac68",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Outfit/Costume: 2::Sheer chiffon attire (top) with shimmering chest ornament and revealing yet elegant waistline::, ivory sultan pants (bottom); adorned with emerald jewels and golden chains.\n\nPose: Full body shot, 45-degree half-profile side view; reclining languidly; Elegant fingers near the pipe, 1.1::holding the elongated elegant mouthpiece in the mouth while hands grasp the soft::, flexible long black pipe that drapes and stretches naturally like a rubber hose.\n\nProps: Ornate Indian hookah lamp with transparent bottle and golden accents (including the elongated elegant mouthpiece and a soft, flexible long black rubber-like hose that drapes and stretches naturally).\n\nBackground/Atmosphere: Silk bedding with embroidered cushions; sheer red curtains; tobacco smoke mixed with soft incense haze; warm golden candlelight filtering through the fabric, creating volumetric rays and soft shadows; luxurious, elegant, intimate, and slightly hazy atmosphere."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793146619189
+ "updatedAt": 1793146767829
 };

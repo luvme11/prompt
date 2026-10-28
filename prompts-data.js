@@ -19981,10 +19981,10 @@ window.PROMPT_DATA = {
      "text": "3::upper body::, looking at viewer, high angle, from above, 3::lying on water::, lying on back, head back, beach, waves, sea, water, sand, foam, shore, wet, sparkles, sparkling water, day,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvril2nr.jpg?v=1793155902682",
+   "pos": "50.0% 32.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793155667415
+ "updatedAt": 1793155904295
 };

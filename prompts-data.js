@@ -21181,8 +21181,8 @@ window.PROMPT_DATA = {
      "text": "light smile, red bow tie, loose light cream cardigan, white shirt, school uniform, black skirt, lying on back, arm around partner, 2::hugging partner, looking at another::"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsid7wl.jpg?v=1793216064146",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -21252,5 +21252,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793216050572
+ "updatedAt": 1793216065526
 };

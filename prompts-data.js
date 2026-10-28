@@ -21759,8 +21759,8 @@ window.PROMPT_DATA = {
      "text": "close up, upper body, lying on bed, reaching forward, soft sunlight, dappled light, flower petals, scattered petals, roses, ribbon streamers, stuffed bear, shallow depth of field, bright interior, dreamy atmosphere, flower filled scene, cinematic framing, romantic theme, soft composition, visual storytelling,\n\nwhite off shoulder dress, frilled dress, ruffled trim, layered ruffles, sleeveless dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvsl6xvr.jpg?v=1793220893108",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -21820,5 +21820,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793220546820
+ "updatedAt": 1793220894665
 };

@@ -23700,7 +23700,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvjhmya.jpg?v=1793399051998",
    "pos": "50.0% 56.0%",
    "soon": false
+  },
+  {
+   "id": "mvvkz9ge",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, black nails,close-up, head and shoulders, slightly tilted composition, facing viewer, looking at viewer, leaning toward the camera, 1.3::one hand reaching toward the viewer in a playful claw gesture, palm facing the camera, fingers spread and curled, foreshortened hand dominating the lower left foreground::, half-lidded eyes, mischievous grin, open mouth, visible upper fangs, small red cross-shaped stitches beside the mouth, red cross-shaped mark at the base of the neck,jiangshi costume, round dark Chinese hat with a red crown and gold trim, hat partially cropped by the upper edge, 1.2::long yellow paper talisman attached to the forehead and extending diagonally across the hat, red Chinese talisman markings on the paper::, narrow yellow paper strips folded into zigzag shapes beside one temple, small paper charms tucked into the hat, white Chinese-style jacket, high collar, front zipper, yellow edging, yellow straps threaded through large silver rings on the chest, rectangular paper charm hanging from the collar, small metal clasp and dangling yellow tag, loose white sleeves,flat deep red background, off-white and grey geometric blocks, graphic poster composition, soft frontal lighting, subtle cool grey shadows, vivid yellow and red accents, playful Halloween atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvvkz9ge.jpg?v=1793401553868",
+   "pos": "50.0% 8.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793399053163
+ "updatedAt": 1793401555465
 };

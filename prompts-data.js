@@ -22070,7 +22070,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvukzoam",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, high angle, dutch angle, looking at viewer, sitting on pier, dock, ocean, sea, waves, water splash, foam, seagulls, bird, sunlight, lens flare, sparkling water, reflection, \n\nstraw hat, wide brim hat, white dress, off shoulder dress, ruffled dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793341098442
+ "updatedAt": 1793341105941
 };

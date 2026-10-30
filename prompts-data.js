@@ -22453,8 +22453,8 @@ window.PROMPT_DATA = {
      "text": "[Base Prompt]\n1girl[or boy], solo, 1.4::upper body::, 1.3::from below::, 1.3::looking at viewer::, 1.2::head tilt::, 1.3::dark background::, 1.4::many candles::, 1.4::floating candles::, 1.3::candlelight::, 1.3::gothic atmosphere::, 1.2::dramatic lighting::, 1.2::high contrast::, soft warm light, moody atmosphere, depth of field, very aesthetic, masterpiece, best quality, highly detailed, no text\n\n[Character 1]\ngirl[or boy], [A appearance: ], 1.4::hair flowing in the wind::, 1.3::hair spread out dramatically::, 1.3::finger to mouth::, 1.3::shushing gesture::, 1.3::open mouth::, 1.3::mischievous smile::, 1.2::half-closed eyes::, [A outfit: ]"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuorsu3.jpg?v=1793347675152",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -22480,5 +22480,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793347661219
+ "updatedAt": 1793347676558
 };

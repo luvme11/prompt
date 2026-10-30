@@ -23431,8 +23431,8 @@ window.PROMPT_DATA = {
      "text": "dutch angle, dynamic angle, cowboy shot, looking back, holding skirt, ballroom, looking at viewer, standing, staircase, banister, architecture, indoors, chandelier, falling rose petals, light particles, sparkles, bokeh, warm lighting, cinematic angle, depth of field,\n\nbackless evening dress, tiered red skirt, lace elbow length gloves, large lace bow on back, pearl necklace, pearl jewelry, jewelry on hair, flower hair ornament, earrings, black dress, lace trim, frilled skirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhrzk0.jpg?v=1793396311226",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -23464,5 +23464,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396301050
+ "updatedAt": 1793396312693
 };

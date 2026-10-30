@@ -23588,7 +23588,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvihhpr",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "male focus, 4::high angle::, 3::view from above::, POV, 3::front view::, 3::looking directly up at the viewer::, head-to-hips framing, foreshortening, another person's hand reaching down from above, hand entering the frame from above, cupping his cheek from above, palm against his cheek, fingers along his jaw, intimate framing, black background,\nsitting on the floor,\n2::biting and lifting the front hem of his own jersey with his teeth::, 2::jersey held between his teeth::, exposed abdomen, visible abs, looking up through his eyelashes, teasing expression, blush,\n2::oversized [색상] sports jersey, short sleeves, white trim, loose fit, no logo, matching sports shorts, white trim, loose fit::\n\nboy, handsome, suntan skin, very tall, toned boy, 1.5::broad shoulders::, 1.3::muscular::, brown hair, 4::short hair::, wavy hair, 1.5::messy bangs, messy hair::, 3::center parted bangs::, -1::blunt ends, long hair, hairpin, blush, no suntan part::, light brown eyes, 0.8::tsurime::, smile, -3::thick eyebrows::."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793397306286
+ "updatedAt": 1793397364346
 };

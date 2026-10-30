@@ -22731,10 +22731,10 @@ window.PROMPT_DATA = {
      "text": "B(female): beautiful white off-shoulder wedding dress, elegant bridal gown, off-the-shoulder neckline, exposed shoulders, fitted bodice, delicate lace details, flowing white wedding gown, elegant bridal veil, wedding veil, holding a wedding bouquet in the opposite hand, bouquet of fresh flowers, laughing brightly, eyes closed from laughter, joyful expression, head slightly tilted upward, one hand covering her mouth while laughing, slightly messy wet hair, loose strands of hair sticking to face from the rain, natural candid pose, radiant smile, cheeks slightly flushed"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuq61kd.jpg?v=1793349921795",
+   "pos": "50.0% 2.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793349800990
+ "updatedAt": 1793349922859
 };

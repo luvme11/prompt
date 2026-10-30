@@ -22106,7 +22106,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvum5hwi.jpg?v=1793343058514",
    "pos": "62.9% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvund9r6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cheek squish, squished cheek, cheek pressed inward, mouth distortion, lips squished, asymmetrical face, male hand"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793343060296
+ "updatedAt": 1793345099695
 };

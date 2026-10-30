@@ -23308,7 +23308,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhgtd5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "close up, portrait, upper body, looking at viewer, holding, 2::holding crystal heart::, hands to chest, 1.5::floating crystal hearts::, light particles, pink background, pastel background,\n\nwinking, smile,\n\nhair bow, pink ribbon, frilled shirt, camisole, ribbon trim,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793395643544
+ "updatedAt": 1793395653008
 };

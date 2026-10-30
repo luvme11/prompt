@@ -23000,7 +23000,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvfygp0.jpg?v=1793393477443",
    "pos": "66.4% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvvg6kzy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dutch angle, upper body, heart gesture, moe moe kyun!, leaning forward, looking at viewer, portrait, sitting, indoor, maid cafe, cafe, table, food, omurice, ketchup on food, heart on food, love written in ketchup, balloons, bokeh, blurry background, kawaii, cute background, \n\nmaid uniform, frilled headband,  ribbon, bowtie, apron, frills, wrist cuffs, cat ear headband, \n\nsmile, open mouth,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793393478515
+ "updatedAt": 1793393496158
 };

@@ -23137,8 +23137,8 @@ window.PROMPT_DATA = {
      "text": "upper body, 0.5::dynamic angle, dynamic pose::, standing, 2::hands on hat::, floating hair, beach, seashore,  waves, blue sky, clouds, sunny, sunlight, dappled sunlight, lens flare, sparkling water, horizon,\n\nlight smile, happy, closed eyes,\n\nwhite sundress, sleeveless dress, ruffles, frills, wide brimmed straw hat, straw hat, bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgi86t.jpg?v=1793394163803",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -23198,5 +23198,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793394081206
+ "updatedAt": 1793394164816
 };

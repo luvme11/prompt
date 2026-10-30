@@ -23291,8 +23291,8 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, cowboy shot, sitting on bed, 2::peace sign, winking::, blowing bubble gum, kitsch, y2k, kawaii, cute, retro, 1.5::pink theme::, colorful accessories,  stickers on face,  cheerful,  glitter, sparkles, bedroom, posters (wall), pastel background, cluttered background, dynamic pose,\n\npink cropped cardigan, white camisole, white pleated skirt, pink ribbon hair clips,  pink plaid skirt, fuzzy pink cardigan,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhgf45.jpg?v=1793395759320",
+   "pos": "50.0% 0.0%",
    "soon": false
   },
   {
@@ -23338,5 +23338,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793395663062
+ "updatedAt": 1793395760523
 };

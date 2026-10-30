@@ -22888,7 +22888,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvch1j1.jpg?v=1793387267044",
    "pos": "50.0% 56.0%",
    "soon": false
+  },
+  {
+   "id": "mvvck2bv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "university campus, college courtyard, tree-lined campus walkway, university buildings in the background, lush green trees, sunny afternoon, warm natural sunlight, soft shadows, peaceful campus atmosphere, nostalgic 2000s college romance, everyday scenery,\n\n1boy, 1girl, couple, two people,\n\n2.0::vertical composition::,\n1.9::portrait orientation::,\n1.8::medium shot, waist-up::,\n\n1.9::boy and girl standing side by side::,\n1.8::standing close together on a university campus::,\n\n2.0::girl holding an ice cream cone::,\n2.0::girl taking a small bite of the ice cream::,\n1.9::ice cream touching the girl's lips::,\n1.8::girl gently biting the ice cream::,\n1.8::girl focused on eating her ice cream::,\n\n2.0::boy watching the girl beside him::,\n1.9::boy turning his head toward the girl::,\n1.9::boy's gaze directed at the girl's face::,\n1.8::boy smiling softly while watching her::,\n1.8::natural affectionate expression::,\n\n1.8::candid romantic moment::,\n1.7::natural body language::,\n1.7::soft romantic atmosphere::,\n1.7::eye-level perspective::,"
+    }
+   ],
+   "img": "img/comp/mvvck2bv.jpg?v=1793387407921",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793387268180
+ "updatedAt": 1793387410467
 };

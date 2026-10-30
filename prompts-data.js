@@ -23263,10 +23263,10 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, looking away, sitting on bed, knees up, 2::holding phone, smartphone, calling phone::, bedroom, night, indoor, window, curtains, lamp, alarm clock, coffee table, stuffed toy, soft lighting, shadow, depth of field, pink theme, cute room,\n\npink loungewear, ruffled shorts, frilled cardigan, pink camisole, ribbon, bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgsl5c.jpg?v=1793394636512",
+   "pos": "50.0% 6.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793394624433
+ "updatedAt": 1793394638597
 };

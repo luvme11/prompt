@@ -23025,8 +23025,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, 1::bird on hand::, 2::sitting on windowsill::, looking at bird, indoor, window, curtain, potted plant, flower, cream flower, garden, sunlight, lens flare, bokeh, \n\nlolita dress, green dress, frilled headband, ribbon, bowtie, puff sleeves, white stockings, frills, lace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvg6s2j.jpg?v=1793393632708",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -23058,5 +23058,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393620538
+ "updatedAt": 1793393633920
 };

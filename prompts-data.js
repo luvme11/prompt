@@ -23714,7 +23714,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvkz9ge.jpg?v=1793401553868",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mvvl59z8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, full body, extreme low angle, dutch angle, fisheye, dramatic foreshortening, looking down at viewer, 1.4::one leg thrust toward the camera, oversized sneaker sole dominating the right foreground::, other bent leg extending toward the lower left, leaning forward, both arms spread, one hand gripping the top of an orange jack-o'-lantern against the torso, other hand raised overhead with loosely curled fingers, narrowed eyes, mischievous grin, open mouth, visible fang,\n\noversized charcoal-grey hoodie, hood down, colorful candy graphic on the chest, loose sleeves, ribbed cuffs, black trousers, black high-top sneakers, thick white rubber soles, finely grooved sneaker tread, burgundy trim around the soles, small black cross-shaped hairpins,\n\n1.2::red handwritten lettering painted directly across the large sneaker sole facing the viewer::, tilted open cardboard candy box surrounding the lower body, giant spiral lollipop in the upper left, oversized segmented chocolate bar behind the head, curved striped candy canes, floating wrapped candies, small round sweets suspended in midair, thin cobweb strands across the upper background, dark background filled with scattered white sparkles and drifting candy dust,\n\nwarm golden light from the upper left, soft highlights on the hair and hands, deep shadows beneath the hoodie and legs, muted purple and charcoal tones, orange pumpkin accents, energetic and mischievous Halloween atmosphere, text, english text,\n\nText: Trick or Treat!"
+    }
+   ],
+   "img": "img/comp/mvvl59z8.jpg?v=1793401834320",
+   "pos": "50.0% 10.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793401555465
+ "updatedAt": 1793401835364
 };

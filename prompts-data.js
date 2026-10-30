@@ -22344,7 +22344,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvunyr8w",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, cowboy shot, 2::floating::, sitting, leaning back, holding drink, in water, swimming pool, 1.5::night cityscape::, skyscraper, neon lights, pink light, glowing, floating balls, pool float, inner tube, water reflection, bokeh, night,\n\nsmile,\n\ncute ruffled bikini, bikini top, frills, heart sunglasses, colorful sunglasses on head, clear shirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793346090595
+ "updatedAt": 1793346101675
 };

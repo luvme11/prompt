@@ -23067,7 +23067,7 @@ window.PROMPT_DATA = {
      "text": "pov, cowboy shot, looking up, high angle, sitting, 2::offering food, holding plate, holding strawberry cake::, slice of cake, holding fork, fork, pink room, balloons, heart balloons, confetti, soft lighting, bokeh, \n\nsmile, happy, open mouth,\n\npink cute blouse, ribbon, short sleeves, hair ribbon, white skirt,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvvgaebt.jpg?v=1793393877964",
    "pos": "50% 50%",
    "soon": false
   },
@@ -23128,5 +23128,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393861897
+ "updatedAt": 1793393878973
 };

@@ -22955,8 +22955,8 @@ window.PROMPT_DATA = {
      "text": "looking at hand,  2::kneeling::, holding butterfly, flower field, white flowers, forest, trees, outdoors, sunbeam, crepuscular rays, volumetric lighting, butterflies, glowing, \n\nwhite dress, long sleeves, veil, flower crown, yellow flowers, flower wreath, frills,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvfxne6.jpg?v=1793393433841",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -23002,5 +23002,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393117988
+ "updatedAt": 1793393435328
 };

@@ -22958,7 +22958,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvfy2cw",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "waitress pose, diner, indoor, holding tray, wink, peace sign, hand gesture, restaurant, neon lights, counter, checkered floor, tiles, strawberry parfait, dessert, milkshake, drink, bokeh, blurry background, kawaii, cute, colorful lighting, glowing, landscape, \n\npastel pink striped dress, white apron, collared dress, short sleeves, puff sleeves, name tag, buttons, white socks, frills,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793393079706
+ "updatedAt": 1793393099181
 };

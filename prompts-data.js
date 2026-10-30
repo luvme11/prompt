@@ -23560,7 +23560,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvifkz3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1::special forces operator::, tactical gear, tight black short sleeve t-shirt, black tactical vest, plate carrier, MOLLE pouches, ammunition pouches, black combat pants, combat boots, tactical gloves, speaking into a handheld radio, 2::radio held directly in front of mouth::, radio close to lips, one hand holding radio beside mouth, holding a radio, speaking into radio, radio in hand, playful smile, slightly amused expression, looking at viewer, 1::front view, upper body, medium shot::,helicopter landing pad, helipad, military helicopter in background, helicopter behind character, strong wind, windblown clothes, windblown hair, dynamic atmosphere, outdoor, military setting"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793397202777
+ "updatedAt": 1793397275262
 };

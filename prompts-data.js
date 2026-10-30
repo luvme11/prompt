@@ -22084,7 +22084,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvukzoam.jpg?v=1793341990365",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvum5hwi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "Modern Japanese city street, urban downtown setting, Japanese police car parked behind the characters, white and black police patrol car, red police light bar, city buildings, sidewalks, traffic lights, detailed urban scenery, bright daylight, soft natural lighting, lively city atmosphere,\n\n1boy, 1girl, duo, standing side by side, medium shot, upper thigh framing, eye-level view, front-facing composition, both looking toward the viewer, the woman making a playful finger-gun gesture with one hand, pointing her fingers toward the camera, the man casually holding a pair of silver metal handcuffs in one hand, handcuffs dangling from his fingers, handcuffs not worn, both characters wearing slight smiles, cheerful and confident expressions, relaxed poses, natural interaction"
+    },
+    {
+     "label": "남자 의상",
+     "text": "Japanese anime-style male police uniform, light blue short-sleeved police shirt, dark navy shoulder epaulettes, dark navy collar, dark navy shoulder patches, police insignia on sleeves, two chest pockets, neatly tucked-in shirt, dark navy straight-leg uniform trousers, black leather duty belt, silver belt buckle, black police equipment pouches, white police gloves, black leather shoes"
+    },
+    {
+     "label": "여자 의상",
+     "text": "Japanese anime-style female police uniform, light blue short-sleeved police shirt, dark navy shoulder epaulettes, dark navy collar, dark navy shoulder patches, police insignia on sleeves, two chest pockets, fitted waist, neatly tucked-in shirt, dark navy pleated mini skirt, black leather duty belt, silver belt buckle, black police equipment pouches, white police gloves, black leather shoes"
+    }
+   ],
+   "img": "img/comp/mvum5hwi.jpg?v=1793343058514",
+   "pos": "62.9% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793341991521
+ "updatedAt": 1793343060296
 };

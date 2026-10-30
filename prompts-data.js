@@ -22025,8 +22025,8 @@ window.PROMPT_DATA = {
      "text": "dutch angle, from above, close up, standing in water, cowboy shot, from behind, profile, holding bouquet, lily, white flower, 2::dappled sunlight,sunlight::, backlighting, lens flare, pond, water lily, lily pad, forest, nature, reflection, sparkling water, \n\nwhite dress, off shoulder dress, ruffled dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvukyvgn.jpg?v=1793341913307",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -22086,5 +22086,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793341105941
+ "updatedAt": 1793341915652
 };

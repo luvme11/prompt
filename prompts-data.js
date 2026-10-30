@@ -23742,7 +23742,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvldvft.jpg?v=1793402235467",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvvljmvz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, from below, dutch angle, dramatic perspective, sitting behind a wooden worktable after finishing a carved Halloween pumpkin, relaxed posture, looking at viewer, half-lidded eyes, satisfied expression, slight smile, 1.3::smoking a traditional Japanese kiseru pipe, long slender bamboo stem with a small brass mouthpiece and a tiny upward-facing brass bowl at the far end::, 1.2::brass mouthpiece resting between the lips, one hand lightly holding the pipe stem near the mouth, pipe extending sideways away from the face::, other hand resting loosely on the finished pumpkin, thin smoke curling upward from the tiny pipe bowl,\n\ntraditional Japanese menswear, black kimono, wide sleeves, white juban collar visible beneath the black kimono, dark grey obi tied neatly at the waist, black hakama trousers with deep vertical pleats,\n\n1.3::large finished orange pumpkin lantern dominating the lower foreground, glowing pale-cyan numerals carved across its front::, smaller pale lettering beneath the numerals, scattered pumpkin chunks, seeds and orange pulp covering the worktable, removed pumpkin lid resting at the lower right, metal bowl beside the pumpkin,\n\ndim gothic workshop, dark wooden wall panels, tall crooked multipane window, orange full moon visible through the glass, black bats silhouetted against the moon, bare branches outside, hanging orange autumn-leaf garlands, white spiderweb in the upper left, black wall-mounted candelabrum with burning white candles,\n\nwarm orange candlelight and pumpkin glow, cool cyan ambient light, deep charcoal shadows, bold orange and teal contrast, softly illuminated pipe smoke, relaxed and mysterious Halloween atmosphere,\n\nThe pumpkin displays exactly \"20261031\" in large cyan numerals, with \"Happy Halloween\" written beneath in smaller lettering. These are the only readable text elements., text, english text,\n\nText: 20261031\n\nHappy Halloween"
+    }
+   ],
+   "img": "img/comp/mvvljmvz.jpg?v=1793402504310",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793402236935
+ "updatedAt": 1793402505349
 };

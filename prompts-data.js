@@ -22355,10 +22355,10 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, cowboy shot, 2::floating::, sitting, leaning back, holding drink, in water, swimming pool, 1.5::night cityscape::, skyscraper, neon lights, pink light, glowing, floating balls, pool float, inner tube, water reflection, bokeh, night,\n\nsmile,\n\ncute ruffled bikini, bikini top, frills, heart sunglasses, colorful sunglasses on head, clear shirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvunyr8w.jpg?v=1793346187761",
+   "pos": "50.0% 28.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793346177002
+ "updatedAt": 1793346188810
 };

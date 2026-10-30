@@ -23728,7 +23728,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvl59z8.jpg?v=1793401834320",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mvvldvft",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, full body, floating seated pose, legs bent and loosely crossed at the ankles, three-quarter view, looking at viewer, half-lidded eyes, faint mischievous smile, 1.2::holding a long black scythe across the shoulders with one hand gripping the shaft beside the face::, other arm relaxed beside the body,\n\ngothic grim reaper costume, hood down, face and hair fully visible, layered black high-collared coat, oversized sleeves, ragged split coat tails with grey lining, dark waistcoat, black shirt, crisscross straps over the chest, black leather belts with silver buckles, fitted black trousers, black lace-up ankle boots, dark burgundy accents, black fingerless gloves, layered silver necklaces, small cross pendants, silver chains hanging from the sleeves and waist, metal rings, tiny red gemstone ornaments, black ribbon details,\n\n1.2::oversized black scythe with an angular crescent blade, sharp decorative cutouts near the blade base, small dark red markings along the blade::, long dangling chain attached to the scythe shaft, small cross charms suspended from fine chains, coat tails and ribbons drifting outward,\n\nwarm ivory background, faint dusty pink geometric shapes behind the body, subtle floating dust particles, soft diffuse lighting, muted grey highlights, deep black shadows, restrained burgundy accents, mysterious and elegant Halloween atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvvldvft.jpg?v=1793402235467",
+   "pos": "50.0% 0.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793401835364
+ "updatedAt": 1793402236935
 };

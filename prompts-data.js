@@ -22372,7 +22372,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvuo2nl8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, chiaroscuro, low key, dramatic lighting, cinematic lighting, night, pitch black, black background, simple background, snowfield, snow on ground, looking back, over shoulder, expressionless, holding shovel, shovel, blood on shovel, slight blood, melancholic, gloomy, atmosphere, gritty,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793346216727
+ "updatedAt": 1793346283672
 };

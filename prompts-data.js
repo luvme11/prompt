@@ -23053,8 +23053,8 @@ window.PROMPT_DATA = {
      "text": "close up, lying on back, 2::pink bokeh::, looking at viewer, from above, reclining, hand to mouth, fork, cake, strawberry cake, slice of cake, confetti, soft lighting, indoor, pink ribbon, sofa, rose petals, blurred background,  horizontal, shallow depth of field,\n \nwide brimmed hat, frilly white dress, pink ribbon, rose, hat ornament, ribbon bow, frills, ruffles, puff sleeves, pantyhose,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvg7ccm.jpg?v=1793393860024",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -23128,5 +23128,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393725089
+ "updatedAt": 1793393861897
 };

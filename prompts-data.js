@@ -22668,7 +22668,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvupxcop",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "[1boy, 1girl],couple,male focus,on the foredeck of a sailing yacht,turquoise ocean,sunny day,"
+    },
+    {
+     "label": "뒤에서 안는 쪽",
+     "text": "boy,navy short-sleeve striped linen shirt,navy-white neck scarf,white tailored shorts,summer loafers,sitting behind B,legs on both sides of B,both hands resting gently on B's waist,chin resting on B's shoulder,head tilted toward B,looking into B,big smile,happy expression"
+    },
+    {
+     "label": "앞에서 안기는 쪽",
+     "text": "[girl], navy short-sleeve striped linen shirt,navy-white neck scarf,white tailored shorts,summer loafers, sitting in front of A,back leaning lightly against A,one hand resting gently on A's forearm,head tilted toward A,looking into A,big smile,happy expression"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793349301514
+ "updatedAt": 1793349395806
 };

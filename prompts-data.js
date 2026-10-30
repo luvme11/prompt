@@ -22028,7 +22028,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvukz0ij",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "profile, side view, lying on back, lying on grass, smelling flower, holding 색깔 flower, 2::field of flowers::, colorful flowers, sunlight, sunbeam, god rays, lens flare, depth of field, bokeh, outdoors, day, \n\nwhite dress, off shoulder dress, ruffled dress, long dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793341068992
+ "updatedAt": 1793341075453
 };

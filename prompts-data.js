@@ -22271,7 +22271,7 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, looking at viewer, dutch angle, low angle, from below, 2::on tree branch::, sitting, holding book, open book, holding quill, quill pen, wind, hair blowing, tree, leaves, willow, sky, sunlight, dappled sunlight, bokeh, outdoors, \n\ncream dress, long dress, white collar, long sleeves,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvuntl08.jpg?v=1793346000177",
    "pos": "50% 50%",
    "soon": false
   },
@@ -22290,5 +22290,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793345989607
+ "updatedAt": 1793346001649
 };

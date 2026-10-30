@@ -23459,10 +23459,10 @@ window.PROMPT_DATA = {
      "text": "full body, lying on stomach, feet up, holding controller, looking at viewer, gaming room, donuts, food on floor, plate, juice glass, straw, mug, star light string, potted plant, wall poster, shelf, game controller, star shaped pillow, checkered pillow, soft lighting, bokeh, particles, light pink theme, \n\noff shoulder sweater, white camisole, white short pants,  oversized sweater, barefoot,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhsk0t.jpg?v=1793396343286",
+   "pos": "25.5% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793396331457
+ "updatedAt": 1793396344453
 };

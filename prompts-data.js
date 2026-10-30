@@ -23333,10 +23333,10 @@ window.PROMPT_DATA = {
      "text": "lying down, blue butterfly, on stomach, resting chin on hands, blue flower, white flower, flowerbed, multiple butterflies, glowing, water, reflection, water drop, particles, light rays, ethereal, blue theme,\n\nwhite dress, backless dress, off shoulder, frilled sleeves,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvvhh0y2.jpg?v=1793395803868",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793395786573
+ "updatedAt": 1793395804899
 };

@@ -22902,7 +22902,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvck2bv.jpg?v=1793387407921",
    "pos": "50.0% 32.0%",
    "soon": false
+  },
+  {
+   "id": "mvvd19t5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "cozy apartment interior, modern living room, warm ambient lighting, soft evening light, comfortable sofa in the background, cream-colored walls, wooden furniture, soft shadows, intimate indoor atmosphere, quiet domestic setting, cinematic lighting,\n\n1boy, 1girl, couple, two people,\n\n2.0::vertical composition::,\n2.0::portrait orientation::,\n1.9::close-up couple composition::,\n1.9::upper body shot::,\n1.8::eye-level perspective::,\n\n2.0::boy gently cupping the girl's cheeks with one hand::,\n2.0::boy's hand placed along both sides of the girl's face::,\n1.9::boy gently tilting the girl's chin upward::,\n1.9::girl's face lifted toward the boy::,\n1.9::girl looking up into the boy's eyes::,\n1.9::boy looking directly into the girl's eyes::,\n1.9::intense mutual eye contact::,\n\n1.8::boy leaning slightly toward the girl::,\n1.8::girl standing close in front of the boy::,\n1.8::small height difference::,\n1.8::faces close together::,\n1.7::natural hand placement::,\n1.7::subtle romantic tension::,\n1.7::intimate atmosphere::,\n1.7::cinematic framing::,"
+    }
+   ],
+   "img": "img/comp/mvvd19t5.jpg?v=1793388210677",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793387410467
+ "updatedAt": 1793388211788
 };

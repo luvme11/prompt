@@ -22218,7 +22218,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": true
+  },
+  {
+   "id": "mvunqipl",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "공용: 1boy, 1girl, heterosexual, explicit, 2::nsfw, naked, nude::, uncensored, doggystyle, from behind, bed, bedroom, indoor, night, dim lighting, messy bed, sweaty body, flushed skin, clenching sheet, heavy breathing\n\n남자: intense look, dark eyes, gripping hips, leaning over, dominant, smirking, focused expression\n\n여자: crying, tears, mouth open, blushing heavily, trembling, exhausted, lying down, arching back"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": true
   }
  ],
- "updatedAt": 1793345692223
+ "updatedAt": 1793345717419
 };

@@ -23434,7 +23434,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhs7oa",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying on side, 2::dappled sunlight::, looking at viewer, head on arm, beach, ocean, sand, sky, cloud, palm leaf, leaf shadow, sunlight, bokeh, beach towel, checkered pattern, plumeria, flower, bottle, wicker basket, straw bag,\n\nruffled bikini, floral print, bikini top, bikini bottom, side tie bikini bottom, frills,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793396174282
+ "updatedAt": 1793396184971
 };

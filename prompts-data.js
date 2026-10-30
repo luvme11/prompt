@@ -23473,8 +23473,8 @@ window.PROMPT_DATA = {
      "text": "from side, sitting, traditional japanese house, cowboy shot, looking at viewer, indoor, holding cup, drinking, table, bento, food, sake bottle, bottle on table, shoji, sliding door, garden, outdoors, sunlight, lens flare, rim light, plant, night,\n\ndrunk,\n\nkimono, japanese clothes, obi, sash,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhvtf1.jpg?v=1793396515218",
+   "pos": "65.3% 50.0%",
    "soon": false
   },
   {
@@ -23534,5 +23534,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396398885
+ "updatedAt": 1793396517015
 };

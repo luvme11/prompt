@@ -22874,7 +22874,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvc9wyq.jpg?v=1793386934847",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvvch1j1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "university campus, outdoor campus bench, college courtyard, tree-lined walkway, university buildings in the background, lush green trees, warm afternoon sunlight, soft natural lighting, peaceful campus atmosphere, nostalgic 2000s college romance, romantic everyday scenery,\n\n1boy, 1girl, couple, two people, sitting side by side on a campus bench, close together, sharing a single pair of wired earphones, one earbud in the boy's ear and the other earbud in the girl's ear, thin earphone cable connecting them to the same music player, girl gently resting her head on the boy's shoulder, boy sitting comfortably beside her, relaxed posture, shoulders touching, soft romantic atmosphere, natural couple interaction, candid moment, medium shot, upper body, three-quarter view, eye-level perspective,"
+    }
+   ],
+   "img": "img/comp/mvvch1j1.jpg?v=1793387267044",
+   "pos": "50.0% 56.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793386936070
+ "updatedAt": 1793387268180
 };

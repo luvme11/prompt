@@ -22748,7 +22748,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvb6czf.jpg?v=1793385088922",
    "pos": "58.7% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvvb7byv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1 character, upper body, centered position, eye level, standing among a flock of sheep, side view, side profile, head tilted slightly upward, looking at viewer, 1.5::emotionless::, white short-sleeved t-shirt, long black rubber apron, heavy-duty protective gloves, bloodstained face, bloodstained clothing, holding a bloodstained machete in one hand, machete hanging at side, flock of sheep surrounding the character, sheep in foreground and background, dark and ominous atmosphere, extremely dim lighting, low-key lighting, underexposed, barely visible character, faint rim lighting, deep shadows, high contrast, dark background, cinematic horror atmosphere, unsettling mood,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793385089827
+ "updatedAt": 1793385132892
 };

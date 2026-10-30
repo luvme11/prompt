@@ -23240,20 +23240,6 @@ window.PROMPT_DATA = {
    "soon": false
   },
   {
-   "id": "mvvgoi24",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "full body, from above, 2::lying on floor, lying on back, fetal position, holding plush rabbit::, looking at viewer, indoors, bedroom, vanity mirror, dresser, white furniture, floral wallpaper, patterned carpet, plush toys, teddy bears, soft natural light, shadows, cluttered room, pink theme, detailed background, \n\npink frilled camisole, ruffled bloomer shorts, white lace trimmed socks, white hair bow, hair clip, pink ribbons, camisole with lace, lace trim, matching sleepwear set,"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
-  },
-  {
    "id": "mvvgop0d",
    "tab": "comp",
    "name": "",
@@ -23268,5 +23254,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793394426610
+ "updatedAt": 1793394497020
 };

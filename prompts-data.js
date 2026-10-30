@@ -23305,8 +23305,8 @@ window.PROMPT_DATA = {
      "text": "from above, from side, sitting, vanity, cowboy shot, 2::looking at phone, holding phone, applying makeup, applying lipstick::, indoor, bedroom, dresser, makeup box, bottle, perfume, depth of field, pink theme, room, furniture, cushion,\n\npink ruffled blouse, black suspender skirt, black bow tie, puff sleeves, short sleeves, black hair bow, ribbon, piercing, multiple piercing, jewelry, pink nail polish, jirai kei,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhglkg.jpg?v=1793395850870",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -23338,5 +23338,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793395804899
+ "updatedAt": 1793395852060
 };

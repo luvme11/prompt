@@ -22067,8 +22067,8 @@ window.PROMPT_DATA = {
      "text": "full body, sitting on water, hugging knees, starry sky, night sky, stars, reflection, water ripple, water splash, galaxy, outer space, dark background, \n\nwings, feathered wings, large wings, white wings, \n\ndress, frilled dress, shiny dress, sleeveless dress, barefoot,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvukziim.jpg?v=1793341973650",
+   "pos": "50.0% 42.0%",
    "soon": false
   },
   {
@@ -22086,5 +22086,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793341953045
+ "updatedAt": 1793341974923
 };

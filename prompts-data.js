@@ -22687,10 +22687,10 @@ window.PROMPT_DATA = {
      "text": "[girl], navy short-sleeve striped linen shirt,navy-white neck scarf,white tailored shorts,summer loafers, sitting in front of A,back leaning lightly against A,one hand resting gently on A's forearm,head tilted toward A,looking into A,big smile,happy expression"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvupxcop.jpg?v=1793349528810",
+   "pos": "50.0% 22.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793349449481
+ "updatedAt": 1793349530313
 };

@@ -23420,7 +23420,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhrzk0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dutch angle, dynamic angle, cowboy shot, looking back, holding skirt, ballroom, looking at viewer, standing, staircase, banister, architecture, indoors, chandelier, falling rose petals, light particles, sparkles, bokeh, warm lighting, cinematic angle, depth of field,\n\nbackless evening dress, tiered red skirt, lace elbow length gloves, large lace bow on back, pearl necklace, pearl jewelry, jewelry on hair, flower hair ornament, earrings, black dress, lace trim, frilled skirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793396167072
+ "updatedAt": 1793396174282
 };

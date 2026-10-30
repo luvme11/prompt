@@ -22053,8 +22053,8 @@ window.PROMPT_DATA = {
      "text": "full body, profile, 2::riding broom::, flying, 3::crescent moon::, night sky, night, space, stars, starry sky, sparkles, glowing, fantasy,\n\nwitch hat, wide brimmed hat, starry sky print, off shoulder dress, long dress, frills, layered dress, choker, earrings, bracelets, high heels,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvukz9fy.jpg?v=1793341952021",
+   "pos": "50.0% 8.0%",
    "soon": false
   },
   {
@@ -22086,5 +22086,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793341937199
+ "updatedAt": 1793341953045
 };

@@ -22456,7 +22456,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvuow6i2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, upper body, 1.3::slight dutch angle, close to the camera, characters filling the frame, naturally cropped::, 1.3::dynamic overlapping poses, one leaning back against the other's shoulder::, sparkles, flying fries, 1.3::floating teddy bear plushies in tiny diner uniforms::, 1.2::retro diner background, neon signs, string lights, red booths::, depth of field, 1.3::red and white checkered border, scalloped panels, marquee bulbs, giant fork and spoon top left, giant bear face burger cropped bottom right::, 1.4::manga magazine cover layout, huge 1950s diner script title across the top overlapping the heads, swash underline, cream letters with teal shadow, issue number circle top left, ribbon banners, starburst badges, price tag, rosette badge::, two chibi mascots in red and cream bear ear caps, title \"Beary Bites\", issue \"No.07\", ribbon \"TODAY'S PICK\", starburst \"TRY ME!\", price \"$3.50\", rosette \"STAR CREW\", banner \"Serving smiles all day!\", \"NOW LOADING...\" loading bar at the bottom, text, english text, 1.2::cherry red, cream and teal::, warm lighting, holographic lighting, 1.3::mobile game key art, bold lineart, vivid colors, cel shading::, photoshoot, fake magazine cover"
+    },
+    {
+     "label": "버거 운반",
+     "text": "1.3::leaning back against partner's shoulder, one bear face burger plate raised high above the head, other plate held out toward the viewer::, laid-back smile, half-lidded eyes, looking at viewer, 1.4::red baseball cap with round bear ears on top, the ears are the same red as the cap::, headset, 1.3::red long sleeve dress shirt with thin black pinstripes, black necktie::, black suspenders, white waist apron"
+    },
+    {
+     "label": "쉐이크 운반",
+     "text": "1.3::gliding toward the viewer, body tilted forward, one arm stretched out with a tray of two milkshakes, other hand snatching a flying fry midair::, playful grin, looking at viewer, 1.3::cream baseball cap with round bear ears on top::, headset, 1.3::red short sleeve dress shirt with thin black pinstripes, black necktie::, black suspenders, white waist apron"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793347513741
+ "updatedAt": 1793347661219
 };

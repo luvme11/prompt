@@ -22313,8 +22313,8 @@ window.PROMPT_DATA = {
      "text": "close up, portrait, looking at sword, profile, holding sword, cherry blossoms, katana, falling petals, hand on blade, outdoors, day, sunlight, lens flare, \n\nblack kimono, wide sleeves, japanese clothes, white collar,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvunxiuv.jpg?v=1793346134057",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -22360,5 +22360,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793346122072
+ "updatedAt": 1793346135132
 };

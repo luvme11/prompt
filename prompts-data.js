@@ -22330,7 +22330,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvunyi1t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, cowboy shot, looking at viewer, 2::hand heart::, blue sky, day, outdoors, clouds, bubble, balloon, flower petals, falling petals, \nwinking, smiling, \nsailor dress, sailor hat, plaid skirt, white dress, bow, bow on chest, buttons, frilled cuffs, wrist cuffs,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793346054340
+ "updatedAt": 1793346090595
 };

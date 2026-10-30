@@ -23504,7 +23504,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhwncx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, portrait, looking at microphone,  singing, recording studio, hand to head, touching headphones, professional microphone, condenser microphone, pop filter, microphone stand, shock mount, soundproof foam, lens flare, light rays, volumetric lighting, bokeh, blurred background, \n\nover ear headphones, black headphones, grey hoodie,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793396380792
+ "updatedAt": 1793396391779
 };

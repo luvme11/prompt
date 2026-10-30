@@ -23350,7 +23350,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhme1d",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, sitting on desk, reaching, indoors, room, looking at creature, 2::butterfly on finger::, reaching, desk, wooden furniture, phonograph, record player, lace trim, vase, pink roses, flower petals, falling petals, blue butterfly, dim lighting, detailed background,\n\ncheongsam, qipao, green dress, long dress, floral print, cap sleeves, white fur boa, pearl necklace, layered necklace, kanzashi, flower hair ornament, hair stick, tassel hair ornament, pearl earrings, drop earrings, jade bracelet, gemstone ring,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793395907807
+ "updatedAt": 1793395913678
 };

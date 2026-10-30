@@ -22585,10 +22585,10 @@ window.PROMPT_DATA = {
      "text": "1girl, adult woman, ivory satin wedding dress, delicate lace neckline, long tulle veil, small pearl earrings, joyful expression, slightly open mouth, looking at partner, one hand lifting veil over his head, other hand on his shoulder"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuphkm1.jpg?v=1793348770405",
+   "pos": "50.0% 16.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793348759590
+ "updatedAt": 1793348771804
 };

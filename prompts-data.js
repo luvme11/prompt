@@ -23406,7 +23406,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhru02",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "wariza, sitting, surrounded by plushies, looking at viewer, hands up, paw pose, leaning forward, indoors, stuffed cat, stuffed heart, pillow, soft lighting, pink theme, purple theme, pastel theme, depth of field,\n\ngothic lolita, frilled pinafore dress, long sleeved blouse, frilled cuffs, black hair ribbon, cat hair ornament, hair clip, black choker, bell choker, bracelet, wrist cuffs, fishnet stockings, garter strap, ribbon, checkered ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793396146291
+ "updatedAt": 1793396167072
 };

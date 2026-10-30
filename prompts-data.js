@@ -23098,7 +23098,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvgb5dg",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, high angle, sitting, food theme, leaning back, 1.5::hand to mouth::, holding, strawberry, cupcake, chocolate, dessert, heart shaped food, rose petals, pearl necklace, checkered background, tablecloth, bright lighting, kawaii, cute background,\n\nlolita fashion, red dress, plaid bow, gingham dress, striped sleeves, puffy short sleeves, frilled dress, ruffled sleeves, frilled wrist cuffs, cross-laced footwear, lace trim,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793393696196
+ "updatedAt": 1793393709083
 };

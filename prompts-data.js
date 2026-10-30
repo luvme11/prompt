@@ -23123,10 +23123,10 @@ window.PROMPT_DATA = {
      "text": "upper body, dutch angle, 0.5::high angle, from side::, looking at viewer,  2::lying on back::, candle, arms behind head, looking up, indoors, stained glass, light rays, 2::volumetric lighting, rose petals, rose::, flower, floor, red carpet,\n\nhalf-closed eyes, \n\ngothic lolita, elaborate dress, tiara, veil, frilled dress, ruffled dress, lace trimmed dress, corset, jewelry, necklace, beaded necklace, choker, bracelet, floral hair ornament, rose hair ornament,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgbhrl.jpg?v=1793393941177",
+   "pos": "50.0% 12.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793393929672
+ "updatedAt": 1793393942230
 };

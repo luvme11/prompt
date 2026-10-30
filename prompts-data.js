@@ -22541,8 +22541,8 @@ window.PROMPT_DATA = {
      "text": "1girl, adult woman, japanese bride, shiromuku, white uchikake, subtle woven crane embroidery, layered white collar, broad sleeves, delicate gold-and-white bridal hair ornaments, face fully uncovered, head slightly tilted toward partner, looking up at partner, expressionless, closed mouth, hands concealed inside sleeves"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvupg991.jpg?v=1793348676803",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -22590,5 +22590,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793348659302
+ "updatedAt": 1793348677983
 };

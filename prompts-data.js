@@ -23487,8 +23487,8 @@ window.PROMPT_DATA = {
      "text": "upper body, sitting, looking at viewer, leaning forward, holding spoon, eating, outdoor, balcony, table, chair, food, egg, bacon, bread, brunch, coffee, cup, potted plant, flower, railing, city, cityscapes, sky, blue sky, cloud, daytime, dappled sunlight, sunlight, shadow,\n\noff shoulder cardigan, white camisole, ribbed cardigan, long sleeves, pendant, necklace,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhw46e.jpg?v=1793396532712",
+   "pos": "59.3% 50.0%",
    "soon": false
   },
   {
@@ -23534,5 +23534,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396517015
+ "updatedAt": 1793396533874
 };

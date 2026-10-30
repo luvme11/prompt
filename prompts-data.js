@@ -22260,7 +22260,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvuntl08",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, looking at viewer, dutch angle, low angle, from below, 2::on tree branch::, sitting, holding book, open book, holding quill, quill pen, wind, hair blowing, tree, leaves, willow, sky, sunlight, dappled sunlight, bokeh, outdoors, \n\ncream dress, long dress, white collar, long sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793345845172
+ "updatedAt": 1793345861413
 };

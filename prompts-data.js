@@ -23221,8 +23221,8 @@ window.PROMPT_DATA = {
      "text": "upper body, from above, looking at viewer, portrait, cinematic lighting, soft focus, close up, lying on back, head tilt, holding lipstick, indoor, bedroom, pink bedding, silk sheets, satin pillows, 2::makeup palette on bed, blush compact on bed::, handheld mirror, soft lighting, depth of field,\n\npink silk camisole, satin nightgown, lace trim, ruffles, spaghetti straps, pink sleepwear,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgo82c.jpg?v=1793394425594",
+   "pos": "50.0% 4.0%",
    "soon": false
   },
   {
@@ -23268,5 +23268,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793394413911
+ "updatedAt": 1793394426610
 };

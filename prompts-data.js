@@ -22274,7 +22274,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvuntq8s",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "profile, side view, 2::petting horse::, dappled sunlight, horse head, horse bridle, touching nose, standing, outdoors, forest, autumn, yellow leaves, falling leaves, warm lighting, volumetric lighting, sunbeam, bokeh, blurry background, depth of field, white ruffled blouse, black skirt, long sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793345861413
+ "updatedAt": 1793345867211
 };

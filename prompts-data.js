@@ -22843,8 +22843,8 @@ window.PROMPT_DATA = {
      "text": "solo, 2::side view, standing in profile::, 2::cowboy shot::, 1.5::body facing sideways, head turned slightly toward the offscreen hand::,\n\n2::a hand coming in from outside the frame, pinching pants band and pulling::, 1.5::pulled taut, only the hand and wrist visible, no other person visible,\n\n2::character glancing sideways toward the offscreen hand, slightly surprised and a little flustered expression::, \n\n2::wearing pants ::, [색] underwear, shirtless, simple white background,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvba8qo.jpg?v=1793385439041",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -22862,5 +22862,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793385425569
+ "updatedAt": 1793385440224
 };

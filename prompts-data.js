@@ -22860,7 +22860,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvbaiba.jpg?v=1793385460968",
    "pos": "42.4% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvvc9wyq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1boy, 1girl, couple, two people,\n\n2.0::close-up of an opened early 2000s flip phone::,\n2.0::a previously taken couple photograph displayed on the flip phone screen::,\n2.0::both a young man and a young woman visible inside the phone screen::,\n1.9::couple posing together in a saved photograph::,\n1.9::both making peace signs with their fingers::,\n1.8::both smiling at the camera in the photograph::,\n1.8::standing close together, shoulders touching::,\n1.8::looking directly at the camera in the photograph::,\n\n2.0::focus on the flip phone screen::,\n1.9::viewing an already captured photograph::,\n1.8::open clamshell phone with physical keypad::,\n1.8::small rectangular LCD screen::,\n1.7::nostalgic 2000s digital camera photo::,\n1.7::slightly grainy photograph on screen::,\n1.7::soft nostalgic atmosphere::,\n1.6::close-up composition, phone filling most of the frame::"
+    }
+   ],
+   "img": "img/comp/mvvc9wyq.jpg?v=1793386934847",
+   "pos": "50.0% 0.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793385462159
+ "updatedAt": 1793386936070
 };

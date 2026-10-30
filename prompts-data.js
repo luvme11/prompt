@@ -22773,8 +22773,8 @@ window.PROMPT_DATA = {
      "text": "1person, solo, adult, non-chibi,\n\n1.5::upper body portrait::,\nchest to head composition,\nthree-quarter front view,\n1.4::slightly high-angle view::,\ncamera looking slightly downward,\n\n1.5::upper body leaning forward::,\ntorso bent slightly toward the camera,\nshoulders angled forward,\nchest slightly lowered,\nbody turned subtly to one side,\n\none arm extending backward out of frame,\nother arm lowered beside the body,\nelbows slightly bent,\ntense controlled posture,\n\nhead slightly raised despite the forward-leaning body,\nchin subtly lowered,\nlooking upward toward the viewer,\nserious focused expression,\nintense composed gaze,\n\n1.5::dark navy ceremonial military uniform::,\nstructured fitted military jacket,\nhigh standing collar,\nlong sleeves,\ndark navy wool fabric,\n\nornate metallic gold collar trim,\ngold embroidered collar insignia,\nlarge polished gold buttons,\ngold shoulder epaulettes,\ndecorative gold shoulder insignia,\n\n1.4::multiple gold aiguillette cords draped from one shoulder::,\nlong braided ceremonial cords,\ngold cords hanging elegantly across the chest and side,\n\nmilitary ribbons arranged on the chest,\nmultiple colorful service ribbons,\ndecorative military medals,\ngold and silver medals,\nornamental military badges,\nmetallic insignia pinned across the uniform,\n\nwide dark leather military belt,\nlarge rectangular metal buckle,\nbelt fitted tightly around the waist,\n\nnavy military trousers,\n\ndark navy and metallic gold color palette,\nsmall red, green, and blue accents from military ribbons,\n\ndark blurred interior background,\nmuted architectural background,\nshallow depth of field,\n\nsoft dramatic lighting,\nsubtle golden highlights on buttons and decorations,\ncinematic shadows,\nserious military portrait atmosphere,\n\nauthoritative,\ndisciplined,\naristocratic officer aesthetic,\nelegant ceremonial military atmosphere,\nhighly detailed uniform decorations"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvb7qx0.jpg?v=1793385357233",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -22862,5 +22862,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793385338102
+ "updatedAt": 1793385358296
 };

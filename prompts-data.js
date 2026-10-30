@@ -23042,7 +23042,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvg7ccm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "close up, lying on back, 2::pink bokeh::, looking at viewer, from above, reclining, hand to mouth, fork, cake, strawberry cake, slice of cake, confetti, soft lighting, indoor, pink ribbon, sofa, rose petals, blurred background,  horizontal, shallow depth of field,\n \nwide brimmed hat, frilly white dress, pink ribbon, rose, hat ornament, ribbon bow, frills, ruffles, puff sleeves, pantyhose,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793393513353
+ "updatedAt": 1793393531496
 };

@@ -22709,10 +22709,10 @@ window.PROMPT_DATA = {
      "text": "long evening dress, barefoot, being carried in man's arms, both arms wrapped around man's neck, holding onto his neck, leaning comfortably against him"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuq16w1.jpg?v=1793349696003",
+   "pos": "50.0% 24.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793349574611
+ "updatedAt": 1793349697553
 };

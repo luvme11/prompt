@@ -23039,8 +23039,8 @@ window.PROMPT_DATA = {
      "text": "sitting, 2::holding megaphone::, megaphone, toy, box, heart, musical note, cloud, cluttered, crowded, vibrant, comic, game cg, pop style, cute background, pastel background, halftone background, border, speech bubble musical note, pixel heart, \n\nsailor uniform, sailor collar, short sleeves, vest, badge, button, pleated skirt, belt, loose socks, sneakers, hair clip, wristband, bandage, \n\nsmile, open mouth,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvg6y3x.jpg?v=1793393645659",
+   "pos": "50.0% 2.0%",
    "soon": false
   },
   {
@@ -23058,5 +23058,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393633920
+ "updatedAt": 1793393646836
 };

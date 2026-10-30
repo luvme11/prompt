@@ -23196,7 +23196,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvgnt41",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "close-up, high angle, magazine scan, collage, scrapbook style, multiple objects, retro aesthetic, physical media, pink theme, lying on back, looking at viewer, using phone, leaning on pillows, indoor, bedroom, pink room, cluttered room, collage background, magazine covers on wall, soft lighting, flash photography, leopard print camisole, \n\npink lace headband, pink hair bows, layered necklaces, pink leopard print belt, pink ruffled miniskirt, white furry leg warmers, pink bracelets, rings, lace trim, ruffles, belt buckle, y2k aesthetic clothing,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394293841
+ "updatedAt": 1793394300012
 };

@@ -22804,7 +22804,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvb92rn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "single panel, full page illustration, japanese woodblock print style, hanafuda card aesthetic, limited color palette black red and cream, halftone dots, bold lineart, decorative frame, black background, high complexity, ultra complexity, best quality 3::The character standing center, black long coat, silver cross emblem on chest, red lining inside coat, high collar, silver buttons, ornate silver trim, white gloves, katana resting on one shoulder, one hand gripping the handle casually, cold sharp gaze looking straight at the viewer::, 2::multiple decorative card panels arranged behind like a tarot spread::, one card showing a blooming lotus flower on dark water, one card showing an hourglass with sand falling, one card showing rippling water surface with a crescent moon reflection, one card showing lotus petals scattering in wind, 3::red and black color scheme with cream accents::, ornate floral border patterns, ink splatter details, screentone texture"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793385197340
+ "updatedAt": 1793385214450
 };

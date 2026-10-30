@@ -22442,7 +22442,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuoo18w.jpg?v=1793347282359",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mvuoq698",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2people, simple background, white background, side angle, profile view,\n\n solo focus, 1.6::burying face in partner's hand::,  1.5::leaning cheek and jaw into partner's hand::, face resting heavily against palm, pressing face into hand, seeking comfort,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793347283692
+ "updatedAt": 1793347381613
 };

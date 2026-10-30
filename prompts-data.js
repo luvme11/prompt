@@ -23518,7 +23518,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhwsnq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, dutch angle, cowboy shot, looking at viewer, 2::sitting::,  holding guitar, playing guitar, indoor, blue flower, flower, constellation, chalkboard, speaker, piano tile floor, cinematic lighting, glowing, sparkle,\n\nfrilled dress, detached sleeves, hair ornament, black dress, lace trim, headband, armlet, ribbon, blue ribbon, bow, pantyhose,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793396391779
+ "updatedAt": 1793396398885
 };

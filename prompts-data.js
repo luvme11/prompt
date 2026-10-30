@@ -23070,7 +23070,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvgapyq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, holding bouquet, holding flowers, hand near head, hand on head, blue sky, outdoors, balloons, heart balloon, confetti, ribbon, daylight, bright lighting, \n\nsmile, happy, \nflower crown, white rose, \nwhite sundress, sleeveless dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793393673997
+ "updatedAt": 1793393689088
 };

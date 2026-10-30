@@ -22478,7 +22478,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuow6i2.jpg?v=1793347773297",
    "pos": "42.4% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mvup3820",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "upper body, intimate embrace, bodies pressed closely together, side three-quarter view, plain background,"
+    },
+    {
+     "label": "안아주는 쪽",
+     "text": "A:  (안아주는쪽 외형), upper right, leaning over B, holding boy tightly against chest, one arm wrapped around B's shoulders and upper back, other hand resting on top of B's head, fingers gently gripping his hair, B's face pressed against A's chest, relaxed dominant posture,\n\ntight hug, head cradling, chest-to-face contact, overlapping arms, close physical contact, natural hand placement, intimate couple composition"
+    },
+    {
+     "label": "안기는 쪽",
+     "text": "B: (안기는쪽외형), lower left, leaning back into A's embrace, head tilted upward, face buried against A's chest, upper body supported by A, one arm wrapped around A's waist, other arm mostly obscured, relaxed submissive posture,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793347774719
+ "updatedAt": 1793347989694
 };

@@ -23151,8 +23151,8 @@ window.PROMPT_DATA = {
      "text": "from behind,  2::sitting on railing::, looking at viewer, outdoors, cityscape, sky, blue sky, cloud, cumulus, contrail, summer sky, day, sunlight, backlight, 0.5::chromatic aberration::, \n\nsmile, happy, \nschool uniform,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgiebp.jpg?v=1793394176407",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -23198,5 +23198,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793394164816
+ "updatedAt": 1793394177590
 };

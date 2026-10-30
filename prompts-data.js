@@ -22243,7 +22243,7 @@ window.PROMPT_DATA = {
      "text": "low angle, dutch angle, looking at up, 2::sitting on train::, meteor shower, sitting on roof, shooting star, night sky, starry sky, stars, night, blue theme, utility pole, power lines, outdoors, cinematic lighting, \n\nschool uniform"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvunt450.jpg?v=1793345947738",
    "pos": "50% 50%",
    "soon": false
   },
@@ -22290,5 +22290,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793345867211
+ "updatedAt": 1793345949350
 };

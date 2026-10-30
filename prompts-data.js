@@ -23616,7 +23616,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvviofjq.jpg?v=1793397926256",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvvitw3y",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, lying on side, 2::lying on bed::, on stomach, jitome, half-closed eyes, expressionless, bored, lazy, 2::holding phone::, 2::looking at phone::, outstretched arm, 3::white light reflecting on face::, 3::screen light on face::, 2::pale face from screen glow::, 2::white glow on skin::, 3::dark room::, 3::pitch black room::, white shirt, oversized shirt, loose clothes, bare shoulders, off shoulder, pillow, bed sheet, blanket, 2::snack::, food wrapper, chips, indoors, night,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793397927576
+ "updatedAt": 1793397942866
 };

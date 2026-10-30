@@ -22734,7 +22734,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuq61kd.jpg?v=1793349921795",
    "pos": "50.0% 2.0%",
    "soon": false
+  },
+  {
+   "id": "mvvb6czf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "glamorous red carpet movie premiere, luxury photo wall,\npaparazzi flashes, charming fanservice moment,\nlooking directly into the camera, leaning close,\n(ultra-wide camera lens POV:1.4), slight low angle,\nintimate close-up, dynamic foreshortening,\n\nsmall detached black marker cap held sideways between teeth,\n(character's own hand holding an uncapped [색상] marker:1.4),\nfelt tip touching invisible camera glass,\n(writing directly on the viewer's lens:1.5),\n(bold handwritten [색상] text \"[글씨]\":1.5),\n(large legible opaque ink strokes:1.4),\nsignature across transparent glass, overlapping the face,\nsmall hand-drawn heart, thick marker ink, high contrast,\n\nblurred photographers, cinematic flash lighting,\nKorean romance webtoon, semi-realistic anime,\nexpressive lineart, painterly shading,"
+    }
+   ],
+   "img": "img/comp/mvvb6czf.jpg?v=1793385088922",
+   "pos": "58.7% 50.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793349922859
+ "updatedAt": 1793385089827
 };

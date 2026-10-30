@@ -23644,7 +23644,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvviuoo3.jpg?v=1793398076406",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvviyvy4",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Mysterious aura, playful wicked grin, visible canine teeth, mischievous expression,\n\n(Korean shamanic talisman attached vertically to forehead:1.5), yellow paper charm, red calligraphy, talisman hanging over nose, eyes and mouth visible,\n\n(completely bare upper body:1.5), exposed chest and abdomen, black ceremonial robe slipped off both shoulders, wide sleeves hanging around elbows, crimson inner lining, black wide-legged trousers, ornate waist belt, red sacred cords, brass bells, hanging talismans,\n\none hand lifting the forehead talisman, other hand resting on waist, head tilted backward, torso slightly twisted, confident relaxed pose,\n\nslight low angle, three-quarter front view, head to mid-thigh framing, asymmetrical composition, minimal ivory background, dramatic shadows, rough sketchy lineart, flat color illustration, hard-edged cel shading, Japanese indie anime illustration."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793398092576
+ "updatedAt": 1793398175850
 };

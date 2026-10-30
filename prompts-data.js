@@ -22327,8 +22327,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, dutch angle, from above, looking at viewer, 2::letter covering mouth, holding letter::, envelope, standing, clock tower, cityscape, horizon, sunset, glowing sky, multicolored sky, evening, bird, dove, flying, flying paper, bokeh, \n\nwhite blouse, long sleeves, neck ribbon, high waist skirt, pleated skirt, messenger bag,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvunxqqo.jpg?v=1793346156748",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -22360,5 +22360,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793346135132
+ "updatedAt": 1793346157874
 };

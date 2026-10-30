@@ -23532,7 +23532,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvhwsnq.jpg?v=1793396579352",
    "pos": "50.0% 36.0%",
    "soon": false
+  },
+  {
+   "id": "mvvib7tz",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1person, solo, upper body, close-up portrait,\n\n1.5::leaning slightly toward the camera::,\nhead slightly lowered,\nshoulders slightly hunched from embarrassment,\n\n1.9::covering own mouth with one gloved hand::,\n1.8::one hand placed directly over own mouth::,\npalm covering the lips,\nfingers gently spread across the lower half of the face,\nfingertips resting near the opposite cheek,\nhand hiding the mouth completely,\nother hand lowered out of frame,\n\n1.7::deeply embarrassed expression::,\nstrong blush across both cheeks,\nflustered,\nshy expression,\neyes slightly widened,\naverting gaze,\nlooking slightly away from the viewer,\ntrying to hide a shy smile behind the hand,\n\ndark navy aristocratic formal outfit,\nhigh-collared Victorian-inspired jacket,\nornate silver embroidery,\nintricate floral patterns,\nsilver braided trim,\ndecorative silver chains,\njeweled brooches,\nlace details,\nelaborate cuffs,\n\nlong dark navy gloves,\nfitted gloves,\nsilver embroidered glove cuffs,\n\nelegant palace interior,\nwhite marble architecture,\ntall arched windows,\nsoft daylight,\nfloating flower petals,\nsmall glowing particles,\n\ncool navy, silver, white color palette,\nromantic aristocratic atmosphere,\nsoft bloom,\nshallow depth of field,\ndramatic close-up composition,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793396580506
+ "updatedAt": 1793397072152
 };

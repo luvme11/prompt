@@ -22544,7 +22544,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvupgm40",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, 1boy, adult couple, cinematic composition, color manga, 1.4::character focus, waist-up, both faces visible::, eye-level, three-quarter side view,\nmidnight outside a convenience store, parked scooter, boy sitting on the scooter seat facing the girl, girl standing close in front of him, 1.4::fastening his helmet strap beneath his chin::, her hands below their faces,\ngirl looking intently at the buckle with a slightly annoyed expression, boy leaning forward a little, watching her face with an amused closed-mouth smile, intimate distance, casual intimacy,\nopen-face helmet with raised visor, cool storefront light on their faces, subtle amber streetlight along their shoulders, narrow Seoul backstreet, weathered brick wall, plastic stools, drink cans on a small outdoor table, distant red taillights, deep blue night, restless youthful romance, clean lineart, cel shading"
+    },
+    {
+     "label": "남자",
+     "text": "1boy, adult man, playful, 1.3::knowing smile, closed mouth, looking at partner::, leaning slightly forward, seated on scooter, hands resting on his thighs, open-face helmet, visor up, faded navy track jacket, white t-shirt, silver chain necklace"
+    },
+    {
+     "label": "여자",
+     "text": "1girl, adult woman, composed, slightly annoyed, closed mouth, lowered gaze, fastening partner's helmet strap, oversized charcoal denim jacket, red tank top, silver hoop earrings, crossbody bag"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793348597745
+ "updatedAt": 1793348614467
 };

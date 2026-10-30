@@ -23630,7 +23630,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvviuoo3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, side view, character positioned at the side of the frame, standing, random casual outfit, trendy casual fashion, relaxed fit, stylish everyday wear, layered clothing, modern streetwear, coordinated colors, fashionable accessories, holding a bag upside down, tipping the bag over, contents spilling out of the bag in a cascade, numerous small personal belongings tumbling through the air, what's in my bag concept, {color} background, matching {color} floor, cute stationery, notebooks, pens, pencils, pencil case, wallet, keychains, plush toys, small stuffed animals, photo cards, charms, trinkets, miniature accessories, scattered personal belongings covering the floor, floating objects, dynamic arrangement, playful composition, many white hand-drawn doodles, white sticker-like illustrations, doodled hearts, stars, flowers, sparkles, curved motion lines, cute handwritten-style decorative marks, scrapbook aesthetic, product editorial photography, soft studio lighting, clear object separation, detailed accessories, whimsical youthful atmosphere, no text,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793397942866
+ "updatedAt": 1793397980511
 };

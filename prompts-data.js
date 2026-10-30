@@ -22857,10 +22857,10 @@ window.PROMPT_DATA = {
      "text": "solo, inside a swimming pool, both forearms resting on the edge of the pool, arms crossed and folded on the poolside tiles, wet face resting on his forearms, head slightly tilted, shoulders partially above the water, upper body emerging from the water, soaked skin, wet hair clinging to forehead and cheeks, water droplets on face, neck, shoulders and arms, relaxed fingers hanging naturally over the tile edge, damp poolside tiles with small puddles of water, glossy ceramic pool tiles, shimmering swimming pool water, reflective water surface, subtle ripples, calm sleepy gaze, half-lidded eyes, tired expression, looking toward the viewer, extreme close-up, face and upper body filling the frame."
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvbaiba.jpg?v=1793385460968",
+   "pos": "42.4% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793385440224
+ "updatedAt": 1793385462159
 };

@@ -23658,7 +23658,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvj0692",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "oversized [후드 색상] hoodie, hood pulled up over the head, loose baggy sleeves, low-rise black sweatpants, thin underwear waistband slightly visible,\n\nstanding in front of a bathroom mirror, casual mirror selfie, holding a black smartphone vertically in the right hand, (looking down at the smartphone screen:1.4), half-lidded eyes, indifferent expression, relaxed eyebrows, unsmiling face, slightly tilted head,\n\n(toothbrush loosely held between the lips:1.3), toothbrush handle extending diagonally downward,\n\n(gripping and lifting the front hem of the hoodie with the left hand:1.5), hoodie fabric gathered beneath the chest, (entire abdomen exposed from lower chest to waistband:1.5), defined abdominal muscles, visible navel, (lower abdominal V-lines extending toward the hips:1.4), subtle hip contours above the waistband, natural muscular anatomy,\n\nslightly slouched posture, relaxed shoulders, casual unposed body language,\n\nmirror reflection POV, vertical composition, head-to-hip framing, slightly tilted camera angle, realistic selfie perspective, modern apartment bathroom, rectangular wall mirror, white tiled walls, sink and bathroom fixtures, soft neutral overhead lighting, intimate everyday atmosphere"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793398175850
+ "updatedAt": 1793398235869
 };

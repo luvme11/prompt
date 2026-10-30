@@ -23672,7 +23672,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvj0692.jpg?v=1793398462705",
    "pos": "50.0% 70.0%",
    "soon": false
+  },
+  {
+   "id": "mvvj5ter",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, male focus, sitting on the ground, halloween costume, sheep costume, wolf in sheep's clothing, fluffy white sheep hood, curled sheep horns on hood, black wolf ears poking through hood, black wolf tail sticking out from costume, fluffy white wool hoodie, oversized wool sweater, fleece texture, white fluffy cuffs, black paw gloves, bell collar, white fluffy shorts, white fluffy leg warmers, sharp claws, fangs, sheepish grin, sweatdrop, trying to look innocent, nervous smile, 2::hiding black claw hands behind back, slightly visible::, night pasture, wooden fence, flock of sheep in background, sheep staring, old barn, hay bales, lantern on fence post, fireflies, scattered wool tufts, jack-o'-lantern, fog, full moon, night, warm lantern glow, cute, comedic, cozy atmosphere, soft lighting, rim light, halloween,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793398463747
+ "updatedAt": 1793398499604
 };

@@ -22690,7 +22690,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvupxcop.jpg?v=1793349528810",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mvuq16w1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "masterpiece, best quality, after the rain, dark wet pavement, shallow puddles, subtle rainwater reflections, dim nighttime street, sparse background, dark blurred surroundings, minimal background details, muted lighting, subdued colors, romantic mood, medium shot, thigh-up, tight framing, close composition, focus on the characters, side three-quarter view"
+    },
+    {
+     "label": "남자",
+     "text": "black dress shirt, sleeves rolled up to the elbows, fitted black slacks, slightly loosened collar, formal outfit, carrying woman with one arm only, holding both of woman's high heels by their straps in one hand, high heels dangling from his hand, walking forward"
+    },
+    {
+     "label": "여자",
+     "text": "long evening dress, barefoot, being carried in man's arms, both arms wrapped around man's neck, holding onto his neck, leaning comfortably against him"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793349530313
+ "updatedAt": 1793349574611
 };

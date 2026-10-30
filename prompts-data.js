@@ -22229,10 +22229,10 @@ window.PROMPT_DATA = {
      "text": "공용: 1boy, 1girl, heterosexual, explicit, 2::nsfw, naked, nude::, uncensored, doggystyle, from behind, bed, bedroom, indoor, night, dim lighting, messy bed, sweaty body, flushed skin, clenching sheet, heavy breathing\n\n남자: intense look, dark eyes, gripping hips, leaning over, dominant, smirking, focused expression\n\n여자: crying, tears, mouth open, blushing heavily, trembling, exhausted, lying down, arching back"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvunqipl.jpg?v=1793345814389",
+   "pos": "69.1% 50.0%",
    "soon": true
   }
  ],
- "updatedAt": 1793345760383
+ "updatedAt": 1793345815927
 };

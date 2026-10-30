@@ -22497,10 +22497,10 @@ window.PROMPT_DATA = {
      "text": "B: (안기는쪽외형), lower left, leaning back into A's embrace, head tilted upward, face buried against A's chest, upper body supported by A, one arm wrapped around A's waist, other arm mostly obscured, relaxed submissive posture,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvup3820.jpg?v=1793348150492",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793347989694
+ "updatedAt": 1793348151870
 };

@@ -23501,8 +23501,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, looking at flower, kneeling, holding flower, smelling flower, sitting, flower garden, rose, white rose, daisy, basket, outdoors, day, sunlight, dappled sunlight, bokeh, depth of field,\n\nfrilled dress, lace choker, white gloves, puff sleeves, lace trim, ruffles, floral print, bow, ribbon, cross lace, layered dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhwex0.jpg?v=1793396550449",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -23534,5 +23534,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396533874
+ "updatedAt": 1793396551501
 };

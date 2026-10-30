@@ -22120,7 +22120,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvundvmq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, moody cinematic lounge portrait, 1.5::large upper body close-up::, 1.5::clearly visible face::, dynamic diagonal seated pose, character lounging sideways in an antique leather armchair, leaning forward slightly, elbow resting on armrest, fingers loosely touching cheek, tired half-lidded gaze, subtle knowing smile, elegant black shirt with relaxed open collar, dark tailored jacket draped over shoulders, delicate silver accessories, softly tousled hair, swirling violet smoke drifting behind head without obscuring face, luxurious dark lounge interior, crystal glasses, vintage lamps, ornate mirrors, scattered playing cards, velvet curtains, charcoal black and smoky purple dominant palette, muted silver accents, soft lavender side lighting illuminating face, subtle warm amber highlights, deep indigo shadows, cinematic low-key lighting, thick painterly shading, expressive anime linework, richly detailed atmospheric composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793345099695
+ "updatedAt": 1793345127558
 };

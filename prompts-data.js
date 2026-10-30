@@ -23389,10 +23389,10 @@ window.PROMPT_DATA = {
      "text": "from side, from above, cowboy shot, looking at viewer, sitting, engawa, 2::holding folding fan::, open folding fan, cherry blossoms, falling petals, shoji, room, wooden floor, tray, cake, food, plate, cup, warm lighting, sunlight, shadows, depth of field,\n\nwhite kimono, floral print, red collar, obi, obijime, obidome, flower kanzashi, hair ornament, tassel hair ornament, white fur boa,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhmuva.jpg?v=1793396060498",
+   "pos": "50.0% 0.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793396039334
+ "updatedAt": 1793396061533
 };

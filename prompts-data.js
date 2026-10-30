@@ -23490,7 +23490,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhwex0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, looking at flower, kneeling, holding flower, smelling flower, sitting, flower garden, rose, white rose, daisy, basket, outdoors, day, sunlight, dappled sunlight, bokeh, depth of field,\n\nfrilled dress, lace choker, white gloves, puff sleeves, lace trim, ruffles, floral print, bow, ribbon, cross lace, layered dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793396367039
+ "updatedAt": 1793396380792
 };

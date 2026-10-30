@@ -22176,7 +22176,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": true
+  },
+  {
+   "id": "mvunmgvu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "공용: bathroom, 1boy, 1girl, , standing, saliva drip, drooling, heavy breathing, cowboy shot, from side, indoors, 1.5::nsfw::\n\n남자: naked, 2::towel around waist, bare upper body, licking Breast::, 1.1::obsessive look::, 1.3::veiny arms::, passionate expression, hand put in pussy, hand put in pussy\n\n여자: flushed face, tears, {{trembling, nude, naked}}, 2::heavy pussy juice::, 1.5::pleasure face::, 1.4::trembling body::, 1.3::exposed skin::, 1.1::vulnerable posture::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": true
   }
  ],
- "updatedAt": 1793345486046
+ "updatedAt": 1793345528574
 };

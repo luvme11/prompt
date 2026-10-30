@@ -22383,10 +22383,10 @@ window.PROMPT_DATA = {
      "text": "full body, chiaroscuro, low key, dramatic lighting, cinematic lighting, night, pitch black, black background, simple background, snowfield, snow on ground, looking back, over shoulder, expressionless, holding shovel, shovel, blood on shovel, slight blood, melancholic, gloomy, atmosphere, gritty,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuo2nl8.jpg?v=1793346405451",
+   "pos": "50.0% 40.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793346350451
+ "updatedAt": 1793346406670
 };

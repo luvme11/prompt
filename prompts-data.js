@@ -23140,7 +23140,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvgiebp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from behind,  2::sitting on railing::, looking at viewer, outdoors, cityscape, sky, blue sky, cloud, cumulus, contrail, summer sky, day, sunlight, backlight, 0.5::chromatic aberration::, \n\nsmile, happy, \nschool uniform,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394039321
+ "updatedAt": 1793394047697
 };

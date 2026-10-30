@@ -22787,7 +22787,7 @@ window.PROMPT_DATA = {
      "text": "1.5::black oversized jacket with bright orange piping along seams and edges::, orange trim on jacket collar, orange lining inside jacket, orange stripes on sleeves, black fitted shirt, black fingerless gloves, silver chain necklace, silver belt chain, loose black pants,\none arm extended diagonally forward, holding black handgun, firing handgun, gun pointed diagonally to the side, face clearly visible, slight foreshortening, bright orange smoke explosion from gun muzzle, one large glowing jack-o'-lantern bursting from orange smoke, 3 small flying jack-o'-lanterns, flying halloween candies, orange star-shaped sparks, tiny black bats, explosive comic impact lines, dynamic motion lines, 2::large bold \"TRICK OR TREAT!\" typography::, crimson red and orange lettering, thick black letter outlines, curved comic lettering, text above pumpkin explosion, 1.3::flat orange silhouette shadow behind character::, offset orange cutout shadow, solid orange shape following character outline, hard-edged graphic shadow, vintage cream paper background, subtle halftone dots, crimson red and orange accents, dynamic diagonal composition, clean background, orange rim lighting"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvvb8bs7.jpg?v=1793385368822",
    "pos": "50% 50%",
    "soon": false
   },
@@ -22862,5 +22862,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793385358296
+ "updatedAt": 1793385370496
 };

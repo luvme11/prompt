@@ -22997,10 +22997,10 @@ window.PROMPT_DATA = {
      "text": "upper body, holding kiseru, smoke, swirling smoke, butterfly, red background, flower, tree branch, nature, blossoms, \n\nblack robe, gold trim, butterfly hair ornament, tassel, neck ribbon, traditional clothes,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvfygp0.jpg?v=1793393477443",
+   "pos": "66.4% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793393468463
+ "updatedAt": 1793393478515
 };

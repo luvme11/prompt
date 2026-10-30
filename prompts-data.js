@@ -23154,7 +23154,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvgioq5",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "portrait, looking at viewer, index finger raised, hand on chin, 2::holding magnifying glass::, detective office, bulletin board, investigation board, corkboard, multiple photos, crime scene photos, map on wall, red string, pin, light bulb, desk lamp, desk, indoor,\n\n+ +,  open mouth, 0 0, 1.5:: ! in speech bubble::,\n\ndetective uniform, detective hat, deerstalker, capelet, brown capelet, double breasted vest, brown vest, long sleeves, white shirt, collared shirt, necktie, brown necktie, hair bow, magnifying glass,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394047697
+ "updatedAt": 1793394061010
 };

@@ -22916,7 +22916,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvd19t5.jpg?v=1793388210677",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvdyemu",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "bedroom studio interior, home music workspace, desk setup, computer monitor, small MIDI keyboard on the desk, headphones, audio interface, notebook, cozy indoor atmosphere, soft ambient lighting, warm desk lamp lighting, creative music-making mood, clean desk, modern bedroom studio,\n\n1girl, solo,\n\n2.0::wearing a large over-ear headset::,\n2.0::sitting at a desk::,\n1.9::working on music composition::,\n1.9::hands near a small MIDI keyboard or laptop::,\n1.8::looking focused while composing music::,\n1.8::glancing at the computer screen::,\n1.8::one hand lightly touching the desk equipment::,\n1.8::creative working pose::,\n1.7::natural seated posture::,\n1.7::calm concentrated expression::,\n1.7::home studio atmosphere::,\n\n1.8::upper body shot::,\n1.8::medium shot::,\n1.7::three-quarter view::,\n1.7::eye-level perspective::,"
+    }
+   ],
+   "img": "img/comp/mvvdyemu.jpg?v=1793389756467",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793388211788
+ "updatedAt": 1793389757791
 };

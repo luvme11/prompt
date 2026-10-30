@@ -23445,8 +23445,8 @@ window.PROMPT_DATA = {
      "text": "lying on side, 2::dappled sunlight::, looking at viewer, head on arm, beach, ocean, sand, sky, cloud, palm leaf, leaf shadow, sunlight, bokeh, beach towel, checkered pattern, plumeria, flower, bottle, wicker basket, straw bag,\n\nruffled bikini, floral print, bikini top, bikini bottom, side tie bikini bottom, frills,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhs7oa.jpg?v=1793396330072",
+   "pos": "14.5% 50.0%",
    "soon": false
   },
   {
@@ -23464,5 +23464,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396312693
+ "updatedAt": 1793396331457
 };

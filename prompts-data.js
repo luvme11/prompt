@@ -22930,7 +22930,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvdyemu.jpg?v=1793389756467",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvve3wqs",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "university music department hallway, indoor campus corridor, long hallway, classroom doors along the walls, large windows, soft natural daylight, polished floors, peaceful academic atmosphere, subtle depth of field, everyday university setting,\n\n1girl, solo,\n\n2.0::upper body shot::,\n2.0::waist-up composition::,\n1.9::medium close-up::,\n1.8::eye-level perspective::,\n\n2.0::walking down a hallway::,\n2.0::holding several sheets of handwritten musical scores against her chest::,\n2.0::hugging sheet music close to her body::,\n1.9::both arms wrapped around the music papers::,\n1.9::handwritten musical notation clearly visible on the papers::,\n1.8::papers pressed gently against her chest::,\n1.8::natural walking motion::,\n1.8::looking slightly ahead while walking::,\n1.7::relaxed posture::,\n1.7::soft natural expression::,\n\n1.8::front three-quarter view::,\n1.8::slight movement in her hair::,\n1.7::candid moment::,\n1.7::natural composition::."
+    }
+   ],
+   "img": "img/comp/mvve3wqs.jpg?v=1793390013964",
+   "pos": "50.0% 46.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793389757791
+ "updatedAt": 1793390015007
 };

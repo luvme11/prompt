@@ -23361,8 +23361,8 @@ window.PROMPT_DATA = {
      "text": "sitting, sitting on desk, reaching, indoors, room, looking at creature, 2::butterfly on finger::, reaching, desk, wooden furniture, phonograph, record player, lace trim, vase, pink roses, flower petals, falling petals, blue butterfly, dim lighting, detailed background,\n\ncheongsam, qipao, green dress, long dress, floral print, cap sleeves, white fur boa, pearl necklace, layered necklace, kanzashi, flower hair ornament, hair stick, tassel hair ornament, pearl earrings, drop earrings, jade bracelet, gemstone ring,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhme1d.jpg?v=1793396038253",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -23394,5 +23394,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396022794
+ "updatedAt": 1793396039334
 };

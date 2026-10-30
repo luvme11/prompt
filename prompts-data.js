@@ -23756,7 +23756,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvljmvz.jpg?v=1793402504310",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mvvly4wo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::front view::,\n1.7::sitting on the edge of a bed::,\nboth feet on the floor,\n\n1.6::one hand holding a cigarette::,\n1.7::cigarette between lips::,\n1.5::inhaling from cigarette::,\n\n1.6::other hand planted on the mattress beside him::,\n1.5::arm supporting his body::,\n\nwet hair,loose bathrobe, bedroom interior,bed directly behind him,rumpled bedsheets,pillows,bedside table"
+    }
+   ],
+   "img": "img/comp/mvvly4wo.jpg?v=1793403180526",
+   "pos": "50.0% 0.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793402505349
+ "updatedAt": 1793403181560
 };

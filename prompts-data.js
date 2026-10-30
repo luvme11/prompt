@@ -23235,8 +23235,8 @@ window.PROMPT_DATA = {
      "text": "full body, from above, 2::lying on floor, lying on back, fetal position, holding plush rabbit::, looking at viewer, indoors, bedroom, vanity mirror, dresser, white furniture, floral wallpaper, patterned carpet, plush toys, teddy bears, soft natural light, shadows, cluttered room, pink theme, detailed background, \n\npink frilled camisole, ruffled bloomer shorts, white lace trimmed socks, white hair bow, hair clip, pink ribbons, camisole with lace, lace trim, matching sleepwear set,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgody6.jpg?v=1793394622677",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -23268,5 +23268,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793394522994
+ "updatedAt": 1793394624433
 };

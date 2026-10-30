@@ -22610,7 +22610,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvupowdm",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, 1.3::low angle, dutch angle, wide angle lens, dramatic perspective, diagonal composition::, foreground crow wing blurred close to the camera, 1.3::both leaning casually against a graffiti covered concrete wall, one standing and one crouching at the base of the wall::, relaxed cool attitude, loose confident expressions, looking at viewer, 1.3::crows bursting into flight across the frame, scattered black feathers, torn newspapers and debris blowing in the wind::, motion blur, drifting ash, torn posters on the wall, red spray painted marks, 1.2::ruined city street, collapsed buildings, rusted abandoned cars, leaning utility poles, tangled hanging power lines, weeds growing through cracked asphalt::, faint shambling zombie silhouettes in the distant fog, overcast sky, 1.2::cold desaturated tone, dark grey and muted teal, with red accents::, dim light, rim lighting, holographic lighting, 1.3::large red distressed horror title text at the top of the poster, scratched and blood red lettering::, the title reads \"AFTER THE FALL\", text, english text, 1.3::anime movie poster, key visual::, dynamic and stylish, dark and grim atmosphere, photoshoot, fake magazine cover\n\nText: AFTER THE FALL"
+    },
+    {
+     "label": "남자",
+     "text": "standing with back against the wall, one foot propped up on the wall, one hand gripping a fire axe resting on the shoulder, other hand in the jacket pocket, head tilted back slightly, lazy smirk, worn black techwear hooded jacket, asymmetrical front zipper, frayed hem, dark grey hoodie layered underneath, black cargo joggers, tactical thigh straps, small metal buckles, cross-body sling bag, fingerless gloves, dirty sneakers"
+    },
+    {
+     "label": "여자",
+     "text": "crouching low with back against the wall, one hand holding an axe planted head down on the asphalt, other forearm resting on the knee, bored half-lidded eyes, cropped faded olive techwear windbreaker, high collar, torn sleeve, fitted black turtleneck underneath, black utility harness, black cargo shorts over torn black tights, thigh holster strap, worn lace-up combat boots, bandage wrapped around the forearm, small silver carabiner, worn backpack"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793348956298
+ "updatedAt": 1793349001460
 };

@@ -23109,8 +23109,8 @@ window.PROMPT_DATA = {
      "text": "full body, high angle, sitting, food theme, leaning back, 1.5::hand to mouth::, holding, strawberry, cupcake, chocolate, dessert, heart shaped food, rose petals, pearl necklace, checkered background, tablecloth, bright lighting, kawaii, cute background,\n\nlolita fashion, red dress, plaid bow, gingham dress, striped sleeves, puffy short sleeves, frilled dress, ruffled sleeves, frilled wrist cuffs, cross-laced footwear, lace trim,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgb5dg.jpg?v=1793393928365",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -23128,5 +23128,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393912006
+ "updatedAt": 1793393929672
 };

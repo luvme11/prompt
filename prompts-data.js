@@ -22134,7 +22134,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvunehzx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "([원하는 동물] ear headband:1.4), fluffy plush animal ears, navy school blazer, white shirt, loose plaid necktie or ribbon, gray plaid skirt or trousers,\n\n(holding a sugar-coated churro toward camera:1.4), leaning forward playfully, bright smile, flushed cheeks, head tilted, candid selfie pose,\n\nEverland-inspired amusement park, colorful carousel, roller coaster, warm afternoon sunlight,\n\nvertical composition, close medium shot, dynamic perspective, churro in foreground, face clearly visible."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793345127558
+ "updatedAt": 1793345156571
 };

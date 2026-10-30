@@ -23095,8 +23095,8 @@ window.PROMPT_DATA = {
      "text": "upper body, portrait, holding folding fan, looking at viewer, wisteria, furin, wind chime, goldfish, glass ball, hanging ornament, beads, plant, flower, indoors, veranda, summer, breeze, dappled sunlight, soft lighting, blue theme, depth of field, blue bokeh,\n\nlight smile,\n\nblue kimono, floral print, wisteria print, obi, blue bow, large bow, frills, frilled sleeves, ruffled sleeves, hair flower, blue flower, earring, bead,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgavgr.jpg?v=1793393910868",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -23128,5 +23128,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393894817
+ "updatedAt": 1793393912006
 };

@@ -22369,8 +22369,8 @@ window.PROMPT_DATA = {
      "text": "0.5::from below::, full body, looking at hand, sitting on floor, legs bent, 2::applying nail polish::, holding nail polish, indoor, cushion, butterfly print, bedding, pink pillow, vanity, cosmetics, perfume bottles, cushion, elegant, kawaii, window, bright light, \n\npink hoodie, ruffled collar, lace ribbon, heart print, plaid shorts, loose socks, white socks, knee highs, slippers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuo17xy.jpg?v=1793346349224",
+   "pos": "50.0% 24.0%",
    "soon": false
   },
   {
@@ -22388,5 +22388,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793346283672
+ "updatedAt": 1793346350451
 };

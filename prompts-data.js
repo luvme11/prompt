@@ -22475,10 +22475,10 @@ window.PROMPT_DATA = {
      "text": "1.3::gliding toward the viewer, body tilted forward, one arm stretched out with a tray of two milkshakes, other hand snatching a flying fry midair::, playful grin, looking at viewer, 1.3::cream baseball cap with round bear ears on top::, headset, 1.3::red short sleeve dress shirt with thin black pinstripes, black necktie::, black suspenders, white waist apron"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuow6i2.jpg?v=1793347773297",
+   "pos": "42.4% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793347676558
+ "updatedAt": 1793347774719
 };

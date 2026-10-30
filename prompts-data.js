@@ -23168,7 +23168,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvgiyju",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, sitting in boat, leaning back, reclining, holding book, reading, rowboat, water, dappled sunlight, sunlight, lens flare, sparkles, parasol, flowers, sunflower, yellow flowers, rose, outdoors, nature, blurry foreground, depth of field, \n\nlight pink cardigan, open cardigan, white shirt, cream dress, frills, high waist, long sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394061010
+ "updatedAt": 1793394073496
 };

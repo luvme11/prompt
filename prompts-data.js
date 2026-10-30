@@ -22588,7 +22588,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuphkm1.jpg?v=1793348770405",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvupnxbv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2people, slight low angle, cinematic composition, 1.3::both walking side by side toward the viewer, slow steady stride::, serious expressions, cold stare, looking ahead, 1.2::crows flying overhead, crows perched on the power lines, scattered black feathers::, drifting ash, 1.3::ruined city, abandoned streets, collapsed buildings, rusted abandoned cars, leaning utility poles, tangled hanging power lines, weeds growing through cracked asphalt::, faint shambling zombie silhouettes in the distant fog, overcast sky, heavy fog, 1.2::cold desaturated tone, dark grey and muted teal, with red accents::, dim light, rim lighting, holographic lighting, 1.3::large red distressed horror title text at the top of the poster, scratched and blood red lettering::, the title reads \"AFTER THE FALL\", text, english text, 1.3::anime movie poster, key visual::, dark and grim atmosphere, photoshoot, fake magazine cover\n\nText: AFTER THE FALL"
+    },
+    {
+     "label": "남자",
+     "text": "one hand gripping a fire axe resting on the shoulder, other hand in the jacket pocket, worn black techwear hooded jacket, asymmetrical front zipper, frayed hem, dark grey hoodie layered underneath, black cargo joggers, tactical thigh straps, small metal buckles, cross-body sling bag, fingerless gloves, dirty sneakers"
+    },
+    {
+     "label": "여자",
+     "text": "one hand holding an axe hanging low at the side, blade dragging on the asphalt, other hand holding the strap of the backpack, cropped faded olive techwear windbreaker, high collar, torn sleeve, fitted black turtleneck underneath, black utility harness, black cargo shorts over torn black tights, thigh holster strap, worn lace-up combat boots, bandage wrapped around the forearm, small silver carabiner, worn backpack"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793348771804
+ "updatedAt": 1793348956298
 };

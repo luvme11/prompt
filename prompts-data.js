@@ -22500,7 +22500,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvup3820.jpg?v=1793348150492",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvupe96a",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, 1boy, adult couple, gyaru girlfriend, yakuza boyfriend, romantic comedy manga, 1.5::single comic panel, upper body, expressive faces::, eye-level, viewed from the barista's side of a cafe counter,\nThe girlfriend stands on the left, 1.5::hugging her boyfriend's near arm with both arms, leaning against his shoulder::. Her hands rest naturally around his upper arm, face tilted toward him, eyes squeezed shut in a delighted >_< expression, open mouth, blush, eagerly pleading for extra whipped cream. Small hearts beside her head.\nThe boyfriend stands on the right, his near arm relaxed within her embrace, other hand resting on the counter. Intimidating appearance contrasted with 1.3::embarrassed blush, averted eyes, slightly furrowed eyebrows, small sweatdrop::. He looks awkwardly toward the off-screen barista, mouth slightly open while placing the order.\nSpeech bubble beside the girlfriend: \"휘핑크림 마니!\"Speech bubble beside the boyfriend: \"휘핑크림… 많이 주세요.\"\nSmall cup illustration with an exaggerated whipped-cream swirl beside her speech bubble, comic hesitation marks beside him, simple cafe background, pastel accents, clean manga lineart, both faces unobstructed, no panel divisions"
+    },
+    {
+     "label": "남자",
+     "text": "1boy, adult man, yakuza, intimidating demeanor, embarrassed, blushing, averted eyes, slightly furrowed eyebrows, slightly open mouth, sweatdrop, stiff posture, black tailored suit, open-collar patterned shirt, gold chain necklace, wristwatch, one arm held by girlfriend, other hand on counter"
+    },
+    {
+     "label": "여자",
+     "text": "1girl, adult woman, gyaru, 1.5::clinging to partner's arm, arm hug::, leaning toward partner, >_<, excited open mouth, blush, affectionate, fluffy pink cardigan, fitted white top, heart earrings, layered necklaces, decorated nails, small quilted shoulder bag"
+    }
+   ],
+   "img": "img/comp/mvupe96a.jpg?v=1793348505456",
+   "pos": "50.0% 30.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793348151870
+ "updatedAt": 1793348506785
 };

@@ -23182,7 +23182,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvgiyju.jpg?v=1793394210747",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvvgnokc",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, 2::sitting, leaning back::, looking at viewer, 1.5::holding telephone, using phone, holding wine glass, alcohol::, interior, room, sofa, armchair, luxury, wine bottle, gramophone, stairs, spiral staircase, indoor lighting, warm lighting, candle, window, chandelier, bar, table, bottle on table, luxury style, detailed background,\n\nwhite evening dress, silk dress, spaghetti strap, ribbon strap, sleeveless, butterfly hair ornament, pearl hair ornament, jewelry, bracelet, ring, pearl necklace, choker, opera gloves, white gloves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394211759
+ "updatedAt": 1793394293841
 };

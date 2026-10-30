@@ -23403,8 +23403,8 @@ window.PROMPT_DATA = {
      "text": "dynamic pose, dynamic angle, looking at viewer, floating, space, starry background, planet, cassette, 1.5::speech bubble, music note::, cable, glowing, sparkle background,\n\nsmile, open mouth, \n\n2::cat spacesuit, headphones::, space helmet, chunky sneakers, shoes, short shots, paw print on sole, thigh highs, star hair ornament, headset,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhrdxm.jpg?v=1793396289568",
+   "pos": "89.3% 50.0%",
    "soon": false
   },
   {
@@ -23464,5 +23464,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396200821
+ "updatedAt": 1793396290812
 };

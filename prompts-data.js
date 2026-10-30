@@ -22257,7 +22257,7 @@ window.PROMPT_DATA = {
      "text": "dutch angle, full body, sitting on stairs, shrine stairs, 2::double fox shadow puppet::, stone steps, torii, maple trees, 1.5::autumn leaves::, fallen leaves, stone lanterns, dappled sunlight, warm glow, sunset, \n\nnaughty face, \n\nmiko uniform, fox ears, fox tail, white shirt, red skirt, wide sleeves, sash, obi, tabi socks, zori sandals, 2::kitsune mask::,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvunt93i.jpg?v=1793345959179",
    "pos": "50% 50%",
    "soon": false
   },
@@ -22290,5 +22290,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793345949350
+ "updatedAt": 1793345960515
 };

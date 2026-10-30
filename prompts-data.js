@@ -22632,7 +22632,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvupowdm.jpg?v=1793349179430",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mvupt513",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2 people, close-up, intimate pose, one person tilting head back slightly, the other leaning in and kissing their neck, both faces clearly visible and looking toward the camera, soft expressions, numerous red lipstick kiss marks covering neck and upper chest, hoop earring, thin silver necklace, striped top, white top, soft indoor lighting, sensual yet delicate atmosphere, realistic, high detail,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793349181278
+ "updatedAt": 1793349198815
 };

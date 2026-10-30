@@ -22818,7 +22818,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvb9tzk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::editorial fashion magazine cover::,\n1.4::high-fashion magazine illustration::,\n1.35::modern fashion cover layout::,\n1.3::bold magazine typography::,\n\nblue running track background,\nclean vivid blue track surface,\n1.35::straight horizontal white lane lines::,\n1.3::evenly spaced track lines::,\n1.25::flat graphic running track background::,\n1.2::clean crisp white line markings::,\nno diagonal lane lines,\nno curved lane lines,\nno warped perspective lines,\n\ndynamic side-profile upper-body pose,\ntorso angled sideways,\nhead turned toward the viewer,\none arm raised behind the head,\nholding an american football helmet over the shoulder by the facemask,\nwet messy hair,\ncalm confident expression,\neditorial sensual mood,\n\n1.35::thick muscular body::,\n1.3::broad shoulders::,\n1.25::wide chest::,\n1.3::thick muscular arms::,\n1.2::large biceps::,\n1.2::thick forearms::,\n1.25::defined pectorals::,\n1.2::defined abs::,\n1.15::defined obliques::,\n1.25::dense musculature::,\npowerful physique,\n\njewelry details,\nlayered necklaces,\nearring,\narm band,\n\n1.35::cover-style text layout::,\nvery large bold white title text at the top: \"RUSH\",\nsmall editorial subtitle near the top,\nsmall stacked cover text on the side,\nclean magazine cover composition,\ntext integrated naturally into the image,\nminimal but striking typography placement,\n\nhigh contrast lighting,\nclean shadows,\nglossy skin highlights,\nsleek contemporary fashion editorial mood,\nluxury magazine cover feel"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793385214450
+ "updatedAt": 1793385249664
 };

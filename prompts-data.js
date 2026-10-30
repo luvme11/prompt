@@ -22288,7 +22288,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuntq8s.jpg?v=1793345988270",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvunx047",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at cat, lying down, hugging, cat, calico cat, outdoors, meadow, flower field, 2::dappled sunlight, sunbeams::, \n\n:) , smile,\n\nbrown dress, white apron, long sleeves, frilled collar,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793346001649
+ "updatedAt": 1793346019872
 };

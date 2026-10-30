@@ -23574,7 +23574,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvig8s0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "text, korean text, white background, upper body, from below, pov, foreshortening, looking down at viewer, holding bowl, bowl on palm, chopsticks, lifting noodles, black bean noodles, dripping sauce, grey t-shirt, short sleeves, black shorts, indoors, ceiling. A portrait-format Korean mobile community post fills a flat white page, with a header at the top, a broad white gap, one wide rectangular photo across the middle, and four lines of black body text at the bottom. The top-left title reads \"아니 내 남편새끼\" in large bold black sans-serif lettering. Beneath it, the gray author label \"익명\" sits on its own line. The next row shows a small gray clock icon followed by the gray date \"2021.02.11\", a small gray dot, a small gray document icon, and the gray view count \"3,053\". On the far right of the header, a thin gray outlined circle contains the comment count \"86\". A thin light-gray horizontal divider runs across the page below the header, followed by a wide empty white gap. The central photo spans the full page width and looks like a casual smartphone snapshot taken from bed, bright and slightly washed out, with a plain white ceiling, a recessed ceiling light, a pale wall, a beige door frame on the right side, and a silver cylindrical bin in the lower-left corner. Inside this rectangle, the man stands at the bedside looming over the camera at an extreme low angle, his torso filling the center and his head near the top edge, partly cropped above the eyebrows, mouth in a proud grin. He wears a plain light grey t-shirt and black shorts with thin white stripes. 1.5::a large white ceramic bowl balanced on his open palm in the lower-right foreground, tilted toward the camera, its rim smeared with dark black-bean sauce::, the forearm clearly connecting the hand to his body. His other hand is raised high in the upper left, gripping chopsticks that lift a thick tangle of glossy dark saucy noodles, the noodles dangling down over the bowl as if about to drop onto the bed. Sauce drips from the noodles toward the camera. Beneath the photo, four left-aligned lines of plain black Korean body text in a regular weight, much smaller than the title, read in order from top to bottom: \"침대에 누워서 자고있는데\", \"지 짜파게티 존나 잘 끓였다고 제발 맛 보라고\", \"사정사정하네\", \"침대에 떨어트릴까봐 소리 졸라 질렀더니 잠이 확 깬다\". No glasses or sunglasses on the man."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793397275262
+ "updatedAt": 1793397306286
 };

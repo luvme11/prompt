@@ -22162,7 +22162,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": true
+  },
+  {
+   "id": "mvunljzo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "공용\n1girl, 1boy, prone bone, ass up face down, arched back, rough violent sex, deep penetration, bedroom, glistening sweaty skin, wet skin, erotic expression, aroused, 2::nsfw::\n\n남자: black formal suit, white shirt, dominant, sadistic smile, pulling another's leash from behind, grabbing leash, yanking leash, controlling with leash, grabbing hair, intense thrusting, penis, ejaculate\n\n여자: ahegao, rolled eyes, tongue out, drooling, tears, crying, mind break, body trembling, collar and leash, leash pull, being pulled by leash, choking with leash, dog collar, red hickeys on neck and breasts, sweat, pussy juice dripping, heavy breathing, breasts pressed against bed"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": true
   }
  ],
- "updatedAt": 1793345464035
+ "updatedAt": 1793345486046
 };

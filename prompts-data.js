@@ -23602,7 +23602,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvihhpr.jpg?v=1793397511972",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvviofjq",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "Man: [외형],\n1man, solo, messy bedhead, tousled hair sticking up in uneven directions, prominent cowlicks at the crown,\nshirtless, complete back view, standing at a kitchen counter, full back visible from both shoulders to the waist, black boxer briefs with the waistband and upper portion clearly visible, lower body cropped below the hips,\nbody facing completely away from the camera, only his head turned back over one shoulder, partial face visible, extremely embarrassed expression, cheeks, ears, face, and neck deeply flushed red, lips slightly parted,\none hand awkwardly rubbing the back of his neck, other hand resting on the kitchen counter,\nexactly [그림 개수] crude marker doodles drawn directly on his bare back, each drawing appearing once: [그림 종류]\nexactly [문구 개수] handwritten Korean words placed separately among the drawings: [문구 종류]\nthe drawings and words made with red, pink, blue, green, orange, purple, and brown markers, each item using a different color,\nvery simple amateur doodles, only a few shaky marker strokes per drawing, crooked outlines, uneven sizes, asymmetrical shapes, clumsy dot eyes, childish handwriting,\nthe [그림 개수] drawings and [문구 개수] words spread irregularly across both shoulders, shoulder blades, spine, sides, and lower back, each item placed at a different angle with uneven spaces between them,\nstraight rear view, medium shot from the top of his head to the upper part of his boxer briefs, his entire back centered and fully visible,\nsimple home kitchen, white cabinets, countertop, sink, frying pan, and a few cooking utensils"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793397513476
+ "updatedAt": 1793397688299
 };

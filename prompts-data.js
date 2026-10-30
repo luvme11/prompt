@@ -22563,8 +22563,8 @@ window.PROMPT_DATA = {
      "text": "1girl, adult woman, composed, slightly annoyed, closed mouth, lowered gaze, fastening partner's helmet strap, oversized charcoal denim jacket, red tank top, silver hoop earrings, crossbody bag"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvupgm40.jpg?v=1793348758553",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -22590,5 +22590,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793348677983
+ "updatedAt": 1793348759590
 };

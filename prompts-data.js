@@ -23375,8 +23375,8 @@ window.PROMPT_DATA = {
      "text": "2::profile::, side view, upper body, close up, looking at viewer, looking over shoulder, hands to face, shadow, indoor, cinematic shot, spotlight, shadow, film grain, stage, red background, \n\nhalf-closed eyes, smirk,\n\ngreen cheongsam, white fur boa, pearl necklace, qipao, floral print, embroidery, short sleeves, drop earrings, hair ornament, pearl hair ornament, teru teru bozu, red trim,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhmn0y.jpg?v=1793396072738",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -23394,5 +23394,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396061533
+ "updatedAt": 1793396074830
 };

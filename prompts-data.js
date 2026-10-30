@@ -22665,8 +22665,8 @@ window.PROMPT_DATA = {
      "text": "1girl, adult mermaid, iridescent turquoise fish tail, translucent fins, pearl strands, shell-adorned bodice, coral hair ornament, 1.4::curious, fascinated, raised eyebrows, head tilt::, slightly parted lips, looking at man's face, leaning closer, one hand supporting his head, other index finger lightly touching his cheek,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvupvbx7.jpg?v=1793349447946",
+   "pos": "50.0% 0.0%",
    "soon": false
   },
   {
@@ -22692,5 +22692,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793349436751
+ "updatedAt": 1793349449481
 };

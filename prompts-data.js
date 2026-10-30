@@ -22341,8 +22341,8 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, cowboy shot, looking at viewer, 2::hand heart::, blue sky, day, outdoors, clouds, bubble, balloon, flower petals, falling petals, \nwinking, smiling, \nsailor dress, sailor hat, plaid skirt, white dress, bow, bow on chest, buttons, frilled cuffs, wrist cuffs,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvunyi1t.jpg?v=1793346175819",
+   "pos": "50.0% 22.0%",
    "soon": false
   },
   {
@@ -22360,5 +22360,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793346157874
+ "updatedAt": 1793346177002
 };

@@ -22607,8 +22607,8 @@ window.PROMPT_DATA = {
      "text": "one hand holding an axe hanging low at the side, blade dragging on the asphalt, other hand holding the strap of the backpack, cropped faded olive techwear windbreaker, high collar, torn sleeve, fitted black turtleneck underneath, black utility harness, black cargo shorts over torn black tights, thigh holster strap, worn lace-up combat boots, bandage wrapped around the forearm, small silver carabiner, worn backpack"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvupnxbv.jpg?v=1793349102884",
+   "pos": "50.0% 6.0%",
    "soon": false
   },
   {
@@ -22634,5 +22634,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793349001460
+ "updatedAt": 1793349104074
 };

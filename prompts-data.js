@@ -22646,7 +22646,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvupvbx7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, 1boy, adult characters, mermaid, shipwreck survivor, rocky shore, cinematic fantasy romance, 1.5::character focus, close two-shot, both faces clearly visible::, slightly elevated three-quarter view,\n\nunconscious man lying diagonally on wet sand sheltered between dark coastal rocks, head resting against the mermaid's lap, eyes closed, lips slightly parted, soaked modern clothing, limp posture,\n\nmermaid sitting in a shallow tidal pool, 1.4::curious expression, raised eyebrows, head tilt, lips slightly parted::, leaning closer to study his face with fascination, one hand supporting his head, one fingertip of her other hand gently touching his cheek, her face visible in three-quarter view,\n\nsingle iridescent fish tail curving along the lower foreground, translucent fin submerged in clear water,\n\njagged black reef rocks framing the couple, waves breaking against distant rocks, wet reflective stone, small tide pools, seaweed in crevices, white foam threading between rocks, broken boat plank lodged in the background,\n\npale dawn light breaking through retreating storm clouds, turquoise water reflections, silver sea spray, soft natural light illuminating both faces, pearl white, sea green, charcoal, pale peach accents, clean lineart, soft cel shading,"
+    },
+    {
+     "label": "남자",
+     "text": "1boy, adult man, unconscious, eyes closed, slightly parted lips, relaxed eyebrows, wet hair, soaked white button-up shirt, open collar, rolled-up sleeves, dark modern trousers, wristwatch, lying on wet sand, head resting against mermaid's lap, arms limp at sides,"
+    },
+    {
+     "label": "여자",
+     "text": "1girl, adult mermaid, iridescent turquoise fish tail, translucent fins, pearl strands, shell-adorned bodice, coral hair ornament, 1.4::curious, fascinated, raised eyebrows, head tilt::, slightly parted lips, looking at man's face, leaning closer, one hand supporting his head, other index finger lightly touching his cheek,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793349198815
+ "updatedAt": 1793349301514
 };

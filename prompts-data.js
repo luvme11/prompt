@@ -23252,7 +23252,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvgop0d",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "0.5::from above, from side::, portrait,  2::sitting on bed::, leaning forward, looking at mirror, holding hand mirror, indoor, bedroom, soft lighting, dresser, teddy bear, pillow, poster onwall, sunlight, shadow, depth of field, pink theme,\n\npink frilled camisole, lace trim, pink ribbon, hair ribbon, white lace socks, ruffled bloomer shorts,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394332150
+ "updatedAt": 1793394341634
 };

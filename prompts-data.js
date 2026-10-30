@@ -23081,8 +23081,8 @@ window.PROMPT_DATA = {
      "text": "upper body, looking at viewer, holding bouquet, holding flowers, hand near head, hand on head, blue sky, outdoors, balloons, heart balloon, confetti, ribbon, daylight, bright lighting, \n\nsmile, happy, \nflower crown, white rose, \nwhite sundress, sleeveless dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvgapyq.jpg?v=1793393893201",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -23128,5 +23128,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393878973
+ "updatedAt": 1793393894817
 };

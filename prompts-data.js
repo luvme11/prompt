@@ -23252,7 +23252,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvgop0d.jpg?v=1793394516449",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mvvgsl5c",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, looking away, sitting on bed, knees up, 2::holding phone, smartphone, calling phone::, bedroom, night, indoor, window, curtains, lamp, alarm clock, coffee table, stuffed toy, soft lighting, shadow, depth of field, pink theme, cute room,\n\npink loungewear, ruffled shorts, frilled cardigan, pink camisole, ribbon, bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394517455
+ "updatedAt": 1793394522994
 };

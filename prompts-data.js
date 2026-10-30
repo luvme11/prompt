@@ -23014,7 +23014,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvg6s2j",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, 1::bird on hand::, 2::sitting on windowsill::, looking at bird, indoor, window, curtain, potted plant, flower, cream flower, garden, sunlight, lens flare, bokeh, \n\nlolita dress, green dress, frilled headband, ribbon, bowtie, puff sleeves, white stockings, frills, lace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793393496158
+ "updatedAt": 1793393505187
 };

@@ -22285,10 +22285,10 @@ window.PROMPT_DATA = {
      "text": "profile, side view, 2::petting horse::, dappled sunlight, horse head, horse bridle, touching nose, standing, outdoors, forest, autumn, yellow leaves, falling leaves, warm lighting, volumetric lighting, sunbeam, bokeh, blurry background, depth of field, white ruffled blouse, black skirt, long sleeves,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvuntq8s.jpg?v=1793345988270",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793345960515
+ "updatedAt": 1793345989607
 };

@@ -22453,8 +22453,8 @@ window.PROMPT_DATA = {
      "text": "2people, simple background, white background, side angle, profile view,\n\n solo focus, 1.6::burying face in partner's hand::,  1.5::leaning cheek and jaw into partner's hand::, face resting heavily against palm, pressing face into hand, seeking comfort,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvuoq698.jpg?v=1793347501139",
+   "pos": "50.0% 62.0%",
    "soon": false
   },
   {
@@ -22472,5 +22472,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793347456705
+ "updatedAt": 1793347502182
 };

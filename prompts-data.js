@@ -22566,7 +22566,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvuphkm1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, 1boy, adult couple, runaway wedding, romantic road movie, cinematic composition, 1.5::character focus, waist-up, both faces clearly visible::, eye-level, three-quarter view,\nboy seated on a parked motorcycle, girl standing close beside him, lifting the loose end of her bridal veil over his head with one hand, 1.3::shared translucent veil framing both faces::, fabric draped behind their heads and around their shoulders, faces uncovered,\ngirl laughing softly while looking at him, boy looking back with raised eyebrows and a restrained amused smile, her other hand resting on his shoulder, his hands relaxed on the motorcycle fuel tank,\nquiet coastal gas station at dawn, vintage fuel pump near the outer edge, helmet resting on the motorcycle seat behind him, small bridal bouquet tucked into a canvas bag, ocean visible beyond the empty road,\npale peach clouds, clear blue morning sky, soft natural light illuminating their faces through the veil, sea breeze lifting the fabric, ivory and faded turquoise with subtle red accents, intimate spontaneous atmosphere, clean lineart, soft cel shading"
+    },
+    {
+     "label": "남자",
+     "text": "1boy, adult man, worn black leather jacket, white t-shirt, dark jeans, seated on motorcycle, raised eyebrows, restrained smile, closed mouth, looking at partner, hands resting on fuel tank, bridal veil loosely draped over head with face exposed"
+    },
+    {
+     "label": "여자",
+     "text": "1girl, adult woman, ivory satin wedding dress, delicate lace neckline, long tulle veil, small pearl earrings, joyful expression, slightly open mouth, looking at partner, one hand lifting veil over his head, other hand on his shoulder"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793348614467
+ "updatedAt": 1793348659302
 };

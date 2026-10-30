@@ -23319,7 +23319,7 @@ window.PROMPT_DATA = {
      "text": "close up, portrait, upper body, looking at viewer, holding, 2::holding crystal heart::, hands to chest, 1.5::floating crystal hearts::, light particles, pink background, pastel background,\n\nwinking, smile,\n\nhair bow, pink ribbon, frilled shirt, camisole, ribbon trim,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mvvhgtd5.jpg?v=1793395785266",
    "pos": "50% 50%",
    "soon": false
   },
@@ -23338,5 +23338,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793395760523
+ "updatedAt": 1793395786573
 };

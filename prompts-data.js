@@ -23529,10 +23529,10 @@ window.PROMPT_DATA = {
      "text": "from above, dutch angle, cowboy shot, looking at viewer, 2::sitting::,  holding guitar, playing guitar, indoor, blue flower, flower, constellation, chalkboard, speaker, piano tile floor, cinematic lighting, glowing, sparkle,\n\nfrilled dress, detached sleeves, hair ornament, black dress, lace trim, headband, armlet, ribbon, blue ribbon, bow, pantyhose,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhwsnq.jpg?v=1793396579352",
+   "pos": "50.0% 36.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793396565273
+ "updatedAt": 1793396580506
 };

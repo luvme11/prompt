@@ -23028,7 +23028,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvg6y3x",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, 2::holding megaphone::, megaphone, toy, box, heart, musical note, cloud, cluttered, crowded, vibrant, comic, game cg, pop style, cute background, pastel background, halftone background, border, speech bubble musical note, pixel heart, \n\nsailor uniform, sailor collar, short sleeves, vest, badge, button, pleated skirt, belt, loose socks, sneakers, hair clip, wristband, bandage, \n\nsmile, open mouth,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793393505187
+ "updatedAt": 1793393513353
 };

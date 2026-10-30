@@ -22712,7 +22712,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuq16w1.jpg?v=1793349696003",
    "pos": "50.0% 24.0%",
    "soon": false
+  },
+  {
+   "id": "mvuq61kd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "2 characters, front view, centered position, upper body, standing side by side, close together, wedding, rainy day, gentle rain, fresh atmosphere, bright natural lighting, refreshing background, soft green background, romantic wedding atmosphere, candid moment, joyful mood, rain droplets, wet hair, subtle water droplets on clothing, spontaneous laughter, natural interaction, heartwarming moment, cinematic photography, candid wedding photograph, realistic facial expressions, dynamic composition, soft depth of field, natural background blur, bright and lively atmosphere, warm romantic feeling"
+    },
+    {
+     "label": "남자",
+     "text": "A: black formal wedding suit, black suit, white dress shirt, black tie, elegant wedding attire, smiling warmly, looking at B, affectionate expression, standing close beside B,"
+    },
+    {
+     "label": "여자",
+     "text": "B(female): beautiful white off-shoulder wedding dress, elegant bridal gown, off-the-shoulder neckline, exposed shoulders, fitted bodice, delicate lace details, flowing white wedding gown, elegant bridal veil, wedding veil, holding a wedding bouquet in the opposite hand, bouquet of fresh flowers, laughing brightly, eyes closed from laughter, joyful expression, head slightly tilted upward, one hand covering her mouth while laughing, slightly messy wet hair, loose strands of hair sticking to face from the rain, natural candid pose, radiant smile, cheeks slightly flushed"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793349697553
+ "updatedAt": 1793349800990
 };

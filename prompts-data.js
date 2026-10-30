@@ -23347,8 +23347,8 @@ window.PROMPT_DATA = {
      "text": "from above, from behind, cowboy shot, 2::sitting, back view, looking at mirror, reflection, looking at reflection::, indoor, dressing room, dressing table, vanity, ornate mirror, multiple mirrors, table, dim lighting, cinematic shot, detailed background,\n\ncheongsam, qipao, green dress, floral print, short sleeves, white fur boa, white fur stole, pearl necklace, kanzashi, hair ornament, flower hair ornament, earrings, jade bracelet, white lace gloves, elbow gloves,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhm9h5.jpg?v=1793396021663",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -23394,5 +23394,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793395934959
+ "updatedAt": 1793396022794
 };

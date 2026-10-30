@@ -22400,7 +22400,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuo9q80.jpg?v=1793346615234",
    "pos": "50.0% 16.0%",
    "soon": false
+  },
+  {
+   "id": "mvuodnai",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, pale skin, black hair, short hair, side-parted bangs, long fringe, reddish grey eyes, large black and grey wolf ears, fluffy inner ear fur, large fluffy grey wolf tail curling upward behind one shoulder, dark red nails,\n\ncowboy shot, slightly from above, seated with one knee drawn up toward the chest, leaning forward, head tilted slightly downward, looking up at viewer, half-lidded eyes, furrowed eyebrows, blush, mischievous grin, visible fang, 1.3::one hand raised beside the cheek, index finger hooking one corner of the mouth and pulling it sideways to expose a fang::,\n\nwerewolf Halloween costume, oversized black and grey horizontally striped sweater, wide stretched neckline slipping off one shoulder, exposed collarbone, small tears and holes in the sweater, long loose sleeves, black trousers, white bandages wrapped around one wrist, fluffy grey fur cuff, black fabric straps dangling from the sleeve, 1.2::red leather collar with metal studs and a rectangular silver buckle, long metal leash chain clipped to the front of the collar and draped diagonally across the torso::,\n\nflat coral pink background, scattered black and white five-pointed stars, small black bat silhouettes, tiny white sparkles layered over the hair and clothes, loose black handwritten lettering in the upper right, soft frontal lighting, cool grey shadows, glossy hair highlights, playful and teasing Halloween atmosphere, text, english text,"
+    }
+   ],
+   "img": "img/comp/mvuodnai.jpg?v=1793346797430",
+   "pos": "50.0% 20.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793346617203
+ "updatedAt": 1793346798668
 };

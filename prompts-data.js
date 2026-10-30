@@ -22983,8 +22983,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, 0.5::low angle::, kowloon walled city, dense architecture, night, rain, neon lights, cluttered background, power lines, cables, wet, leaning back, 2::holding umbrella::, red umbrella, wagasa, railing, leaning back, dystopian, cramped, \n\nred qipao, sleeveless, side slit, dragon print, gold trim, flower hair ornament, earring,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvfyaor.jpg?v=1793393466858",
+   "pos": "50.0% 46.0%",
    "soon": false
   },
   {
@@ -23002,5 +23002,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793393453086
+ "updatedAt": 1793393468463
 };

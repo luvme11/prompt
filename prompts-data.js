@@ -23266,7 +23266,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvgsl5c.jpg?v=1793394636512",
    "pos": "50.0% 6.0%",
    "soon": false
+  },
+  {
+   "id": "mvvharn9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from behind, from above, high angle, cowboy shot, looking at viewer, leaning back, sitting, sitting in chair, gaming chair, pink furniture, desk, computer desk, keyboard, computer monitor, 2::holding game controller::, pink game controller, joystick, lollipop in mouth, lollipop stick, indoor, cute room, pink theme, soft lighting, pastel color,\n\npink camisole, frilled camisole, spaghetti straps, of-shoulder shirt, white long sleeves, puffed sleeves, ribbed cuffs, frills, layered clothing,"
+    }
+   ],
+   "img": "img/comp/mvvharn9.jpg?v=1793395371845",
+   "pos": "50.0% 32.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793394638597
+ "updatedAt": 1793395373679
 };

@@ -23557,8 +23557,8 @@ window.PROMPT_DATA = {
      "text": "shirtless, bare chest, jumpsuit, coveralls, sleeves tied around waist, jumpsuit tied at waist, 1.5::suspenders::, thick work gloves, towel around neck, stretching, one arm stretched out, arm extended, side stretch, head turned slightly to the side, looking to the side, side glance, workshop, garage, mechanic shop,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvie108.jpg?v=1793397407927",
+   "pos": "50.0% 4.0%",
    "soon": false
   },
   {
@@ -23604,5 +23604,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793397395675
+ "updatedAt": 1793397409207
 };

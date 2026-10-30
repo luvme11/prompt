@@ -23322,7 +23322,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvvhh0y2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying down, blue butterfly, on stomach, resting chin on hands, blue flower, white flower, flowerbed, multiple butterflies, glowing, water, reflection, water drop, particles, light rays, ethereal, blue theme,\n\nwhite dress, backless dress, off shoulder, frilled sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793395653008
+ "updatedAt": 1793395663062
 };

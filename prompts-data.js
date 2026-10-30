@@ -23686,7 +23686,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvj5ter.jpg?v=1793398629762",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvvjhmya",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, solo, highly detailed anime illustration, mixed media character collage, 1.4::paparazzi tabloid aesthetic::, 1.5::one large main character chest-up portrait in the center::, 1.4::one hand raised to block the camera lens::, 1.3::face partially visible between the fingers::, 1.3::annoyed glare at viewer::, 1.4::harsh camera flash lighting on the face::, 1.4::small candid snapshots of the same character scattered around::, 1.3::blurry paparazzi photos stuck with tape::, 1.3::torn tabloid newspaper clippings::, 1.3::red circle marks drawn on the photos::, 1.2::film negative strips::, 1.2::camera flash burst effects::, 1.2::polaroid photos::, 1.2::torn paper edges::, 1.2::halftone dot texture::, 1.2::black car and hotel entrance in one of the snapshots::, 1.3::black, white and red color scheme::, 1.2::gold flash accents::, high contrast lighting, tense scandalous mood, dense decorative layout, crisp detailed linework, glossy flash-lit shading,"
+    }
+   ],
+   "img": "img/comp/mvvjhmya.jpg?v=1793399051998",
+   "pos": "50.0% 56.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793398631115
+ "updatedAt": 1793399053163
 };

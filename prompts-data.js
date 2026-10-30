@@ -22522,7 +22522,29 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvupe96a.jpg?v=1793348505456",
    "pos": "50.0% 30.0%",
    "soon": false
+  },
+  {
+   "id": "mvupg991",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1girl, 1boy, adult couple, japanese wedding, eerie romance, ornate wedding illustration, ivory, vermilion, black, muted gold, 1.5::large central couple, upper body, both faces clearly visible::, eye-level, inward three-quarter views, asymmetrical decorative composition,\nThe bride stands on the left, body angled slightly toward the groom on the right. She tilts her head toward him, looking up with a quiet unreadable expression, closed mouth. Her hands are concealed together inside her sleeves below chest level.\nThe groom gently adjusts a small bridal hair ornament near her outer temple with one hand, fingers beside her head without covering her face. His other arm stays outside the crop. He looks at the ornament with a calm focused expression, closed mouth. Their shoulders nearly touching, both faces large and clearly separated.\nLayered ivory washi and vermilion floral paper behind their silhouettes, fine gold folding-screen patterns. A broad red-and-white mizuhiki knot curves behind their shoulders, long decorative cords weaving through the surrounding ornaments.\nUpper left: a partially opened gold-and-ivory folding fan, red camellias tucked against its ribs.Lower right: a small black lacquer tray holding three stacked red sake cups, a narrow ceremonial envelope beneath it.Opposite corners: folded paper cranes, white chrysanthemums and small knotted charms, varied sizes and angles.\nShimenawa and hanging white shide across the upper outer edge, a tiny shrine bell suspended from a frayed red cord. One paper crane casts an unnaturally long shadow, one ceremonial cup has a fine crack. Faint lantern glow behind the paper layers, beautiful but unsettling stillness.\nDense decorative margins, props partly tucked behind the couple rather than covering them, clear space around faces and raised hand, cohesive illustrated style, single depiction of each character, no inset portraits, no readable text"
+    },
+    {
+     "label": "남자",
+     "text": "1boy, adult man, japanese groom, black montsuki haori, white inner collar, white haori cord, calm focused gaze, closed mouth, looking at partner's hair ornament, one hand gently adjusting ornament beside her temple"
+    },
+    {
+     "label": "여자",
+     "text": "1girl, adult woman, japanese bride, shiromuku, white uchikake, subtle woven crane embroidery, layered white collar, broad sleeves, delicate gold-and-white bridal hair ornaments, face fully uncovered, head slightly tilted toward partner, looking up at partner, expressionless, closed mouth, hands concealed inside sleeves"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793348506785
+ "updatedAt": 1793348597745
 };

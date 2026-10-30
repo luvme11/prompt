@@ -22386,7 +22386,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuo2nl8.jpg?v=1793346405451",
    "pos": "50.0% 40.0%",
    "soon": false
+  },
+  {
+   "id": "mvuo9q80",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "full body, 0.5::wide angle::, low angle, looking at viewer, sitting, sitting  ice cube, beach umbrella, holding ice cream, eating, outdoors, blue sky, cloud, cumulus, sunlight, bright skin, bottle, drink, glass, cup, ice cube, table, cooler, plant, chunky sneakers, frayed shorts, white sleeveless shirt, wristband, socks,"
+    }
+   ],
+   "img": "img/comp/mvuo9q80.jpg?v=1793346615234",
+   "pos": "50.0% 16.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793346406670
+ "updatedAt": 1793346617203
 };

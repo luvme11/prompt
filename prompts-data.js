@@ -23417,8 +23417,8 @@ window.PROMPT_DATA = {
      "text": "wariza, sitting, surrounded by plushies, looking at viewer, hands up, paw pose, leaning forward, indoors, stuffed cat, stuffed heart, pillow, soft lighting, pink theme, purple theme, pastel theme, depth of field,\n\ngothic lolita, frilled pinafore dress, long sleeved blouse, frilled cuffs, black hair ribbon, cat hair ornament, hair clip, black choker, bell choker, bracelet, wrist cuffs, fishnet stockings, garter strap, ribbon, checkered ribbon,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvvhru02.jpg?v=1793396299970",
+   "pos": "50.0% 0.0%",
    "soon": false
   },
   {
@@ -23464,5 +23464,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793396290812
+ "updatedAt": 1793396301050
 };

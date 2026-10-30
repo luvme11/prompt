@@ -22299,8 +22299,8 @@ window.PROMPT_DATA = {
      "text": "upper body, looking at cat, lying down, hugging, cat, calico cat, outdoors, meadow, flower field, 2::dappled sunlight, sunbeams::, \n\n:) , smile,\n\nbrown dress, white apron, long sleeves, frilled collar,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvunx047.jpg?v=1793346120532",
+   "pos": "67.5% 50.0%",
    "soon": false
   },
   {
@@ -22360,5 +22360,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793346101675
+ "updatedAt": 1793346122072
 };

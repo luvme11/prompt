@@ -22428,7 +22428,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvuoieef.jpg?v=1793347019223",
    "pos": "50.0% 20.0%",
    "soon": false
+  },
+  {
+   "id": "mvuoo18w",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, adult male, halloween, demon boy, handsome, short black hair, slicked back hair, red eyes, demon horns, fang, charming smile, black butler suit, black tailcoat, burgundy vest, white dress shirt, black necktie, white gloves, pocket watch, demon tail, holding silver tray, candy on tray, bowing, looking at viewer, cowboy shot, gothic mansion entrance hall, grand staircase, ornate wallpaper, chandelier, jack-o'-lantern, candles, warm red lighting, mysterious atmosphere, elegant dark fantasy"
+    }
+   ],
+   "img": "img/comp/mvuoo18w.jpg?v=1793347282359",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793347020394
+ "updatedAt": 1793347283692
 };

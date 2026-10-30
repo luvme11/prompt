@@ -23182,21 +23182,7 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
-  },
-  {
-   "id": "mvvgj41k",
-   "tab": "comp",
-   "name": "",
-   "codes": [
-    {
-     "label": "",
-     "text": "dutch angle, lying on plate, from above, lying on back, legs together, food on plate, strawberry, blueberry, raspberry, fruit, flower, leaf, fork, knife, cutlery, tabletop, food focus,"
-    }
-   ],
-   "img": "",
-   "pos": "50% 50%",
-   "soon": false
   }
  ],
- "updatedAt": 1793394188762
+ "updatedAt": 1793394202809
 };

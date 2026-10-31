@@ -23770,7 +23770,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvly4wo.jpg?v=1793403180526",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvvslh2l",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1boy, 1girl, two people standing close together side by side, smoking cigarettes, the woman and the man standing shoulder to shoulder, both holding cigarettes, calm and cool expressions, subtle tension, ruined apocalypse building in the background, broken concrete walls, collapsed structure, scattered debris, cracked floor, dust in the air, abandoned destroyed interior, dark smoky atmosphere, cinematic lighting, dramatic composition"
+    }
+   ],
+   "img": "img/comp/mvvslh2l.jpg?v=1793414347238",
+   "pos": "50.0% 0.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793403181560
+ "updatedAt": 1793414348312
 };

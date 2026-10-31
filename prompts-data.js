@@ -23784,7 +23784,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvslh2l.jpg?v=1793414347238",
    "pos": "50.0% 0.0%",
    "soon": false
+  },
+  {
+   "id": "mvvtgin6",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1boy, 1girl, couple, two people, standing face to face, very close together, 2.0::girl wrapping both arms around the boy's neck::, 1.9::girl leaning closer to kiss the boy::, 1.9::faces inches apart::, almost kissing, lips nearly touching, romantic tension, intimate pose, boy looking down at the girl, girl looking up at the boy, upper body shot, three-quarter view, cinematic composition,\n\nruined apocalypse building, collapsed concrete walls, shattered windows, broken pillars, scattered rubble, destroyed urban interior, dust floating in the air, abandoned building, dim natural lighting, dramatic shadows, cinematic atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvvtgin6.jpg?v=1793415795686",
+   "pos": "50.0% 34.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793414348312
+ "updatedAt": 1793415797371
 };

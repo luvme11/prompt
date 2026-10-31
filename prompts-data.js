@@ -23798,7 +23798,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvtgin6.jpg?v=1793415795686",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mvvu9h76",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "1boy, 1girl, couple, two people,\n\n2.0::standing very close together side by side::,\n2.0::shoulders touching::,\n1.9::both smoking cigarettes::,\n1.9::standing on the same stairwell landing::,\n1.8::holding lit cigarettes near their lips::,\n1.8::relaxed standing poses::,\n1.7::upper body shot::,\n1.7::front three-quarter view::,\n\n2.0::old abandoned emergency stairwell::,\n1.9::post-apocalyptic atmosphere::,\n1.9::deteriorating concrete walls::,\n1.9::rusted metal stair railings::,\n1.8::cracked concrete stairs::,\n1.8::peeling paint and water stains::,\n1.8::broken emergency exit door::,\n1.7::scattered rubble and debris::,\n1.7::exposed pipes and damaged walls::,\n1.6::flickering fluorescent lights::,\n1.6::dusty and smoky air::,\ndim natural lighting, muted colors,\ncinematic composition, gloomy atmosphere,"
+    }
+   ],
+   "img": "img/comp/mvvu9h76.jpg?v=1793417147005",
+   "pos": "50.0% 74.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793415797371
+ "updatedAt": 1793417148251
 };

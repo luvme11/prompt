@@ -23826,7 +23826,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvyvn597",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, leaning forward, paw pose, on pillow, indoors, chinese architecture, folding screen, paper lantern, bamboo, stylized clouds, pastel background, soft lighting,\n\nmini cheongsam, hair bun cover, detached sleeves, chinese clothes, keyhole neck, pankou, frilled sleeves, frilled hem, thigh strap, garter, tassel hair ornament, chinese knot, tassel, earrings,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793600852543
+ "updatedAt": 1793600862024
 };

@@ -23851,8 +23851,8 @@ window.PROMPT_DATA = {
      "text": "upper body, portrait, looking down, 2::reading, holding flower::, rose, dappled sunlight, sitting, wooden table, open book,  bouquet, plant, indoors, sunlight,\n\noff shoulder dress, lace ribbon, black dress, velvet dress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvyvndpt.jpg?v=1793601101800",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -23870,5 +23870,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793601080989
+ "updatedAt": 1793601102962
 };

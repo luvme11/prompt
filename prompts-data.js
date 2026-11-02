@@ -23854,7 +23854,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mvyvnk5p",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, upper body, 2::leaning on table::, map, magnifying glass, chessboard, chess piece, book, library, bookshelf, indoors, chandelier, depth of field, detailed background,\n\nblack jacket, black gloves, white shirt, black necktie,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793600872596
+ "updatedAt": 1793600881668
 };

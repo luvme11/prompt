@@ -23823,8 +23823,8 @@ window.PROMPT_DATA = {
      "text": "upper body, looking at viewer,  hugging, sitting in bed, holding plushie, stuffed toy, bear plushie, indoors, bedroom, bed, pillow, blanket, window, soft lighting, lens flare, sunlight, portrait, looking at viewer,\nlight smile, \n\nsleep mask on hair, bear sleep mask, beige hoodie, shirt, cream sweater,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mvyvmxo0.jpg?v=1793601068288",
+   "pos": "50.0% 16.0%",
    "soon": false
   },
   {
@@ -23870,5 +23870,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793600881668
+ "updatedAt": 1793601069315
 };

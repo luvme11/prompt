@@ -23812,7 +23812,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvvu9h76.jpg?v=1793417147005",
    "pos": "50.0% 74.0%",
    "soon": false
+  },
+  {
+   "id": "mvyvmxo0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer,  hugging, sitting in bed, holding plushie, stuffed toy, bear plushie, indoors, bedroom, bed, pillow, blanket, window, soft lighting, lens flare, sunlight, portrait, looking at viewer,\nlight smile, \n\nsleep mask on hair, bear sleep mask, beige hoodie, shirt, cream sweater,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793417148251
+ "updatedAt": 1793600852543
 };

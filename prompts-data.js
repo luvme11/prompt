@@ -24044,7 +24044,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0x93rh.jpg?v=1793724499747",
    "pos": "50.0% 2.0%",
    "soon": false
+  },
+  {
+   "id": "mw0xy7ta",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, high angle, dutch angle, 2::upper body, sitting on chair::, leaning back, indoor, curtain, red theme, 2::rose, petals, falling petals::, flower, dark background, shadow, cinematic shot, spotlight, shadow, film grain, stage,\n\ngothic lolita, black dress, frilled dress, off shoulder, red ruffles, parasol, black parasol, mini top hat, rose hair ornament, choker, pendant, red ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793724501324
+ "updatedAt": 1793725670242
 };

@@ -24240,7 +24240,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw16den3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, 2::holding stuffed cat::, looking at viewer, sitting on floor, indoors, dark, low lighting, shadow, book, paper, rose, white rose, petals, curtain, black theme, cinematic shot, volumetric lighting, detailed background,\n\ngothic lolita, black dress, frilled dress, long sleeves, puff sleeves, bell sleeves, layered dress, frills, multiple bows, ribbons, bow on dress, frilled collar, bowtie, neck ribbon, hair ornament, hair ribbon, bow hairband,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793739809022
+ "updatedAt": 1793739815478
 };

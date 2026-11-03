@@ -24083,8 +24083,8 @@ window.PROMPT_DATA = {
      "text": "holding an old film camera up to one eye, (bust shot, chest-up composition:1.4), close-up framing, upper body only, vintage room background, soft natural sunlight, streaming through blinds, \n\nquiet melancholic cinematic atmosphere, expressive painterly anime illustration, pale color, (detailed hair), (detailed eyes), (ligne claire), (manga cover),\n\nclean_art_painting_style, slightly_flat_color"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw10ydym.jpg?v=1793730934323",
+   "pos": "50.0% 36.0%",
    "soon": false
   },
   {
@@ -24144,5 +24144,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793730758351
+ "updatedAt": 1793730935502
 };

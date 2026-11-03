@@ -24254,7 +24254,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw16dmyv",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, high angle, cowboy shot, looking at viewer, lying on back, lying on floor, 2::holding book::, covered mouth, reading, pink checkered floor, scattered books, laptop, 2::heart monitor on screen::, smartphone, indoor, soft lighting, pastel pink theme, pastel color,\n\nlight pink cardigan, white shirt, plaid necktie, black plaid skirt, pleated skirt, heart hair pin, hair ornament,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793739815478
+ "updatedAt": 1793739826120
 };

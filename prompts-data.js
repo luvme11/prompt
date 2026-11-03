@@ -24363,7 +24363,7 @@ window.PROMPT_DATA = {
      "text": "lying on stomach, feet up, chin rest, looking at viewer,  manga, book, open book, camera, pink background, simple background, pastel colors, y2k,\n\nwhite shirt, long sleeves, pink cardigan, pink gloves, fingerless gloves, skirt, sneakers, hair ornament, hair clip, necklace,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mw180m1v.jpg?v=1793742754079",
    "pos": "50% 50%",
    "soon": false
   },
@@ -24410,5 +24410,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793742611459
+ "updatedAt": 1793742755284
 };

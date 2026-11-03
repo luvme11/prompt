@@ -24338,7 +24338,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw17slv0",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.3::looking at viewer, side view::, 1.2::profile::, looking away, holding flowers, sunflower field, sunflowers, sunlight, depth of field, blurry background, outdoor, soft lighting, nature, smile, grin,\n\nwhite dress, sleeveless dress, straw hat,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742189449
+ "updatedAt": 1793742204266
 };

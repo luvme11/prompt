@@ -24209,10 +24209,10 @@ window.PROMPT_DATA = {
      "text": "portrait, upper body, looking at viewer, looking back, holding bouquet, holding flower, pink tulip, flower field, blue sky, outdoors, daylight, sunlight, lens flare, depth of field, blurry foreground, shining, \n\nlight smile, happy,\nwhite sundress, sleeveless dress, ruffles, frills,  straw hat, bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw121fct.jpg?v=1793732767677",
+   "pos": "50.0% 34.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793732759085
+ "updatedAt": 1793732768884
 };

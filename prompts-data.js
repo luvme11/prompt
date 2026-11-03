@@ -24125,8 +24125,8 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, dutch angle, wariza, sitting on bed, 2::holding, hugging  teddy bear, holding syringe::, looking at viewer, hospital room, 2::medical theme::, hospital, clinic, medical equipment, iv bag, indoor, neon lights, glowing, syringe, bed railing,  purple lighting, blue lighting, pastel color,\n\nnurse cap, pink stylized nurse uniform, white apron, frilled dress, puffy sleeves, armband, heart monitor print, ribbon, bow, frills, long sleeves, cuffs, collar,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw10yzva.jpg?v=1793730986790",
+   "pos": "50.0% 12.0%",
    "soon": false
   },
   {
@@ -24144,5 +24144,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793730970210
+ "updatedAt": 1793730988025
 };

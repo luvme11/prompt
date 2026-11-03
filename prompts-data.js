@@ -24293,7 +24293,7 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, looking at viewer, sitting, eating, holding crepe, bench, wooden bench, outdoors, balcony, railing, sunlight, dappled sunlight, bokeh, summer, day, \n\nred gingham dress, white collar, sleeveless dress, ruffled dress, straw hat, red ribbon, hat ribbon,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mw17qwze.jpg?v=1793742273677",
    "pos": "50% 50%",
    "soon": false
   },
@@ -24354,5 +24354,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793742204266
+ "updatedAt": 1793742275349
 };

@@ -23918,7 +23918,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw088svp.jpg?v=1793686019348",
    "pos": "53.3% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mw0najj7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1person, solo, masterpiece, best quality, very aesthetic, cyberpunk anime illustration, dynamic composition, neon blue lighting,\n\n2.0::extreme low angle::, 1.9::dramatic foreshortening::, 2.0::low crouching pose::, 2.0::one boot firmly planted in puddle::, 1.9::large grounded boot in foreground::, 1.8::front knee bent::, 1.8::other leg folded behind::, 1.8::leaning forward::, looking down at viewer,\n\n2.0::one hand firmly gripping sword hilt::, 1.9::visible sword handle in hand::, 2.0::long straight sword held diagonally across foreground::, 1.9::blade extending from upper left to lower right::, 1.8::iridescent rainbow metallic blade::,\n\n1.8::white futuristic techwear outfit::, white armored jacket, black inner outfit, utility straps, armored pants, oversized white mechanical boots,\n\n1.9::blue and violet electric arcs around character::, 1.8::pink electrical sparks along sword::, crackling electricity,\n\n1.9::water splashing around planted boot::, circular puddle ripples, wet reflective pavement,\n\n1.8::rainy cyberpunk city alley at night::, towering buildings, neon signs, cinematic lighting"
+    }
+   ],
+   "img": "img/comp/mw0najj7.jpg?v=1793707770111",
+   "pos": "50.0% 10.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793686020386
+ "updatedAt": 1793707771811
 };

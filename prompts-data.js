@@ -24002,7 +24002,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0vc29x.jpg?v=1793721278486",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mw0vh1bk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "{{1person, solo, full body, full body visible}}, \n{{wide shot, low angle, cinematic composition, negative space}}, \n{{the figure placed off-center, surrounded by a vast open sky}}, \n{{strong emphasis on sky and lighting}}, \n\na solitary figure in a field of tall grass, sitting gently in the grass, full body visible from head to feet, relaxed elegant pose, head tilted upward toward the sky, one hand lightly supporting the body, calm and distant atmosphere, \n\n{{deep saturated cobalt blue sky}}, {{intense ultramarine sky}}, brilliant white clouds, dramatic cloud formations, strong contrast between blue sky and white clouds,\n\n{{strong sunlight}}, {{dramatic backlighting}}, {{intense rim light}}, bright natural light striking the figure from above and behind, radiant glow on the silhouette, sharp highlights, high contrast lighting, sunlight catching strands of hair, sparkling reflected light,\n\n{{tiny blue and silver glitter scattered across the face, neck, shoulders, and arms}}, {shimmering particles on skin} delicate sparkling reflections, translucent glitter details,\n\n{{simple clothing}}, soft silver-blue shirts, light satin sheen, \n\nflowing hair moving in the wind, strands crossing the face,\n\n{{white birds flying through the sky}}, a few birds around the figure, birds passing through the open negative space, soft motion in the air, \n\ntall grass moving in the wind, cool blue-green grass tones, dreamlike field,\n\n{{vivid colors, bold color contrast, highly saturated blue}}, luminous white, silver-blue highlights, crisp and intense color palette, ethereal but striking, painterly realism,"
+    }
+   ],
+   "img": "img/comp/mw0vh1bk.jpg?v=1793721509957",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793721280347
+ "updatedAt": 1793721511240
 };

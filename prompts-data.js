@@ -24282,7 +24282,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw16ds3a.jpg?v=1793741825920",
    "pos": "50.0% 26.0%",
    "soon": false
+  },
+  {
+   "id": "mw17qwze",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, looking at viewer, sitting, eating, holding crepe, bench, wooden bench, outdoors, balcony, railing, sunlight, dappled sunlight, bokeh, summer, day, \n\nred gingham dress, white collar, sleeveless dress, ruffled dress, straw hat, red ribbon, hat ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793741827308
+ "updatedAt": 1793742125286
 };

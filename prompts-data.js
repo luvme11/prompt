@@ -24310,7 +24310,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw17rwyd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "rain, pond, water surface, ripples, lotus leaf, lily pad, leaf umbrella, giant leaf, holding leaf, squatting, balancing, splashing, playful, joyful, smile, laughing, low angle, dynamic angle, perspective from below, water drops, reflection, nature, outdoors,\n\n1.5::frog hoodie, green raincoat::, frog eyes, animal hood, yellow buttons, long sleeves, oversized fit, vinyl fabric, waterproof material, yellow trim, glossy surface, green shorts, yellow rain boots, shiny boots,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742151996
+ "updatedAt": 1793742172570
 };

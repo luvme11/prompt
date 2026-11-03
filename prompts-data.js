@@ -24058,7 +24058,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw0xydr2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "looking at viewer, squatting, v sign, indoor, locker, school locker, stickers, hallway, floor, shadow, sunlight, pastel kitsch theme, y2k, cute background,\n\nsmile, winking, \n\npleated skirt, white shirt, long sleeves, plaid skirt, backpack, hair clip, wristband, loose socks, cat ear headband,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793725670242
+ "updatedAt": 1793725677542
 };

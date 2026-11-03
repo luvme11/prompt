@@ -24055,8 +24055,8 @@ window.PROMPT_DATA = {
      "text": "from above, high angle, dutch angle, 2::upper body, sitting on chair::, leaning back, indoor, curtain, red theme, 2::rose, petals, falling petals::, flower, dark background, shadow, cinematic shot, spotlight, shadow, film grain, stage,\n\ngothic lolita, black dress, frilled dress, off shoulder, red ruffles, parasol, black parasol, mini top hat, rose hair ornament, choker, pendant, red ribbon,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw0xy7ta.jpg?v=1793726413434",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -24074,5 +24074,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793725677542
+ "updatedAt": 1793726414831
 };

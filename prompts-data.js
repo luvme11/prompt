@@ -23946,7 +23946,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0tyx1r.jpg?v=1793718985308",
    "pos": "50.0% 14.0%",
    "soon": false
+  },
+  {
+   "id": "mw0u7kdy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, dynamic angle, upper body, looking at viewer, praying, hands clasped, indoor, church, cathedral, altar, stained glass, window, , 2::volumetric lighting::, sunbeam, ray of light, dust motes, cinematic lighting, bokeh, depth of field, rose, petals,\n\n\nnun habit, black veil, white collar, habit, wimple, cross necklace, crucifix, brown habit, long sleeves,"
+    }
+   ],
+   "img": "img/comp/mw0u7kdy.jpg?v=1793719388759",
+   "pos": "50.0% 8.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793718986604
+ "updatedAt": 1793719390153
 };

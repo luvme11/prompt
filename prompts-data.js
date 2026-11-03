@@ -24016,7 +24016,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0vh1bk.jpg?v=1793721509957",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw0wz2b7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, looking at viewer, sitting, 2::leaning on hand::, hand on cheek, desk, 2::stack of paper::, giving papers, holding papers, computer, keyboard, computer mouse, monitor, binder, sticky note, wall, indoor, clock, heart,\n\nsweater vest, v neck vest, white shirt, collared shirt, necktie,"
+    }
+   ],
+   "img": "img/comp/mw0wz2b7.jpg?v=1793724030825",
+   "pos": "50.0% 2.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793721511240
+ "updatedAt": 1793724032198
 };

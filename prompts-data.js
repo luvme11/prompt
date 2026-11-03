@@ -23960,7 +23960,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0u7kdy.jpg?v=1793719388759",
    "pos": "50.0% 8.0%",
    "soon": false
+  },
+  {
+   "id": "mw0uf7y8",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1person focus, masterpiece, best quality, very aesthetic, dark oriental fantasy illustration, cinematic wuxia atmosphere, moody painterly illustration, muted blue-gray color palette, selective crimson red accents, mysterious melancholic atmosphere, 1.7::high angle shot::, 1.8::camera looking down at character from above::, 1.8::central character looking directly up at camera::, head tilted upward, intense mysterious gaze, 1.6::three-quarter overhead perspective::, central character standing in foreground, body slightly turned diagonally, 1.7::large black circular bamboo hat::, 1.8::one hand gently gripping the front brim of hat::, hat tilted backward revealing face, other arm hanging naturally at side, black layered wuxia robes, long flowing black outer robe, wide loose sleeves, dark floral embroidery, black waist sash, dark leather arm guards, 1.5::two sheathed swords at waist::, sword handles visible, 1.7::shadowy pedestrians in background::, traditional robes, 1.8::large crimson red paper umbrellas::, red umbrellas framing central character, foreground umbrellas partially entering frame, gray stone brick wall, wet stone pavement, 1.7::heavy rain::, rain splashes, circular water ripples, drifting mist, diffused overcast daylight, 1.7::thigh-up shot::, 1.6::central character filling most of frame::, vertical portrait composition"
+    }
+   ],
+   "img": "img/comp/mw0uf7y8.jpg?v=1793719748648",
+   "pos": "50.0% 12.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793719390153
+ "updatedAt": 1793719749772
 };

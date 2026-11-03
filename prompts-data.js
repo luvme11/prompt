@@ -24153,8 +24153,8 @@ window.PROMPT_DATA = {
      "text": "0.5::dynamic angle, floating hair::, cowboy shot, looking at viewer,standing, holding watering can, birds, balcony, open window, garden, roses, indoor, bright sunlight, soft lighting, bokeh,\n\nlight smile,\n\nmaid headdress, black ribbon, maid uniform, frilled apron, white apron, neck ribbon, back bow,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw120kwx.jpg?v=1793732718088",
+   "pos": "81.6% 50.0%",
    "soon": false
   },
   {
@@ -24214,5 +24214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793732538549
+ "updatedAt": 1793732719344
 };

@@ -24086,7 +24086,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw10ykbj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, looking at viewer, leaning forward, 2::holding handcuffs, arm behind back::, 1.5::caution tape::, yellow tape, barrier tape, diagonal, night, \n\nblack blazer, white shirt, black necktie, grey skirt, pleated skirt, belt, belt chain,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793730716588
+ "updatedAt": 1793730724788
 };

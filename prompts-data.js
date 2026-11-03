@@ -24170,7 +24170,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1212q2",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "portrait, upper body, looking at viewer, 2::holding fan::, uchiwa, morning glory, flower garden, outdoors, plant, leaf, purple flower, blue flower, nature, sunlight, dappled sunlight, bokeh, depth of field, blurred foreground, blurry background,\n\nlight smile, \nfloral print yukata, obi, hair ornament, blue flower hair ornament, obijime, light blue yukata, obiage, wide sleeves,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793732509429
+ "updatedAt": 1793732521750
 };

@@ -24335,8 +24335,8 @@ window.PROMPT_DATA = {
      "text": "solo, lying on back, holding half a pink guava, near face, dappled sunlight filtering through leaves, top down perspective, warm natural lighting, resting beside an open book, surrounded by scattered green apples and green grapes, a small woven basket filled with fruit, delicate white flowers placed around the scene, beaded bracelet on wrist, grassy ground setting, relaxing summer atmosphere, vibrant and fresh mood, \n\nlight green sleeveless top, straw hat, smile,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw17s9wb.jpg?v=1793742319461",
+   "pos": "29.3% 50.0%",
    "soon": false
   },
   {
@@ -24354,5 +24354,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793742307410
+ "updatedAt": 1793742320585
 };

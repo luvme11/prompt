@@ -24377,8 +24377,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, 1.8::looking at bookshelf, side view::, cleaning, holding feather duster, dusting, library, study, bookshelf, books, wooden floor, sunlight, indoor, window, ladder,\n\nmaid, maid uniform, apron, frills, headdress,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw180v9l.jpg?v=1793742766144",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -24410,5 +24410,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793742755284
+ "updatedAt": 1793742767222
 };

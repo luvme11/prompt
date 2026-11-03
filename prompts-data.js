@@ -24324,7 +24324,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw17s9wb",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, lying on back, holding half a pink guava, near face, dappled sunlight filtering through leaves, top down perspective, warm natural lighting, resting beside an open book, surrounded by scattered green apples and green grapes, a small woven basket filled with fruit, delicate white flowers placed around the scene, beaded bracelet on wrist, grassy ground setting, relaxing summer atmosphere, vibrant and fresh mood, \n\nlight green sleeveless top, straw hat, smile,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742172570
+ "updatedAt": 1793742189449
 };

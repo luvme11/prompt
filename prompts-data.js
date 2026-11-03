@@ -23932,7 +23932,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0najj7.jpg?v=1793707770111",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mw0tyx1r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from below, dynamic angle, looking at viewer, sitting in chair, library, bookshelf, book, 2::holding book, hand on chin::, crossed legs,indoors,\n\n2::detective outfit::, capelet, beret, trench coat, deerstalker, brown coat, vest, necktie, white shirt, gloves, checkered pattern,"
+    }
+   ],
+   "img": "img/comp/mw0tyx1r.jpg?v=1793718985308",
+   "pos": "50.0% 14.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793707771811
+ "updatedAt": 1793718986604
 };

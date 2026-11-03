@@ -24265,8 +24265,8 @@ window.PROMPT_DATA = {
      "text": "from above, high angle, cowboy shot, looking at viewer, lying on back, lying on floor, 2::holding book::, covered mouth, reading, pink checkered floor, scattered books, laptop, 2::heart monitor on screen::, smartphone, indoor, soft lighting, pastel pink theme, pastel color,\n\nlight pink cardigan, white shirt, plaid necktie, black plaid skirt, pleated skirt, heart hair pin, hair ornament,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw16dmyv.jpg?v=1793741812571",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -24284,5 +24284,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793741801645
+ "updatedAt": 1793741813784
 };

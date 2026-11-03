@@ -23988,7 +23988,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0unogi.jpg?v=1793720140444",
    "pos": "50.0% 22.0%",
    "soon": false
+  },
+  {
+   "id": "mw0vc29x",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, 3::magazine cover layout, fashion magazine, japanese text, title text, y2k title, magazine logo, kawaii, cute,::, barcode, price, looking at viewer, hands near face, pastel pink background, floating hearts, sparkles, plushie, cover, copyright notice, \n\nwhite cat hat, animal hat, tassels, pompom, oversized pink sweater,"
+    }
+   ],
+   "img": "img/comp/mw0vc29x.jpg?v=1793721278486",
+   "pos": "50.0% 18.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793720141686
+ "updatedAt": 1793721280347
 };

@@ -24030,7 +24030,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0wz2b7.jpg?v=1793724030825",
    "pos": "50.0% 2.0%",
    "soon": false
+  },
+  {
+   "id": "mw0x93rh",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, sitting, leaning forward, hand on chin, looking down, writing, night, crescent moon, window, cityscape, desk, bookshelf, table lamp, warm lighting, soft lighting, flowers, vase, cup, calendar, post-it note, cluttered desk, stationary, notebook, pen, stickers, indoor, detailed background, \n\nsweater, oversized sweater, long sleeves,"
+    }
+   ],
+   "img": "img/comp/mw0x93rh.jpg?v=1793724499747",
+   "pos": "50.0% 2.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793724032198
+ "updatedAt": 1793724501324
 };

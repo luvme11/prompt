@@ -24184,7 +24184,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw12189t",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "dynamic angle, dynamic pose, cowboy shot, floating, 2::sitting broom, holding lantern::, purple theme, glowing, magic circle, butterfly, petal, sparkles, \n\nwitch hat, white dress, lace trim, frills dress, detached sleeves, hat ribbon, floral trim,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793732521750
+ "updatedAt": 1793732529125
 };

@@ -24296,7 +24296,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw17rh2e",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "side view, looking at viewer, sitting on porch, engawa, Japanese porch, holding watermelon slice, eating watermelon, summer, morning glory, furin, wind chimes, bamboo blinds, clear sky, bright lighting, natural light, watermelon slices on tray, anime style, vibrant colors,\n\nlight blue dress, frilled dress,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742125286
+ "updatedAt": 1793742151996
 };

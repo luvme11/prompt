@@ -24181,8 +24181,8 @@ window.PROMPT_DATA = {
      "text": "portrait, upper body, looking at viewer, 2::holding fan::, uchiwa, morning glory, flower garden, outdoors, plant, leaf, purple flower, blue flower, nature, sunlight, dappled sunlight, bokeh, depth of field, blurred foreground, blurry background,\n\nlight smile, \nfloral print yukata, obi, hair ornament, blue flower hair ornament, obijime, light blue yukata, obiage, wide sleeves,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1212q2.jpg?v=1793732744172",
+   "pos": "50.0% 34.0%",
    "soon": false
   },
   {
@@ -24214,5 +24214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793732730766
+ "updatedAt": 1793732746041
 };

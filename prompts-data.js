@@ -24111,8 +24111,8 @@ window.PROMPT_DATA = {
      "text": "from above, high angle, looking at viewer, cowboy shot, office, sitting on chair, 2::holding clipboard, holding pen::, desk, computer monitor, computer keyboard, office chair, bookshelf, books, window, sunlight, depth of field,\n\nlab coat, white lab coat, black shirt, collared shirt, white necktie, black skirt, pencil skirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw10yt7a.jpg?v=1793730968655",
+   "pos": "50.0% 46.0%",
    "soon": false
   },
   {
@@ -24144,5 +24144,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793730953251
+ "updatedAt": 1793730970210
 };

@@ -24167,8 +24167,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, standing, against wall, 2::looking at reflection, reflection, train interior::, window, sliding doors, rain, water drop, night,\n\nblack serafuku, white neck ribbon, long sleeves, pleated skirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw120td6.jpg?v=1793732729658",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -24214,5 +24214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793732719344
+ "updatedAt": 1793732730766
 };

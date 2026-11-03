@@ -24212,7 +24212,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw121fct.jpg?v=1793732767677",
    "pos": "50.0% 34.0%",
    "soon": false
+  },
+  {
+   "id": "mw13oa1s",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, cowboy shot, leaning against a wall, relaxed slouched pose, wearing a suit with a dress shirt and tie,\n\n1.8::holding a cola can in one hand, bringing the can up to the lips, about to drink::, 1.6::a lit cigarette between the fingers of the other hand::, 1.2::thin smoke drifting::,\n\n1.7::sunglasses, eyes behind the shades glancing sideways, wary side-eye::, slightly tired weary expression,\n\nwhite background, soft even lighting, cool laid-back mood, cinematic, detailed hands,"
+    }
+   ],
+   "img": "img/comp/mw13oa1s.jpg?v=1793735285626",
+   "pos": "50.0% 28.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793732768884
+ "updatedAt": 1793735287582
 };

@@ -24394,7 +24394,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw181bxo",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "portrait, 1.5::close-up::, side view, 1.4::looking at rose::, 0.5::looking viewer::, smelling, smelling flowers, smelling rose, touching plant, rose, light pink rose::, rose bush, leaf, nature, outdoors, depth of field, blurry background,\n\nlight pink dress, strapless dress, straw hat, 1.7::floral hat, white ribbon::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742599752
+ "updatedAt": 1793742611459
 };

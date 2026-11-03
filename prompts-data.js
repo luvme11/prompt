@@ -24352,7 +24352,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw17slv0.jpg?v=1793742338855",
    "pos": "50.0% 12.0%",
    "soon": false
+  },
+  {
+   "id": "mw180m1v",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "lying on stomach, feet up, chin rest, looking at viewer,  manga, book, open book, camera, pink background, simple background, pastel colors, y2k,\n\nwhite shirt, long sleeves, pink cardigan, pink gloves, fingerless gloves, skirt, sneakers, hair ornament, hair clip, necklace,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742340731
+ "updatedAt": 1793742578076
 };

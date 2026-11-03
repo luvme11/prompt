@@ -23974,7 +23974,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw0uf7y8.jpg?v=1793719748648",
    "pos": "50.0% 12.0%",
    "soon": false
+  },
+  {
+   "id": "mw0unogi",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "masterpiece, best quality, amazing quality, very aesthetic, solo, highly detailed anime illustration, mixed media character collage, 2000s emo scene aesthetic, 1.5::one large main character waist-up portrait::, 1.3::high angle selfie angle::, holding a digital camera up, side-swept bangs covering one eye, moody pout, looking at viewer, striped arm warmers, studded belt, band hoodie, checkered wristbands, eyeliner, skinny jeans, mp3 player, broken hearts, stars, checkerboard, scribbled lyrics notes, myspace style frames, safety pins, skull doodles, guitar picks, scene kid neon typography, black and hot pink color scheme, electric blue accents, camera flash lighting, edgy bold linework, glossy flash shading, dense decorative layout"
+    }
+   ],
+   "img": "img/comp/mw0unogi.jpg?v=1793720140444",
+   "pos": "50.0% 22.0%",
+   "soon": false
   }
  ],
- "updatedAt": 1793719749772
+ "updatedAt": 1793720141686
 };

@@ -24380,7 +24380,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1812x1",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, full body, sitting, sitting on counter, looking at viewer, indoor, kitchen, pink room, pink refrigerator, checkerboard floor, polaroid photos (wall), poster, lamp, holding lollipop, lollipop, bubble tea, plastic cup, drinking straw,\n\n1.5::white faux fur jacket::, 1.2::multicolored star patch::, cropped jacket, pink ribbed trim, open jacket, horizontal striped crop top, pink and blue stripes, scoop neck, light blue denim shorts, high waisted shorts, pink platform sneakers, thick sole, white slouchy socks, beaded necklace, heart earrings, plastic pastel hair clips,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742589589
+ "updatedAt": 1793742599752
 };

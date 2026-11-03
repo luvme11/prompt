@@ -23882,7 +23882,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw088nwy",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "high complexity, depthness, meta:golden era, full color, illustration, sketchy lineart, soft light coloring, cowboy shot, straight-on, 2::height difference ::, 2::white background ::, simple background, A cute, playful illustration on a plain white background. 3::B stands behind A and hugs A tightly from behind ::, both big arms wrapped firmly around A's chest and waist, squeezing, B's chin resting on top of A's head. A stands in front, much smaller, squished in the hug, cheeks flushed with heavy blush, eyes squeezed half shut, a sweat drop, mouth open in a flustered little complaint. B looks down calmly with sleepy half-lidded eyes, content. 3::two round thought bubbles connected by small dots ::. 2::on the upper left, a thought bubble coming from B's head shows a tiny fluffy [COLOR] rabbit with a little blush ::, wiggling nervously. 2::on the upper right, a thought bubble coming from A's head shows a big fierce [COLOR] wolf with sharp eyes ::, drawn with dramatic shading lines. 2::large loose handwritten Korean sound effect text reading \"꽈악\" written beside them on the left ::, wobbly squeeze lines around the hug. soft pastel colors, light shading, cute, comedic, cozy, affectionate"
+    },
+    {
+     "label": "A",
+     "text": "A, pajamas, pastel yellow pajama shirt, pajama shorts, standing, target#hug from behind, squished, blush, sweatdrop, half-closed eyes, open mouth, embarrassed, flustered"
+    },
+    {
+     "label": "B",
+     "text": "B, pajamas, grey sleeveless pajama top, long grey pajama pants, standing, source#hug from behind, arms around another, chin on another's head, half-closed eyes, sleepy, calm, content"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793682268850
+ "updatedAt": 1793682487413
 };

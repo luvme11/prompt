@@ -23868,7 +23868,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mvyvnk5p.jpg?v=1793601115952",
    "pos": "59.8% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mw083zi7",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, androgynous, upper body, cowboy shot, front view, facing viewer, standing, centered, (hugging bouquet:1.3), (holding bouquet to chest:1.3), arms wrapped around bouquet, arms crossed over bouquet, (gentle smile:1.2), serene, calm, peaceful, (long transparent white lace veil:1.5), (sheer veil:1.4), (veil over head:1.3), (long veil flowing to the right:1.3), veil trailing behind, lace trim, translucent veil, (wind:1.3), windblown, hair blowing, (ocean:1.3), (sea:1.3), horizon, waves, shore, (overcast sky:1.3), cloudy sky, gray sky, (desaturated:1.3), grayscale, white and gray, (soft diffused light:1.3), flat lighting, cool light, subtle contrast, melancholic, quiet, lonely, ethereal, dreamy, wistful, minimalist, painterly, delicate lineart, masterpiece, best quality, highly detailed, illustration, (deep navy lighting:1.3), (dark navy blue tones:1.3), (wistful:1.3), (nostalgic:1.2), (bittersweet:1.2), (night:1.4), (dark:1.3), (dim lighting:1.3), (dark atmosphere:1.2), moody"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793601117007
+ "updatedAt": 1793682268850
 };

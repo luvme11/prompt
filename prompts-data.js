@@ -24195,7 +24195,7 @@ window.PROMPT_DATA = {
      "text": "dynamic angle, dynamic pose, cowboy shot, floating, 2::sitting broom, holding lantern::, purple theme, glowing, magic circle, butterfly, petal, sparkles, \n\nwitch hat, white dress, lace trim, frills dress, detached sleeves, hat ribbon, floral trim,"
     }
    ],
-   "img": "",
+   "img": "img/comp/mw12189t.jpg?v=1793732757193",
    "pos": "50% 50%",
    "soon": false
   },
@@ -24214,5 +24214,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793732746041
+ "updatedAt": 1793732759085
 };

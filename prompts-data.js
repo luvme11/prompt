@@ -24279,10 +24279,10 @@ window.PROMPT_DATA = {
      "text": "sky, floating, falling, floating hair, 2::knees up::, holding bouquet, petals, falling petals, pink flowers, bubbles, sky, clouds, wind, daylight, sunlight, shining,\n\nwhite sundress, sleeveless dress, ruffles, frills, barefoot,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw16ds3a.jpg?v=1793741825920",
+   "pos": "50.0% 26.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793741813784
+ "updatedAt": 1793741827308
 };

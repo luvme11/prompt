@@ -24226,7 +24226,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw13oa1s.jpg?v=1793735285626",
    "pos": "50.0% 28.0%",
    "soon": false
+  },
+  {
+   "id": "mw16d9ou",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, 1person,\n1.8::extravagant magical dream collector sheep cosplay::,\n1.5::dynamic medium shot, head to hips visible::,\n1.4::gentle low-angle camera from cloud level::,\n1.4::beautiful face clearly visible::,\n\ncharacter lunging sideways across a fluffy cloud,\none arm reaching upward toward a floating dream bottle,\nother hand gripping a decorative shepherd staff,\nbody forming a curved silhouette,\nfluffy sleeves and ribbons fluttering,\ntiny sheep scattering around,\ndelighted surprised expression toward viewer,\n\nelaborate ivory and deep violet sheep-inspired costume,\nthick ivory wool collar,\ndark violet fitted jacket,\ncurled sheep horn accessories,\npolished golden bell choker,\nrich purple ribbons,\nornate moon-shaped charms,\n\n1.7::surreal magical dreamscape::,\nfloating miniature sheep,\nglass bottles filled with glowing violet stars,\ndark blue clouds,\ngolden bells,\ncrescent moon ornaments,\nviolet crystal stars,\ndecorative dreamcatchers,\ndeep midnight sky,\n\n1.6::rich saturated violet and midnight blue palette::,\n1.5::strong contrast between ivory wool and dark surroundings::,\n1.4::vivid purple accents, deep navy shadows::,\ncontrolled highlights,\ndramatic directional lighting,\nface unobstructed,\nno text"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793735287582
+ "updatedAt": 1793739809022
 };

@@ -24349,10 +24349,10 @@ window.PROMPT_DATA = {
      "text": "1.3::looking at viewer, side view::, 1.2::profile::, looking away, holding flowers, sunflower field, sunflowers, sunlight, depth of field, blurry background, outdoor, soft lighting, nature, smile, grin,\n\nwhite dress, sleeveless dress, straw hat,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw17slv0.jpg?v=1793742338855",
+   "pos": "50.0% 12.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793742320585
+ "updatedAt": 1793742340731
 };

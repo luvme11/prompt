@@ -24100,7 +24100,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw10yt7a",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, high angle, looking at viewer, cowboy shot, office, sitting on chair, 2::holding clipboard, holding pen::, desk, computer monitor, computer keyboard, office chair, bookshelf, books, window, sunlight, depth of field,\n\nlab coat, white lab coat, black shirt, collared shirt, white necktie, black skirt, pencil skirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793730724788
+ "updatedAt": 1793730736856
 };

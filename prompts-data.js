@@ -24139,10 +24139,10 @@ window.PROMPT_DATA = {
      "text": "high angle, looking up, looking at viewer, balcony, sitting on chair, dappled sunlight, sunlight, shadows, table, book, reading, holding book, stack of books, books on table, cityscape, urban ruins, vines, plants, outdoors, day, radio, school bag, \n\nblack serafuku, white neck ribbon, long sleeves, pleated skirt, loafers,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw10za8z.jpg?v=1793731001856",
+   "pos": "50.0% 18.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793730988025
+ "updatedAt": 1793731003230
 };

@@ -23901,8 +23901,8 @@ window.PROMPT_DATA = {
      "text": "B, pajamas, grey sleeveless pajama top, long grey pajama pants, standing, source#hug from behind, arms around another, chin on another's head, half-closed eyes, sleepy, calm, content"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw088nwy.jpg?v=1793682952606",
+   "pos": "50.0% 26.0%",
    "soon": false
   },
   {
@@ -23920,5 +23920,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793682794338
+ "updatedAt": 1793682953998
 };

@@ -23904,7 +23904,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw088svp",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2people, 1.7::extreme close-up::, 1.6::two faces filling the entire frame::, 1.5::tight face-to-face composition::, 1.7::cheeks pressed closely together::, 1.8::sharing one oversized scarf::, 1.7::both wrapped in the same long scarf::, 1.6::single scarf wrapped around both necks::, 1.6::scarf covering both mouths and chins::, faces nestled into the scarf, heads touching, overlapping faces, one person slightly behind the other, both looking toward viewer, slightly different eye expressions, 1.5::visible warm blush on both cheeks::, rosy flushed cheeks, 1.5::visible white breath::, soft breath condensation in cold air, chilly winter air, crisp cold atmosphere, cozy winter closeness, intimate winter mood, 1.5::camera extremely close to faces::, eye-level view, slight tilted composition, cropped foreheads, shoulders barely visible, scarf filling lower foreground, tightly framed composition"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793682487413
+ "updatedAt": 1793682493641
 };

@@ -24198,7 +24198,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw121fct",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "portrait, upper body, looking at viewer, looking back, holding bouquet, holding flower, pink tulip, flower field, blue sky, outdoors, daylight, sunlight, lens flare, depth of field, blurry foreground, shining, \n\nlight smile, happy,\nwhite sundress, sleeveless dress, ruffles, frills,  straw hat, bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793732529125
+ "updatedAt": 1793732538549
 };

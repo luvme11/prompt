@@ -24142,7 +24142,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw10za8z.jpg?v=1793731001856",
    "pos": "50.0% 18.0%",
    "soon": false
+  },
+  {
+   "id": "mw120kwx",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "0.5::dynamic angle, floating hair::, cowboy shot, looking at viewer,standing, holding watering can, birds, balcony, open window, garden, roses, indoor, bright sunlight, soft lighting, bokeh,\n\nlight smile,\n\nmaid headdress, black ribbon, maid uniform, frilled apron, white apron, neck ribbon, back bow,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793731003230
+ "updatedAt": 1793732499161
 };

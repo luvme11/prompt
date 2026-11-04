@@ -24422,7 +24422,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1ess1u",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1.5::portrait::, cinematic shot, cowboy shot, sitting, looking at viewer, dappled sunlight, outdoors, garden, 2.4::cherry blossoms, tree, flower petals::, 2.2::sunlight, soft lighting::, bokeh, furniture, chair, wooden chair, table, lace tablecloth, holding book, reading, blurry background,\n\n1.5::off the shoulder dress::, 1.3::satin dress::, white lace gloves, white dress, puff sleeves, short sleeves, lace trim, floral embroidery, embroidery on chest, ribbon, hair ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793753958446
+ "updatedAt": 1793753970220
 };

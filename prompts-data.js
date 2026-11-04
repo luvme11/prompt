@@ -24450,7 +24450,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1etaww",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "colse-up, upper body, 1.5::kneading dough::, standing, looking down, 1.2::bakery::, kitchen, stone wall, window, indoor, wooden table, flour, dough, pottery, barrel, natural light, depth of field,\n\nheadscarf, chemise, 1.5::peasant clothes::, long sleeves, 1.5::apron::, cord belt, rustic clothes, cream shirt,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793753983449
+ "updatedAt": 1793753994154
 };

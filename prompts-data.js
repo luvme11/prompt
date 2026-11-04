@@ -24517,8 +24517,8 @@ window.PROMPT_DATA = {
      "text": "looking at viewer, high angle, 1.4::dimly lit room::, cluttered music studio, sitting, gaming chair, holding electric guitar, computer monitors, musical keyboard, wires, stuffed animals, pill bottles, indoor, pink details, yami kawaii,\n\npink cat ears headset, 1.5::oversized hoodie::, medical bandage, heart choker, frilled skirt, leg warmers, lace trim, ribbon bows, band aid, pink and black clothing, jirai kei,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1f4714.jpg?v=1793754631068",
+   "pos": "50.0% 20.0%",
    "soon": false
   },
   {
@@ -24536,5 +24536,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793754611745
+ "updatedAt": 1793754632584
 };

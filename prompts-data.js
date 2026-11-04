@@ -24436,7 +24436,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1et2i9",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from side,  portrait, looking at object, 1.3::holding teacup::, 1.5::soft lighting::, sitting, holding saucer, upper body, indoors, dark background, tea party, depth of field, bokeh,\n\n1.4::lace bonnet::, 1.5::off the shoulder dress::, white dress, victorian style, rococo style, frills, lace trim, ruffles, lace cuffs,  jewelry, pearl earrings, earrings, ring, veil, white neck ribbon, white ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793753970220
+ "updatedAt": 1793753983449
 };

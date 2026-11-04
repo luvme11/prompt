@@ -24478,7 +24478,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw1etn0h.jpg?v=1793754302455",
    "pos": "37.5% 50.0%",
    "soon": false
+  },
+  {
+   "id": "mw1f2ly3",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "sitting, 1.3::high angle::, full body, holding book, open book,  library, bookshelf, indoor, room, 1.4::ghosts::, spirit, pumpkin, jack o lantern, cauldron, potion, green liquid, magic circle, glowing, lantern,\n\nwitch hat, large witch hat, hat buckle, hat ribbon, red dress, 1.3::red gothic dress::, long sleeves, black frills, fur trim, black gloves, fingerless gloves, frilled gloves, black boots, red laces,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793754303478
+ "updatedAt": 1793754428867
 };

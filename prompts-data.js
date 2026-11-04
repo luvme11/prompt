@@ -24419,8 +24419,8 @@ window.PROMPT_DATA = {
      "text": "breeze, petal, sitting, sitting on ground, 1.7::holding basket, flower basket::, wicker basket, rose, 3::flower field::, yellow flower, white flower, orange flower, meadow, outdoors, sunlight, bright lighting, depth of field, blushing, smile, happy,\n\nyellow dress, strapless dress, floral trim, bow, straw hat, floral hat, ribbon, neck ribbon,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1esjao.jpg?v=1793754124936",
+   "pos": "50.0% 28.0%",
    "soon": false
   },
   {
@@ -24480,5 +24480,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793754009746
+ "updatedAt": 1793754126297
 };

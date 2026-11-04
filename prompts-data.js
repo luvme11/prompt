@@ -24461,8 +24461,8 @@ window.PROMPT_DATA = {
      "text": "colse-up, upper body, 1.5::kneading dough::, standing, looking down, 1.2::bakery::, kitchen, stone wall, window, indoor, wooden table, flour, dough, pottery, barrel, natural light, depth of field,\n\nheadscarf, chemise, 1.5::peasant clothes::, long sleeves, 1.5::apron::, cord belt, rustic clothes, cream shirt,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1etaww.jpg?v=1793754165109",
+   "pos": "50.0% 32.0%",
    "soon": false
   },
   {
@@ -24480,5 +24480,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793754153713
+ "updatedAt": 1793754166495
 };

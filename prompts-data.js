@@ -24503,8 +24503,8 @@ window.PROMPT_DATA = {
      "text": "cowboy shot, looking at viewer,  dynamic pose, standing, || holding cane | holding top hat ||, dove, white bird, flying birds, red background, 1.5::spotlight::, curtain, red curtain, playing cards, 1.5::paper::, stage, cinematic lighting, sparkle,\n\nrabbit ear hairband, tailcoat, black jacket, white shirt, tuxedo shirt, pleated shirt, black bowtie, black leotard, pantyhose, white gloves, hair ribbon, top hat,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1f2wpk.jpg?v=1793754610677",
+   "pos": "50.0% 30.0%",
    "soon": false
   },
   {
@@ -24536,5 +24536,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793754600794
+ "updatedAt": 1793754611745
 };

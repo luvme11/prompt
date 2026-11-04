@@ -24520,7 +24520,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1f4n77",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "from above, dynamic angle, full body, sitting on floor, library, bookshelf, pile of books, broom, indoor, dim lighting, looking at viewer, holding book,\n\nwitch hat, giant bow, black dress, white collar, long sleeves, frills, lace trim, star hair ornament, black footwear, mary janes, white socks, frilly socks,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793754502083
+ "updatedAt": 1793754523500
 };

@@ -24408,7 +24408,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw181bxo.jpg?v=1793742798211",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1esjao",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "breeze, petal, sitting, sitting on ground, 1.7::holding basket, flower basket::, wicker basket, rose, 3::flower field::, yellow flower, white flower, orange flower, meadow, outdoors, sunlight, bright lighting, depth of field, blushing, smile, happy,\n\nyellow dress, strapless dress, floral trim, bow, straw hat, floral hat, ribbon, neck ribbon,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793742800040
+ "updatedAt": 1793753958446
 };

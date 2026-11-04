@@ -24475,10 +24475,10 @@ window.PROMPT_DATA = {
      "text": "upper body, 2::profile, from side::, leaning, hand on railing, holding camcorder, camcorder, video camera, camera, tree, leaf, bokeh, blue railing, tiled wall, scenery, dappled sunlight, filming, recording, looking forward, sunlight,\n\nschool uniform, serafuku,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1etn0h.jpg?v=1793754302455",
+   "pos": "37.5% 50.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793754166495
+ "updatedAt": 1793754303478
 };

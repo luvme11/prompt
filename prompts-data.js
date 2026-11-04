@@ -24492,7 +24492,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1f2wpk",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "cowboy shot, looking at viewer,  dynamic pose, standing, || holding cane | holding top hat ||, dove, white bird, flying birds, red background, 1.5::spotlight::, curtain, red curtain, playing cards, 1.5::paper::, stage, cinematic lighting, sparkle,\n\nrabbit ear hairband, tailcoat, black jacket, white shirt, tuxedo shirt, pleated shirt, black bowtie, black leotard, pantyhose, white gloves, hair ribbon, top hat,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793754428867
+ "updatedAt": 1793754442488
 };

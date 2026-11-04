@@ -24464,7 +24464,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw1etn0h",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "upper body, 2::profile, from side::, leaning, hand on railing, holding camcorder, camcorder, video camera, camera, tree, leaf, bokeh, blue railing, tiled wall, scenery, dappled sunlight, filming, recording, looking forward, sunlight,\n\nschool uniform, serafuku,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793753994154
+ "updatedAt": 1793754009746
 };

@@ -24531,10 +24531,10 @@ window.PROMPT_DATA = {
      "text": "from above, dynamic angle, full body, sitting on floor, library, bookshelf, pile of books, broom, indoor, dim lighting, looking at viewer, holding book,\n\nwitch hat, giant bow, black dress, white collar, long sleeves, frills, lace trim, star hair ornament, black footwear, mary janes, white socks, frilly socks,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1f4n77.jpg?v=1793754645422",
+   "pos": "50.0% 10.0%",
    "soon": false
   }
  ],
- "updatedAt": 1793754632584
+ "updatedAt": 1793754646680
 };

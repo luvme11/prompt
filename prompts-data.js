@@ -24433,8 +24433,8 @@ window.PROMPT_DATA = {
      "text": "1.5::portrait::, cinematic shot, cowboy shot, sitting, looking at viewer, dappled sunlight, outdoors, garden, 2.4::cherry blossoms, tree, flower petals::, 2.2::sunlight, soft lighting::, bokeh, furniture, chair, wooden chair, table, lace tablecloth, holding book, reading, blurry background,\n\n1.5::off the shoulder dress::, 1.3::satin dress::, white lace gloves, white dress, puff sleeves, short sleeves, lace trim, floral embroidery, embroidery on chest, ribbon, hair ribbon,"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw1ess1u.jpg?v=1793754139491",
+   "pos": "50.0% 10.0%",
    "soon": false
   },
   {
@@ -24480,5 +24480,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793754126297
+ "updatedAt": 1793754140519
 };

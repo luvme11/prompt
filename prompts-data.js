@@ -24632,7 +24632,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw2u451r",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, full body, gothic magical character, dynamic elegant pose, playful confident expression, long flowing hair, white magical outfit with [COLOR] as the dominant unified accent color, frilled dress, fitted bodice, lace trims, ribbons, jewelry, long lace-up boots, small angel wings, floating halo, highly ornate costume, sparkling gemstones, celestial decorations, floating crosses, stars, orbital rings, magic particles, 1.7::oversized magical artifact illustration in the bottom left corner::, 1.5::artifact nearly as large as the character's upper body::, 1.4::separate decorative artifact showcase::, randomly designed magical artifact, 1.4::simple elegant artifact design::, clean recognizable silhouette, smooth symmetrical shapes, minimal ornaments, single gemstone centerpiece, matching accent colors, delicate magical details, asymmetrical poster layout, 1.8::pure solid white background::, 1.6::flat uniform white backdrop::, isolated character and artifact, crisp facial details, luxurious, decorative,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793840149278
+ "updatedAt": 1793840160051
 };

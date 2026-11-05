@@ -24562,7 +24562,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw2tzdwj",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1boy, solo, male focus, 1.3::topless male, bare chest::, 1.5::muscular male, muscular, large pectorals, defined abs, broad shoulders, thick arms, veins::, 1.3::military pants, camouflage pants::, belt, 1.4::dog tags, necklace::, 1.4::pov::, 1.3::from below::, 1.4::looking down at viewer::, 1.3::expressionless, emotionless::, 1.4::pulling leash::, 1.3::holding leash, taut leash, leash extending toward viewer::, 1.2::arm extended toward viewer::, 1.1::cowboy shot::, dutch angle, 0.8::simple background::"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793839919466
+ "updatedAt": 1793839938235
 };

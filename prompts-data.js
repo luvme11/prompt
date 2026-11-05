@@ -24576,7 +24576,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw2u0jqd",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "1girl, solo, upper body, elegant dark magical girl theme, deep burgundy halter-neck dress with bare shoulders, black jeweled diamond-shaped decoration on the chest, long matching burgundy gloves, luxurious black feather boa draped around the shoulders, delicate black gothic tiara with a large eight-pointed star ornament, small dark earrings, facing forward in a graceful pose, huge faceted black crystal heart floating beside her, glossy obsidian gemstone with sharp geometric facets and bright reflections, pale icy-blue background, floating white feathers, translucent pastel bubbles, pink-purple sparkling stars and crescent-shaped magical light effects, glamorous gothic fantasy atmosphere, retro shoujo magical-girl anime style, no text."
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793839938235
+ "updatedAt": 1793839992858
 };

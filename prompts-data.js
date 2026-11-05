@@ -24601,8 +24601,8 @@ window.PROMPT_DATA = {
      "text": "1girl, solo, upper body, close-up composition, magical girl witch theme,\n\nmasterpiece, best quality, very aesthetic, retro magical girl anime, 1990s anime aesthetic, 2::close-up upper body shot::, 2::face and upper body filling the frame::, slight body tilt, dynamic three-quarter view, looking at viewer, 2::cute wink::, gentle smile, playful expression,\n\n2::holding a purple magic wand toward viewer::, 2::large yellow diamond-shaped gemstone::, gemstone as large as face, 2::extreme foreshortening::, one hand extending toward viewer, reaching out, open palm, inviting gesture, bright lemon yellow gemstone, creamy golden light, sparkling gemstone interior, star-shaped reflections, radiant golden glow, luminous magic particles,\n\n2::wide-brimmed witch hat::, purple and blue witch hat, 2::purple sleeveless magical girl outfit::, small V-neck, purple high-collared cape, raised cape collar, flowing cape,\n\ndreamy dark purple and navy night sky background, scattered tiny stars, shimmering particles, floating translucent pastel hearts, pastel blue hearts, pastel pink hearts, mint green hearts, lavender hearts, iridescent holographic hearts, rainbow reflections, sparkling magical aura,\n\n2::vibrant cel shading::, 2::bold clean lineart::, simple anime shadows, vivid colors, colorful magical effects, soft bloom, subtle VHS texture, vintage anime screenshot, slight analog softness, nostalgic anime aesthetic, dreamy lighting, adorable sparkling magical girl atmosphere"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw2u142g.jpg?v=1793840237004",
+   "pos": "57.1% 50.0%",
    "soon": false
   },
   {
@@ -24662,5 +24662,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793840167931
+ "updatedAt": 1793840238720
 };

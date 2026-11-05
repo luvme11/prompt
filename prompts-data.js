@@ -24604,7 +24604,21 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw2u3ocf",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "solo, 1person, full body, 1.5::curled-up sitting pose::, sitting with knees drawn close to the chest, elbows resting on knees, both hands gently cupping cheeks, wistful gaze, side view, eye-level, windblown hair, 1.4::visible white breath::, soft breath in cold air, 1.5::gender-neutral vintage winter clothing::, oversized retro wool coat, loose layered knitwear, vintage cardigan, soft knitted scarf, 1.5::intricate knitted bonnet tied beneath the chin::, crochet headscarf, 1.4::fluffy suede ugg boots::, cozy winter styling, simple blank background, no scenery"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793840119638
+ "updatedAt": 1793840138273
 };

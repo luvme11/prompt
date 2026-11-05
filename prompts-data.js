@@ -24657,10 +24657,10 @@ window.PROMPT_DATA = {
      "text": "masterpiece, best quality, amazing quality, very aesthetic,\nyear 2025, high-detail anime illustration,\nbold rough linework, rich painterly shading,\n\n1.8::luxurious chrome Y2K fashion editorial collage::,\n1.8::one large beautiful full-proportion anime character::,\n1.9::face prominently visible, elegant waist-up portrait::,\ndynamic high-angle three-quarter composition,\nlooking upward toward viewer,\none hand resting near lips,\nother hand holding a tiny metallic handbag,\n1.5::seductive half-lidded sideways gaze, subtle knowing smile::,\nbeautiful detailed eyes, refined facial features,\n\n1.5::two detailed miniature chibi versions of the same character::,\none chibi posing confidently with sunglasses,\none chibi holding a tiny mirror and admiring reflection,\nlarge expressive chibi faces, matching character design,\n\nchrome butterflies, metallic silver hearts,\npurple holographic CDs, mirrored disco balls,\nrhinestone chains, star-shaped sunglasses,\nminiature perfume bottles, silver compact mirrors,\nglittery stickers, ornate metallic frames,\nshattered holographic fragments, satin ribbons,\nlayered fashion magazine cutouts,\ndeep ultraviolet purple, black and chrome silver palette,\nvivid saturated colors, dramatic editorial lighting,\ndense glamorous Y2K composition,\nno text, no typography"
     }
    ],
-   "img": "",
+   "img": "img/comp/mw2u4b8e.jpg?v=1793840358190",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793840347452
+ "updatedAt": 1793840359407
 };

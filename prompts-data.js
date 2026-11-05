@@ -24545,8 +24545,8 @@ window.PROMPT_DATA = {
      "text": "2::hug from behind::, 2::hand over other's eyes, glowing eyes, 2::chin on shoulder::, 2::whispering in ear::, 2::blushing::, 2::pastel purple, starry sky ,floating petals::, soft glow, dreamy, depth of field, upper body"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw2tyvgn.jpg?v=1793840049661",
+   "pos": "50.0% 14.0%",
    "soon": false
   },
   {
@@ -24606,5 +24606,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793840019225
+ "updatedAt": 1793840050881
 };

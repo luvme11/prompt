@@ -24629,8 +24629,8 @@ window.PROMPT_DATA = {
      "text": "solo, 1person, 1.4::standing or sitting::, upright posture, 1.4::aiming a cute kitschy toy gun::, varied composition, natural dynamic body language, sweet dark kitsch aesthetic, pastel pink and lavender devil-themed toy gun, chunky toy revolver design, glossy plastic texture, heart-shaped details, tiny bat wings attached to the gun, striped horn decorations, dangling chibi bat charm, cute but slightly sinister mood, mischievous expression, playful gaze, glossy eyes, 1.3::gender-neutral outfit::, oversized hoodie layered with a loose jacket, relaxed unisex streetwear, plaid accents, baggy clothing, loose pants, chunky sneakers, cute patches, pins, layered accessories, rings, choker, sweet dark pastel fashion, 1.4::kitsch background::, dreamy pastel purple and pink background, floating bat silhouettes, heart-shaped smoke puffs, glitter, ribbons, candy motifs, decorative stars, cute gothic stickers, dreamy patterned backdrop, retro pop atmosphere, adorable and stylish"
     }
    ],
-   "img": "",
-   "pos": "50% 50%",
+   "img": "img/comp/mw2u3wui.jpg?v=1793840292864",
+   "pos": "50.0% 18.0%",
    "soon": false
   },
   {
@@ -24662,5 +24662,5 @@ window.PROMPT_DATA = {
    "soon": false
   }
  ],
- "updatedAt": 1793840280801
+ "updatedAt": 1793840294420
 };

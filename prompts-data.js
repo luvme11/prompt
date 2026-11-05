@@ -24693,10 +24693,10 @@ window.PROMPT_DATA = {
      "text": "1girl, 1.3::fitted qipao, dark blue with white floral pattern, high mandarin collar, cap sleeves::, pearl earrings, sitting, holding vintage telephone receiver to ear with right hand, left hand resting on table edge, body turned slightly toward left, looking away to the left, melancholic expression, lips closed"
     }
    ],
-   "img": "",
+   "img": "img/comp/mw2ub6ld.jpg?v=1793840736061",
    "pos": "50% 50%",
    "soon": false
   }
  ],
- "updatedAt": 1793840524936
+ "updatedAt": 1793840737301
 };

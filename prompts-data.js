@@ -24534,7 +24534,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw1f4n77.jpg?v=1793754645422",
    "pos": "50.0% 10.0%",
    "soon": false
+  },
+  {
+   "id": "mw2tyvgn",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "의상 X",
+     "text": "2::hug from behind::, 2::hand over other's eyes, glowing eyes, 2::chin on shoulder::, 2::whispering in ear::, 2::blushing::, 2::pastel purple, starry sky ,floating petals::, soft glow, dreamy, depth of field, upper body"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793754646680
+ "updatedAt": 1793839914345
 };

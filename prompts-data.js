@@ -24660,7 +24660,21 @@ window.PROMPT_DATA = {
    "img": "img/comp/mw2u4b8e.jpg?v=1793840358190",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw2ual2m",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "",
+     "text": "2 characters, upper body, centered position, white background, simple background, princess carry, bridal carry, close physical proximity, intimate pose, cute interaction, soft atmosphere\n\nA, wrapped in a blanket, tightly wrapped in a soft blanket from the chest down to the legs, bare shoulders exposed, both shoulders visible outside the blanket, bare upper shoulders, kiss marks on neck, bitten marks on neck and shoulder, blanket wrapped snugly around the torso and lower body, only shoulders and a small part of the legs exposed, no clothes, shy expression, blushing, embarrassed expression, being carried in a princess carry\n\nB, shirtless, bare upper body, gray sweatpants, carrying A in a princess carry, holding A securely in both arms, leaning his head toward A, 1.5::kissing A on the cheek::, affectionate expression, gentle smile,"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793840359407
+ "updatedAt": 1793840461295
 };

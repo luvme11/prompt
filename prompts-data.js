@@ -24674,7 +24674,29 @@ window.PROMPT_DATA = {
    "img": "",
    "pos": "50% 50%",
    "soon": false
+  },
+  {
+   "id": "mw2ub6ld",
+   "tab": "comp",
+   "name": "",
+   "codes": [
+    {
+     "label": "메인",
+     "text": "1.4::waist up, front view, eye level, one woman on left side of frame and one man on right side of frame sitting side by side on the same vintage sofa, both faces clearly visible, close framing::, 1.2::low wooden coffee table along bottom edge of frame, rotary telephone on table::, 1.2::woman looking away, man looking at the woman::, cinematic still, 1960s Hong Kong apartment interior, night, patterned wallpaper, wooden side table with lamp, rotary telephone cord running from table to her hand, cigarette smoke drifting in lamp light, 1.3::deep red and warm amber lamp light, dark green shadows::, dust motes in the light, shallow depth of field, film grain, quiet lonely tension, small gap between them"
+    },
+    {
+     "label": "남자",
+     "text": "1boy, 1.3::white short-sleeved shirt, narrow tie, wristwatch::, sitting, leaning back slightly, smoking, lit cigarette between fingers of right hand raised near lips, left hand resting on sofa armrest, head turned toward the woman on the left, looking at the woman, quiet longing expression"
+    },
+    {
+     "label": "여자",
+     "text": "1girl, 1.3::fitted qipao, dark blue with white floral pattern, high mandarin collar, cap sleeves::, pearl earrings, sitting, holding vintage telephone receiver to ear with right hand, left hand resting on table edge, body turned slightly toward left, looking away to the left, melancholic expression, lips closed"
+    }
+   ],
+   "img": "",
+   "pos": "50% 50%",
+   "soon": false
   }
  ],
- "updatedAt": 1793840461295
+ "updatedAt": 1793840488846
 };
